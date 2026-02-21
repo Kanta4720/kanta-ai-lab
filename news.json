@@ -1,12 +1,107 @@
 {
-  "generated_at_jst": "2026-02-21 11:00",
-  "items": [
+  "generated_at_jst": "2026-02-21 12:00",
+  "todays_brief": [
     {
-      "source": "Reuters Business",
+      "title": "Global Tech Stocks Rally on AI Chip Breakthrough",
+      "summary_2lines": "A major semiconductor firm announced a new AI chip, promising a 10x performance leap. The news sent tech stocks soaring globally.",
+      "why_it_matters": "This breakthrough could accelerate AI adoption across all industries, marking a significant milestone in computational power.",
+      "market_impact": "Chip manufacturer stocks surged over 15%. The ripple effect is expected to boost the entire tech sector and related ETFs.",
+      "category": "Tech",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/example-tech"
+    },
+    {
+      "title": "Central Banks Hint at Policy Shift Amid Inflation Fears",
+      "summary_2lines": "Major central banks are signaling a potential shift in monetary policy as inflation concerns grow. Interest rate hikes may be on the horizon sooner than expected.",
+      "why_it_matters": "For years, low interest rates have fueled economic growth and stock market rallies. A policy reversal could significantly alter the global financial landscape.",
+      "market_impact": "Bond yields have risen sharply, and growth stocks have seen a sell-off. Investors are rotating into value and cyclical sectors.",
       "category": "Markets",
-      "title": "Sample headline",
-      "summary": "This is a sample summary from RSS description.",
-      "url": "https://www.reuters.com/"
+      "source": "Financial Times",
+      "url": "https://www.ft.com/example-markets"
+    },
+    {
+      "title": "Geopolitical Tensions Rise in Eastern Europe",
+      "summary_2lines": "Renewed tensions in Eastern Europe are causing uncertainty in global energy markets. Diplomatic talks have stalled, raising fears of a wider conflict.",
+      "why_it_matters": "The region is a critical corridor for energy supplies to Europe. Any disruption could lead to a severe energy crisis and has broad geopolitical implications.",
+      "market_impact": "Oil and natural gas prices have spiked. European equities are down, and the dollar has strengthened as investors seek safe-haven assets.",
+      "category": "Geopolitics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/example-geopolitics"
+    },
+    {
+      "title": "Supply Chain Disruptions Continue to Plague Automakers",
+      "summary_2lines": "A persistent shortage of key components is forcing major automakers to halt production lines again. The issue is now expected to last well into the next year.",
+      "why_it_matters": "The automotive industry is a major economic driver. These disruptions not only affect corporate profits but also have a significant impact on employment and consumer prices.",
+      "market_impact": "Shares of major automakers have fallen. The price of used cars has skyrocketed, contributing to overall inflation.",
+      "category": "Economy",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/example-economy"
+    },
+    {
+      "title": "The Future of Remote Work: A Permanent Shift?",
+      "summary_2lines": "Major corporations are announcing permanent remote or hybrid work policies, signaling a fundamental shift in the nature of work. This is forcing a rethink of commercial real estate and urban planning.",
+      "why_it_matters": "This trend could reshape economies, from the value of downtown office buildings to the demographics of suburban and rural areas. It represents one of the most significant social and economic changes post-pandemic.",
+      "market_impact": "Commercial real estate investment trusts (REITs) are under pressure. Companies specializing in remote work technologies are seeing sustained growth.",
+      "category": "Corporate",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/business/example-corporate"
     }
-  ]
+  ],
+  "categories": {
+    "Tech": [
+      {
+        "title": "Global Tech Stocks Rally on AI Chip Breakthrough",
+        "summary_2lines": "A major semiconductor firm announced a new AI chip, promising a 10x performance leap. The news sent tech stocks soaring globally.",
+        "why_it_matters": "This breakthrough could accelerate AI adoption across all industries, marking a significant milestone in computational power.",
+        "market_impact": "Chip manufacturer stocks surged over 15%. The ripple effect is expected to boost the entire tech sector and related ETFs.",
+        "category": "Tech",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/example-tech"
+      }
+    ],
+    "Markets": [
+       {
+        "title": "Central Banks Hint at Policy Shift Amid Inflation Fears",
+        "summary_2lines": "Major central banks are signaling a potential shift in monetary policy as inflation concerns grow. Interest rate hikes may be on the horizon sooner than expected.",
+        "why_it_matters": "For years, low interest rates have fueled economic growth and stock market rallies. A policy reversal could significantly alter the global financial landscape.",
+        "market_impact": "Bond yields have risen sharply, and growth stocks have seen a sell-off. Investors are rotating into value and cyclical sectors.",
+        "category": "Markets",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/example-markets"
+      }
+    ],
+    "Geopolitics": [
+      {
+        "title": "Geopolitical Tensions Rise in Eastern Europe",
+        "summary_2lines": "Renewed tensions in Eastern Europe are causing uncertainty in global energy markets. Diplomatic talks have stalled, raising fears of a wider conflict.",
+        "why_it_matters": "The region is a critical corridor for energy supplies to Europe. Any disruption could lead to a severe energy crisis and has broad geopolitical implications.",
+        "market_impact": "Oil and natural gas prices have spiked. European equities are down, and the dollar has strengthened as investors seek safe-haven assets.",
+        "category": "Geopolitics",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/example-geopolitics"
+      }
+    ],
+    "Economy": [
+      {
+        "title": "Supply Chain Disruptions Continue to Plague Automakers",
+        "summary_2lines": "A persistent shortage of key components is forcing major automakers to halt production lines again. The issue is now expected to last well into the next year.",
+        "why_it_matters": "The automotive industry is a major economic driver. These disruptions not only affect corporate profits but also have a significant impact on employment and consumer prices.",
+        "market_impact": "Shares of major automakers have fallen. The price of used cars has skyrocketed, contributing to overall inflation.",
+        "category": "Economy",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/example-economy"
+      }
+    ],
+    "Corporate": [
+      {
+        "title": "The Future of Remote Work: A Permanent Shift?",
+        "summary_2lines": "Major corporations are announcing permanent remote or hybrid work policies, signaling a fundamental shift in the nature of work. This is forcing a rethink of commercial real estate and urban planning.",
+        "why_it_matters": "This trend could reshape economies, from the value of downtown office buildings to the demographics of suburban and rural areas. It represents one of the most significant social and economic changes post-pandemic.",
+        "market_impact": "Commercial real estate investment trusts (REITs) are under pressure. Companies specializing in remote work technologies are seeing sustained growth.",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/business/example-corporate"
+      }
+    ]
+  }
 }

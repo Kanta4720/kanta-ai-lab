@@ -1,60 +1,876 @@
-<!doctype html>
-<html lang="ja">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title>Kanta Daily Global Business Brief</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kanta Daily Brief</title>
+  <meta name="description" content="Your AI-powered global business news brief. Understand the world in 3 minutes.">
   <style>
-    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,"Noto Sans JP",sans-serif;max-width:980px;margin:24px auto;padding:0 16px;line-height:1.5}
-    header{display:flex;justify-content:space-between;gap:12px;align-items:baseline;flex-wrap:wrap}
-    h1{font-size:22px;margin:0}
-    .meta{color:#666;font-size:13px}
-    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin-top:16px}
-    .card{border:1px solid #e6e6e6;border-radius:12px;padding:12px;background:#fff}
-    .src{font-size:12px;color:#666;margin-bottom:6px}
-    a{color:#0b57d0;text-decoration:none}
-    a:hover{text-decoration:underline}
-    .desc{font-size:13px;color:#222;margin-top:8px}
-    .foot{margin-top:18px;color:#666;font-size:12px}
-    .tag{display:inline-block;font-size:11px;padding:2px 8px;border:1px solid #eee;border-radius:999px;color:#555;margin-left:6px}
+    /* ===== CSS Variables & Reset ===== */
+    :root {
+      --bg-primary: #f8f7f4;
+      --bg-secondary: #ffffff;
+      --bg-card: #ffffff;
+      --text-primary: #1a1a1a;
+      --text-secondary: #5a5a5a;
+      --text-muted: #9a9a9a;
+      --accent: #c8a96e;
+      --accent-dark: #a88a50;
+      --border: #e8e6e1;
+      --border-light: #f0ede8;
+      --tag-tech-bg: #e8f4fd; --tag-tech-text: #1a6fa8;
+      --tag-markets-bg: #e8f7ef; --tag-markets-text: #1a7a45;
+      --tag-geopolitics-bg: #fdf0e8; --tag-geopolitics-text: #a84a1a;
+      --tag-economy-bg: #f0e8fd; --tag-economy-text: #6a1aa8;
+      --tag-corporate-bg: #fdf8e8; --tag-corporate-text: #a87a1a;
+      --tag-business-bg: #e8f4fd; --tag-business-text: #1a6fa8;
+      --shadow-sm: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+      --shadow-md: 0 4px 12px rgba(0,0,0,0.08), 0 2px 4px rgba(0,0,0,0.04);
+      --radius-sm: 6px;
+      --radius-md: 12px;
+      --radius-lg: 16px;
+      --font-serif: 'Georgia', 'Times New Roman', serif;
+      --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      --transition: all 0.2s ease;
+    }
+
+    [data-theme="dark"] {
+      --bg-primary: #0f0f0f;
+      --bg-secondary: #1a1a1a;
+      --bg-card: #1e1e1e;
+      --text-primary: #f0ede8;
+      --text-secondary: #a0a0a0;
+      --text-muted: #606060;
+      --accent: #c8a96e;
+      --accent-dark: #e0c080;
+      --border: #2a2a2a;
+      --border-light: #252525;
+      --tag-tech-bg: #0d2a3d; --tag-tech-text: #7ac0e8;
+      --tag-markets-bg: #0d2d1a; --tag-markets-text: #7ae0a0;
+      --tag-geopolitics-bg: #2d1a0d; --tag-geopolitics-text: #e8a070;
+      --tag-economy-bg: #1a0d2d; --tag-economy-text: #c070e8;
+      --tag-corporate-bg: #2d250d; --tag-corporate-text: #e8c070;
+      --tag-business-bg: #0d2a3d; --tag-business-text: #7ac0e8;
+      --shadow-sm: 0 1px 3px rgba(0,0,0,0.3);
+      --shadow-md: 0 4px 12px rgba(0,0,0,0.4);
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: var(--font-sans);
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.6;
+      transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+    a { color: inherit; text-decoration: none; }
+
+    /* ===== Layout ===== */
+    .container { max-width: 1100px; margin: 0 auto; padding: 0 20px; }
+
+    /* ===== Header ===== */
+    header {
+      background-color: var(--bg-secondary);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      transition: background-color 0.3s ease;
+    }
+
+    .header-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 14px 20px;
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    .logo-title {
+      font-family: var(--font-serif);
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      color: var(--text-primary);
+    }
+
+    .logo-subtitle {
+      font-size: 11px;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      margin-top: 2px;
+    }
+
+    .header-right {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .update-time {
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    .theme-toggle {
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      padding: 6px 12px;
+      cursor: pointer;
+      font-size: 13px;
+      color: var(--text-secondary);
+      transition: var(--transition);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .theme-toggle:hover {
+      background-color: var(--border-light);
+      color: var(--text-primary);
+    }
+
+    /* ===== Hero ===== */
+    .hero {
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+      padding: 48px 20px;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+
+    [data-theme="dark"] .hero {
+      background: linear-gradient(135deg, #0a0a1a 0%, #0d1020 50%, #0a1a30 100%);
+    }
+
+    .hero::before {
+      content: '';
+      position: absolute;
+      top: -50%; left: -50%;
+      width: 200%; height: 200%;
+      background: radial-gradient(circle, rgba(200,169,110,0.07) 0%, transparent 60%);
+      animation: pulse 8s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 0.5; }
+      50% { transform: scale(1.1); opacity: 1; }
+    }
+
+    .hero-date {
+      font-size: 11px;
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      margin-bottom: 14px;
+    }
+
+    .hero-title {
+      font-family: var(--font-serif);
+      font-size: clamp(26px, 5vw, 40px);
+      font-weight: 700;
+      color: #ffffff;
+      line-height: 1.2;
+      margin-bottom: 12px;
+    }
+
+    .hero-desc {
+      font-size: 14px;
+      color: rgba(255,255,255,0.55);
+      max-width: 480px;
+      margin: 0 auto;
+    }
+
+    /* ===== Section Headers ===== */
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 24px;
+    }
+
+    .section-title {
+      font-family: var(--font-serif);
+      font-size: 21px;
+      font-weight: 700;
+      color: var(--text-primary);
+      white-space: nowrap;
+    }
+
+    .section-badge {
+      background-color: var(--accent);
+      color: #ffffff;
+      font-size: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      padding: 3px 8px;
+      border-radius: var(--radius-sm);
+      white-space: nowrap;
+    }
+
+    .section-divider {
+      flex: 1;
+      height: 1px;
+      background-color: var(--border);
+    }
+
+    /* ===== Today's Brief ===== */
+    .brief-section { padding: 48px 0 40px; }
+
+    .brief-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .brief-card {
+      background-color: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 24px;
+      transition: var(--transition);
+      box-shadow: var(--shadow-sm);
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .brief-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--accent), var(--accent-dark));
+      opacity: 0;
+      transition: var(--transition);
+    }
+
+    .brief-card:hover {
+      box-shadow: var(--shadow-md);
+      border-color: rgba(200,169,110,0.4);
+      transform: translateY(-2px);
+    }
+
+    .brief-card:hover::before { opacity: 1; }
+
+    .brief-card.featured {
+      grid-column: 1 / -1;
+      flex-direction: row;
+      align-items: flex-start;
+      gap: 24px;
+    }
+
+    .brief-card.featured .card-number {
+      font-size: 48px;
+      min-width: 64px;
+    }
+
+    .brief-card.featured .card-title { font-size: 20px; }
+
+    .card-number {
+      font-family: var(--font-serif);
+      font-size: 30px;
+      font-weight: 700;
+      color: var(--accent);
+      line-height: 1;
+    }
+
+    .card-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .card-source {
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .card-tag {
+      font-size: 10px;
+      font-weight: 600;
+      padding: 2px 8px;
+      border-radius: 999px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .tag-Tech    { background-color: var(--tag-tech-bg);        color: var(--tag-tech-text); }
+    .tag-Markets { background-color: var(--tag-markets-bg);     color: var(--tag-markets-text); }
+    .tag-Geopolitics { background-color: var(--tag-geopolitics-bg); color: var(--tag-geopolitics-text); }
+    .tag-Economy { background-color: var(--tag-economy-bg);     color: var(--tag-economy-text); }
+    .tag-Corporate { background-color: var(--tag-corporate-bg); color: var(--tag-corporate-text); }
+    .tag-Business { background-color: var(--tag-business-bg);   color: var(--tag-business-text); }
+
+    .card-title {
+      font-family: var(--font-serif);
+      font-size: 16px;
+      font-weight: 700;
+      line-height: 1.4;
+      color: var(--text-primary);
+    }
+
+    .card-summary {
+      font-size: 13px;
+      color: var(--text-secondary);
+      line-height: 1.65;
+    }
+
+    .card-insights {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      padding-top: 10px;
+      border-top: 1px solid var(--border-light);
+    }
+
+    .insight-row {
+      display: flex;
+      gap: 10px;
+      align-items: flex-start;
+    }
+
+    .insight-label {
+      font-size: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: var(--accent);
+      min-width: 82px;
+      padding-top: 2px;
+      flex-shrink: 0;
+    }
+
+    .insight-text {
+      font-size: 12px;
+      color: var(--text-secondary);
+      line-height: 1.55;
+    }
+
+    .card-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--accent);
+      margin-top: auto;
+      transition: var(--transition);
+    }
+
+    .card-link:hover { color: var(--accent-dark); gap: 7px; }
+
+    /* ===== Category Filter ===== */
+    .categories-section {
+      padding: 40px 0;
+      border-top: 1px solid var(--border);
+    }
+
+    .filter-bar {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 28px;
+    }
+
+    .filter-btn {
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 7px 16px;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: var(--transition);
+    }
+
+    .filter-btn:hover { border-color: var(--accent); color: var(--accent); }
+    .filter-btn.active { background-color: var(--accent); border-color: var(--accent); color: #ffffff; }
+
+    /* ===== News Grid ===== */
+    .news-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 16px;
+    }
+
+    .news-card {
+      background-color: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 20px;
+      transition: var(--transition);
+      box-shadow: var(--shadow-sm);
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .news-card:hover {
+      box-shadow: var(--shadow-md);
+      transform: translateY(-1px);
+    }
+
+    .news-card-details {
+      display: none;
+      flex-direction: column;
+      gap: 8px;
+      padding-top: 10px;
+      border-top: 1px solid var(--border-light);
+      animation: fadeIn 0.2s ease;
+    }
+
+    .news-card-details.open { display: flex; }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(-4px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .expand-btn {
+      background: none;
+      border: none;
+      padding: 0;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--text-muted);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      transition: var(--transition);
+    }
+
+    .expand-btn:hover { color: var(--accent); }
+
+    .expand-icon {
+      display: inline-block;
+      transition: transform 0.2s ease;
+      font-style: normal;
+    }
+
+    .expand-btn.open .expand-icon { transform: rotate(180deg); }
+
+    /* ===== Loading / Empty / Error ===== */
+    .loading-overlay {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 80px 20px;
+      gap: 16px;
+    }
+
+    .spinner {
+      width: 36px; height: 36px;
+      border: 3px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .loading-text { font-size: 14px; color: var(--text-muted); }
+
+    .empty-state {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--text-muted);
+    }
+
+    .empty-icon { font-size: 40px; margin-bottom: 12px; }
+    .empty-text { font-size: 14px; }
+
+    .error-banner {
+      background-color: #fff3cd;
+      border: 1px solid #ffc107;
+      border-radius: var(--radius-md);
+      padding: 16px 20px;
+      margin: 24px 0;
+      font-size: 14px;
+      color: #856404;
+    }
+
+    [data-theme="dark"] .error-banner {
+      background-color: #2a2000;
+      border-color: #665000;
+      color: #ffc107;
+    }
+
+    /* ===== Footer ===== */
+    footer {
+      background-color: var(--bg-secondary);
+      border-top: 1px solid var(--border);
+      padding: 32px 20px;
+      margin-top: 60px;
+    }
+
+    .footer-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    .footer-brand {
+      font-family: var(--font-serif);
+      font-size: 16px;
+      font-weight: 700;
+      color: var(--text-primary);
+    }
+
+    .footer-meta { font-size: 12px; color: var(--text-muted); margin-top: 4px; }
+
+    .footer-sources { display: flex; gap: 8px; flex-wrap: wrap; }
+
+    .footer-source {
+      font-size: 11px;
+      color: var(--text-muted);
+      padding: 3px 8px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+    }
+
+    /* ===== Responsive ===== */
+    @media (max-width: 768px) {
+      .brief-grid { grid-template-columns: 1fr; }
+
+      .brief-card.featured {
+        flex-direction: column;
+        gap: 12px;
+      }
+
+      .brief-card.featured .card-number {
+        font-size: 32px;
+        min-width: auto;
+      }
+
+      .brief-card.featured .card-title { font-size: 17px; }
+
+      .header-inner { padding: 12px 16px; }
+      .logo-title { font-size: 17px; }
+      .update-time { display: none; }
+      .hero { padding: 36px 16px; }
+      .footer-inner { flex-direction: column; align-items: flex-start; }
+    }
+
+    @media (max-width: 480px) {
+      .news-grid { grid-template-columns: 1fr; }
+      .filter-btn { padding: 6px 12px; font-size: 12px; }
+    }
   </style>
 </head>
 <body>
+
+  <!-- Header -->
   <header>
-    <h1>🌍 Kanta Daily Global Business Brief</h1>
-    <div class="meta" id="asof">Loading…</div>
+    <div class="header-inner">
+      <div>
+        <div class="logo-title">Kanta Daily Brief</div>
+        <div class="logo-subtitle">AI-Powered Global Business Intelligence</div>
+      </div>
+      <div class="header-right">
+        <span class="update-time" id="update-time">Loading...</span>
+        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
+          <span id="theme-icon">&#9790;</span>
+          <span id="theme-label">Dark</span>
+        </button>
+      </div>
+    </div>
   </header>
 
-  <div class="grid" id="list"></div>
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-date" id="hero-date">Loading...</div>
+    <h1 class="hero-title">Your World in 3 Minutes</h1>
+    <p class="hero-desc">AI-curated global business intelligence, delivered every morning.</p>
+  </section>
 
-  <div class="foot">
-   
-  </div>
+  <!-- Main -->
+  <main>
+    <div class="container">
 
-<script>
-async function main(){
-  const res = await fetch('./news.json', {cache:'no-store'});
-  const data = await res.json();
+      <!-- Today's Brief -->
+      <section class="brief-section">
+        <div class="section-header">
+          <h2 class="section-title">Today's Brief</h2>
+          <span class="section-badge">Top 5</span>
+          <div class="section-divider"></div>
+        </div>
+        <div id="brief-container">
+          <div class="loading-overlay">
+            <div class="spinner"></div>
+            <p class="loading-text">Loading today's brief...</p>
+          </div>
+        </div>
+      </section>
 
-  document.getElementById('asof').textContent =
-    `Updated: ${data.generated_at_jst} (JST) / Items: ${data.items.length}`;
+      <!-- All Stories -->
+      <section class="categories-section">
+        <div class="section-header">
+          <h2 class="section-title">All Stories</h2>
+          <div class="section-divider"></div>
+        </div>
+        <div class="filter-bar" id="filter-bar">
+          <button class="filter-btn active" data-category="all">All</button>
+        </div>
+        <div id="news-container">
+          <div class="loading-overlay">
+            <div class="spinner"></div>
+            <p class="loading-text">Loading stories...</p>
+          </div>
+        </div>
+      </section>
 
-  const list = document.getElementById('list');
-  list.innerHTML = data.items.map(it => `
-    <div class="card">
-      <div class="src">${escapeHtml(it.source)} <span class="tag">${escapeHtml(it.category)}</span></div>
-      <div><a href="${it.url}" target="_blank" rel="noopener noreferrer">${escapeHtml(it.title)}</a></div>
-      <div class="desc">${escapeHtml(it.summary || "")}</div>
     </div>
-  `).join('');
-}
-function escapeHtml(s){
-  return (s ?? "").replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-}
-main().catch(e=>{
-  document.getElementById('asof').textContent = "Failed to load news.json";
-  console.error(e);
-});
-</script>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-inner">
+      <div>
+        <div class="footer-brand">Kanta Daily Brief</div>
+        <div class="footer-meta">Powered by AI &mdash; Updated daily at 07:00 JST</div>
+      </div>
+      <div class="footer-sources">
+        <span class="footer-source">Reuters</span>
+        <span class="footer-source">BBC Business</span>
+        <span class="footer-source">CNBC</span>
+        <span class="footer-source">The Economist</span>
+        <span class="footer-source">AP</span>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    /* ===== Utilities ===== */
+    function esc(s) {
+      return (s ?? '').replace(/[&<>"']/g, c =>
+        ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c])
+      );
+    }
+
+    function formatDate(str) {
+      if (!str) return '';
+      const d = new Date(str.replace(' ', 'T') + '+09:00');
+      if (isNaN(d)) return str;
+      return d.toLocaleDateString('en-US', {
+        weekday: 'long', year: 'numeric', month: 'long', day: 'numeric',
+        timeZone: 'Asia/Tokyo'
+      });
+    }
+
+    function tagClass(cat) {
+      const map = { Tech: 'tag-Tech', Markets: 'tag-Markets', Geopolitics: 'tag-Geopolitics',
+                    Economy: 'tag-Economy', Corporate: 'tag-Corporate', Business: 'tag-Business' };
+      return map[cat] || 'tag-Business';
+    }
+
+    /* ===== Dark Mode ===== */
+    const toggle = document.getElementById('theme-toggle');
+    const tIcon  = document.getElementById('theme-icon');
+    const tLabel = document.getElementById('theme-label');
+
+    function applyTheme(dark) {
+      document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+      tIcon.innerHTML  = dark ? '&#9728;' : '&#9790;';
+      tLabel.textContent = dark ? 'Light' : 'Dark';
+      localStorage.setItem('theme', dark ? 'dark' : 'light');
+    }
+
+    const saved = localStorage.getItem('theme');
+    const sysDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    applyTheme(saved === 'dark' || (!saved && sysDark));
+
+    toggle.addEventListener('click', () => {
+      applyTheme(document.documentElement.getAttribute('data-theme') !== 'dark');
+    });
+
+    /* ===== Render: Brief Card ===== */
+    function briefCard(article, idx) {
+      const featured = idx === 0;
+      const num = String(idx + 1).padStart(2, '0');
+      const tc  = tagClass(article.category);
+
+      const insights = `
+        <div class="card-insights">
+          ${article.why_it_matters ? `
+            <div class="insight-row">
+              <span class="insight-label">Why it matters</span>
+              <span class="insight-text">${esc(article.why_it_matters)}</span>
+            </div>` : ''}
+          ${article.market_impact ? `
+            <div class="insight-row">
+              <span class="insight-label">Market impact</span>
+              <span class="insight-text">${esc(article.market_impact)}</span>
+            </div>` : ''}
+        </div>`;
+
+      const body = `
+        <div class="card-meta">
+          <span class="card-source">${esc(article.source)}</span>
+          <span class="card-tag ${tc}">${esc(article.category)}</span>
+        </div>
+        <h3 class="card-title">${esc(article.title)}</h3>
+        <p class="card-summary">${esc(article.summary_2lines || article.summary || '')}</p>
+        ${insights}
+        <a href="${esc(article.url)}" target="_blank" rel="noopener noreferrer" class="card-link">
+          Read full story &rarr;
+        </a>`;
+
+      if (featured) {
+        return `<div class="brief-card featured">
+          <div class="card-number">${num}</div>
+          <div style="flex:1;display:flex;flex-direction:column;gap:12px;">${body}</div>
+        </div>`;
+      }
+      return `<div class="brief-card">
+        <div class="card-number">${num}</div>
+        ${body}
+      </div>`;
+    }
+
+    /* ===== Render: News Card ===== */
+    function newsCard(article) {
+      const tc = tagClass(article.category);
+      const id = 'nc-' + Math.random().toString(36).slice(2, 9);
+      const hasDetails = article.why_it_matters || article.market_impact;
+
+      return `
+        <div class="news-card" data-category="${esc(article.category)}">
+          <div class="card-meta">
+            <span class="card-source">${esc(article.source)}</span>
+            <span class="card-tag ${tc}">${esc(article.category)}</span>
+          </div>
+          <h3 class="card-title" style="font-size:15px;">${esc(article.title)}</h3>
+          <p class="card-summary">${esc(article.summary_2lines || article.summary || '')}</p>
+          ${hasDetails ? `
+            <div class="news-card-details" id="${id}">
+              ${article.why_it_matters ? `
+                <div class="insight-row">
+                  <span class="insight-label">Why it matters</span>
+                  <span class="insight-text">${esc(article.why_it_matters)}</span>
+                </div>` : ''}
+              ${article.market_impact ? `
+                <div class="insight-row">
+                  <span class="insight-label">Market impact</span>
+                  <span class="insight-text">${esc(article.market_impact)}</span>
+                </div>` : ''}
+            </div>
+            <button class="expand-btn" onclick="toggleCard(this,'${id}')">
+              Analysis <span class="expand-icon">&#9660;</span>
+            </button>` : ''}
+          <a href="${esc(article.url)}" target="_blank" rel="noopener noreferrer" class="card-link">
+            Read full story &rarr;
+          </a>
+        </div>`;
+    }
+
+    function toggleCard(btn, id) {
+      const el = document.getElementById(id);
+      if (!el) return;
+      const open = el.classList.toggle('open');
+      btn.classList.toggle('open', open);
+    }
+
+    /* ===== Filter ===== */
+    let allArticles = [];
+
+    function renderFiltered(cat) {
+      const container = document.getElementById('news-container');
+      const list = cat === 'all' ? allArticles : allArticles.filter(a => a.category === cat);
+      if (!list.length) {
+        container.innerHTML = `<div class="empty-state">
+          <div class="empty-icon">&#128240;</div>
+          <p class="empty-text">No stories in this category today.</p>
+        </div>`;
+        return;
+      }
+      container.innerHTML = `<div class="news-grid">${list.map(newsCard).join('')}</div>`;
+    }
+
+    function buildFilters(cats) {
+      const bar = document.getElementById('filter-bar');
+      bar.innerHTML = ['all', ...cats].map(c =>
+        `<button class="filter-btn${c === 'all' ? ' active' : ''}" data-category="${esc(c)}">
+          ${c === 'all' ? 'All' : esc(c)}
+        </button>`
+      ).join('');
+      bar.querySelectorAll('.filter-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          bar.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          renderFiltered(btn.dataset.category);
+        });
+      });
+    }
+
+    /* ===== Main Loader ===== */
+    async function loadNews() {
+      try {
+        const res = await fetch('./news.json', { cache: 'no-store' });
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        const data = await res.json();
+
+        document.getElementById('update-time').textContent = 'Updated: ' + data.generated_at_jst + ' JST';
+        document.getElementById('hero-date').textContent = formatDate(data.generated_at_jst);
+
+        /* ---- Brief ---- */
+        const briefEl = document.getElementById('brief-container');
+        const brief = data.todays_brief || [];
+        if (brief.length) {
+          briefEl.innerHTML = `<div class="brief-grid">${brief.map(briefCard).join('')}</div>`;
+        } else {
+          briefEl.innerHTML = `<div class="empty-state">
+            <div class="empty-icon">&#128240;</div>
+            <p class="empty-text">No brief available yet. Check back after 07:00 JST.</p>
+          </div>`;
+        }
+
+        /* ---- All Stories ---- */
+        if (data.categories) {
+          const cats = Object.keys(data.categories);
+          cats.forEach(cat => {
+            (data.categories[cat] || []).forEach(a => allArticles.push({ ...a, category: a.category || cat }));
+          });
+          buildFilters(cats.filter(c => (data.categories[c] || []).length > 0));
+        } else if (data.items) {
+          // backward compatibility
+          allArticles = data.items.map(it => ({ ...it, summary_2lines: it.summary || '' }));
+          const cats = [...new Set(allArticles.map(a => a.category).filter(Boolean))];
+          buildFilters(cats);
+        }
+
+        renderFiltered('all');
+
+      } catch (err) {
+        console.error(err);
+        document.getElementById('update-time').textContent = 'Failed to load';
+        document.getElementById('brief-container').innerHTML =
+          `<div class="error-banner">&#9888; Could not load news data. Please try refreshing the page.</div>`;
+        document.getElementById('news-container').innerHTML = '';
+      }
+    }
+
+    loadNews();
+  </script>
 </body>
 </html>
