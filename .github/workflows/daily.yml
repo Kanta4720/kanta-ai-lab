@@ -1,3 +1,6 @@
+git pull --rebase origin main
+git push origin main
+
 name: Daily News Update
 on:
   schedule:
