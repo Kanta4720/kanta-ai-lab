@@ -1,11 +1,151 @@
 {
-  "generated_at_jst": "2026-02-21 18:13",
-  "todays_brief": [],
+  "generated_at_jst": "2026-02-21 19:38",
+  "todays_brief": [
+    {
+      "title": "Trump tariffs ripped up global trade order. What now?",
+      "summary_2lines": "トランプ大統領の緊急権限による対国別関税施策が最高裁で違法と判断され、一部関税は撤回される可能性があるが、全体の関税率は依然高いまま維持される。輸入業者の供給網変更やコスト吸収により米経済への影響は限定的だが、不確実性は残る。",
+      "why_it_matters": "トランプ政権の関税政策は世界貿易秩序を大きく揺るがし、グローバル経済に多大な影響を与えてきた。今回の最高裁判決は法的制約を明確にしつつも、関税水準の即時全面撤廃にはつながらず、トレードオフやさらなる政策調整を迫っている。これにより米国と貿易相手国の関係、さらには世界的なサプライチェーンの構造変化の動向に注目が集まる。",
+      "market_impact": "最高裁判決による関税引き下げは一部輸入品のコスト低下をもたらす可能性があるが、既存の関税や代替措置により全体的なコスト圧迫は継続する見込み。輸入業者は引き続きサプライチェーンの多様化を進める必要があり、中小企業は特に調達コストや物流面の不確実性増加に直面する。加えて、関税収入の変動は米政府の財政収支に影響を与え、世界貿易の不透明感が企業の投資判断に影を落とす可能性がある。",
+      "category": "Geopolitics",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cvgvn810njpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump brings in new 10% tariff as Supreme Court rejects his global import taxes",
+      "summary_2lines": "米最高裁がトランプ大統領の昨年導入のグローバル輸入関税を無効と判断し、トランプ氏は代わりに新たに10%の関税を制定した。最高裁は大統領の権限超過とし、ビジネス界にとって大きな勝利となった。",
+      "why_it_matters": "トランプ政権の関税政策は米中をはじめ多くの国との貿易摩擦を生み、企業や消費者に負担が及んでいた。最高裁の判断は大統領の関税権限を制限し、連邦議会の承認なしに広範な関税を課すことの法的制約を明示したため、米国の貿易政策の透明性や法的枠組みの再確認に繋がる重要な判例となった。",
+      "market_impact": "最高裁の決定により広範な関税が無効化され、輸入コストの上昇懸念が後退し、株式市場はプラス反応となった。これにより被関税企業は関税還付の期待が高まったが、新法に基づく新関税導入によりさらなる不確実性も残る。長期的には法廷闘争が続く見込みで企業の貿易戦略や供給網の安定に影響を与える可能性が高い。",
+      "category": "Geopolitics",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Fed officials split on where interest rates should go, minutes say",
+      "summary_2lines": "米連邦準備制度理事会（FRB）は1月会合で利下げを一時停止し、今後はインフレの進展状況に応じて決定すると分裂した意見を示した。メンバー間でインフレ抑制と労働市場支援の優先度を巡り意見が分かれている。",
+      "why_it_matters": "FRBの金融政策は米国経済およびグローバル市場に大きな影響を与えるため、その見通しや意見の分裂は今後の金利動向やインフレ抑制策の不透明感を示し、市場や経済のリスク認識を左右する重要な情報となる。",
+      "market_impact": "利下げの一時停止と意見の対立は市場に変動要因となり、金融市場では金利の方向性が不透明となる。企業の借入コストや消費者の購買意欲に影響が及び、特にインフレ動向によっては今後の政策対応次第で景気回復や労働市場の状況に大きな影響を与える可能性がある。",
+      "category": "Economy",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/02/18/fed-minutes-january-2026.html"
+    },
+    {
+      "title": "CFTC defends its right to prediction market enforcement as states challenge platforms",
+      "summary_2lines": "CFTCは予測市場に対する独占的監督権を主張し、州の規制介入に対抗するため連邦裁判所に支援意見書を提出。予測市場がギャンブルではなく合法的な金融商品であると強調している。",
+      "why_it_matters": "予測市場をめぐる規制権限の所在は業界の将来を左右する重要問題で、州単位の異なる規制が分断を招く恐れがある。CFTCの統一的な規制権限の確立は市場の透明性・信頼性の維持に寄与するため注目を集めている。",
+      "market_impact": "CFTCの強硬な態度により、予測市場プラットフォームは連邦規制に基づく運営が期待される一方、州ごとの規制リスクは低減。KalshiやPolymarketなどのプラットフォームの合法性が裏付けられ、投資家や利用者の信頼向上を促進し市場拡大の追い風となる可能性が高い。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/02/17/cftc-defends-prediction-market-enforcement-states-challenge.html"
+    },
+    {
+      "title": "Illiquid loans, investor demands: Blue Owl's software lending triggers another quake in private credit",
+      "summary_2lines": "Blue Owlはソフトウェア企業向け融資を含む14億ドルのローン売却を発表したが、市場は流動性懸念から同社株価を急落させた。外部投資家の資金返還要求に対応するため、四半期ごとの自発的償還から資産売却等で資本配当へ移行したことが波紋を広げている。",
+      "why_it_matters": "プライベートクレジット市場では流動性の低い資産と投資家の即時資金引き出し要求のジレンマが浮き彫りとなっており、Blue Owlの動きはこうした緊張の一端を示す。特に、ソフトウェア分野に集中する融資の健全性と市場の信頼性が問われ、金融システム全体へのリスクの波及懸念も浮上しているため重要である。",
+      "market_impact": "Blue Owlの資産売却発表を受け代替資産運用会社の株価が大幅に下落、プライベートクレジット市場に不安が拡大。流動性逼迫の懸念が高まり、投資家の資金引き揚げ圧力が強まる中、類似の融資ファンドの運用スタンスの見直しや規制当局の監視強化が加速する可能性がある。長期的にはプライベートデット市場全体の成長や投資態度にも影響を与えうる。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/02/20/blue-owl-software-lending-private-credit-concerns.html"
+    }
+  ],
   "categories": {
     "Tech": [],
-    "Markets": [],
-    "Geopolitics": [],
-    "Economy": [],
-    "Corporate": []
+    "Markets": [
+      {
+        "title": "CFTC defends its right to prediction market enforcement as states challenge platforms",
+        "summary_2lines": "CFTCは予測市場に対する独占的監督権を主張し、州の規制介入に対抗するため連邦裁判所に支援意見書を提出。予測市場がギャンブルではなく合法的な金融商品であると強調している。",
+        "why_it_matters": "予測市場をめぐる規制権限の所在は業界の将来を左右する重要問題で、州単位の異なる規制が分断を招く恐れがある。CFTCの統一的な規制権限の確立は市場の透明性・信頼性の維持に寄与するため注目を集めている。",
+        "market_impact": "CFTCの強硬な態度により、予測市場プラットフォームは連邦規制に基づく運営が期待される一方、州ごとの規制リスクは低減。KalshiやPolymarketなどのプラットフォームの合法性が裏付けられ、投資家や利用者の信頼向上を促進し市場拡大の追い風となる可能性が高い。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/17/cftc-defends-prediction-market-enforcement-states-challenge.html"
+      },
+      {
+        "title": "In bitcoin price plummet, ETF flows are down but aren't signaling 'crypto winter' investor panic",
+        "summary_2lines": "ビットコインは昨年10月の最高値から半値近く下落し直近1ヶ月で25%以上も下落したが、ETFの資金流出は一時的で長期投資家のパニック売りを示していない。専門家は、短期トレーダーやヘッジファンドの売り圧力が強いものの、投資家は引き続き暗号資産を保持すると見ている。",
+        "why_it_matters": "ビットコインの大幅下落は暗号資産市場全体のセンチメントに影響を与え、過去の「クリプト・ウィンター」を連想させるため、投資家の動向は今後の市場の方向性や規制対応を占う上で重要。ETFの資金流入・流出動向から長期的な市場信頼や金融機関の姿勢を読み取ることができる。",
+        "market_impact": "短期の資金流出はビットコイン価格の下落圧力となるが、長期的にETFsへの資金流入が続くことで市場の安定性が期待される。金融機関やファイナンシャルアドバイザーによる組み入れ拡大は、暗号資産の主流化を促進し、従来の資産クラスとの競合関係や投資ポートフォリオの多様化に寄与する可能性が高い。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/15/bitcoin-price-crash-crypto-winter-investors-etf-flows.html"
+      },
+      {
+        "title": "Illiquid loans, investor demands: Blue Owl's software lending triggers another quake in private credit",
+        "summary_2lines": "Blue Owlはソフトウェア企業向け融資を含む14億ドルのローン売却を発表したが、市場は流動性懸念から同社株価を急落させた。外部投資家の資金返還要求に対応するため、四半期ごとの自発的償還から資産売却等で資本配当へ移行したことが波紋を広げている。",
+        "why_it_matters": "プライベートクレジット市場では流動性の低い資産と投資家の即時資金引き出し要求のジレンマが浮き彫りとなっており、Blue Owlの動きはこうした緊張の一端を示す。特に、ソフトウェア分野に集中する融資の健全性と市場の信頼性が問われ、金融システム全体へのリスクの波及懸念も浮上しているため重要である。",
+        "market_impact": "Blue Owlの資産売却発表を受け代替資産運用会社の株価が大幅に下落、プライベートクレジット市場に不安が拡大。流動性逼迫の懸念が高まり、投資家の資金引き揚げ圧力が強まる中、類似の融資ファンドの運用スタンスの見直しや規制当局の監視強化が加速する可能性がある。長期的にはプライベートデット市場全体の成長や投資態度にも影響を与えうる。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/20/blue-owl-software-lending-private-credit-concerns.html"
+      }
+    ],
+    "Geopolitics": [
+      {
+        "title": "Uncertainty for UK firms after US tariff ruling, experts say",
+        "summary_2lines": "米最高裁がトランプ元大統領の多くの関税措置を違憲と判断し、英国企業は不透明な状況に置かれている。トランプ氏は別の手段で同様の関税復活を示唆し、英国企業の今後の対米貿易は不確実性が続く。",
+        "why_it_matters": "米国の関税政策は英国をはじめとする多くの国の対米貿易条件に直接影響を与えるため、最高裁の判断とそれに対するトランプ政権の対応は両国間の経済関係や貿易環境の安定性に大きな意味を持つ。英国政府や企業にとっては対米交渉戦略の再検討や輸出入コストの変動リスク管理が急務となる。",
+        "market_impact": "英国の特に鉄鋼やアルミ、製薬、自動車、航空宇宙産業など主要輸出分野は依然として関税の対象となる可能性があり、追加関税導入のリスクが企業収益に悪影響を及ぼす恐れがある。関税返金の見通しも不透明で、費用負担の先送りや混乱が継続し、不確実性が投資や雇用にマイナスとなる可能性が高い。",
+        "category": "Geopolitics",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cj983wrngyvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump tariffs ripped up global trade order. What now?",
+        "summary_2lines": "トランプ大統領の緊急権限による対国別関税施策が最高裁で違法と判断され、一部関税は撤回される可能性があるが、全体の関税率は依然高いまま維持される。輸入業者の供給網変更やコスト吸収により米経済への影響は限定的だが、不確実性は残る。",
+        "why_it_matters": "トランプ政権の関税政策は世界貿易秩序を大きく揺るがし、グローバル経済に多大な影響を与えてきた。今回の最高裁判決は法的制約を明確にしつつも、関税水準の即時全面撤廃にはつながらず、トレードオフやさらなる政策調整を迫っている。これにより米国と貿易相手国の関係、さらには世界的なサプライチェーンの構造変化の動向に注目が集まる。",
+        "market_impact": "最高裁判決による関税引き下げは一部輸入品のコスト低下をもたらす可能性があるが、既存の関税や代替措置により全体的なコスト圧迫は継続する見込み。輸入業者は引き続きサプライチェーンの多様化を進める必要があり、中小企業は特に調達コストや物流面の不確実性増加に直面する。加えて、関税収入の変動は米政府の財政収支に影響を与え、世界貿易の不透明感が企業の投資判断に影を落とす可能性がある。",
+        "category": "Geopolitics",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cvgvn810njpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump brings in new 10% tariff as Supreme Court rejects his global import taxes",
+        "summary_2lines": "米最高裁がトランプ大統領の昨年導入のグローバル輸入関税を無効と判断し、トランプ氏は代わりに新たに10%の関税を制定した。最高裁は大統領の権限超過とし、ビジネス界にとって大きな勝利となった。",
+        "why_it_matters": "トランプ政権の関税政策は米中をはじめ多くの国との貿易摩擦を生み、企業や消費者に負担が及んでいた。最高裁の判断は大統領の関税権限を制限し、連邦議会の承認なしに広範な関税を課すことの法的制約を明示したため、米国の貿易政策の透明性や法的枠組みの再確認に繋がる重要な判例となった。",
+        "market_impact": "最高裁の決定により広範な関税が無効化され、輸入コストの上昇懸念が後退し、株式市場はプラス反応となった。これにより被関税企業は関税還付の期待が高まったが、新法に基づく新関税導入によりさらなる不確実性も残る。長期的には法廷闘争が続く見込みで企業の貿易戦略や供給網の安定に影響を与える可能性が高い。",
+        "category": "Geopolitics",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "Economy": [
+      {
+        "title": "Fed officials split on where interest rates should go, minutes say",
+        "summary_2lines": "米連邦準備制度理事会（FRB）は1月会合で利下げを一時停止し、今後はインフレの進展状況に応じて決定すると分裂した意見を示した。メンバー間でインフレ抑制と労働市場支援の優先度を巡り意見が分かれている。",
+        "why_it_matters": "FRBの金融政策は米国経済およびグローバル市場に大きな影響を与えるため、その見通しや意見の分裂は今後の金利動向やインフレ抑制策の不透明感を示し、市場や経済のリスク認識を左右する重要な情報となる。",
+        "market_impact": "利下げの一時停止と意見の対立は市場に変動要因となり、金融市場では金利の方向性が不透明となる。企業の借入コストや消費者の購買意欲に影響が及び、特にインフレ動向によっては今後の政策対応次第で景気回復や労働市場の状況に大きな影響を与える可能性がある。",
+        "category": "Economy",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/18/fed-minutes-january-2026.html"
+      },
+      {
+        "title": "Higher tax helped UK government reach record January surplus",
+        "summary_2lines": "英国政府は2026年1月に過去最高となる304億ポンドの財政黒字を記録した。資本利得税の急増や所得税、国民保険料の増加が主な要因となった。",
+        "why_it_matters": "財政赤字削減の進展は、パンデミック後の経済回復と政府の財政健全化を示す指標であり、今後の政策運営や市場の信頼性に影響する。金利やインフレ、賃金成長の鈍化といった課題が依然残る中、公的財政の改善は重要な意味を持つ。",
+        "market_impact": "財政黒字の拡大は英国債市場に安定感をもたらし、金利上昇圧力を抑える可能性がある。一方で、税負担の増加は企業や個人の消費・投資活動に抑制的に働く恐れがある。経済成長が緩やかな中で財政引き締めと成長促進のバランスが課題となる。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c93w4egd3gzo?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "Corporate": [
+      {
+        "title": "Berkshire Hathaway trims Apple stake, buys NYTimes stock in Buffett's last moves as CEO",
+        "summary_2lines": "バークシャー・ハサウェイはアップル株をさらに減らし、ニューヨーク・タイムズ株の新規取得を明らかにした。これはウォーレン・バフェットのCEO退任に伴うポートフォリオ再編の一環とみられる。",
+        "why_it_matters": "バフェットが長年率いてきたバークシャー・ハサウェイの投資戦略に変化の兆しがあり、テクノロジー株に対する見方や経営方針の転換が示唆されるため、市場にとって重要な示唆となる。特に、アップル株の規模が依然として最大であるものの減少傾向にある点は注目される。",
+        "market_impact": "バークシャーによるアップル株の売却は、投資家の注目を集め、アップルの株価に一時的な圧力をかける可能性がある。一方で、ニューヨーク・タイムズなどメディア株への分散は、投資ポートフォリオの多様化を示し、メディアセクターへの関心増加につながる可能性がある。さらに、バフェット後の経営体制移行は長期的にバークシャーの投資方針に影響を及ぼし、市場の構造変化を促す可能性がある。",
+        "category": "Corporate",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/17/berkshire-hathaway-trims-apple-stake-buys-nytimes-stock-in-buffetts-last-moves-as-ceo.html"
+      },
+      {
+        "title": "KFC, Nando's, and others ditch chicken welfare pledge",
+        "summary_2lines": "KFCやNando'sなど主要レストランチェーン8社が、ゆっくり成長する鶏肉を使用する動物福祉改善の約束を撤回し、環境配慮を謳う業界主導の新枠組みに移行した。動物福祉団体は利益優先の後退と批判している。",
+        "why_it_matters": "英国で鶏肉の需要が急増する中、動物福祉と環境負荷のバランスを取ることは重要な課題となっている。BMC離脱は消費者の動物福祉意識の高まりや業界の持続可能性の評価に影響し、食品業界の倫理的スタンスを問う事態となった。",
+        "market_impact": "これにより、より安価で生産効率の高い速成鶏が市場流通し、供給面では安定化が見込まれる一方で、動物福祉に敏感な消費者の支持を失う可能性がある。業界のイメージリスクや規制動向も注視され、サステナビリティ関連商品の競争にも影響を与えるだろう。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cm2r6jqm042o?at_medium=RSS&at_campaign=rss"
+      }
+    ]
   }
 }
