@@ -1,4 +1,3 @@
-
 name: Daily News Update
 on:
   schedule:
