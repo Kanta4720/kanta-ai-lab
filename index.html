@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Kanta Daily Brief</title>
-  <meta name="description" content="Your AI-powered global business news brief. Understand the world in 3 minutes.">
+  <meta name="description" content="AIが毎朝厳選する海外ビジネスニュース。3分で世界の動きを把握。">
   <style>
     /* ===== CSS Variables & Reset ===== */
     :root {
@@ -585,13 +585,13 @@
     <div class="header-inner">
       <div>
         <div class="logo-title">Kanta Daily Brief</div>
-        <div class="logo-subtitle">AI-Powered Global Business Intelligence</div>
+        <div class="logo-subtitle">AI搭載・毎朝更新のビジネスニュース</div>
       </div>
       <div class="header-right">
-        <span class="update-time" id="update-time">Loading...</span>
-        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
+        <span class="update-time" id="update-time">読み込み中...</span>
+        <button class="theme-toggle" id="theme-toggle" aria-label="ダークモード切替">
           <span id="theme-icon">&#9790;</span>
-          <span id="theme-label">Dark</span>
+          <span id="theme-label">ダーク</span>
         </button>
       </div>
     </div>
@@ -599,9 +599,9 @@
 
   <!-- Hero -->
   <section class="hero">
-    <div class="hero-date" id="hero-date">Loading...</div>
-    <h1 class="hero-title">Your World in 3 Minutes</h1>
-    <p class="hero-desc">AI-curated global business intelligence, delivered every morning.</p>
+    <div class="hero-date" id="hero-date">読み込み中...</div>
+    <h1 class="hero-title">3分で世界を把握する</h1>
+    <p class="hero-desc">AIが毎朝厳選した海外ビジネスニュースを、わかりやすく要約してお届けします。</p>
   </section>
 
   <!-- Main -->
@@ -611,14 +611,14 @@
       <!-- Today's Brief -->
       <section class="brief-section">
         <div class="section-header">
-          <h2 class="section-title">Today's Brief</h2>
-          <span class="section-badge">Top 5</span>
+          <h2 class="section-title">今日のブリーフィング</h2>
+          <span class="section-badge">TOP 5</span>
           <div class="section-divider"></div>
         </div>
-        <div id="brief-container">
+          <div id="brief-container">
           <div class="loading-overlay">
             <div class="spinner"></div>
-            <p class="loading-text">Loading today's brief...</p>
+            <p class="loading-text">ブリーフィングを読み込み中...</p>
           </div>
         </div>
       </section>
@@ -626,16 +626,16 @@
       <!-- All Stories -->
       <section class="categories-section">
         <div class="section-header">
-          <h2 class="section-title">All Stories</h2>
+          <h2 class="section-title">すべてのニュース</h2>
           <div class="section-divider"></div>
         </div>
         <div class="filter-bar" id="filter-bar">
-          <button class="filter-btn active" data-category="all">All</button>
+          <button class="filter-btn active" data-category="all">すべて</button>
         </div>
         <div id="news-container">
           <div class="loading-overlay">
             <div class="spinner"></div>
-            <p class="loading-text">Loading stories...</p>
+            <p class="loading-text">ニュースを読み込み中...</p>
           </div>
         </div>
       </section>
@@ -648,7 +648,7 @@
     <div class="footer-inner">
       <div>
         <div class="footer-brand">Kanta Daily Brief</div>
-        <div class="footer-meta">Powered by AI &mdash; Updated daily at 07:00 JST</div>
+        <div class="footer-meta">AI搭載 &mdash; 毎朝7時（JST）自動更新</div>
       </div>
       <div class="footer-sources">
         <span class="footer-source">Reuters</span>
@@ -678,6 +678,14 @@
       });
     }
 
+    function formatDateJa(str) {
+      if (!str) return '';
+      const d = new Date(str.replace(' ', 'T') + '+09:00');
+      if (isNaN(d)) return str;
+      const weekdays = ['日曜日', '月曜日', '火曜日', '水曜日', '木曜日', '金曜日', '土曜日'];
+      return `${d.getFullYear()}年${d.getMonth()+1}月${d.getDate()}日（${weekdays[d.getDay()]}）`;
+    }
+
     function tagClass(cat) {
       const map = { Tech: 'tag-Tech', Markets: 'tag-Markets', Geopolitics: 'tag-Geopolitics',
                     Economy: 'tag-Economy', Corporate: 'tag-Corporate', Business: 'tag-Business' };
@@ -692,7 +700,7 @@
     function applyTheme(dark) {
       document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
       tIcon.innerHTML  = dark ? '&#9728;' : '&#9790;';
-      tLabel.textContent = dark ? 'Light' : 'Dark';
+      tLabel.textContent = dark ? 'ライト' : 'ダーク';
       localStorage.setItem('theme', dark ? 'dark' : 'light');
     }
 
@@ -714,12 +722,12 @@
         <div class="card-insights">
           ${article.why_it_matters ? `
             <div class="insight-row">
-              <span class="insight-label">Why it matters</span>
+              <span class="insight-label">重要な理由</span>
               <span class="insight-text">${esc(article.why_it_matters)}</span>
             </div>` : ''}
           ${article.market_impact ? `
             <div class="insight-row">
-              <span class="insight-label">Market impact</span>
+              <span class="insight-label">市場への影響</span>
               <span class="insight-text">${esc(article.market_impact)}</span>
             </div>` : ''}
         </div>`;
@@ -733,7 +741,7 @@
         <p class="card-summary">${esc(article.summary_2lines || article.summary || '')}</p>
         ${insights}
         <a href="${esc(article.url)}" target="_blank" rel="noopener noreferrer" class="card-link">
-          Read full story &rarr;
+          記事を読む &rarr;
         </a>`;
 
       if (featured) {
@@ -766,20 +774,19 @@
             <div class="news-card-details" id="${id}">
               ${article.why_it_matters ? `
                 <div class="insight-row">
-                  <span class="insight-label">Why it matters</span>
+                  <span class="insight-label">重要な理由</span>
                   <span class="insight-text">${esc(article.why_it_matters)}</span>
                 </div>` : ''}
               ${article.market_impact ? `
                 <div class="insight-row">
-                  <span class="insight-label">Market impact</span>
+                  <span class="insight-label">市場への影響</span>
                   <span class="insight-text">${esc(article.market_impact)}</span>
                 </div>` : ''}
             </div>
             <button class="expand-btn" onclick="toggleCard(this,'${id}')">
-              Analysis <span class="expand-icon">&#9660;</span>
-            </button>` : ''}
-          <a href="${esc(article.url)}" target="_blank" rel="noopener noreferrer" class="card-link">
-            Read full story &rarr;
+              分析を見る <span class="expand-icon">&#9660;</span>
+            </button>` : ''}          <a href="${esc(article.url)}" target="_blank" rel="noopener noreferrer" class="card-link">
+            記事を読む &rarr;
           </a>
         </div>`;
     }
@@ -800,18 +807,19 @@
       if (!list.length) {
         container.innerHTML = `<div class="empty-state">
           <div class="empty-icon">&#128240;</div>
-          <p class="empty-text">No stories in this category today.</p>
+          <p class="empty-text">このカテゴリのニュースは本日ありません。</p>
         </div>`;
         return;
       }
       container.innerHTML = `<div class="news-grid">${list.map(newsCard).join('')}</div>`;
     }
 
+    const catJa = { all: 'すべて', Tech: 'テクノロジー', Markets: '市場・金融', Geopolitics: '地政学', Economy: '経済', Corporate: '企業', Business: 'ビジネス' };
     function buildFilters(cats) {
       const bar = document.getElementById('filter-bar');
       bar.innerHTML = ['all', ...cats].map(c =>
         `<button class="filter-btn${c === 'all' ? ' active' : ''}" data-category="${esc(c)}">
-          ${c === 'all' ? 'All' : esc(c)}
+          ${catJa[c] || esc(c)}
         </button>`
       ).join('');
       bar.querySelectorAll('.filter-btn').forEach(btn => {
@@ -830,8 +838,8 @@
         if (!res.ok) throw new Error('HTTP ' + res.status);
         const data = await res.json();
 
-        document.getElementById('update-time').textContent = 'Updated: ' + data.generated_at_jst + ' JST';
-        document.getElementById('hero-date').textContent = formatDate(data.generated_at_jst);
+        document.getElementById('update-time').textContent = '更新: ' + data.generated_at_jst + ' JST';
+        document.getElementById('hero-date').textContent = formatDateJa(data.generated_at_jst);
 
         /* ---- Brief ---- */
         const briefEl = document.getElementById('brief-container');
@@ -841,7 +849,7 @@
         } else {
           briefEl.innerHTML = `<div class="empty-state">
             <div class="empty-icon">&#128240;</div>
-            <p class="empty-text">No brief available yet. Check back after 07:00 JST.</p>
+            <p class="empty-text">ブリーフィングはまだ準備中です。毎朝7時（JST）以降にご確認ください。</p>
           </div>`;
         }
 
@@ -863,9 +871,9 @@
 
       } catch (err) {
         console.error(err);
-        document.getElementById('update-time').textContent = 'Failed to load';
+        document.getElementById('update-time').textContent = '読み込み失敗';
         document.getElementById('brief-container').innerHTML =
-          `<div class="error-banner">&#9888; Could not load news data. Please try refreshing the page.</div>`;
+          `<div class="error-banner">&#9888; ニュースデータの読み込みに失敗しました。ページを再読み込みしてください。</div>`;
         document.getElementById('news-container').innerHTML = '';
       }
     }
