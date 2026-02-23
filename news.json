@@ -1,151 +1,150 @@
 {
-  "generated_at_jst": "2026-02-23 07:12",
+  "generated_at_jst": "2026-02-24 07:30",
   "todays_brief": [
     {
-      "title": "Illiquid loans, investor demands: Blue Owl's software lending triggers another quake in private credit",
-      "summary_2lines": "Blue Owlがソフトウェア企業向けのローン14億ドルをほぼ満額で売却したが、投資家の資金返還方法変更により市場で懸念が広がった。結果として同社の株価は急落し、プライベートクレジット市場全体への不安が高まった。",
-      "why_it_matters": "プライベートクレジット市場は近年成長してきたが、流動性の乏しい資産構成により投資家の返金要求と矛盾が生じやすい。Blue Owlの資金返還手法変更は、プライベートクレジットの構造的脆弱性を露呈し、市場全体の信用不安や資金繰りに警鐘を鳴らすものである。",
-      "market_impact": "Blue Owlの動きが投資家の不安を煽り、同社株価が50％超下落。これにより他のオルタナティブ資産運用会社にも売り圧力が波及し、プライベートクレジット市場の信用収縮リスクが意識された。保険会社などの規制機関関係者も注目しており、金融システム全体への波及懸念も生じている。",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/02/20/blue-owl-software-lending-private-credit-concerns.html"
-    },
-    {
-      "title": "Trump tariffs ripped up global trade order. What now?",
-      "summary_2lines": "トランプ前大統領の関税政策が世界貿易秩序を揺るがし、米最高裁で一部の緊急関税が違法と判断された。今後も他の法的手段で関税維持の可能性があり、不確実性が続く見通し。",
-      "why_it_matters": "このニュースは、米国が世界貿易に課してきた追加関税が貿易秩序を大きく変えたことを示し、その一部が法的に無効となることで、グローバルサプライチェーンや貿易政策に重大な影響を及ぼす可能性があるため重要。また、トランプ政権時代の対中関税や他国への影響を再評価するきっかけとなる。",
-      "market_impact": "関税率の減少は一部輸入品の価格低下やインフレ抑制に寄与する可能性があるものの、供給網の切り替えコストやアジア新興国へのシフトは継続。また、関税収入は依然高水準であり、今後の関税政策の不確実性が輸入業者や中小企業のコスト管理を難しくする。世界経済も不透明感を増し、特に対中貿易やITハードウェア市場に注目が集まる。",
+      "title": "No 10 says ‘nothing off the table’ over new US tariffs as UK could be among worst hit",
+      "summary_2lines": "英国は米国による新たな15%のグローバル関税に対し、報復措置も辞さない姿勢を示した。米英間の既存の貿易協定は維持される見込みだが、状況は流動的で影響は広範囲に及ぶ可能性がある。",
+      "why_it_matters": "今回の関税引き上げは、トランプ政権の貿易政策の変化によるもので、英国を含む同盟国に大きな経済的打撃を与える恐れがある。特に英国は米国と10%の特別関税を交渉済みであり、これが15%に引き上げられると既存の取り決めが損なわれるため、双方の貿易関係やグローバルな供給チェーンに不確実性が高まる。",
+      "market_impact": "英国企業は対米輸出でコスト上昇や競争力低下が予想され、特に自動車や製薬などの主要産業に影響が大きい。米国の措置が長期化すると、報復関税を含む貿易摩擦が激化し、企業投資や消費活動に悪影響を及ぼす可能性がある。EUも同様に対応を見直しているため、欧米間の貿易関係全般が緊迫化する動きとなる。",
       "category": "Geopolitics",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cvgvn810njpo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Fed officials split on where interest rates should go, minutes say",
-      "summary_2lines": "1月のFOMCミーティングでは、利下げの一時停止で意見が分かれ、インフレの動向次第で利下げ再開や利上げの可能性も議論された。委員間でインフレ抑制と労働市場支援の優先度に隔たりがあることが明らかになった。",
-      "why_it_matters": "米連邦準備制度理事会（FRB）が金利政策の方向性で内部対立を見せており、インフレ抑制と景気・雇用支援のバランス調整が難航している。これは今後の金融政策の不透明感を高め、市場や経済の先行きを左右する重要な局面だからである。",
-      "market_impact": "政策の方向性に関する分裂は金融市場のボラティリティを増し、投資家心理の不安定化を招く。利下げ猶予や利上げ可能性の示唆は長期金利や株価に影響し、企業の借入コストや消費者支出の動向にも波及する。労働市場の強さを踏まえた金融緩和の縮小も、景気の減速懸念を高める要因となる。",
+      "summary_2lines": "1月の連邦公開市場委員会（FOMC）で、FRB当局者は金利の今後の方向性をめぐり意見が分かれた。インフレ抑制と労働市場支援のバランスを巡り、利下げ停止で足並みがそろう一方、今後の利上げや利下げの可能性も議論された。",
+      "why_it_matters": "FRBの金利政策は米経済の主要な舵取り役であり、利上げや利下げの方針が市場の資金調達コストや消費・投資行動に直接影響するため重要。今回の意見の分裂は今後の政策運営の不確実性を示し、市場参加者や企業、投資家にとって予測の難しい局面が続くことを意味する。",
+      "market_impact": "政策金利が現状維持される見通しだが、場面によって利上げ再開や利下げ再開の可能性も示唆され、金融市場ではボラティリティが高まる可能性がある。特に株式市場や債券市場は金利見通しの変化に敏感であり、企業の借入コストや消費者信頼感にも影響。加えて、インフレの動向や労働市場の強さに応じた柔軟な政策対応も、市場の中長期的な方向性を左右する要因となる。",
       "category": "Economy",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/02/18/fed-minutes-january-2026.html"
     },
     {
-      "title": "Trump says he will increase his new global tariffs to 15%",
-      "summary_2lines": "トランプ大統領は、新たに最高15%のグローバル関税を課す意向を表明し、最高裁の関税撤廃判決への対応策とした。これにより既存の10%合意は上書きされ、米国の貿易政策が一層複雑化する見込み。",
-      "why_it_matters": "最高裁がトランプ政権の関税権限を制限したことで、米国の保護主義的な関税政策が揺らいでいる。トランプ大統領による15%関税の再導入は、米国経済の貿易赤字改善を狙う一方で、既存の国際貿易合意への影響や対米輸出国との関係悪化を招く可能性が高く、世界の貿易環境に重要な波及効果をもたらす。",
-      "market_impact": "15%関税導入で輸入コストが上昇し、米国内の消費財価格の上昇や多国籍企業のサプライチェーン見直しを促す。英国やオーストラリアなど関税合意を結んだ国は影響を受け、貿易交渉の再調整や経済成長の減速が懸念される。また、国内製造業は一部で恩恵を受ける可能性もあるが、国際的な報復関税や貿易摩擦激化リスクも高まる。",
-      "category": "Geopolitics",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss"
+      "title": "Illiquid loans, investor demands: Blue Owl's software lending triggers another quake in private credit",
+      "summary_2lines": "Blue Owlはソフトウェア企業向けローン1.4億ドル分をほぼ額面で売却したが、四半期ごとの任意償還を廃止し資本分配に変更したことで市場が動揺した。これが投資家の不安を呼び、同社株価は急落し私的信用市場に緊張が走っている。",
+      "why_it_matters": "私的信用市場は流動性の低い資産を投資家からの換金要求で満たす必要があり、Blue Owlの措置はこの局面でのシステム的リスクや資産流動性の課題を浮き彫りにした。ソフトウェア業界のローンへの依存度が高いことも、テック市場の不安定さと結びつき市場全体への波及を示唆している。",
+      "market_impact": "Blue Owlの資本分配への方針変更により、同社および類似の代替資産運用企業の株価が大幅に下落した。加えて、私的信用市場に対する信用不安が高まり、特にテクノロジー分野の貸付市場での資金調達が困難になる可能性がある。これらはさらなる市場の不安定要因および規制当局の注目を浴びるきっかけとなっている。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/02/20/blue-owl-software-lending-private-credit-concerns.html"
     },
     {
-      "title": "Berkshire Hathaway trims Apple stake, buys NYTimes stock in Buffett's last moves as CEO",
-      "summary_2lines": "バークシャー・ハサウェイは第4四半期にアップル株をさらに売却し、ニューヨーク・タイムズ株の新規取得を発表した。バフェットのCEO退任直前の動きで、ポートフォリオの再編に伴う可能性が高い。",
-      "why_it_matters": "アップルはバークシャー最大の保有株であり、その取り扱いは投資家にとってシグナルとなる。バフェットの後継者へ移行する中で投資戦略の変化が示唆され、米市場の主要銘柄にも影響を及ぼすため、投資動向の注目ポイントである。",
-      "market_impact": "アップル株の売却は同社の株価に一時的な圧力をかける可能性があるが、依然として大型保有株であるため大きな動揺は限定的。ニューヨーク・タイムズへの投資開始はメディア業界への関心を反映し、多様化戦略を示唆。市場全体ではバフェット後の運用変化への警戒感も見られる。",
+      "title": "Netflix boss defends bid for Warner Bros as Paramount deadline looms",
+      "summary_2lines": "Netflix CEO Ted Sarandos defends its $82.7bn bid for Warner Bros, emphasizing growth and market expansion over Paramount's higher $108.4bn rival offer. The bids reflect competing visions for Warner Bros' future amid an industry shake-up.",
+      "why_it_matters": "この買収合戦は動画配信と映画産業の競争環境の激化と市場再編を示し、巨大スタジオの将来と業界構造に大きな影響を与える可能性が高い。Netflixは成長重視の戦略を掲げる一方、Paramountは短期的な合理化と再編を狙っており、どちらの買収が承認されるかで業界の姿勢や競争の方向性が大きく変わる。",
+      "market_impact": "買収成立により、Netflixは映画製作と配信の両面で資産を獲得し、コンテンツ制作力と市場占有率を強化。Paramountが成功すれば伝統的なテレビ部門の統合とコスト削減で収益性改善を図るが、業界の多様性と競争が縮小する懸念も。投資家の反応や株価に短期的な変動が見込まれ、長期的にはストリーミング市場の覇権争いが激化する可能性が高い。",
       "category": "Corporate",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/02/17/berkshire-hathaway-trims-apple-stake-buys-nytimes-stock-in-buffetts-last-moves-as-ceo.html"
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c20jn073gj4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Company director jailed over £7m airline parts fraud",
+      "summary_2lines": "英国企業の元取締役が偽造書類を使い約7百万ポンド相当の航空機部品を販売し、詐欺で4年8ヶ月の実刑判決を受けた。詐欺により世界中の航空会社でエンジン部品の安全確認が必要となり、多大な損失が発生した。",
+      "why_it_matters": "航空機の安全は厳格な規制に基づいており、偽造部品の流通は乗客・乗務員の生命に直結するリスクを生む。今回の事件はサプライチェーンの信頼性の脆弱性を浮き彫りにし、航空安全および関連規制の強化を求める重大な警鐘となった。",
+      "market_impact": "この詐欺により複数の主要航空会社が機材検査や部品交換を余儀なくされ、運航の大幅な遅延やコスト増が発生。航空業界全体の信用問題にも繋がり、航空機部品の流通管理に対する規制が強化される可能性が高い。加えて詐欺関与者の刑罰および活動禁止は市場の不正抑制に寄与する。",
+      "category": "Corporate",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c14mgl4ddr2o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "categories": {
-    "Tech": [
-      {
-        "title": "Is £70 becoming harder to justify? The rise of cheaper blockbuster games",
-        "summary_2lines": "2025年以降、高価格のAAAゲームの値上げ傾向に対し、低価格ながら高評価を得る中規模ゲームが増加している。プレイヤーの価値観もスペクタクルよりも独自性やコストパフォーマンスを重視する方向へ変化している。",
-        "why_it_matters": "ゲーム業界では過去数十年にわたりAAAタイトルの高価格が標準化していたが、昨今その価格が更に上昇し、一部の消費者には負担となっている。消費者のゲーム購入頻度の低下やPCパーツ価格上昇も影響し、低価格で質の高いゲームの需要が高まっているため、市場構造の変化が始まっている点が重要である。",
-        "market_impact": "高価格AAAゲームの増加は一部大手パブリッシャーの収益増加を狙う動きだが、消費者の購入抑制を招き、低価格帯で革新的なゲームを提供する中小規模開発者の競争力が高まる。これによりゲーム市場の多様化が進み、価格設定や開発資金配分の見直しを余儀なくされる可能性がある。また、消費者にとっては選択肢の広がりとコストパフォーマンス向上が期待できる。",
-        "category": "Tech",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/ckg1nwwv1xyo?at_medium=RSS&at_campaign=rss"
-      }
-    ],
+    "Tech": [],
     "Markets": [
       {
-        "title": "Here are 3 forces that drove the stock market during Wall Street’s comeback week",
-        "summary_2lines": "ナスダックやS&P500が反発し、特にビッグテック企業の株価が回復した。最高裁のトランプ関税無効判決とBlue Owl Capitalのプライベートクレジット懸念が市場に影響を与えた。",
-        "why_it_matters": "最高裁判決は貿易関税の権限を制限し消費者や企業のコスト負担を軽減する可能性がある一方、金融セクターのプライベートクレジット不安は投資リスクの増大を示唆している。これらは投資家心理や市場動向に直接影響する重要なファクターである。",
-        "market_impact": "テクノロジー株はAI関連需要に支えられ大幅上昇し、AmazonやMeta、Nvidiaが牽引役。一方、貿易関税の解除により消費者分野の企業が恩恵を受ける見込みだが、Blue Owl Capital発の金融不安が金融株の一部に波及。全体として短期的な市場のボラティリティ増加とセクター間の分散が進んだ。",
+        "title": "Market volatility trap? Why this income-first strategy may 'leave a lot on the table'",
+        "summary_2lines": "市場のボラティリティにより、配当や債券中心のインカム優先戦略は長期的にリターンを減らす可能性がある。専門家は収益よりも総リターンを重視した投資を勧めている。",
+        "why_it_matters": "多くの個人投資家が不安定な市場環境で安定収入を求めるあまり、リスクの異なる高配当株や高利回り債券に偏りがち。これにより、本来の投資目標やリスク許容度を見失い、長期的成長機会を逃す恐れがあるため重要である。",
+        "market_impact": "投資家がインカムファーストの戦略に固執すると、ポートフォリオに意図しないリスクが増大し、結果として市場全体の資金配分が偏る可能性がある。長期的には市場の効率性や資本配分に歪みを生み出し、特定セクターの過剰評価や調整のリスクを高めることが懸念される。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/02/21/3-forces-that-drove-the-stock-market-during-wall-streets-comeback-week.html"
+        "url": "https://www.cnbc.com/2026/02/21/market-volatility-trap-this-investment-strategy-may-hurt-investors-.html"
       },
       {
         "title": "Illiquid loans, investor demands: Blue Owl's software lending triggers another quake in private credit",
-        "summary_2lines": "Blue Owlがソフトウェア企業向けのローン14億ドルをほぼ満額で売却したが、投資家の資金返還方法変更により市場で懸念が広がった。結果として同社の株価は急落し、プライベートクレジット市場全体への不安が高まった。",
-        "why_it_matters": "プライベートクレジット市場は近年成長してきたが、流動性の乏しい資産構成により投資家の返金要求と矛盾が生じやすい。Blue Owlの資金返還手法変更は、プライベートクレジットの構造的脆弱性を露呈し、市場全体の信用不安や資金繰りに警鐘を鳴らすものである。",
-        "market_impact": "Blue Owlの動きが投資家の不安を煽り、同社株価が50％超下落。これにより他のオルタナティブ資産運用会社にも売り圧力が波及し、プライベートクレジット市場の信用収縮リスクが意識された。保険会社などの規制機関関係者も注目しており、金融システム全体への波及懸念も生じている。",
+        "summary_2lines": "Blue Owlはソフトウェア企業向けローン1.4億ドル分をほぼ額面で売却したが、四半期ごとの任意償還を廃止し資本分配に変更したことで市場が動揺した。これが投資家の不安を呼び、同社株価は急落し私的信用市場に緊張が走っている。",
+        "why_it_matters": "私的信用市場は流動性の低い資産を投資家からの換金要求で満たす必要があり、Blue Owlの措置はこの局面でのシステム的リスクや資産流動性の課題を浮き彫りにした。ソフトウェア業界のローンへの依存度が高いことも、テック市場の不安定さと結びつき市場全体への波及を示唆している。",
+        "market_impact": "Blue Owlの資本分配への方針変更により、同社および類似の代替資産運用企業の株価が大幅に下落した。加えて、私的信用市場に対する信用不安が高まり、特にテクノロジー分野の貸付市場での資金調達が困難になる可能性がある。これらはさらなる市場の不安定要因および規制当局の注目を浴びるきっかけとなっている。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/02/20/blue-owl-software-lending-private-credit-concerns.html"
       },
       {
-        "title": "Market volatility trap? Why this income-first strategy may 'leave a lot on the table'",
-        "summary_2lines": "投資家が市場のボラティリティを理由に高配当や防御的資産に偏るのは、長期的なリターンを損なうリスクがある。専門家は総合的なトータルリターン重視の投資戦略を推奨している。",
-        "why_it_matters": "市場の不安定さが続く中、多くの個人投資家が安定的な収入を求めて高配当株や債券に流れがちだが、その『収益ファースト』戦略は長期的な資産成長を阻害し、リスク過多や意図しない投資行動につながる可能性があるため、正しい投資判断が求められている。",
-        "market_impact": "投資家が収入追求に偏ることで市場にリスク資産への過剰需要や資産配分の歪みが生じ、特に高利回り債券市場でのリスクが高まる可能性がある。一方、総合的なトータルリターン重視の戦略普及により、より健全な資産運用と市場の安定化が期待される。",
+        "title": "Here are 3 forces that drove the stock market during Wall Street’s comeback week",
+        "summary_2lines": "先週、株式市場は主要テック株の好調や最高裁の対トランプ緊急関税無効判決に支えられ反発した。一方、Blue Owl Capitalのプライベートクレジット懸念が金融セクターに波紋を広げた。",
+        "why_it_matters": "米最高裁が大統領の大規模関税権限を制限したことで、これまで輸入関税に伴うコスト圧力に苦しんだ消費財関連企業の業績改善が期待される。また、AI需要を背景に大手テック企業の株価回復が示すテクノロジー分野の再活性化は市場センチメントに重要な影響を与える。一方で、Blue Owl Capitalの信用不安は金融セクターのボラティリティリスクを浮き彫りにし、投資家の警戒感を高めている。",
+        "market_impact": "NasdaqやS&P500指数が週単位で上昇し、特にMeta Platforms、Nvidia、Amazonなどの大型テック株が市場の牽引役となった。最高裁判決は消費者向け企業の株価を支え、一部金融株も堅調であったが、Blue Owl Capitalを起因とするプライベートクレジット問題が金融銘柄の一時的下落を招いた。これらの動きは市場全体のリバウンドに寄与しつつ、不確実性も同時に示している。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/02/21/market-volatility-trap-this-investment-strategy-may-hurt-investors-.html"
+        "url": "https://www.cnbc.com/2026/02/21/3-forces-that-drove-the-stock-market-during-wall-streets-comeback-week.html"
+      },
+      {
+        "title": "Bitcoin falls to nearly $64,000 as 2026 crypto woes continue",
+        "summary_2lines": "ビットコインは地政学的リスクと貿易関税の不透明感により65,000ドルを下回り、年初から24％下落した。リスク回避の動きで金や銀などの貴金属は上昇している。",
+        "why_it_matters": "ビットコインをはじめとする暗号資産はリスク資産としての位置づけが強く、米中貿易摩擦や中東情勢の緊迫が投資家心理に直結する。これらの不透明要因が続くことで暗号資産市場の変動性が高まり、投資環境にも大きな影響を及ぼすため重要である。",
+        "market_impact": "ビットコイン価格の急落はリスクオン投資からの資金流出を示しており、暗号資産市場全体の資金流動性を圧迫する可能性が高い。対照的に金や銀といった安全資産の需要が高まり、それらの価格上昇につながっている。また、投資家のリスク許容度低下が他のハイリスク資産にも波及する恐れがある。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/23/bitcoin-falls-to-nearly-64000-as-2026-crypto-woes-continue-.html"
       }
     ],
     "Geopolitics": [
       {
-        "title": "Trump tariffs ripped up global trade order. What now?",
-        "summary_2lines": "トランプ前大統領の関税政策が世界貿易秩序を揺るがし、米最高裁で一部の緊急関税が違法と判断された。今後も他の法的手段で関税維持の可能性があり、不確実性が続く見通し。",
-        "why_it_matters": "このニュースは、米国が世界貿易に課してきた追加関税が貿易秩序を大きく変えたことを示し、その一部が法的に無効となることで、グローバルサプライチェーンや貿易政策に重大な影響を及ぼす可能性があるため重要。また、トランプ政権時代の対中関税や他国への影響を再評価するきっかけとなる。",
-        "market_impact": "関税率の減少は一部輸入品の価格低下やインフレ抑制に寄与する可能性があるものの、供給網の切り替えコストやアジア新興国へのシフトは継続。また、関税収入は依然高水準であり、今後の関税政策の不確実性が輸入業者や中小企業のコスト管理を難しくする。世界経済も不透明感を増し、特に対中貿易やITハードウェア市場に注目が集まる。",
+        "title": "No 10 says ‘nothing off the table’ over new US tariffs as UK could be among worst hit",
+        "summary_2lines": "英国は米国による新たな15%のグローバル関税に対し、報復措置も辞さない姿勢を示した。米英間の既存の貿易協定は維持される見込みだが、状況は流動的で影響は広範囲に及ぶ可能性がある。",
+        "why_it_matters": "今回の関税引き上げは、トランプ政権の貿易政策の変化によるもので、英国を含む同盟国に大きな経済的打撃を与える恐れがある。特に英国は米国と10%の特別関税を交渉済みであり、これが15%に引き上げられると既存の取り決めが損なわれるため、双方の貿易関係やグローバルな供給チェーンに不確実性が高まる。",
+        "market_impact": "英国企業は対米輸出でコスト上昇や競争力低下が予想され、特に自動車や製薬などの主要産業に影響が大きい。米国の措置が長期化すると、報復関税を含む貿易摩擦が激化し、企業投資や消費活動に悪影響を及ぼす可能性がある。EUも同様に対応を見直しているため、欧米間の貿易関係全般が緊迫化する動きとなる。",
         "category": "Geopolitics",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cvgvn810njpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump says he will increase his new global tariffs to 15%",
-        "summary_2lines": "トランプ大統領は、新たに最高15%のグローバル関税を課す意向を表明し、最高裁の関税撤廃判決への対応策とした。これにより既存の10%合意は上書きされ、米国の貿易政策が一層複雑化する見込み。",
-        "why_it_matters": "最高裁がトランプ政権の関税権限を制限したことで、米国の保護主義的な関税政策が揺らいでいる。トランプ大統領による15%関税の再導入は、米国経済の貿易赤字改善を狙う一方で、既存の国際貿易合意への影響や対米輸出国との関係悪化を招く可能性が高く、世界の貿易環境に重要な波及効果をもたらす。",
-        "market_impact": "15%関税導入で輸入コストが上昇し、米国内の消費財価格の上昇や多国籍企業のサプライチェーン見直しを促す。英国やオーストラリアなど関税合意を結んだ国は影響を受け、貿易交渉の再調整や経済成長の減速が懸念される。また、国内製造業は一部で恩恵を受ける可能性もあるが、国際的な報復関税や貿易摩擦激化リスクも高まる。",
-        "category": "Geopolitics",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Economy": [
       {
-        "title": "The uncertainties facing businesses and consumers after Trump's tariff changes",
-        "summary_2lines": "トランプ大統領の新たな関税引き上げにより、米国と取引する各国企業や消費者に不確実性が増大している。特に英国などは既存の10%関税協定が15%に引き上げられる可能性が混在し、貿易の見通しが不透明になっている。",
-        "why_it_matters": "米国の関税政策は主要貿易相手国との経済関係に直接影響を及ぼすため、ビジネスの計画・価格設定が困難になり、国際貿易の安定性を損なう恐れがある。特に既存の関税協定の扱いに不明確さが残り、輸出企業や消費者のコスト増加やインフレ圧力を強めるリスクがあるからだ。",
-        "market_impact": "関税率の引き上げにより、英国などの輸出企業は追加で数十億円規模のコスト負担を強いられ、輸出低迷や米国市場での競争力低下につながる。最終的にそのコストは消費者価格の上昇に転嫁されインフレが加速する可能性が高い。また、米国の関税政策の不透明さが投資・取引の不確実性を増大させ、市場の混乱を招く恐れがある。",
+        "title": "When is the Spring Statement and what might be in it?",
+        "summary_2lines": "英国の財務大臣レイチェル・リーブスが3月3日に春季経済見通し（Spring Statement）を発表予定。今回は大きな政策変更は見込まれず、最新の経済成長やインフレ見通しが示される見込み。",
+        "why_it_matters": "春季経済見通しは政府の財政運営の健全性を示す重要な経済予測の発表であり、今後の税制や支出政策の方向性を占う指標となる。今回はOBRの評価が年1回の秋季予算に集約されるため、春の報告は例年より影響力が限定的となるが、市場参加者や政策判断に依然として注目される。",
+        "market_impact": "春季声明で大規模な政策変更が予想されていないため短期的な市場インパクトは限定的。ただし、経済成長の鈍化やインフレ状況の細かな動向は金融政策や企業投資判断に影響を及ぼす可能性がある。政府の財政運営の見通しが堅調であれば国債市場の安定やポンドの信認維持に寄与する。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c98qjl76eyro?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c5yv255914xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Reform vows to overhaul pension schemes for new local government workers",
+        "summary_2lines": "Reform党は新たな地方自治体労働者に対し、より寛大な確定給付年金制度を廃止し、約100の制度を統合して5000億ポンド規模の英国主権富基金を創設する方針を発表。さらに環境政策や労働権の撤廃も掲げている。",
+        "why_it_matters": "地方自治体労働者の年金制度改革は、約700万人の現役・退職者に影響し、公務員の採用・定着に深刻な懸念をもたらす重要政策。また、国内投資拡大を狙った富基金創設や労働・環境政策の見直しは、英国の経済成長戦略と社会保障の枠組みを根本から変える可能性があるため注目される。",
+        "market_impact": "確定給付年金から確定拠出年金への移行は、労働者の退職所得の不確実性を高める一方で、年金資産の国内株式投資比率を大幅に引き上げ、英国企業やインフラ投資の資金調達を促進する可能性がある。ただし、制度不安による公務員の採用難や労働市場の不安定化、環境規制緩和による長期的リスクも考慮が必要で、金融市場や公共サービスにも波及効果が予想される。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c875edj1qeno?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Fed officials split on where interest rates should go, minutes say",
-        "summary_2lines": "1月のFOMCミーティングでは、利下げの一時停止で意見が分かれ、インフレの動向次第で利下げ再開や利上げの可能性も議論された。委員間でインフレ抑制と労働市場支援の優先度に隔たりがあることが明らかになった。",
-        "why_it_matters": "米連邦準備制度理事会（FRB）が金利政策の方向性で内部対立を見せており、インフレ抑制と景気・雇用支援のバランス調整が難航している。これは今後の金融政策の不透明感を高め、市場や経済の先行きを左右する重要な局面だからである。",
-        "market_impact": "政策の方向性に関する分裂は金融市場のボラティリティを増し、投資家心理の不安定化を招く。利下げ猶予や利上げ可能性の示唆は長期金利や株価に影響し、企業の借入コストや消費者支出の動向にも波及する。労働市場の強さを踏まえた金融緩和の縮小も、景気の減速懸念を高める要因となる。",
+        "summary_2lines": "1月の連邦公開市場委員会（FOMC）で、FRB当局者は金利の今後の方向性をめぐり意見が分かれた。インフレ抑制と労働市場支援のバランスを巡り、利下げ停止で足並みがそろう一方、今後の利上げや利下げの可能性も議論された。",
+        "why_it_matters": "FRBの金利政策は米経済の主要な舵取り役であり、利上げや利下げの方針が市場の資金調達コストや消費・投資行動に直接影響するため重要。今回の意見の分裂は今後の政策運営の不確実性を示し、市場参加者や企業、投資家にとって予測の難しい局面が続くことを意味する。",
+        "market_impact": "政策金利が現状維持される見通しだが、場面によって利上げ再開や利下げ再開の可能性も示唆され、金融市場ではボラティリティが高まる可能性がある。特に株式市場や債券市場は金利見通しの変化に敏感であり、企業の借入コストや消費者信頼感にも影響。加えて、インフレの動向や労働市場の強さに応じた柔軟な政策対応も、市場の中長期的な方向性を左右する要因となる。",
         "category": "Economy",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/02/18/fed-minutes-january-2026.html"
-      },
-      {
-        "title": "'It is a catastrophe' - the man battling to stem rising youth unemployment",
-        "summary_2lines": "イギリス北東部を中心に若年層の失業や教育・就労離脱が深刻化し、100万人近い若者が求職や教育から離れている。元閣僚アラン・ミルバーンは現状を「社会的、経済的、政治的な大惨事」と表現し、原因と対策を政府に提言している。",
-        "why_it_matters": "若年層の就労・教育離脱は長期的な労働市場の停滞と経済成長の鈍化を招き、社会的な不安定化や貧困の固定化を促進する恐れがある。特にコロナ禍での学習機会の喪失やメンタルヘルス問題、労働市場の構造変化が悪化要因となり、政府や地域社会にとって緊急対策が求められている。",
-        "market_impact": "労働力不足や若年層スキルの低下は企業の生産性に悪影響を及ぼし、特に地域経済は消費と投資の低迷に直面する可能性がある。人材育成や再教育プログラムの重要性が増し、公的支出の増加や雇用政策の見直しが金融市場や産業構造に影響を与えるだろう。",
-        "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cy7jxv7p2mxo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Corporate": [
       {
-        "title": "Berkshire Hathaway trims Apple stake, buys NYTimes stock in Buffett's last moves as CEO",
-        "summary_2lines": "バークシャー・ハサウェイは第4四半期にアップル株をさらに売却し、ニューヨーク・タイムズ株の新規取得を発表した。バフェットのCEO退任直前の動きで、ポートフォリオの再編に伴う可能性が高い。",
-        "why_it_matters": "アップルはバークシャー最大の保有株であり、その取り扱いは投資家にとってシグナルとなる。バフェットの後継者へ移行する中で投資戦略の変化が示唆され、米市場の主要銘柄にも影響を及ぼすため、投資動向の注目ポイントである。",
-        "market_impact": "アップル株の売却は同社の株価に一時的な圧力をかける可能性があるが、依然として大型保有株であるため大きな動揺は限定的。ニューヨーク・タイムズへの投資開始はメディア業界への関心を反映し、多様化戦略を示唆。市場全体ではバフェット後の運用変化への警戒感も見られる。",
+        "title": "Company director jailed over £7m airline parts fraud",
+        "summary_2lines": "英国企業の元取締役が偽造書類を使い約7百万ポンド相当の航空機部品を販売し、詐欺で4年8ヶ月の実刑判決を受けた。詐欺により世界中の航空会社でエンジン部品の安全確認が必要となり、多大な損失が発生した。",
+        "why_it_matters": "航空機の安全は厳格な規制に基づいており、偽造部品の流通は乗客・乗務員の生命に直結するリスクを生む。今回の事件はサプライチェーンの信頼性の脆弱性を浮き彫りにし、航空安全および関連規制の強化を求める重大な警鐘となった。",
+        "market_impact": "この詐欺により複数の主要航空会社が機材検査や部品交換を余儀なくされ、運航の大幅な遅延やコスト増が発生。航空業界全体の信用問題にも繋がり、航空機部品の流通管理に対する規制が強化される可能性が高い。加えて詐欺関与者の刑罰および活動禁止は市場の不正抑制に寄与する。",
         "category": "Corporate",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/02/17/berkshire-hathaway-trims-apple-stake-buys-nytimes-stock-in-buffetts-last-moves-as-ceo.html"
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c14mgl4ddr2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Netflix boss defends bid for Warner Bros as Paramount deadline looms",
+        "summary_2lines": "Netflix CEO Ted Sarandos defends its $82.7bn bid for Warner Bros, emphasizing growth and market expansion over Paramount's higher $108.4bn rival offer. The bids reflect competing visions for Warner Bros' future amid an industry shake-up.",
+        "why_it_matters": "この買収合戦は動画配信と映画産業の競争環境の激化と市場再編を示し、巨大スタジオの将来と業界構造に大きな影響を与える可能性が高い。Netflixは成長重視の戦略を掲げる一方、Paramountは短期的な合理化と再編を狙っており、どちらの買収が承認されるかで業界の姿勢や競争の方向性が大きく変わる。",
+        "market_impact": "買収成立により、Netflixは映画製作と配信の両面で資産を獲得し、コンテンツ制作力と市場占有率を強化。Paramountが成功すれば伝統的なテレビ部門の統合とコスト削減で収益性改善を図るが、業界の多様性と競争が縮小する懸念も。投資家の反応や株価に短期的な変動が見込まれ、長期的にはストリーミング市場の覇権争いが激化する可能性が高い。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c20jn073gj4o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
