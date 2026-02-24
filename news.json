@@ -1,150 +1,150 @@
 {
-  "generated_at_jst": "2026-02-24 07:30",
+  "generated_at_jst": "2026-02-25 07:21",
   "todays_brief": [
     {
-      "title": "No 10 says ‘nothing off the table’ over new US tariffs as UK could be among worst hit",
-      "summary_2lines": "英国は米国による新たな15%のグローバル関税に対し、報復措置も辞さない姿勢を示した。米英間の既存の貿易協定は維持される見込みだが、状況は流動的で影響は広範囲に及ぶ可能性がある。",
-      "why_it_matters": "今回の関税引き上げは、トランプ政権の貿易政策の変化によるもので、英国を含む同盟国に大きな経済的打撃を与える恐れがある。特に英国は米国と10%の特別関税を交渉済みであり、これが15%に引き上げられると既存の取り決めが損なわれるため、双方の貿易関係やグローバルな供給チェーンに不確実性が高まる。",
-      "market_impact": "英国企業は対米輸出でコスト上昇や競争力低下が予想され、特に自動車や製薬などの主要産業に影響が大きい。米国の措置が長期化すると、報復関税を含む貿易摩擦が激化し、企業投資や消費活動に悪影響を及ぼす可能性がある。EUも同様に対応を見直しているため、欧米間の貿易関係全般が緊迫化する動きとなる。",
-      "category": "Geopolitics",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Fed officials split on where interest rates should go, minutes say",
-      "summary_2lines": "1月の連邦公開市場委員会（FOMC）で、FRB当局者は金利の今後の方向性をめぐり意見が分かれた。インフレ抑制と労働市場支援のバランスを巡り、利下げ停止で足並みがそろう一方、今後の利上げや利下げの可能性も議論された。",
-      "why_it_matters": "FRBの金利政策は米経済の主要な舵取り役であり、利上げや利下げの方針が市場の資金調達コストや消費・投資行動に直接影響するため重要。今回の意見の分裂は今後の政策運営の不確実性を示し、市場参加者や企業、投資家にとって予測の難しい局面が続くことを意味する。",
-      "market_impact": "政策金利が現状維持される見通しだが、場面によって利上げ再開や利下げ再開の可能性も示唆され、金融市場ではボラティリティが高まる可能性がある。特に株式市場や債券市場は金利見通しの変化に敏感であり、企業の借入コストや消費者信頼感にも影響。加えて、インフレの動向や労働市場の強さに応じた柔軟な政策対応も、市場の中長期的な方向性を左右する要因となる。",
+      "title": "Supreme Court ruling throws Trump administration's tariff strategy into flux. What it means for global trade, U.S. economy",
+      "summary_2lines": "米最高裁判所がトランプ政権の国際緊急経済権限法（IEEPA）に基づく関税措置を違法と判断。これにより米国の貿易政策が不透明となり、世界貿易関係および米経済に悪影響が予想される。",
+      "why_it_matters": "トランプ政権の一連の高関税措置は、国際貿易の摩擦を激化させ、異例の政策運営が外国政府や企業の信頼を損ねている。最高裁の判断はその法的根拠を否定しながらも、米政権が他の法令を用いて独自の関税政策を継続する可能性が高く、今後の不確実性が増すことで企業の投資や雇用、国際取引に悪影響を及ぼすリスクが高い。",
+      "market_impact": "企業は見通しの不透明さから投資抑制や雇用削減に動き、国外パートナーも対米貿易を縮小する可能性がある。EUは対米貿易案件の意思決定を延期し、中国を含む他国への貿易移転が進む兆しも。短期的にはインフレ圧力は限定的だが、中長期的には関税政策の混乱が米経済成長を鈍化させる見込み。",
       "category": "Economy",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/02/18/fed-minutes-january-2026.html"
+      "url": "https://www.cnbc.com/2026/02/23/what-supreme-court-tariff-ruling-means-for-global-trade-us-economy.html"
     },
     {
-      "title": "Illiquid loans, investor demands: Blue Owl's software lending triggers another quake in private credit",
-      "summary_2lines": "Blue Owlはソフトウェア企業向けローン1.4億ドル分をほぼ額面で売却したが、四半期ごとの任意償還を廃止し資本分配に変更したことで市場が動揺した。これが投資家の不安を呼び、同社株価は急落し私的信用市場に緊張が走っている。",
-      "why_it_matters": "私的信用市場は流動性の低い資産を投資家からの換金要求で満たす必要があり、Blue Owlの措置はこの局面でのシステム的リスクや資産流動性の課題を浮き彫りにした。ソフトウェア業界のローンへの依存度が高いことも、テック市場の不安定さと結びつき市場全体への波及を示唆している。",
-      "market_impact": "Blue Owlの資本分配への方針変更により、同社および類似の代替資産運用企業の株価が大幅に下落した。加えて、私的信用市場に対する信用不安が高まり、特にテクノロジー分野の貸付市場での資金調達が困難になる可能性がある。これらはさらなる市場の不安定要因および規制当局の注目を浴びるきっかけとなっている。",
+      "title": "Apple says some Mac Mini production will move to the US",
+      "summary_2lines": "AppleはMac Miniの一部生産を初めて米国のヒューストン工場に移す計画を発表した。これはトランプ政権からの圧力を背景に、米国内生産を拡大する動きの一環である。",
+      "why_it_matters": "米中貿易摩擦や関税引き上げの影響で、Appleはサプライチェーン見直しと米国内生産強化を迫られている。これにより米国内の製造業活性化と雇用創出が期待され、米政府の製造業推進政策と強く連動する内容となっている。",
+      "market_impact": "Appleの生産拠点移転は短期的にはコスト増の可能性があるが、関税負担軽減や政策支援を受けやすくなる。市場ではApple株が好感され2％超上昇し、国内製造業への投資拡大が関連銘柄にも波及効果をもたらす可能性が高い。",
+      "category": "Corporate",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c4g8eq9z2v8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Jamie Dimon says AI is already reshaping JPMorgan Chase's workforce as bank plans 'huge redeployment’",
+      "summary_2lines": "JPMorgan ChaseはAI導入により従業員の職務再配置を計画し、AIによる労働市場の変化に対応しようとしている。CEOのJamie Dimonは社会全体でAIの影響に備える必要性も訴えている。",
+      "why_it_matters": "AI技術の急速な進展は資金力のある大企業の労働構造を大きく変えつつあり、JPMorganのような巨大金融機関が従業員の再配置や効率化で先行している。これはAIがもたらす労働市場の構造変化と社会的な影響の先駆けとなるため重要である。",
+      "market_impact": "JPMorganの積極的なAI活用は業務効率化によるコスト削減と収益増加につながり競争優位を強化するが、一部従業員の職務が自動化されることで再配置や再教育ニーズが増加。投資家は技術投資効果を注視しつつも、労働市場混乱による長期的な経済影響も警戒する可能性がある。",
+      "category": "Corporate",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/02/24/jpm-ceo-jamie-dimon-ai-reshaping-workforce-redeployment.html"
+    },
+    {
+      "title": "PayPal pops nearly 7% on report fintech startup Stripe is weighing an acquisition",
+      "summary_2lines": "フィンテック大手StripeがPayPalの買収を検討しているとの報道を受け、PayPalの株価が約7%上昇した。Stripeは急成長中の非公開企業として、決済市場での影響力拡大を目指している。",
+      "why_it_matters": "PayPalは成長鈍化と株価下落に直面しており、Stripeによる買収検討は業界再編の可能性を示唆している。Stripeは巨額の資金調達と高い評価額を背景に、競争激化する決済分野で存在感を強めているため、両社の動きは市場の注目を集めている。",
+      "market_impact": "PayPalの株価急騰は買収期待による投資家心理の改善を示し、決済業界のM&A活発化を示唆する。Stripeの市場評価の上昇と事業拡大は競争環境を一段と激化させ、決済プラットフォームのシェア争いに影響を及ぼす可能性がある。長期的には業界再編が進み、サービス革新やコスト構造の見直しが促進されるだろう。",
       "category": "Markets",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/02/20/blue-owl-software-lending-private-credit-concerns.html"
+      "url": "https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html"
     },
     {
-      "title": "Netflix boss defends bid for Warner Bros as Paramount deadline looms",
-      "summary_2lines": "Netflix CEO Ted Sarandos defends its $82.7bn bid for Warner Bros, emphasizing growth and market expansion over Paramount's higher $108.4bn rival offer. The bids reflect competing visions for Warner Bros' future amid an industry shake-up.",
-      "why_it_matters": "この買収合戦は動画配信と映画産業の競争環境の激化と市場再編を示し、巨大スタジオの将来と業界構造に大きな影響を与える可能性が高い。Netflixは成長重視の戦略を掲げる一方、Paramountは短期的な合理化と再編を狙っており、どちらの買収が承認されるかで業界の姿勢や競争の方向性が大きく変わる。",
-      "market_impact": "買収成立により、Netflixは映画製作と配信の両面で資産を獲得し、コンテンツ制作力と市場占有率を強化。Paramountが成功すれば伝統的なテレビ部門の統合とコスト削減で収益性改善を図るが、業界の多様性と競争が縮小する懸念も。投資家の反応や株価に短期的な変動が見込まれ、長期的にはストリーミング市場の覇権争いが激化する可能性が高い。",
-      "category": "Corporate",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c20jn073gj4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Company director jailed over £7m airline parts fraud",
-      "summary_2lines": "英国企業の元取締役が偽造書類を使い約7百万ポンド相当の航空機部品を販売し、詐欺で4年8ヶ月の実刑判決を受けた。詐欺により世界中の航空会社でエンジン部品の安全確認が必要となり、多大な損失が発生した。",
-      "why_it_matters": "航空機の安全は厳格な規制に基づいており、偽造部品の流通は乗客・乗務員の生命に直結するリスクを生む。今回の事件はサプライチェーンの信頼性の脆弱性を浮き彫りにし、航空安全および関連規制の強化を求める重大な警鐘となった。",
-      "market_impact": "この詐欺により複数の主要航空会社が機材検査や部品交換を余儀なくされ、運航の大幅な遅延やコスト増が発生。航空業界全体の信用問題にも繋がり、航空機部品の流通管理に対する規制が強化される可能性が高い。加えて詐欺関与者の刑罰および活動禁止は市場の不正抑制に寄与する。",
-      "category": "Corporate",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c14mgl4ddr2o?at_medium=RSS&at_campaign=rss"
+      "title": "Fed's Goolsbee calls for a hold on cuts as current rate of inflation is 'not good enough'",
+      "summary_2lines": "シカゴ連銀総裁グールズビーはインフレ率が2%目標に向かって下がる確証が得られるまでは利下げを控えるべきだと述べた。現在の3%のインフレ率は依然として高く、利下げの前にさらなる慎重な対応が必要だと強調している。",
+      "why_it_matters": "米連邦準備制度理事会（Fed）はインフレ抑制と経済成長のバランスを取る重要な金融政策決定機関であり、そのトップメンバーの発言は政策動向の指針となる。インフレが目標水準に戻らなければ早期の利下げはリスクが高く、経済の先行きや金融市場に大きな影響を与えるため、慎重な姿勢は今後の金融政策の方向性を示唆している。",
+      "market_impact": "利下げが遅れることにより、短期的には借入コストが高止まりし企業の投資抑制や消費減速につながる可能性がある。また、株式市場では成長期待の後退から調整圧力が強まるかもしれない。一方でインフレ抑制期待から長期金利が安定し、金融市場のボラティリティ軽減にも寄与する。ただし、労働市場の堅調さが続けば利下げの必要性はさらに後退する見込みで、全体的に市場は様子見ムードが強まるだろう。",
+      "category": "Economy",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/02/24/feds-goolsbee-calls-for-a-hold-on-cuts-as-current-rate-of-inflation-is-not-good-enough.html"
     }
   ],
   "categories": {
-    "Tech": [],
+    "Tech": [
+      {
+        "title": "Google apologises for Baftas alert to 'see more' on racial slur",
+        "summary_2lines": "Google apologised for sending a Baftas-related news alert containing a racial slur due to failures in its push notification safety system. The company removed the offensive alert quickly and is working to prevent similar incidents.",
+        "why_it_matters": "This incident highlights vulnerabilities in AI-driven content moderation and push notification systems, raising concerns about the potential for unintentional dissemination of offensive language. Given Google News' wide user base, such errors can damage trust and brand reputation, especially amid heightened sensitivity during events like Black History Month.",
+        "market_impact": "While the immediate financial impact is limited due to the alert reaching only a small number of users, repeated failures in content safety could undermine user trust in Google’s news platforms, potentially affecting user engagement and advertising revenues long-term. The event may also prompt increased scrutiny and regulatory attention on tech companies’ content moderation practices.",
+        "category": "Tech",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c3v730qwwzwo?at_medium=RSS&at_campaign=rss"
+      }
+    ],
     "Markets": [
       {
-        "title": "Market volatility trap? Why this income-first strategy may 'leave a lot on the table'",
-        "summary_2lines": "市場のボラティリティにより、配当や債券中心のインカム優先戦略は長期的にリターンを減らす可能性がある。専門家は収益よりも総リターンを重視した投資を勧めている。",
-        "why_it_matters": "多くの個人投資家が不安定な市場環境で安定収入を求めるあまり、リスクの異なる高配当株や高利回り債券に偏りがち。これにより、本来の投資目標やリスク許容度を見失い、長期的成長機会を逃す恐れがあるため重要である。",
-        "market_impact": "投資家がインカムファーストの戦略に固執すると、ポートフォリオに意図しないリスクが増大し、結果として市場全体の資金配分が偏る可能性がある。長期的には市場の効率性や資本配分に歪みを生み出し、特定セクターの過剰評価や調整のリスクを高めることが懸念される。",
+        "title": "PayPal pops nearly 7% on report fintech startup Stripe is weighing an acquisition",
+        "summary_2lines": "フィンテック大手StripeがPayPalの買収を検討しているとの報道を受け、PayPalの株価が約7%上昇した。Stripeは急成長中の非公開企業として、決済市場での影響力拡大を目指している。",
+        "why_it_matters": "PayPalは成長鈍化と株価下落に直面しており、Stripeによる買収検討は業界再編の可能性を示唆している。Stripeは巨額の資金調達と高い評価額を背景に、競争激化する決済分野で存在感を強めているため、両社の動きは市場の注目を集めている。",
+        "market_impact": "PayPalの株価急騰は買収期待による投資家心理の改善を示し、決済業界のM&A活発化を示唆する。Stripeの市場評価の上昇と事業拡大は競争環境を一段と激化させ、決済プラットフォームのシェア争いに影響を及ぼす可能性がある。長期的には業界再編が進み、サービス革新やコスト構造の見直しが促進されるだろう。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/02/21/market-volatility-trap-this-investment-strategy-may-hurt-investors-.html"
+        "url": "https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html"
       },
       {
-        "title": "Illiquid loans, investor demands: Blue Owl's software lending triggers another quake in private credit",
-        "summary_2lines": "Blue Owlはソフトウェア企業向けローン1.4億ドル分をほぼ額面で売却したが、四半期ごとの任意償還を廃止し資本分配に変更したことで市場が動揺した。これが投資家の不安を呼び、同社株価は急落し私的信用市場に緊張が走っている。",
-        "why_it_matters": "私的信用市場は流動性の低い資産を投資家からの換金要求で満たす必要があり、Blue Owlの措置はこの局面でのシステム的リスクや資産流動性の課題を浮き彫りにした。ソフトウェア業界のローンへの依存度が高いことも、テック市場の不安定さと結びつき市場全体への波及を示唆している。",
-        "market_impact": "Blue Owlの資本分配への方針変更により、同社および類似の代替資産運用企業の株価が大幅に下落した。加えて、私的信用市場に対する信用不安が高まり、特にテクノロジー分野の貸付市場での資金調達が困難になる可能性がある。これらはさらなる市場の不安定要因および規制当局の注目を浴びるきっかけとなっている。",
+        "title": "Trump's new tariff comes into effect at lower than expected rate",
+        "summary_2lines": "トランプ大統領の新しい関税は当初予想より低い10%で発効したが、上げる方針は未定のまま混乱が続いている。最高裁判所の判断で昨年の包括的な関税措置は違法とされ、返金請求の動きも強まっている。",
+        "why_it_matters": "トランプ政権の関税政策は米中貿易摩擦の中心であり、為替や貿易関係に大きな影響を及ぼしてきた。今回の関税率の変更や最高裁判決は、米国の貿易政策の法的基盤を問い直すもので、今後の貿易交渉や企業の経営計画に不確実性をもたらす。",
+        "market_impact": "低い関税率は輸入企業や消費者にとって一時的に負担軽減となるが、方針の不透明さと最高裁の違法判決による返金請求の混乱は企業の投資判断を鈍らせる。報復関税リスクも依然高く、グローバルサプライチェーンの混乱や米国の貿易赤字拡大の懸念も続く。",
         "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/02/20/blue-owl-software-lending-private-credit-concerns.html"
-      },
-      {
-        "title": "Here are 3 forces that drove the stock market during Wall Street’s comeback week",
-        "summary_2lines": "先週、株式市場は主要テック株の好調や最高裁の対トランプ緊急関税無効判決に支えられ反発した。一方、Blue Owl Capitalのプライベートクレジット懸念が金融セクターに波紋を広げた。",
-        "why_it_matters": "米最高裁が大統領の大規模関税権限を制限したことで、これまで輸入関税に伴うコスト圧力に苦しんだ消費財関連企業の業績改善が期待される。また、AI需要を背景に大手テック企業の株価回復が示すテクノロジー分野の再活性化は市場センチメントに重要な影響を与える。一方で、Blue Owl Capitalの信用不安は金融セクターのボラティリティリスクを浮き彫りにし、投資家の警戒感を高めている。",
-        "market_impact": "NasdaqやS&P500指数が週単位で上昇し、特にMeta Platforms、Nvidia、Amazonなどの大型テック株が市場の牽引役となった。最高裁判決は消費者向け企業の株価を支え、一部金融株も堅調であったが、Blue Owl Capitalを起因とするプライベートクレジット問題が金融銘柄の一時的下落を招いた。これらの動きは市場全体のリバウンドに寄与しつつ、不確実性も同時に示している。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/02/21/3-forces-that-drove-the-stock-market-during-wall-streets-comeback-week.html"
-      },
-      {
-        "title": "Bitcoin falls to nearly $64,000 as 2026 crypto woes continue",
-        "summary_2lines": "ビットコインは地政学的リスクと貿易関税の不透明感により65,000ドルを下回り、年初から24％下落した。リスク回避の動きで金や銀などの貴金属は上昇している。",
-        "why_it_matters": "ビットコインをはじめとする暗号資産はリスク資産としての位置づけが強く、米中貿易摩擦や中東情勢の緊迫が投資家心理に直結する。これらの不透明要因が続くことで暗号資産市場の変動性が高まり、投資環境にも大きな影響を及ぼすため重要である。",
-        "market_impact": "ビットコイン価格の急落はリスクオン投資からの資金流出を示しており、暗号資産市場全体の資金流動性を圧迫する可能性が高い。対照的に金や銀といった安全資産の需要が高まり、それらの価格上昇につながっている。また、投資家のリスク許容度低下が他のハイリスク資産にも波及する恐れがある。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/02/23/bitcoin-falls-to-nearly-64000-as-2026-crypto-woes-continue-.html"
-      }
-    ],
-    "Geopolitics": [
-      {
-        "title": "No 10 says ‘nothing off the table’ over new US tariffs as UK could be among worst hit",
-        "summary_2lines": "英国は米国による新たな15%のグローバル関税に対し、報復措置も辞さない姿勢を示した。米英間の既存の貿易協定は維持される見込みだが、状況は流動的で影響は広範囲に及ぶ可能性がある。",
-        "why_it_matters": "今回の関税引き上げは、トランプ政権の貿易政策の変化によるもので、英国を含む同盟国に大きな経済的打撃を与える恐れがある。特に英国は米国と10%の特別関税を交渉済みであり、これが15%に引き上げられると既存の取り決めが損なわれるため、双方の貿易関係やグローバルな供給チェーンに不確実性が高まる。",
-        "market_impact": "英国企業は対米輸出でコスト上昇や競争力低下が予想され、特に自動車や製薬などの主要産業に影響が大きい。米国の措置が長期化すると、報復関税を含む貿易摩擦が激化し、企業投資や消費活動に悪影響を及ぼす可能性がある。EUも同様に対応を見直しているため、欧米間の貿易関係全般が緊迫化する動きとなる。",
-        "category": "Geopolitics",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cd6zn3ly22yo?at_medium=RSS&at_campaign=rss"
       }
     ],
+    "Geopolitics": [],
     "Economy": [
       {
-        "title": "When is the Spring Statement and what might be in it?",
-        "summary_2lines": "英国の財務大臣レイチェル・リーブスが3月3日に春季経済見通し（Spring Statement）を発表予定。今回は大きな政策変更は見込まれず、最新の経済成長やインフレ見通しが示される見込み。",
-        "why_it_matters": "春季経済見通しは政府の財政運営の健全性を示す重要な経済予測の発表であり、今後の税制や支出政策の方向性を占う指標となる。今回はOBRの評価が年1回の秋季予算に集約されるため、春の報告は例年より影響力が限定的となるが、市場参加者や政策判断に依然として注目される。",
-        "market_impact": "春季声明で大規模な政策変更が予想されていないため短期的な市場インパクトは限定的。ただし、経済成長の鈍化やインフレ状況の細かな動向は金融政策や企業投資判断に影響を及ぼす可能性がある。政府の財政運営の見通しが堅調であれば国債市場の安定やポンドの信認維持に寄与する。",
+        "title": "Number of workers on zero-hours contracts hits record high ahead of crackdown",
+        "summary_2lines": "2024年の労働党によるゼロ時間契約の規制強化を前に、ゼロ時間契約者数が過去最高の123万人に達した。主に若年層と女性の利用が増え、不安定な雇用形態としての課題が浮き彫りになっている。",
+        "why_it_matters": "ゼロ時間契約は労働者の収入や生活の不安定化を招き、経済的なセーフティネットの欠如や賃金格差の拡大を生んでいる。政治的には労働者保護の強化が求められており、雇用の質改善が社会的・経済的安定に直結するため重要だ。",
+        "market_impact": "規制強化によって企業は労働時間の保証やスケジュール通知の義務付けを迫られ、柔軟な雇用形態の見直しやコスト増が避けられない。若年層を中心とした労働市場の構造変化や、労働者の可処分所得増加による消費拡大にもつながる可能性がある。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c5yv255914xo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/czj1m7d4gxpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Reform vows to overhaul pension schemes for new local government workers",
-        "summary_2lines": "Reform党は新たな地方自治体労働者に対し、より寛大な確定給付年金制度を廃止し、約100の制度を統合して5000億ポンド規模の英国主権富基金を創設する方針を発表。さらに環境政策や労働権の撤廃も掲げている。",
-        "why_it_matters": "地方自治体労働者の年金制度改革は、約700万人の現役・退職者に影響し、公務員の採用・定着に深刻な懸念をもたらす重要政策。また、国内投資拡大を狙った富基金創設や労働・環境政策の見直しは、英国の経済成長戦略と社会保障の枠組みを根本から変える可能性があるため注目される。",
-        "market_impact": "確定給付年金から確定拠出年金への移行は、労働者の退職所得の不確実性を高める一方で、年金資産の国内株式投資比率を大幅に引き上げ、英国企業やインフラ投資の資金調達を促進する可能性がある。ただし、制度不安による公務員の採用難や労働市場の不安定化、環境規制緩和による長期的リスクも考慮が必要で、金融市場や公共サービスにも波及効果が予想される。",
+        "title": "Chocolate kept in anti-theft boxes as shops warn it's being stolen to order",
+        "summary_2lines": "英国の小売店でチョコレートの万引き被害が増加し、防犯ボックスに入れて販売する店舗も出ている。組織的な窃盗で転売目的の犯行が多発しているため、警察や業界団体が対策を強化している。",
+        "why_it_matters": "チョコレートが高額商品として組織的に狙われることで小売店が大きな損失を被っている。窃盗被害は売上減少だけでなく、従業員への暴力や嫌がらせも増加させ、小売業界全体の安全と運営に深刻な影響を与えているから重要だ。",
+        "market_impact": "チョコレートの窃盗被害が増えることで小売側は防犯コスト増や損失分の価格転嫁を余儀なくされる可能性が高い。特に中小のコンビニやスーパーは収益圧迫が強まり、セキュリティ投資が急増。メーカー側も販売チャネルの不安定化やブランドイメージの悪化を招く恐れがある。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c875edj1qeno?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/ce3gqr7p0lqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Fed officials split on where interest rates should go, minutes say",
-        "summary_2lines": "1月の連邦公開市場委員会（FOMC）で、FRB当局者は金利の今後の方向性をめぐり意見が分かれた。インフレ抑制と労働市場支援のバランスを巡り、利下げ停止で足並みがそろう一方、今後の利上げや利下げの可能性も議論された。",
-        "why_it_matters": "FRBの金利政策は米経済の主要な舵取り役であり、利上げや利下げの方針が市場の資金調達コストや消費・投資行動に直接影響するため重要。今回の意見の分裂は今後の政策運営の不確実性を示し、市場参加者や企業、投資家にとって予測の難しい局面が続くことを意味する。",
-        "market_impact": "政策金利が現状維持される見通しだが、場面によって利上げ再開や利下げ再開の可能性も示唆され、金融市場ではボラティリティが高まる可能性がある。特に株式市場や債券市場は金利見通しの変化に敏感であり、企業の借入コストや消費者信頼感にも影響。加えて、インフレの動向や労働市場の強さに応じた柔軟な政策対応も、市場の中長期的な方向性を左右する要因となる。",
+        "title": "Supreme Court ruling throws Trump administration's tariff strategy into flux. What it means for global trade, U.S. economy",
+        "summary_2lines": "米最高裁判所がトランプ政権の国際緊急経済権限法（IEEPA）に基づく関税措置を違法と判断。これにより米国の貿易政策が不透明となり、世界貿易関係および米経済に悪影響が予想される。",
+        "why_it_matters": "トランプ政権の一連の高関税措置は、国際貿易の摩擦を激化させ、異例の政策運営が外国政府や企業の信頼を損ねている。最高裁の判断はその法的根拠を否定しながらも、米政権が他の法令を用いて独自の関税政策を継続する可能性が高く、今後の不確実性が増すことで企業の投資や雇用、国際取引に悪影響を及ぼすリスクが高い。",
+        "market_impact": "企業は見通しの不透明さから投資抑制や雇用削減に動き、国外パートナーも対米貿易を縮小する可能性がある。EUは対米貿易案件の意思決定を延期し、中国を含む他国への貿易移転が進む兆しも。短期的にはインフレ圧力は限定的だが、中長期的には関税政策の混乱が米経済成長を鈍化させる見込み。",
         "category": "Economy",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/02/18/fed-minutes-january-2026.html"
+        "url": "https://www.cnbc.com/2026/02/23/what-supreme-court-tariff-ruling-means-for-global-trade-us-economy.html"
+      },
+      {
+        "title": "Jamie Dimon says 'watch out’ as lofty asset prices add to economic risks: ‘My anxiety is high’",
+        "summary_2lines": "JPMorganのCEOジェイミー・ダイモンは現在の高い資産価格が経済リスクを増大させていると警告し、不安を示した。特にAI関連ソフトウェア企業への貸付が信用リスクの焦点になる可能性を指摘した。",
+        "why_it_matters": "米国経済において資産バブルや信用リスクが高まる中、金融業界のトップが2008年危機前の状況に類似すると警鐘を鳴らしたことは、市場参加者に対する重要な注意喚起となる。こうした見解は今後の経済サイクルの転換点や信用環境の変化に対する準備を促すため、投資家や政策決定者に影響を与える。",
+        "market_impact": "現在の高評価資産価格が崩れた場合、特にAI関連のソフトウェア企業向け融資を中心に信用不安が波及し、貸し手や関連資産運用会社の株価下落や信用締め付けを引き起こすリスクがある。市場全体としては、信用リスクの拡大が信用コスト上昇や資金調達環境の悪化を招き、経済成長の鈍化に繋がる可能性がある。",
+        "category": "Economy",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/23/jamie-dimon-says-watch-out-as-high-asset-prices-add-to-economic-risks-my-anxiety-is-high.html"
+      },
+      {
+        "title": "Fed's Goolsbee calls for a hold on cuts as current rate of inflation is 'not good enough'",
+        "summary_2lines": "シカゴ連銀総裁グールズビーはインフレ率が2%目標に向かって下がる確証が得られるまでは利下げを控えるべきだと述べた。現在の3%のインフレ率は依然として高く、利下げの前にさらなる慎重な対応が必要だと強調している。",
+        "why_it_matters": "米連邦準備制度理事会（Fed）はインフレ抑制と経済成長のバランスを取る重要な金融政策決定機関であり、そのトップメンバーの発言は政策動向の指針となる。インフレが目標水準に戻らなければ早期の利下げはリスクが高く、経済の先行きや金融市場に大きな影響を与えるため、慎重な姿勢は今後の金融政策の方向性を示唆している。",
+        "market_impact": "利下げが遅れることにより、短期的には借入コストが高止まりし企業の投資抑制や消費減速につながる可能性がある。また、株式市場では成長期待の後退から調整圧力が強まるかもしれない。一方でインフレ抑制期待から長期金利が安定し、金融市場のボラティリティ軽減にも寄与する。ただし、労働市場の堅調さが続けば利下げの必要性はさらに後退する見込みで、全体的に市場は様子見ムードが強まるだろう。",
+        "category": "Economy",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/24/feds-goolsbee-calls-for-a-hold-on-cuts-as-current-rate-of-inflation-is-not-good-enough.html"
       }
     ],
     "Corporate": [
       {
-        "title": "Company director jailed over £7m airline parts fraud",
-        "summary_2lines": "英国企業の元取締役が偽造書類を使い約7百万ポンド相当の航空機部品を販売し、詐欺で4年8ヶ月の実刑判決を受けた。詐欺により世界中の航空会社でエンジン部品の安全確認が必要となり、多大な損失が発生した。",
-        "why_it_matters": "航空機の安全は厳格な規制に基づいており、偽造部品の流通は乗客・乗務員の生命に直結するリスクを生む。今回の事件はサプライチェーンの信頼性の脆弱性を浮き彫りにし、航空安全および関連規制の強化を求める重大な警鐘となった。",
-        "market_impact": "この詐欺により複数の主要航空会社が機材検査や部品交換を余儀なくされ、運航の大幅な遅延やコスト増が発生。航空業界全体の信用問題にも繋がり、航空機部品の流通管理に対する規制が強化される可能性が高い。加えて詐欺関与者の刑罰および活動禁止は市場の不正抑制に寄与する。",
+        "title": "Jamie Dimon says AI is already reshaping JPMorgan Chase's workforce as bank plans 'huge redeployment’",
+        "summary_2lines": "JPMorgan ChaseはAI導入により従業員の職務再配置を計画し、AIによる労働市場の変化に対応しようとしている。CEOのJamie Dimonは社会全体でAIの影響に備える必要性も訴えている。",
+        "why_it_matters": "AI技術の急速な進展は資金力のある大企業の労働構造を大きく変えつつあり、JPMorganのような巨大金融機関が従業員の再配置や効率化で先行している。これはAIがもたらす労働市場の構造変化と社会的な影響の先駆けとなるため重要である。",
+        "market_impact": "JPMorganの積極的なAI活用は業務効率化によるコスト削減と収益増加につながり競争優位を強化するが、一部従業員の職務が自動化されることで再配置や再教育ニーズが増加。投資家は技術投資効果を注視しつつも、労働市場混乱による長期的な経済影響も警戒する可能性がある。",
         "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c14mgl4ddr2o?at_medium=RSS&at_campaign=rss"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/24/jpm-ceo-jamie-dimon-ai-reshaping-workforce-redeployment.html"
       },
       {
-        "title": "Netflix boss defends bid for Warner Bros as Paramount deadline looms",
-        "summary_2lines": "Netflix CEO Ted Sarandos defends its $82.7bn bid for Warner Bros, emphasizing growth and market expansion over Paramount's higher $108.4bn rival offer. The bids reflect competing visions for Warner Bros' future amid an industry shake-up.",
-        "why_it_matters": "この買収合戦は動画配信と映画産業の競争環境の激化と市場再編を示し、巨大スタジオの将来と業界構造に大きな影響を与える可能性が高い。Netflixは成長重視の戦略を掲げる一方、Paramountは短期的な合理化と再編を狙っており、どちらの買収が承認されるかで業界の姿勢や競争の方向性が大きく変わる。",
-        "market_impact": "買収成立により、Netflixは映画製作と配信の両面で資産を獲得し、コンテンツ制作力と市場占有率を強化。Paramountが成功すれば伝統的なテレビ部門の統合とコスト削減で収益性改善を図るが、業界の多様性と競争が縮小する懸念も。投資家の反応や株価に短期的な変動が見込まれ、長期的にはストリーミング市場の覇権争いが激化する可能性が高い。",
+        "title": "Apple says some Mac Mini production will move to the US",
+        "summary_2lines": "AppleはMac Miniの一部生産を初めて米国のヒューストン工場に移す計画を発表した。これはトランプ政権からの圧力を背景に、米国内生産を拡大する動きの一環である。",
+        "why_it_matters": "米中貿易摩擦や関税引き上げの影響で、Appleはサプライチェーン見直しと米国内生産強化を迫られている。これにより米国内の製造業活性化と雇用創出が期待され、米政府の製造業推進政策と強く連動する内容となっている。",
+        "market_impact": "Appleの生産拠点移転は短期的にはコスト増の可能性があるが、関税負担軽減や政策支援を受けやすくなる。市場ではApple株が好感され2％超上昇し、国内製造業への投資拡大が関連銘柄にも波及効果をもたらす可能性が高い。",
         "category": "Corporate",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c20jn073gj4o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c4g8eq9z2v8o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
