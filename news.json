@@ -1,150 +1,150 @@
 {
-  "generated_at_jst": "2026-02-25 07:21",
+  "generated_at_jst": "2026-02-26 07:20",
   "todays_brief": [
     {
-      "title": "Supreme Court ruling throws Trump administration's tariff strategy into flux. What it means for global trade, U.S. economy",
-      "summary_2lines": "米最高裁判所がトランプ政権の国際緊急経済権限法（IEEPA）に基づく関税措置を違法と判断。これにより米国の貿易政策が不透明となり、世界貿易関係および米経済に悪影響が予想される。",
-      "why_it_matters": "トランプ政権の一連の高関税措置は、国際貿易の摩擦を激化させ、異例の政策運営が外国政府や企業の信頼を損ねている。最高裁の判断はその法的根拠を否定しながらも、米政権が他の法令を用いて独自の関税政策を継続する可能性が高く、今後の不確実性が増すことで企業の投資や雇用、国際取引に悪影響を及ぼすリスクが高い。",
-      "market_impact": "企業は見通しの不透明さから投資抑制や雇用削減に動き、国外パートナーも対米貿易を縮小する可能性がある。EUは対米貿易案件の意思決定を延期し、中国を含む他国への貿易移転が進む兆しも。短期的にはインフレ圧力は限定的だが、中長期的には関税政策の混乱が米経済成長を鈍化させる見込み。",
-      "category": "Economy",
+      "title": "The global M&A boom is rolling into 2026 as AI sparks deal frenzy — but cash is getting tight",
+      "summary_2lines": "2025年の世界的なM&Aブームは2026年にも続き、AIが大型取引を活性化させている。しかし、資金調達環境が厳しくなり、経営陣はより選択的な意思決定を迫られている。",
+      "why_it_matters": "世界経済の不確実性や地政学的リスクが高まる中、企業は成長のためにポートフォリオの再評価と技術革新推進が急務となっている。AIの需要増加がM&A市場を活性化する一方で、資金面の制約は業界の再編成を促す鍵となっているため、市場動向の重要な指標となる。",
+      "market_impact": "資本の厳しい状況下でM&A市場は大型取引や成長戦略に集中し、プライベートエクイティなどの私的資金が取引を支える役割を強める。企業は資金配分の優先順位を見直し、ディシプリンドな投資判断やビジネスモデルの変革を余儀なくされることで、市場の競争環境や業界構造に大きな影響を与える。",
+      "category": "Markets",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/02/23/what-supreme-court-tariff-ruling-means-for-global-trade-us-economy.html"
-    },
-    {
-      "title": "Apple says some Mac Mini production will move to the US",
-      "summary_2lines": "AppleはMac Miniの一部生産を初めて米国のヒューストン工場に移す計画を発表した。これはトランプ政権からの圧力を背景に、米国内生産を拡大する動きの一環である。",
-      "why_it_matters": "米中貿易摩擦や関税引き上げの影響で、Appleはサプライチェーン見直しと米国内生産強化を迫られている。これにより米国内の製造業活性化と雇用創出が期待され、米政府の製造業推進政策と強く連動する内容となっている。",
-      "market_impact": "Appleの生産拠点移転は短期的にはコスト増の可能性があるが、関税負担軽減や政策支援を受けやすくなる。市場ではApple株が好感され2％超上昇し、国内製造業への投資拡大が関連銘柄にも波及効果をもたらす可能性が高い。",
-      "category": "Corporate",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c4g8eq9z2v8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Jamie Dimon says AI is already reshaping JPMorgan Chase's workforce as bank plans 'huge redeployment’",
-      "summary_2lines": "JPMorgan ChaseはAI導入により従業員の職務再配置を計画し、AIによる労働市場の変化に対応しようとしている。CEOのJamie Dimonは社会全体でAIの影響に備える必要性も訴えている。",
-      "why_it_matters": "AI技術の急速な進展は資金力のある大企業の労働構造を大きく変えつつあり、JPMorganのような巨大金融機関が従業員の再配置や効率化で先行している。これはAIがもたらす労働市場の構造変化と社会的な影響の先駆けとなるため重要である。",
-      "market_impact": "JPMorganの積極的なAI活用は業務効率化によるコスト削減と収益増加につながり競争優位を強化するが、一部従業員の職務が自動化されることで再配置や再教育ニーズが増加。投資家は技術投資効果を注視しつつも、労働市場混乱による長期的な経済影響も警戒する可能性がある。",
-      "category": "Corporate",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/02/24/jpm-ceo-jamie-dimon-ai-reshaping-workforce-redeployment.html"
+      "url": "https://www.cnbc.com/2026/02/25/global-ma-boom-surges-2026-ai-mega-deals-capital-squeeze-merger-and-acquisition.html"
     },
     {
       "title": "PayPal pops nearly 7% on report fintech startup Stripe is weighing an acquisition",
-      "summary_2lines": "フィンテック大手StripeがPayPalの買収を検討しているとの報道を受け、PayPalの株価が約7%上昇した。Stripeは急成長中の非公開企業として、決済市場での影響力拡大を目指している。",
-      "why_it_matters": "PayPalは成長鈍化と株価下落に直面しており、Stripeによる買収検討は業界再編の可能性を示唆している。Stripeは巨額の資金調達と高い評価額を背景に、競争激化する決済分野で存在感を強めているため、両社の動きは市場の注目を集めている。",
-      "market_impact": "PayPalの株価急騰は買収期待による投資家心理の改善を示し、決済業界のM&A活発化を示唆する。Stripeの市場評価の上昇と事業拡大は競争環境を一段と激化させ、決済プラットフォームのシェア争いに影響を及ぼす可能性がある。長期的には業界再編が進み、サービス革新やコスト構造の見直しが促進されるだろう。",
+      "summary_2lines": "フィンテック大手StripeがPayPalの買収を検討しているとの報道を受け、PayPalの株価が約7％急騰した。Stripeは現在1590億ドルの評価額を持ち、事業拡大を続けている。",
+      "why_it_matters": "PayPalは成長鈍化と株価下落に苦しんでいる一方、Stripeは急成長中で業界の勢力図を塗り替えつつある。Stripeによる買収検討は決済業界の競争構造を大きく変える可能性があるため、注目されている。",
+      "market_impact": "PayPal株の急騰は市場の期待を反映し、企業価値の再評価を促す可能性がある。また、Stripeのさらなる資金調達や買収活動によりフィンテック業界の統合が加速し、競争激化により他の決済サービス企業にも波及効果が及ぶことが予想される。",
       "category": "Markets",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html"
     },
     {
-      "title": "Fed's Goolsbee calls for a hold on cuts as current rate of inflation is 'not good enough'",
-      "summary_2lines": "シカゴ連銀総裁グールズビーはインフレ率が2%目標に向かって下がる確証が得られるまでは利下げを控えるべきだと述べた。現在の3%のインフレ率は依然として高く、利下げの前にさらなる慎重な対応が必要だと強調している。",
-      "why_it_matters": "米連邦準備制度理事会（Fed）はインフレ抑制と経済成長のバランスを取る重要な金融政策決定機関であり、そのトップメンバーの発言は政策動向の指針となる。インフレが目標水準に戻らなければ早期の利下げはリスクが高く、経済の先行きや金融市場に大きな影響を与えるため、慎重な姿勢は今後の金融政策の方向性を示唆している。",
-      "market_impact": "利下げが遅れることにより、短期的には借入コストが高止まりし企業の投資抑制や消費減速につながる可能性がある。また、株式市場では成長期待の後退から調整圧力が強まるかもしれない。一方でインフレ抑制期待から長期金利が安定し、金融市場のボラティリティ軽減にも寄与する。ただし、労働市場の堅調さが続けば利下げの必要性はさらに後退する見込みで、全体的に市場は様子見ムードが強まるだろう。",
+      "title": "Household energy bills to fall in April after charges shake-up",
+      "summary_2lines": "4月から規制当局Ofgemがエネルギー料金の価格上限を7％引き下げ、一般家庭のエネルギー料金が月約10ポンド安くなる。政府の補助策や価格上昇要因の調整により、典型的な家庭の年額電気・ガス料金は117ポンド減少する見込み。",
+      "why_it_matters": "エネルギー価格は家計負担に直結する生活必需品で、ウクライナ情勢による価格高騰で多くの家庭が影響を受けてきた。今回の価格上限引き下げは、インフレ抑制や生活支援の一環であり、消費者の家計負担軽減や経済の安定化につながる重要な政策変化である。",
+      "market_impact": "エネルギー料金の引き下げは消費者の可処分所得を増やし、他分野での消費拡大を促す可能性がある。一方で、電力・ガスのインフラコスト増加に伴いエネルギー供給会社の収益や投資計画に影響を及ぼす可能性がある。競争促進で顧客のスイッチング増加も市場の活性化を示唆している。",
       "category": "Economy",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump makes little mention of China in the longest State of the Union speech",
+      "summary_2lines": "トランプ大統領は、就任以来初めて国情演説で中国を直接名指しせず、3月末の北京訪問を控えて米中関係の安定を重視する姿勢を示した。演説では中国関連の貿易摩擦や軍事問題には触れず、選挙戦略上の配慮がうかがえる。",
+      "why_it_matters": "トランプ氏は過去の演説で中国を厳しく批判してきたが、今回の発言抑制は米中関係の緊張緩和を図る戦略的な動きで、米中貿易や外交政策の今後に大きな影響を与える可能性がある。3月の訪中を通して経済協力や合意が成立すれば、米国内の政治基盤強化にもつながるため注目される。",
+      "market_impact": "米中間の貿易摩擦緩和期待が高まることで、関連企業の不確実性が低減し、サプライチェーンや製造業の安定化・成長が見込まれる。一方で、米国の関税政策にはまだ不透明感が残り、特にレアアースなど戦略的資源の供給リスクは依然として市場で警戒される状況が続く。",
+      "category": "Geopolitics",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/02/24/feds-goolsbee-calls-for-a-hold-on-cuts-as-current-rate-of-inflation-is-not-good-enough.html"
+      "url": "https://www.cnbc.com/2026/02/25/trump-china-state-of-the-union-speech.html"
+    },
+    {
+      "title": "Prediction market Kalshi fines MrBeast editor over insider trading",
+      "summary_2lines": "予測市場KalshiはMrBeastの動画編集者がインサイダー取引を行ったとして2万ドル以上の罰金と2年間の取引停止処分を科した。元カリフォルニア州知事候補も自身の選挙に賭けたため5年間の停止処分を受けた。",
+      "why_it_matters": "予測市場はスポーツや政治など多様なイベントの結果に賭ける人気が高まる一方で、インサイダー情報を利用した不正取引の懸念が増している。従来の株式市場ほど規制が整っておらず、不正行為の抑止や信頼性確保が課題となっているため、主要プラットフォームが違反者を厳正に処分したことは業界の健全性維持に重要な意味を持つ。",
+      "market_impact": "Kalshiの対応は予測市場に対する規制強化や内部監視の強化の流れを促進する可能性があり、利用者の信頼回復につながる。これにより市場の健全性が高まり将来的な取引参加者の拡大が期待される一方で、インサイダー取引発覚時の評判低下リスクも存在する。業界全体での透明性向上とコンプライアンス強化が急務となる。",
+      "category": "Markets",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c77ed1e2r6zo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "categories": {
-    "Tech": [
-      {
-        "title": "Google apologises for Baftas alert to 'see more' on racial slur",
-        "summary_2lines": "Google apologised for sending a Baftas-related news alert containing a racial slur due to failures in its push notification safety system. The company removed the offensive alert quickly and is working to prevent similar incidents.",
-        "why_it_matters": "This incident highlights vulnerabilities in AI-driven content moderation and push notification systems, raising concerns about the potential for unintentional dissemination of offensive language. Given Google News' wide user base, such errors can damage trust and brand reputation, especially amid heightened sensitivity during events like Black History Month.",
-        "market_impact": "While the immediate financial impact is limited due to the alert reaching only a small number of users, repeated failures in content safety could undermine user trust in Google’s news platforms, potentially affecting user engagement and advertising revenues long-term. The event may also prompt increased scrutiny and regulatory attention on tech companies’ content moderation practices.",
-        "category": "Tech",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c3v730qwwzwo?at_medium=RSS&at_campaign=rss"
-      }
-    ],
+    "Tech": [],
     "Markets": [
       {
         "title": "PayPal pops nearly 7% on report fintech startup Stripe is weighing an acquisition",
-        "summary_2lines": "フィンテック大手StripeがPayPalの買収を検討しているとの報道を受け、PayPalの株価が約7%上昇した。Stripeは急成長中の非公開企業として、決済市場での影響力拡大を目指している。",
-        "why_it_matters": "PayPalは成長鈍化と株価下落に直面しており、Stripeによる買収検討は業界再編の可能性を示唆している。Stripeは巨額の資金調達と高い評価額を背景に、競争激化する決済分野で存在感を強めているため、両社の動きは市場の注目を集めている。",
-        "market_impact": "PayPalの株価急騰は買収期待による投資家心理の改善を示し、決済業界のM&A活発化を示唆する。Stripeの市場評価の上昇と事業拡大は競争環境を一段と激化させ、決済プラットフォームのシェア争いに影響を及ぼす可能性がある。長期的には業界再編が進み、サービス革新やコスト構造の見直しが促進されるだろう。",
+        "summary_2lines": "フィンテック大手StripeがPayPalの買収を検討しているとの報道を受け、PayPalの株価が約7％急騰した。Stripeは現在1590億ドルの評価額を持ち、事業拡大を続けている。",
+        "why_it_matters": "PayPalは成長鈍化と株価下落に苦しんでいる一方、Stripeは急成長中で業界の勢力図を塗り替えつつある。Stripeによる買収検討は決済業界の競争構造を大きく変える可能性があるため、注目されている。",
+        "market_impact": "PayPal株の急騰は市場の期待を反映し、企業価値の再評価を促す可能性がある。また、Stripeのさらなる資金調達や買収活動によりフィンテック業界の統合が加速し、競争激化により他の決済サービス企業にも波及効果が及ぶことが予想される。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html"
       },
       {
-        "title": "Trump's new tariff comes into effect at lower than expected rate",
-        "summary_2lines": "トランプ大統領の新しい関税は当初予想より低い10%で発効したが、上げる方針は未定のまま混乱が続いている。最高裁判所の判断で昨年の包括的な関税措置は違法とされ、返金請求の動きも強まっている。",
-        "why_it_matters": "トランプ政権の関税政策は米中貿易摩擦の中心であり、為替や貿易関係に大きな影響を及ぼしてきた。今回の関税率の変更や最高裁判決は、米国の貿易政策の法的基盤を問い直すもので、今後の貿易交渉や企業の経営計画に不確実性をもたらす。",
-        "market_impact": "低い関税率は輸入企業や消費者にとって一時的に負担軽減となるが、方針の不透明さと最高裁の違法判決による返金請求の混乱は企業の投資判断を鈍らせる。報復関税リスクも依然高く、グローバルサプライチェーンの混乱や米国の貿易赤字拡大の懸念も続く。",
+        "title": "Register now: Applications open for the World's Top Fintech Companies 2026",
+        "summary_2lines": "CNBCとStatistaが共催する「World's Top Fintech Companies 2026」の参加申込が開始。新たに規制技術（RegTech）セグメントが追加され、応募締切は2026年4月24日。",
+        "why_it_matters": "フィンテック分野は単なる挑戦者から世界金融システムの中核へと成長し、AI技術の進展も追い風となっている。業界のトップ企業を選出することで、業界の動向把握や新たな投資・提携機会の創出につながるため重要だ。",
+        "market_impact": "リスト選出は企業の認知度や評価向上に寄与し、資金調達やビジネス拡大を促進する可能性が高い。特に規制技術が独立セグメントになることで、関連スタートアップや既存企業への注目と投資が増加し、フィンテック市場の多様化と成長が期待される。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/25/cnbc-worlds-top-fintech-companies-2026-apply-now.html"
+      },
+      {
+        "title": "Prediction market Kalshi fines MrBeast editor over insider trading",
+        "summary_2lines": "予測市場KalshiはMrBeastの動画編集者がインサイダー取引を行ったとして2万ドル以上の罰金と2年間の取引停止処分を科した。元カリフォルニア州知事候補も自身の選挙に賭けたため5年間の停止処分を受けた。",
+        "why_it_matters": "予測市場はスポーツや政治など多様なイベントの結果に賭ける人気が高まる一方で、インサイダー情報を利用した不正取引の懸念が増している。従来の株式市場ほど規制が整っておらず、不正行為の抑止や信頼性確保が課題となっているため、主要プラットフォームが違反者を厳正に処分したことは業界の健全性維持に重要な意味を持つ。",
+        "market_impact": "Kalshiの対応は予測市場に対する規制強化や内部監視の強化の流れを促進する可能性があり、利用者の信頼回復につながる。これにより市場の健全性が高まり将来的な取引参加者の拡大が期待される一方で、インサイダー取引発覚時の評判低下リスクも存在する。業界全体での透明性向上とコンプライアンス強化が急務となる。",
         "category": "Markets",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cd6zn3ly22yo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c77ed1e2r6zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Are collectibles a viable asset class? The buyer of the $16.5 million Pokémon card thinks so",
+        "summary_2lines": "希少なポケモンカード「ピカチュウイラストレーター」が約1,650万ドルで落札され、NFTやアート以外のコレクティブルズが新たな資産クラスとして注目されている。投資家やコレクターは、価値の上昇やインフレヘッジの手段としてカード収集に熱視線を送っている。",
+        "why_it_matters": "従来の金融資産とは異なる実物の希少価値に基づくコレクティブルズが、投資対象として成長している点が注目される。コレクティブルズの市場拡大は、資産運用の多様化やインフレ・通貨価値下落への対応策として資産家の関心を集めているため、資産クラスの新潮流を示す重要なトレンドとなっている。",
+        "market_impact": "トレーディングカード市場の流動性・価格上昇が加速し、関連プラットフォーム（eBay等）の取扱高増加や新規顧客の参入を促進。これにより、従来の株式市場や伝統的資産運用以外の資金が流入し、マーケットの多様化が進む。一方、流動性の低さや高い税率などリスクも顕在化し、投資家は慎重なリスク管理が求められる。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/25/pokmon-card-winner-scaramucci-says-collectibles-are-asset-class.html"
+      },
+      {
+        "title": "The global M&A boom is rolling into 2026 as AI sparks deal frenzy — but cash is getting tight",
+        "summary_2lines": "2025年の世界的なM&Aブームは2026年にも続き、AIが大型取引を活性化させている。しかし、資金調達環境が厳しくなり、経営陣はより選択的な意思決定を迫られている。",
+        "why_it_matters": "世界経済の不確実性や地政学的リスクが高まる中、企業は成長のためにポートフォリオの再評価と技術革新推進が急務となっている。AIの需要増加がM&A市場を活性化する一方で、資金面の制約は業界の再編成を促す鍵となっているため、市場動向の重要な指標となる。",
+        "market_impact": "資本の厳しい状況下でM&A市場は大型取引や成長戦略に集中し、プライベートエクイティなどの私的資金が取引を支える役割を強める。企業は資金配分の優先順位を見直し、ディシプリンドな投資判断やビジネスモデルの変革を余儀なくされることで、市場の競争環境や業界構造に大きな影響を与える。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/25/global-ma-boom-surges-2026-ai-mega-deals-capital-squeeze-merger-and-acquisition.html"
       }
     ],
-    "Geopolitics": [],
+    "Geopolitics": [
+      {
+        "title": "Trump makes little mention of China in the longest State of the Union speech",
+        "summary_2lines": "トランプ大統領は、就任以来初めて国情演説で中国を直接名指しせず、3月末の北京訪問を控えて米中関係の安定を重視する姿勢を示した。演説では中国関連の貿易摩擦や軍事問題には触れず、選挙戦略上の配慮がうかがえる。",
+        "why_it_matters": "トランプ氏は過去の演説で中国を厳しく批判してきたが、今回の発言抑制は米中関係の緊張緩和を図る戦略的な動きで、米中貿易や外交政策の今後に大きな影響を与える可能性がある。3月の訪中を通して経済協力や合意が成立すれば、米国内の政治基盤強化にもつながるため注目される。",
+        "market_impact": "米中間の貿易摩擦緩和期待が高まることで、関連企業の不確実性が低減し、サプライチェーンや製造業の安定化・成長が見込まれる。一方で、米国の関税政策にはまだ不透明感が残り、特にレアアースなど戦略的資源の供給リスクは依然として市場で警戒される状況が続く。",
+        "category": "Geopolitics",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/25/trump-china-state-of-the-union-speech.html"
+      }
+    ],
     "Economy": [
       {
-        "title": "Number of workers on zero-hours contracts hits record high ahead of crackdown",
-        "summary_2lines": "2024年の労働党によるゼロ時間契約の規制強化を前に、ゼロ時間契約者数が過去最高の123万人に達した。主に若年層と女性の利用が増え、不安定な雇用形態としての課題が浮き彫りになっている。",
-        "why_it_matters": "ゼロ時間契約は労働者の収入や生活の不安定化を招き、経済的なセーフティネットの欠如や賃金格差の拡大を生んでいる。政治的には労働者保護の強化が求められており、雇用の質改善が社会的・経済的安定に直結するため重要だ。",
-        "market_impact": "規制強化によって企業は労働時間の保証やスケジュール通知の義務付けを迫られ、柔軟な雇用形態の見直しやコスト増が避けられない。若年層を中心とした労働市場の構造変化や、労働者の可処分所得増加による消費拡大にもつながる可能性がある。",
+        "title": "Household energy bills to fall in April after charges shake-up",
+        "summary_2lines": "4月から規制当局Ofgemがエネルギー料金の価格上限を7％引き下げ、一般家庭のエネルギー料金が月約10ポンド安くなる。政府の補助策や価格上昇要因の調整により、典型的な家庭の年額電気・ガス料金は117ポンド減少する見込み。",
+        "why_it_matters": "エネルギー価格は家計負担に直結する生活必需品で、ウクライナ情勢による価格高騰で多くの家庭が影響を受けてきた。今回の価格上限引き下げは、インフレ抑制や生活支援の一環であり、消費者の家計負担軽減や経済の安定化につながる重要な政策変化である。",
+        "market_impact": "エネルギー料金の引き下げは消費者の可処分所得を増やし、他分野での消費拡大を促す可能性がある。一方で、電力・ガスのインフラコスト増加に伴いエネルギー供給会社の収益や投資計画に影響を及ぼす可能性がある。競争促進で顧客のスイッチング増加も市場の活性化を示唆している。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/czj1m7d4gxpo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Chocolate kept in anti-theft boxes as shops warn it's being stolen to order",
-        "summary_2lines": "英国の小売店でチョコレートの万引き被害が増加し、防犯ボックスに入れて販売する店舗も出ている。組織的な窃盗で転売目的の犯行が多発しているため、警察や業界団体が対策を強化している。",
-        "why_it_matters": "チョコレートが高額商品として組織的に狙われることで小売店が大きな損失を被っている。窃盗被害は売上減少だけでなく、従業員への暴力や嫌がらせも増加させ、小売業界全体の安全と運営に深刻な影響を与えているから重要だ。",
-        "market_impact": "チョコレートの窃盗被害が増えることで小売側は防犯コスト増や損失分の価格転嫁を余儀なくされる可能性が高い。特に中小のコンビニやスーパーは収益圧迫が強まり、セキュリティ投資が急増。メーカー側も販売チャネルの不安定化やブランドイメージの悪化を招く恐れがある。",
+        "title": "Faisal Islam: Is Reeves right in saying we're turning a corner?",
+        "summary_2lines": "イギリスのエネルギー料金が約7％引き下げられ、経済が回復の兆しを見せていると財務大臣レイヴスが述べた。エネルギー料金の減少は政府の政策によるもので、家計の負担軽減を狙っている。",
+        "why_it_matters": "エネルギー料金の引き下げは家計のコストプレスを緩和し、消費者や企業の信頼感向上につながる可能性がある。これにより、インフレ抑制や経済成長の回復期待が高まり、英国経済の先行きを左右する重要な節目となるため注目されている。",
+        "market_impact": "エネルギーコストの削減は消費者支出を促進し、サービス業や小売業の活性化に寄与する。一方で、政府の税制変更により所得税の逆進性が高まる懸念もあり、企業の人件費や消費者の可処分所得に対する影響は続く。今後の経済指標により市場のセンチメントが変動する可能性が高い。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/ce3gqr7p0lqo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Supreme Court ruling throws Trump administration's tariff strategy into flux. What it means for global trade, U.S. economy",
-        "summary_2lines": "米最高裁判所がトランプ政権の国際緊急経済権限法（IEEPA）に基づく関税措置を違法と判断。これにより米国の貿易政策が不透明となり、世界貿易関係および米経済に悪影響が予想される。",
-        "why_it_matters": "トランプ政権の一連の高関税措置は、国際貿易の摩擦を激化させ、異例の政策運営が外国政府や企業の信頼を損ねている。最高裁の判断はその法的根拠を否定しながらも、米政権が他の法令を用いて独自の関税政策を継続する可能性が高く、今後の不確実性が増すことで企業の投資や雇用、国際取引に悪影響を及ぼすリスクが高い。",
-        "market_impact": "企業は見通しの不透明さから投資抑制や雇用削減に動き、国外パートナーも対米貿易を縮小する可能性がある。EUは対米貿易案件の意思決定を延期し、中国を含む他国への貿易移転が進む兆しも。短期的にはインフレ圧力は限定的だが、中長期的には関税政策の混乱が米経済成長を鈍化させる見込み。",
-        "category": "Economy",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/02/23/what-supreme-court-tariff-ruling-means-for-global-trade-us-economy.html"
-      },
-      {
-        "title": "Jamie Dimon says 'watch out’ as lofty asset prices add to economic risks: ‘My anxiety is high’",
-        "summary_2lines": "JPMorganのCEOジェイミー・ダイモンは現在の高い資産価格が経済リスクを増大させていると警告し、不安を示した。特にAI関連ソフトウェア企業への貸付が信用リスクの焦点になる可能性を指摘した。",
-        "why_it_matters": "米国経済において資産バブルや信用リスクが高まる中、金融業界のトップが2008年危機前の状況に類似すると警鐘を鳴らしたことは、市場参加者に対する重要な注意喚起となる。こうした見解は今後の経済サイクルの転換点や信用環境の変化に対する準備を促すため、投資家や政策決定者に影響を与える。",
-        "market_impact": "現在の高評価資産価格が崩れた場合、特にAI関連のソフトウェア企業向け融資を中心に信用不安が波及し、貸し手や関連資産運用会社の株価下落や信用締め付けを引き起こすリスクがある。市場全体としては、信用リスクの拡大が信用コスト上昇や資金調達環境の悪化を招き、経済成長の鈍化に繋がる可能性がある。",
-        "category": "Economy",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/02/23/jamie-dimon-says-watch-out-as-high-asset-prices-add-to-economic-risks-my-anxiety-is-high.html"
-      },
-      {
-        "title": "Fed's Goolsbee calls for a hold on cuts as current rate of inflation is 'not good enough'",
-        "summary_2lines": "シカゴ連銀総裁グールズビーはインフレ率が2%目標に向かって下がる確証が得られるまでは利下げを控えるべきだと述べた。現在の3%のインフレ率は依然として高く、利下げの前にさらなる慎重な対応が必要だと強調している。",
-        "why_it_matters": "米連邦準備制度理事会（Fed）はインフレ抑制と経済成長のバランスを取る重要な金融政策決定機関であり、そのトップメンバーの発言は政策動向の指針となる。インフレが目標水準に戻らなければ早期の利下げはリスクが高く、経済の先行きや金融市場に大きな影響を与えるため、慎重な姿勢は今後の金融政策の方向性を示唆している。",
-        "market_impact": "利下げが遅れることにより、短期的には借入コストが高止まりし企業の投資抑制や消費減速につながる可能性がある。また、株式市場では成長期待の後退から調整圧力が強まるかもしれない。一方でインフレ抑制期待から長期金利が安定し、金融市場のボラティリティ軽減にも寄与する。ただし、労働市場の堅調さが続けば利下げの必要性はさらに後退する見込みで、全体的に市場は様子見ムードが強まるだろう。",
-        "category": "Economy",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/02/24/feds-goolsbee-calls-for-a-hold-on-cuts-as-current-rate-of-inflation-is-not-good-enough.html"
+        "url": "https://www.bbc.com/news/articles/c5y6820nn23o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Corporate": [
       {
-        "title": "Jamie Dimon says AI is already reshaping JPMorgan Chase's workforce as bank plans 'huge redeployment’",
-        "summary_2lines": "JPMorgan ChaseはAI導入により従業員の職務再配置を計画し、AIによる労働市場の変化に対応しようとしている。CEOのJamie Dimonは社会全体でAIの影響に備える必要性も訴えている。",
-        "why_it_matters": "AI技術の急速な進展は資金力のある大企業の労働構造を大きく変えつつあり、JPMorganのような巨大金融機関が従業員の再配置や効率化で先行している。これはAIがもたらす労働市場の構造変化と社会的な影響の先駆けとなるため重要である。",
-        "market_impact": "JPMorganの積極的なAI活用は業務効率化によるコスト削減と収益増加につながり競争優位を強化するが、一部従業員の職務が自動化されることで再配置や再教育ニーズが増加。投資家は技術投資効果を注視しつつも、労働市場混乱による長期的な経済影響も警戒する可能性がある。",
-        "category": "Corporate",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/02/24/jpm-ceo-jamie-dimon-ai-reshaping-workforce-redeployment.html"
-      },
-      {
-        "title": "Apple says some Mac Mini production will move to the US",
-        "summary_2lines": "AppleはMac Miniの一部生産を初めて米国のヒューストン工場に移す計画を発表した。これはトランプ政権からの圧力を背景に、米国内生産を拡大する動きの一環である。",
-        "why_it_matters": "米中貿易摩擦や関税引き上げの影響で、Appleはサプライチェーン見直しと米国内生産強化を迫られている。これにより米国内の製造業活性化と雇用創出が期待され、米政府の製造業推進政策と強く連動する内容となっている。",
-        "market_impact": "Appleの生産拠点移転は短期的にはコスト増の可能性があるが、関税負担軽減や政策支援を受けやすくなる。市場ではApple株が好感され2％超上昇し、国内製造業への投資拡大が関連銘柄にも波及効果をもたらす可能性が高い。",
+        "title": "Tesco to cut 180 jobs within its head office",
+        "summary_2lines": "Tescoは本社の180人分の職を削減しつつ、新たに250の役割を設ける計画を発表した。これは顧客の購買習慣の変化に対応するための組織再編の一環である。",
+        "why_it_matters": "小売業界はオンラインショッピングの普及など顧客行動の変化に直面しており、効率性と敏捷性を高めることが競争力維持の鍵となっている。Tescoの今回の人員調整は、市場や消費者ニーズの変化に企業が戦略的に対応しようとしている明確な表れである。",
+        "market_impact": "本社の人員削減は短期的にはコスト削減に寄与し、利益率の向上が期待される。しかし、組織の再構築による内部混乱や労働組合との交渉リスクも存在し、企業イメージに対する影響も注視される。長期的には、変化する消費者行動に適応した体制構築が市場シェア維持・拡大に貢献する可能性が高い。",
         "category": "Corporate",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c4g8eq9z2v8o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/ce8w42p2dero?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "John Lewis pulls out of housebuilding business",
+        "summary_2lines": "John Lewisは住宅建設事業から撤退し、約1,000戸の住宅建設計画を中止すると発表しました。借入コストや建設費用の上昇が事業継続を困難にしたため、事業を整理し小売業に専念します。",
+        "why_it_matters": "John Lewisの住宅事業撤退は、近年の高騰する建設費用や厳しくなる規制環境が住宅開発業界に与える圧力を象徴しています。また、同社がコアの小売業務に集中することで収益体質の改善を図る狙いがあり、経営環境の変化に対応した戦略転換の一例です。",
+        "market_impact": "住宅建設からの撤退はJohn Lewisの財務健全性強化に寄与すると見られ、投資家からはコア事業への集中として評価される可能性があります。一方で、住宅開発市場全体の需要減退や資金調達難の傾向を裏付けており、同業他社にも慎重な事業運営を促すでしょう。ロンドンの住宅市場低迷も改めて注目される材料です。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/crl45dp1gg5o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
