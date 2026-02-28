@@ -1,68 +1,59 @@
 {
-  "generated_at_jst": "2026-02-28 07:12",
+  "generated_at_jst": "2026-03-01 07:12",
   "todays_brief": [
     {
-      "title": "Government to give go-ahead for £1bn defence helicopter deal",
-      "summary_2lines": "英国政府が1億ポンド規模の防衛用ヘリコプター23機の購入契約を正式承認する見込み。英国唯一の軍用ヘリ工場であるイタリア企業レオナルドのソマセット工場の将来と3,000人の雇用維持がかかる重要案件。",
-      "why_it_matters": "この契約は英国の防衛力強化と国内雇用維持を図るものであり、政府の安全保障政策と地域経済支援の両立を示す事例。防衛関連支出を増やす首相の方針や労働組合の圧力も背景にあり、産業基盤の維持と安全保障の観点で重要な意味を持つ。",
-      "market_impact": "レオナルドのYeovil工場と関連サプライチェーンの安定した受注が確定し、3,000人の直接雇用と9,000人の間接雇用が守られる。防衛産業に対する政府の投資継続が示され、株主や関連企業に好材料。防衛装備の更新と国内生産維持が市場に安心感を与える可能性が高い。",
-      "category": "Corporate",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c75e14k64dvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Nvidia still hasn't sold its U.S.-approved China AI chips — and it’s worried local AI rivals could take over",
-      "summary_2lines": "Nvidiaは米政府の承認を得た中国向けAIチップH200の販売が進まず、収益回復に苦戦している。中国のAIチップメーカーが急成長し、Nvidiaにとって競争が激化している。",
-      "why_it_matters": "米中間の輸出規制と地政学的緊張が半導体・AI技術の供給と競争環境に大きな影響を及ぼしている。Nvidiaの売上減少は米国の技術優位の維持にとってリスクであり、中国のAI企業の台頭も世界の技術勢力図を変えうる重要な動きである。",
-      "market_impact": "Nvidiaの中国売上減少が短期的に収益圧迫要因となりうる一方、中国のAIチップメーカーの成長はグローバルなAI技術競争を激化させ、投資家の注目が中国市場やAI関連株に移る可能性が高い。長期的には中国製AI技術の普及が米国主導の市場構造を揺るがす恐れがある。",
-      "category": "Tech",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/02/26/nvidia-china-chip-sales-export-controls-ai-competition.html"
-    },
-    {
-      "title": "MP Materials selects Texas for rare earth magnet manufacturing site",
-      "summary_2lines": "MP Materialsはテキサス州ノースレイクに12.5億ドルのレアアース磁石製造拠点「10X」を建設、2028年の稼働開始を目指す。同社はこれにより年間1万トンの磁石生産能力を確保し、米国の希少資源供給自立を強化する。",
-      "why_it_matters": "稀少なレアアース資源はハイテク製品や防衛技術に不可欠であり、中国が世界供給の90%以上を掌握する状況で、輸出制限によるサプライチェーンの脆弱性が露呈。米国は安全保障上の懸念から国内供給網の強化を急務としており、MP Materialsの新工場は政府と民間の協力に基づく重要な一歩となる。",
-      "market_impact": "この新施設は米国内のレアアース磁石の生産依存を緩和し、中国からの輸入減少に対応可能。製造業や技術企業に安定した磁石供給が期待でき、自動車や電子機器産業にとって材料調達リスクの低減とコスト安定化につながる。また、1500人の新規雇用創出で地域経済にも貢献。国防省との連携で安定的な需要が保証され、企業価値向上や投資誘致効果も見込まれる。",
-      "category": "Geopolitics",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/02/26/mp-materials-selects-texas-for-rare-earth-magnet-manufacturing-site.html"
-    },
-    {
       "title": "Trump orders government to stop using Anthropic in battle over AI use",
-      "summary_2lines": "トランプ前大統領は連邦政府に対し、AI開発企業Anthropicの技術使用を即刻停止するよう指示した。Anthropicは米国国防総省からのAI利用に関する介入要求を拒否しており、両者の対立が激化している。",
-      "why_it_matters": "AI技術の軍事・国内治安利用を巡る企業と政府の対立は、AI倫理や安全保障面の重要な課題を浮き彫りにしている。政府の強硬姿勢と企業側の自主規制志向がぶつかることで、今後のAI技術の利用範囲や規制の方向性に影響を与える可能性が高い。",
-      "market_impact": "AnthropicをはじめAI関連企業の政府との契約や市場戦略に不確実性が生じるとともに、競合のOpenAIも同様の倫理的線引きを示す状況が業界全体のリスク管理の潮流を強めている。これにより軍事利用に慎重なAI企業が支持を得つつ、政府調達への影響で一部企業の収益や事業展開に影響が出る可能性がある。",
+      "summary_2lines": "トランプ前大統領は政府に対し、AI開発企業Anthropicの技術利用を即座に停止するよう指示した。これは同社が米軍への無制限アクセス要求を拒否し、供給網リスクに指定されたことによる対立の一環である。",
+      "why_it_matters": "米政府とAI企業Anthropicの対立は、軍事利用におけるAI技術の制約や倫理問題を浮き彫りにしている。特に監視や自律兵器に関する懸念が、各企業と政府の協力関係に影響を与え、AI政策の方向性に重大な示唆をもたらす。",
+      "market_impact": "Anthropicが政府との契約を失うことで同社の収益や成長にマイナス影響が見込まれる。また、軍事利用に慎重な姿勢を示すAI企業の立場が強調され、競合他社との差別化や今後の契約戦略に新たな局面が生まれる可能性がある。さらに、米軍のAI調達戦略の再検討や規制強化も予想される。",
       "category": "Tech",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "MP Materials selects Texas for rare earth magnet manufacturing site",
+      "summary_2lines": "MP Materialsはテキサス州ノースレイクに12.5億ドルのレアアース磁石製造施設「10X」を建設し、年間7,000トンの生産を目指す。これは米国のレアアース磁石の輸入依存を低減し、国防省向け供給を強化する狙いがある。",
+      "why_it_matters": "レアアースはハイテク製品や軍需品の基幹資源だが、中国が供給の90%以上を占めており、輸出規制による供給不安が露呈している。米国が国内生産を強化することで、国家安全保障と産業競争力の維持を図ろうとしている点で重要だ。",
+      "market_impact": "MP Materialsの新工場稼働により、米国のレアアース磁石の生産能力が大幅に増強され、輸入依存削減が進む。これにより関連企業のサプライチェーン安定化や国防産業の強化が期待され、投資および雇用創出の波及効果も見込まれる。",
+      "category": "Geopolitics",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/02/26/mp-materials-selects-texas-for-rare-earth-magnet-manufacturing-site.html"
+    },
+    {
       "title": "Paramount set for $111bn Warner Bros takeover after Netflix drops bid",
-      "summary_2lines": "NetflixがWarner Bros Discoveryの買収提案を撤回し、Paramount Skydanceが約1110億ドルで買収に向けて優勢となった。規制当局の審査が残るものの、メディア業界の大規模再編の可能性が高まっている。",
-      "why_it_matters": "Hollywoodを代表するスタジオWarner Brosの売却は、ストリーミングと従来メディアの市場競争を大きく変える可能性があり、メディア業界全体の再編を示唆している。さらに、買収をめぐる政治的・規制面の問題も多く、合意が実現すれば今後の業界構造に影響を与える。",
-      "market_impact": "Paramountによる買収は競合他社の戦略に影響を及ぼし、メディア・エンターテイメント市場の集中度が高まる。規制当局の審査次第では取引への障害もあるが、成功すればメディア所有権の大幅な再編が進み、企業価値や株価にも大きな影響を与える可能性がある。また、CNNなど報道機関の経営体制にも変化が予想される。",
+      "summary_2lines": "NetflixがWarner Bros Discovery買収の提案を撤回し、Paramountが約1110億ドルでの買収をほぼ確実にした。米規制当局の審査を控え、ハリウッドのメディア再編が進展中。",
+      "why_it_matters": "Warner Brosというハリウッドの歴史的なスタジオの買収合戦は、NetflixとParamountという業界の主要プレイヤー間で繰り広げられ、メディア業界の勢力図を大きく変える可能性がある。加えて、米国の規制当局による審査や政治的背景も絡み、メディアと政治の関係性が注目されている。",
+      "market_impact": "ParamountのWarner Bros買収が成立すれば、巨大なコンテンツ資産の統合によってストリーミングや広告収入の競争が激化し、市場での力関係が再編される。CNNの将来にも影響が及ぶ可能性があり、さらに規制当局の審査結果によってはディールの成否やメディア業界の取引慣行に影響が出ることが予想される。",
       "category": "Corporate",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "UBS downgrades the U.S. stock market. Here's what has the investment bank worried",
+      "summary_2lines": "UBSのトップ株式ストラテジストが米国株を格下げし、ドルの弱含みや過大評価、米政局の不安定さを懸念しています。海外市場の好調や買戻し効果の減少も米株の重しとなっています。",
+      "why_it_matters": "これまで米株を押し上げてきたドル高や企業買戻しによる株主還元が弱まることで、米国市場の相対的な魅力が低下し、投資資金が海外へ流出するリスクが増しています。また、不透明な政策環境は投資家の信頼を損ない、世界経済の資産配分にも影響を及ぼすため注目されます。",
+      "market_impact": "米国株の価格調整圧力が強まり、S&P500は他国市場に比べてパフォーマンスが低迷すると予想されます。ドル安傾向が継続すれば輸出企業には追い風ですが、輸入コスト上昇やインフレ懸念は残存。政策の不確実性により、投資家はリスクオフ姿勢を強め、一部セクターで資金流入の鈍化が懸念されます。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/02/27/ubs-downgrades-the-us-stock-market-heres-what-has-the-investment-bank-worried.html"
+    },
+    {
+      "title": "Government to give go-ahead for £1bn defence helicopter deal",
+      "summary_2lines": "英国政府は約10億ポンドの防衛用ヘリコプター23機の契約を承認予定。イタリア企業レオナルドの英国イェーヴィル工場の将来と3,000人の雇用が守られる見込み。",
+      "why_it_matters": "この契約承認は英国最後の軍用ヘリコプター製造拠点の存続を意味し、地域の雇用維持と防衛力強化を両立させる重要な決定。政府の防衛投資計画の一環であり、国内産業保護と安全保障強化の文脈で注目される。",
+      "market_impact": "防衛産業への大型投資が示されることで、関連サプライチェーン企業や労働市場にプラスの影響。地元経済の安定化と技術継承が期待され、イタリアのレオナルド社にも英国市場での強固な地位維持につながる。",
+      "category": "Geopolitics",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c75e14k64dvo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "categories": {
     "Tech": [
       {
-        "title": "Nvidia still hasn't sold its U.S.-approved China AI chips — and it’s worried local AI rivals could take over",
-        "summary_2lines": "Nvidiaは米政府の承認を得た中国向けAIチップH200の販売が進まず、収益回復に苦戦している。中国のAIチップメーカーが急成長し、Nvidiaにとって競争が激化している。",
-        "why_it_matters": "米中間の輸出規制と地政学的緊張が半導体・AI技術の供給と競争環境に大きな影響を及ぼしている。Nvidiaの売上減少は米国の技術優位の維持にとってリスクであり、中国のAI企業の台頭も世界の技術勢力図を変えうる重要な動きである。",
-        "market_impact": "Nvidiaの中国売上減少が短期的に収益圧迫要因となりうる一方、中国のAIチップメーカーの成長はグローバルなAI技術競争を激化させ、投資家の注目が中国市場やAI関連株に移る可能性が高い。長期的には中国製AI技術の普及が米国主導の市場構造を揺るがす恐れがある。",
-        "category": "Tech",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/02/26/nvidia-china-chip-sales-export-controls-ai-competition.html"
-      },
-      {
         "title": "Trump orders government to stop using Anthropic in battle over AI use",
-        "summary_2lines": "トランプ前大統領は連邦政府に対し、AI開発企業Anthropicの技術使用を即刻停止するよう指示した。Anthropicは米国国防総省からのAI利用に関する介入要求を拒否しており、両者の対立が激化している。",
-        "why_it_matters": "AI技術の軍事・国内治安利用を巡る企業と政府の対立は、AI倫理や安全保障面の重要な課題を浮き彫りにしている。政府の強硬姿勢と企業側の自主規制志向がぶつかることで、今後のAI技術の利用範囲や規制の方向性に影響を与える可能性が高い。",
-        "market_impact": "AnthropicをはじめAI関連企業の政府との契約や市場戦略に不確実性が生じるとともに、競合のOpenAIも同様の倫理的線引きを示す状況が業界全体のリスク管理の潮流を強めている。これにより軍事利用に慎重なAI企業が支持を得つつ、政府調達への影響で一部企業の収益や事業展開に影響が出る可能性がある。",
+        "summary_2lines": "トランプ前大統領は政府に対し、AI開発企業Anthropicの技術利用を即座に停止するよう指示した。これは同社が米軍への無制限アクセス要求を拒否し、供給網リスクに指定されたことによる対立の一環である。",
+        "why_it_matters": "米政府とAI企業Anthropicの対立は、軍事利用におけるAI技術の制約や倫理問題を浮き彫りにしている。特に監視や自律兵器に関する懸念が、各企業と政府の協力関係に影響を与え、AI政策の方向性に重大な示唆をもたらす。",
+        "market_impact": "Anthropicが政府との契約を失うことで同社の収益や成長にマイナス影響が見込まれる。また、軍事利用に慎重な姿勢を示すAI企業の立場が強調され、競合他社との差別化や今後の契約戦略に新たな局面が生まれる可能性がある。さらに、米軍のAI調達戦略の再検討や規制強化も予想される。",
         "category": "Tech",
         "source": "BBC Business",
         "url": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss"
@@ -70,82 +61,90 @@
     ],
     "Markets": [
       {
-        "title": "Not all strategies belong in an ETF wrapper. Here's why",
-        "summary_2lines": "ETFは効率的な投資手段だが、全ての戦略がETFに適しているわけではなく、特に非伝統的戦略の間で淘汰が進んでいる。AI関連ETFも単純なテーマ型から投資プロセスの中核に進化しつつある。",
-        "why_it_matters": "ETFの多様化が進む中、競合の激しい非伝統的戦略やテーマ型ETFの過剰供給は投資家に適切な選択を求める動きを促し、業界の健全な成熟を促す背景がある。革新的な商品開発は市場ニーズの変化やマクロ環境を反映し、投資家自身の判断力と運用者の能力がより重要となっているためだ。",
-        "market_impact": "非伝統的ETF戦略の淘汰・統合が進むことで、市場ではパフォーマンスが高く信頼された商品のシェア拡大が見込まれ、消費者はより透明で効率的な商品にアクセスできる。一方で過剰なコピー戦略が減少し、市場の混乱が抑えられる可能性がある。また、AI技術の投資プロセスへの統合により、ETFの運用手法が高度化し、競争力や成長機会が拡大するだろう。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/02/27/crowded-market-themes-may-have-no-place-in-etfs-.html"
-      },
-      {
         "title": "UBS downgrades the U.S. stock market. Here's what has the investment bank worried",
-        "summary_2lines": "UBSは米株の見通しを引き下げ、ドル安や高水準なバリュエーション、米国の政策不安をリスク要因として挙げた。一方で、AI分野の成長期待は引き続き米国市場を支えると見ている。",
-        "why_it_matters": "米国株は長年の強さを背景に多くの資金を集めてきたが、ドルの下落や米国に比べ割安な海外市場への資金シフト、政策の不透明感により、その優位性が揺らぎ始めている。投資家は今後のリターンやリスク評価を見直す必要があるため、この見解は市場心理に大きな影響を与える。",
-        "market_impact": "ドル安による米国株の相対的なパフォーマンス低下や、企業の自社株買い減少による成長支援力の弱化が予想される。加えて、バリュエーションの割高感と政策変動リスクが投資マインドを冷やし、資金流出やボラティリティの増加を招く可能性がある。一方で、AI関連産業への期待は米国株の下支え要因となり、セクターや銘柄を選別した投資機会を生むだろう。",
+        "summary_2lines": "UBSのトップ株式ストラテジストが米国株を格下げし、ドルの弱含みや過大評価、米政局の不安定さを懸念しています。海外市場の好調や買戻し効果の減少も米株の重しとなっています。",
+        "why_it_matters": "これまで米株を押し上げてきたドル高や企業買戻しによる株主還元が弱まることで、米国市場の相対的な魅力が低下し、投資資金が海外へ流出するリスクが増しています。また、不透明な政策環境は投資家の信頼を損ない、世界経済の資産配分にも影響を及ぼすため注目されます。",
+        "market_impact": "米国株の価格調整圧力が強まり、S&P500は他国市場に比べてパフォーマンスが低迷すると予想されます。ドル安傾向が継続すれば輸出企業には追い風ですが、輸入コスト上昇やインフレ懸念は残存。政策の不確実性により、投資家はリスクオフ姿勢を強め、一部セクターで資金流入の鈍化が懸念されます。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/02/27/ubs-downgrades-the-us-stock-market-heres-what-has-the-investment-bank-worried.html"
+      },
+      {
+        "title": "Not all strategies belong in an ETF wrapper. Here's why",
+        "summary_2lines": "ETFにすべての投資戦略を詰め込むのは適切でなく、非伝統的ETF戦略の淘汰が始まっている。投資家には適時に戦略を選択する責任が増し、AI活用によるETF運用の革新も進んでいる。",
+        "why_it_matters": "市場の多様な投資ニーズに対応するためETFの扱いは拡大しているが、過剰なテーマ追随や類似商品の氾濫はパフォーマンス低下や選択の複雑化を招く。投資家の判断力強化と戦略の取捨選択が求められる中、AI技術の導入による運用の質向上も期待されている。",
+        "market_impact": "非伝統的ETF戦略の集中と淘汰が進むことで、パフォーマンスの良い商品への資金集中と市場の成熟が促される。類似戦略の整理により発行会社の競争環境が変わり、AI活用による運用効率化や商品差別化も進展。これによってETF市場の革新が加速し、投資家の選択肢と責任が拡大する見込み。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/27/crowded-market-themes-may-have-no-place-in-etfs-.html"
       }
     ],
     "Geopolitics": [
       {
+        "title": "Government to give go-ahead for £1bn defence helicopter deal",
+        "summary_2lines": "英国政府は約10億ポンドの防衛用ヘリコプター23機の契約を承認予定。イタリア企業レオナルドの英国イェーヴィル工場の将来と3,000人の雇用が守られる見込み。",
+        "why_it_matters": "この契約承認は英国最後の軍用ヘリコプター製造拠点の存続を意味し、地域の雇用維持と防衛力強化を両立させる重要な決定。政府の防衛投資計画の一環であり、国内産業保護と安全保障強化の文脈で注目される。",
+        "market_impact": "防衛産業への大型投資が示されることで、関連サプライチェーン企業や労働市場にプラスの影響。地元経済の安定化と技術継承が期待され、イタリアのレオナルド社にも英国市場での強固な地位維持につながる。",
+        "category": "Geopolitics",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c75e14k64dvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "MP Materials selects Texas for rare earth magnet manufacturing site",
-        "summary_2lines": "MP Materialsはテキサス州ノースレイクに12.5億ドルのレアアース磁石製造拠点「10X」を建設、2028年の稼働開始を目指す。同社はこれにより年間1万トンの磁石生産能力を確保し、米国の希少資源供給自立を強化する。",
-        "why_it_matters": "稀少なレアアース資源はハイテク製品や防衛技術に不可欠であり、中国が世界供給の90%以上を掌握する状況で、輸出制限によるサプライチェーンの脆弱性が露呈。米国は安全保障上の懸念から国内供給網の強化を急務としており、MP Materialsの新工場は政府と民間の協力に基づく重要な一歩となる。",
-        "market_impact": "この新施設は米国内のレアアース磁石の生産依存を緩和し、中国からの輸入減少に対応可能。製造業や技術企業に安定した磁石供給が期待でき、自動車や電子機器産業にとって材料調達リスクの低減とコスト安定化につながる。また、1500人の新規雇用創出で地域経済にも貢献。国防省との連携で安定的な需要が保証され、企業価値向上や投資誘致効果も見込まれる。",
+        "summary_2lines": "MP Materialsはテキサス州ノースレイクに12.5億ドルのレアアース磁石製造施設「10X」を建設し、年間7,000トンの生産を目指す。これは米国のレアアース磁石の輸入依存を低減し、国防省向け供給を強化する狙いがある。",
+        "why_it_matters": "レアアースはハイテク製品や軍需品の基幹資源だが、中国が供給の90%以上を占めており、輸出規制による供給不安が露呈している。米国が国内生産を強化することで、国家安全保障と産業競争力の維持を図ろうとしている点で重要だ。",
+        "market_impact": "MP Materialsの新工場稼働により、米国のレアアース磁石の生産能力が大幅に増強され、輸入依存削減が進む。これにより関連企業のサプライチェーン安定化や国防産業の強化が期待され、投資および雇用創出の波及効果も見込まれる。",
         "category": "Geopolitics",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/02/26/mp-materials-selects-texas-for-rare-earth-magnet-manufacturing-site.html"
       }
     ],
-    "Economy": [
-      {
-        "title": "China holiday spending sends a strong signal on consumer stimulus plans",
-        "summary_2lines": "中国の春節期間の消費が回復傾向を示し、大規模な経済刺激策の必要性が低下している。消費は伝統的な物品よりも旅行やエンタメなど体験型サービスに集中している。",
-        "why_it_matters": "コロナ後の中国経済回復が続く中で、政府の大規模な刺激策に頼らずとも市場の自律的な回復力が示されている。所得向上や消費の質的変化が、その持続的な成長を支える重要な要素となっているため、政策の方向性を見極める上で示唆が得られる。",
-        "market_impact": "旅行・ホスピタリティ企業の需要増加や免税品販売の拡大が顕著で、これら関連企業の業績にプラス材料。一方で消費意欲は価格に敏感であり、物価面でのデフレ圧力も依然存在。投資家は政府の刺激策の追加余地が少ないことを踏まえ、内需回復を中心とした中長期の経済動向を注視する必要がある。",
-        "category": "Economy",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/02/26/china-lunar-new-year-holiday-spending-signal-consumer-stimulus-outlook.html"
-      }
-    ],
+    "Economy": [],
     "Corporate": [
       {
-        "title": "Government to give go-ahead for £1bn defence helicopter deal",
-        "summary_2lines": "英国政府が1億ポンド規模の防衛用ヘリコプター23機の購入契約を正式承認する見込み。英国唯一の軍用ヘリ工場であるイタリア企業レオナルドのソマセット工場の将来と3,000人の雇用維持がかかる重要案件。",
-        "why_it_matters": "この契約は英国の防衛力強化と国内雇用維持を図るものであり、政府の安全保障政策と地域経済支援の両立を示す事例。防衛関連支出を増やす首相の方針や労働組合の圧力も背景にあり、産業基盤の維持と安全保障の観点で重要な意味を持つ。",
-        "market_impact": "レオナルドのYeovil工場と関連サプライチェーンの安定した受注が確定し、3,000人の直接雇用と9,000人の間接雇用が守られる。防衛産業に対する政府の投資継続が示され、株主や関連企業に好材料。防衛装備の更新と国内生産維持が市場に安心感を与える可能性が高い。",
+        "title": "Berkshire Hathaway operating earnings fell nearly 30% in Warren Buffett's final quarter as CEO",
+        "summary_2lines": "バークシャー・ハサウェイの2025年第4四半期の営業利益は保険事業の不調で前年同期比約29%減少した。ウォーレン・バフェットによる最後の四半期で、グレッグ・エイベルが2026年からCEOに就任した。",
+        "why_it_matters": "バークシャーは世界最大級のコングロマリットであり、その業績動向は保険業界や投資市場全体に大きな影響を持つ。バフェット退任による経営変化も注目されており、投資家心理や戦略転換の可能性を示す重要な節目となる。",
+        "market_impact": "保険関連収益の減少や株式投資の減益は短期的に業績圧迫要因となるが、長期的な経営方針継承が示されているため市場の信頼維持につながる可能性がある。株価は前年に比べ上昇率でS&P500に劣るが、依然として高い累積収益率が強みとなっている。",
+        "category": "Corporate",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/28/berkshire-hathaway-brka-q4-2025-earnings.html"
+      },
+      {
+        "title": "What the Warner Bros deal could mean for streaming, cinemas and news",
+        "summary_2lines": "ParamountがWarner Brosを買収する提案は、ストリーミング市場の競争構造や映画館の経営、ニュースメディアの報道姿勢に大きな影響を与える可能性がある。規制当局の承認が必要で、実現には時間がかかる見込みだ。",
+        "why_it_matters": "この買収は、ストリーミングサービスの統合による価格変動やコンテンツの質・量の変化、映画館需要の維持、さらにはニュース業界における報道の独立性へと影響が及ぶ可能性があり、消費者や業界全体にとって重要な転換点となるため注目されている。",
+        "market_impact": "ストリーミングサービスの統合により一時的な料金割引が期待されるものの、中長期的には価格上昇や競争減少のリスクがある。映画館ビジネスにはNetflixによる直接配信とは異なり、チケット収入維持で緩やかな支援となる一方、コスト削減や負債増加で制作タイトル数は縮小される可能性が高い。また、CNNの経営権移譲は報道内容に政治的影響を及ぼす懸念を生んでいる。",
         "category": "Corporate",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c75e14k64dvo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c20j5n2w4q6o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Brewdog expected to announce sale early next week",
-        "summary_2lines": "スコットランドのクラフトビール大手Brewdogが、経営不振を受けて事業売却を来週早々に発表予定。小口投資家は売却後に出資価値が大幅減少する可能性を懸念している。",
-        "why_it_matters": "Brewdogはクラフトビール市場で急成長を遂げ、エクイティ・フォー・パンクスのクラウドファンディングで多くの個人投資家が出資してきたが、近年の損失や経営方針の転換により資金回収の不透明感が拡大。業界におけるクラフトビール熱や投資家保護の課題が浮き彫りとなる事例だから。",
-        "market_impact": "売却に伴い、経営再建の可能性がある一方で、小口株主は損失リスクが高まる。イギリスのクラフトビール業界や関連小規模投資の信頼性低下を招く恐れがあり、他のクラフトビール企業や類似の投資モデルに波及効果が出る可能性がある。また、雇用や店舗営業の継続性にも不透明感が残る。",
+        "summary_2lines": "スク Scottish craft beer giant Brewdogは来週初めに事業売却を発表予定で、ドイツ事業は除外し清算する。過去の赤字やエクイティ投資家の懸念を背景に、経営再編と売却が進む。",
+        "why_it_matters": "Brewdogはクラフトビール市場で国際的に拡大してきたが、近年の巨額赤字や不採算事業の整理、従業員賃金をめぐる批判など複数の経営課題を抱えており、売却は業界やクラウドファンディング投資家にとって大きな転換点となる。特に一般投資家が損失を被る可能性が懸念され、企業ガバナンスや資金調達手法の課題も浮き彫りとなっている。",
+        "market_impact": "売却によりBrewdogの事業体制が大幅に変わり、店舗やブランド運営に不確実性が増す。投資家保護の問題を含め、英国を中心にクラフトビール業界の競争環境に影響を及ぼす可能性がある。資金調達方法としてのエクイティ・フォー・パンクスの信用低下や投資家心理の冷え込みも市場全体に波及し得る。",
         "category": "Corporate",
         "source": "BBC Business",
         "url": "https://www.bbc.com/news/articles/c07jmmgyx19o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Paramount set for $111bn Warner Bros takeover after Netflix drops bid",
-        "summary_2lines": "NetflixがWarner Bros Discoveryの買収提案を撤回し、Paramount Skydanceが約1110億ドルで買収に向けて優勢となった。規制当局の審査が残るものの、メディア業界の大規模再編の可能性が高まっている。",
-        "why_it_matters": "Hollywoodを代表するスタジオWarner Brosの売却は、ストリーミングと従来メディアの市場競争を大きく変える可能性があり、メディア業界全体の再編を示唆している。さらに、買収をめぐる政治的・規制面の問題も多く、合意が実現すれば今後の業界構造に影響を与える。",
-        "market_impact": "Paramountによる買収は競合他社の戦略に影響を及ぼし、メディア・エンターテイメント市場の集中度が高まる。規制当局の審査次第では取引への障害もあるが、成功すればメディア所有権の大幅な再編が進み、企業価値や株価にも大きな影響を与える可能性がある。また、CNNなど報道機関の経営体制にも変化が予想される。",
+        "summary_2lines": "NetflixがWarner Bros Discovery買収の提案を撤回し、Paramountが約1110億ドルでの買収をほぼ確実にした。米規制当局の審査を控え、ハリウッドのメディア再編が進展中。",
+        "why_it_matters": "Warner Brosというハリウッドの歴史的なスタジオの買収合戦は、NetflixとParamountという業界の主要プレイヤー間で繰り広げられ、メディア業界の勢力図を大きく変える可能性がある。加えて、米国の規制当局による審査や政治的背景も絡み、メディアと政治の関係性が注目されている。",
+        "market_impact": "ParamountのWarner Bros買収が成立すれば、巨大なコンテンツ資産の統合によってストリーミングや広告収入の競争が激化し、市場での力関係が再編される。CNNの将来にも影響が及ぶ可能性があり、さらに規制当局の審査結果によってはディールの成否やメディア業界の取引慣行に影響が出ることが予想される。",
         "category": "Corporate",
         "source": "BBC Business",
         "url": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "What the Warner Bros deal could mean for streaming, cinemas and news",
-        "summary_2lines": "パラマウント・スカイダンスによるワーナー・ブラザース買収提案は、ストリーミング市場や映画業界、ニュース報道に大きな影響を及ぼす可能性がある。規制当局の承認待ちで、今すぐの変化は見込めないが、競争環境やコンテンツ制作、ニュースの報道姿勢に変化が予想される。",
-        "why_it_matters": "この買収は、ストリーミングサービスの統合による価格や競争の変化、映画館の経営にも影響し、加えてCNNの報道姿勢に政治的な影響を及ぼす可能性があるため、消費者や業界関係者、政策決定者にとって重大な関心事である。特に独占懸念や報道の公正性に関わる問題が浮上している。",
-        "market_impact": "ストリーミングサービス統合により初期は割安感が出る可能性があるが、中長期的には競争減少で価格上昇が懸念される。映画製作費の削減や作品数減少の恐れがあり、映画館の客足にも影響を与える。また、政治的にニュートラルとされてきたCNNの編集方針が変わることで、メディア市場や政治報道の信頼性にも波及効果が見込まれる。買収資金の負債返済負担もコンテンツ投資を圧迫するリスクがある。",
+        "title": "Berkshire CEO Greg Abel vows to keep Buffett's culture of disciplined investing in first annual letter",
+        "summary_2lines": "バークシャー・ハサウェイの新CEOグレッグ・エイベルは、ウォーレン・バフェットの財務保守的かつ規律ある投資文化を継続すると表明した。資金力を維持しつつ集中投資を堅持し、配当は引き続き支払わない方針を示した。",
+        "why_it_matters": "バフェットの後継者として期待されるエイベル氏が、一貫した経営哲学と長期投資方針を堅持することを明言したことで、バークシャーの経営安定性と投資家の信頼が維持されることが確信された。特に95歳のバフェットからのリーダー交代は市場にとって大きな節目であり、慎重なスタンスが注目されている。",
+        "market_impact": "バークシャーの強固な財務基盤や約3,730億ドルの現金保有は、市場に対して同社の強い資金力を印象づけ、機動的な投資活動や買収機会への対応力を示す。集中投資を継続しつつ長期保有を前提とする投資戦略は、市場の不確実性下でも安定的な株価形成を支える可能性が高い。一方、配当非支払い方針は投資家にとって投資回収期間の長期化を示唆するため、一部で影響が出る可能性がある。",
         "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c20j5n2w4q6o?at_medium=RSS&at_campaign=rss"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/28/berkshire-ceo-abel-vows-to-keep-buffetts-culture-of-disciplined-investing-in-first-annual-letter.html"
       }
     ]
   }
