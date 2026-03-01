@@ -1,79 +1,79 @@
 {
-  "generated_at_jst": "2026-03-01 07:12",
+  "generated_at_jst": "2026-03-02 07:12",
   "todays_brief": [
     {
-      "title": "Trump orders government to stop using Anthropic in battle over AI use",
-      "summary_2lines": "トランプ前大統領は政府に対し、AI開発企業Anthropicの技術利用を即座に停止するよう指示した。これは同社が米軍への無制限アクセス要求を拒否し、供給網リスクに指定されたことによる対立の一環である。",
-      "why_it_matters": "米政府とAI企業Anthropicの対立は、軍事利用におけるAI技術の制約や倫理問題を浮き彫りにしている。特に監視や自律兵器に関する懸念が、各企業と政府の協力関係に影響を与え、AI政策の方向性に重大な示唆をもたらす。",
-      "market_impact": "Anthropicが政府との契約を失うことで同社の収益や成長にマイナス影響が見込まれる。また、軍事利用に慎重な姿勢を示すAI企業の立場が強調され、競合他社との差別化や今後の契約戦略に新たな局面が生まれる可能性がある。さらに、米軍のAI調達戦略の再検討や規制強化も予想される。",
-      "category": "Tech",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "MP Materials selects Texas for rare earth magnet manufacturing site",
-      "summary_2lines": "MP Materialsはテキサス州ノースレイクに12.5億ドルのレアアース磁石製造施設「10X」を建設し、年間7,000トンの生産を目指す。これは米国のレアアース磁石の輸入依存を低減し、国防省向け供給を強化する狙いがある。",
-      "why_it_matters": "レアアースはハイテク製品や軍需品の基幹資源だが、中国が供給の90%以上を占めており、輸出規制による供給不安が露呈している。米国が国内生産を強化することで、国家安全保障と産業競争力の維持を図ろうとしている点で重要だ。",
-      "market_impact": "MP Materialsの新工場稼働により、米国のレアアース磁石の生産能力が大幅に増強され、輸入依存削減が進む。これにより関連企業のサプライチェーン安定化や国防産業の強化が期待され、投資および雇用創出の波及効果も見込まれる。",
+      "title": "Three ships attacked near Strait of Hormuz as fears grow of oil price rises",
+      "summary_2lines": "ホルムズ海峡付近で少なくとも3隻の船舶が攻撃を受け、イランと米イスラエル間の紛争が激化している。これにより国際的な石油輸送が停滞し、原油価格が急騰している。",
+      "why_it_matters": "ホルムズ海峡は世界の石油輸送量の約20％を担う重要な海上交通路であり、ここでの紛争激化はエネルギー供給の不安定化を招く。中東情勢の緊迫化はグローバルなエネルギー市場や地政学リスクを増大させ、世界経済に重大な影響を与える可能性がある。",
+      "market_impact": "海峡の事実上の封鎖により多くのタンカーが停滞し、保険料が高騰。石油供給の不安から原油価格は10％近く上昇し、場合によっては100ドル超の高騰も懸念される。これによりエネルギー関連企業のコスト上昇や燃料価格のさらなる値上げが見込まれ、経済全体のインフレ圧力を強める可能性が高い。",
       "category": "Geopolitics",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/02/26/mp-materials-selects-texas-for-rare-earth-magnet-manufacturing-site.html"
-    },
-    {
-      "title": "Paramount set for $111bn Warner Bros takeover after Netflix drops bid",
-      "summary_2lines": "NetflixがWarner Bros Discovery買収の提案を撤回し、Paramountが約1110億ドルでの買収をほぼ確実にした。米規制当局の審査を控え、ハリウッドのメディア再編が進展中。",
-      "why_it_matters": "Warner Brosというハリウッドの歴史的なスタジオの買収合戦は、NetflixとParamountという業界の主要プレイヤー間で繰り広げられ、メディア業界の勢力図を大きく変える可能性がある。加えて、米国の規制当局による審査や政治的背景も絡み、メディアと政治の関係性が注目されている。",
-      "market_impact": "ParamountのWarner Bros買収が成立すれば、巨大なコンテンツ資産の統合によってストリーミングや広告収入の競争が激化し、市場での力関係が再編される。CNNの将来にも影響が及ぶ可能性があり、さらに規制当局の審査結果によってはディールの成否やメディア業界の取引慣行に影響が出ることが予想される。",
-      "category": "Corporate",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "UBS downgrades the U.S. stock market. Here's what has the investment bank worried",
-      "summary_2lines": "UBSのトップ株式ストラテジストが米国株を格下げし、ドルの弱含みや過大評価、米政局の不安定さを懸念しています。海外市場の好調や買戻し効果の減少も米株の重しとなっています。",
-      "why_it_matters": "これまで米株を押し上げてきたドル高や企業買戻しによる株主還元が弱まることで、米国市場の相対的な魅力が低下し、投資資金が海外へ流出するリスクが増しています。また、不透明な政策環境は投資家の信頼を損ない、世界経済の資産配分にも影響を及ぼすため注目されます。",
-      "market_impact": "米国株の価格調整圧力が強まり、S&P500は他国市場に比べてパフォーマンスが低迷すると予想されます。ドル安傾向が継続すれば輸出企業には追い風ですが、輸入コスト上昇やインフレ懸念は残存。政策の不確実性により、投資家はリスクオフ姿勢を強め、一部セクターで資金流入の鈍化が懸念されます。",
+      "summary_2lines": "UBSのトップ戦略家は、ドル安や高値圏のバリュエーション、米国の政策リスクを理由に米株市場の格下げを発表。これにより米株の相対的魅力が低下し、海外市場への資金シフトが進行中。",
+      "why_it_matters": "米国株は世界市場で重要な位置を占めているため、その見通し変化はグローバルな資金の流れや投資戦略に影響を及ぼす。特にドルの下落リスクや政策の不確実性は投資家心理にネガティブに作用し、市場のボラティリティを高める可能性があるため重要。",
+      "market_impact": "米株の利益成長を支えてきた自社株買いの効果減少や割高なバリュエーション、政策変動のリスクが重なり、米株への投資魅力は減退。結果として海外株や為替の動向に敏感なポートフォリオ運用者がリスク分散目的で外国市場へのシフトを加速させることが予想される。人工知能分野の成長期待はあるものの、短期的には米株市場の上値は抑制される見通しである。",
       "category": "Markets",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/02/27/ubs-downgrades-the-us-stock-market-heres-what-has-the-investment-bank-worried.html"
     },
     {
-      "title": "Government to give go-ahead for £1bn defence helicopter deal",
-      "summary_2lines": "英国政府は約10億ポンドの防衛用ヘリコプター23機の契約を承認予定。イタリア企業レオナルドの英国イェーヴィル工場の将来と3,000人の雇用が守られる見込み。",
-      "why_it_matters": "この契約承認は英国最後の軍用ヘリコプター製造拠点の存続を意味し、地域の雇用維持と防衛力強化を両立させる重要な決定。政府の防衛投資計画の一環であり、国内産業保護と安全保障強化の文脈で注目される。",
-      "market_impact": "防衛産業への大型投資が示されることで、関連サプライチェーン企業や労働市場にプラスの影響。地元経済の安定化と技術継承が期待され、イタリアのレオナルド社にも英国市場での強固な地位維持につながる。",
+      "title": "Berkshire Hathaway operating earnings fell nearly 30% in Warren Buffett's final quarter as CEO",
+      "summary_2lines": "バークシャー・ハサウェイの2025年第4四半期の営業利益が約30%減少し、保険事業の低迷が主な要因となった。ウォーレン・バフェット氏のCEO退任に伴い、グレッグ・エイベル新CEOが経営を引き継いだ。",
+      "why_it_matters": "バークシャー・ハサウェイはウォーレン・バフェット氏の長期的なリーダーシップのもとで驚異的な資産増加を実現してきた企業であり、その経営交代は投資家や市場にとって重要な転換点となる。また、保険事業の利益減少は同社の収益構造に直接影響するため注目される。",
+      "market_impact": "短期的には営業利益の減少や保険セクターの不調が株価や投資判断にマイナス影響を及ぼす可能性があるものの、バフェットの後継者であるエイベル氏が財務の強さと資本規律を維持する方針を示しているため、中長期的には安定経営が期待される。現時点ではバークシャー株の2025年上昇率は市場平均を下回ったが、引き続き強固な資産基盤を有するため投資家の信頼はある程度継続するとみられる。",
+      "category": "Corporate",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/02/28/berkshire-hathaway-brka-q4-2025-earnings.html"
+    },
+    {
+      "title": "MP Materials selects Texas for rare earth magnet manufacturing site",
+      "summary_2lines": "MP Materialsはテキサス州ノースレイクに12億5000万ドルを投じたレアアース磁石製造工場「10X」を建設し、2028年に稼働開始予定。これにより、年間7,000トンの磁石生産能力を新たに創出し、米国の重要資源依存を低減する。  ",
+      "why_it_matters": "レアアースはデータセンター、防衛、電子機器など多くの産業で不可欠だが、中国が世界の供給の90%以上を支配し、供給リスクが高い。米国政府が自国鉱山と製造能力の強化を進める中、MP Materialsの投資は国家安全保障とサプライチェーンの自律性確保において重要な一歩となる。",
+      "market_impact": "中国依存から脱却し、米国内で希土類磁石の一貫生産を実現することで、自動車や電子機器メーカーなど幅広い顧客の安定供給が期待される。国防省の契約を背景に新規雇用1,500人を創出し、関連産業の活性化や供給網のリショアリングが進む。長期的に希土類素材市場で米国の競争力向上を促す可能性が高い。",
+      "category": "Geopolitics",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/02/26/mp-materials-selects-texas-for-rare-earth-magnet-manufacturing-site.html"
+    },
+    {
+      "title": "Flights cancelled and new travel warnings issued after Iran strikes",
+      "summary_2lines": "米国とイスラエルのイランに対する攻撃を受け、中東地域で多数のフライトがキャンセルまたは迂回され、空港での被害や死傷者も報告されている。英国政府は中東への渡航警告を発し、英国人の退避計画も検討中。",
+      "why_it_matters": "中東は国際航空路線の要衝であり、イランを巡る軍事的緊張が航空運行や旅行者の安全に直結している。地域の不安定化は国際的な物流や観光に影響を及ぼし、広範な経済的・安全保障上のリスクを孕むため、各国政府や企業が対応を迫られている。",
+      "market_impact": "航空会社はフライトキャンセルや迂回により運航コスト増、大幅なスケジュール混乱に直面し、収益悪化が避けられない。中東地域を経由する貿易・物流の遅延がサプライチェーンに影響を与え、エネルギー市場も地政学リスクの高まりから価格変動が予想される。旅行業界全体も需要減少や増加するリスク回避コストの影響を受けるだろう。",
       "category": "Geopolitics",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c75e14k64dvo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c0rjpr575g9o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "categories": {
     "Tech": [
       {
-        "title": "Trump orders government to stop using Anthropic in battle over AI use",
-        "summary_2lines": "トランプ前大統領は政府に対し、AI開発企業Anthropicの技術利用を即座に停止するよう指示した。これは同社が米軍への無制限アクセス要求を拒否し、供給網リスクに指定されたことによる対立の一環である。",
-        "why_it_matters": "米政府とAI企業Anthropicの対立は、軍事利用におけるAI技術の制約や倫理問題を浮き彫りにしている。特に監視や自律兵器に関する懸念が、各企業と政府の協力関係に影響を与え、AI政策の方向性に重大な示唆をもたらす。",
-        "market_impact": "Anthropicが政府との契約を失うことで同社の収益や成長にマイナス影響が見込まれる。また、軍事利用に慎重な姿勢を示すAI企業の立場が強調され、競合他社との差別化や今後の契約戦略に新たな局面が生まれる可能性がある。さらに、米軍のAI調達戦略の再検討や規制強化も予想される。",
+        "title": "Could a huge data centre revitalise Ayrshire - or ruin it?",
+        "summary_2lines": "東エアシャーの約100ヘクタールの土地に、エネルギー企業ILIグループが大規模なAI用データセンター建設を計画している。地域活性化への期待と、水資源消費や景観への懸念から地元住民の反対が対立している。",
+        "why_it_matters": "世界的なAI需要の急増に伴い、データセンター開発投資が膨大になる中、地域経済への波及効果と環境負荷が重大な社会的課題となっている。特に大規模施設が地元インフラや水資源に与える影響は、持続可能性と地域住民の生活の質を左右するため注目される。",
+        "market_impact": "データセンター関連の巨大投資により、エネルギー企業や建設業、IT分野への資金流入が見込まれるが、環境制約や反対運動が計画実現を遅らせるリスクがある。スコットランド全域で類似計画が進む中、供給網やエネルギー需給バランスにも影響を与え、地域経済への波及効果に加え、資源管理の厳格化と技術革新の促進を迫る可能性がある。",
         "category": "Tech",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c2d1ny161yyo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Markets": [
       {
         "title": "UBS downgrades the U.S. stock market. Here's what has the investment bank worried",
-        "summary_2lines": "UBSのトップ株式ストラテジストが米国株を格下げし、ドルの弱含みや過大評価、米政局の不安定さを懸念しています。海外市場の好調や買戻し効果の減少も米株の重しとなっています。",
-        "why_it_matters": "これまで米株を押し上げてきたドル高や企業買戻しによる株主還元が弱まることで、米国市場の相対的な魅力が低下し、投資資金が海外へ流出するリスクが増しています。また、不透明な政策環境は投資家の信頼を損ない、世界経済の資産配分にも影響を及ぼすため注目されます。",
-        "market_impact": "米国株の価格調整圧力が強まり、S&P500は他国市場に比べてパフォーマンスが低迷すると予想されます。ドル安傾向が継続すれば輸出企業には追い風ですが、輸入コスト上昇やインフレ懸念は残存。政策の不確実性により、投資家はリスクオフ姿勢を強め、一部セクターで資金流入の鈍化が懸念されます。",
+        "summary_2lines": "UBSのトップ戦略家は、ドル安や高値圏のバリュエーション、米国の政策リスクを理由に米株市場の格下げを発表。これにより米株の相対的魅力が低下し、海外市場への資金シフトが進行中。",
+        "why_it_matters": "米国株は世界市場で重要な位置を占めているため、その見通し変化はグローバルな資金の流れや投資戦略に影響を及ぼす。特にドルの下落リスクや政策の不確実性は投資家心理にネガティブに作用し、市場のボラティリティを高める可能性があるため重要。",
+        "market_impact": "米株の利益成長を支えてきた自社株買いの効果減少や割高なバリュエーション、政策変動のリスクが重なり、米株への投資魅力は減退。結果として海外株や為替の動向に敏感なポートフォリオ運用者がリスク分散目的で外国市場へのシフトを加速させることが予想される。人工知能分野の成長期待はあるものの、短期的には米株市場の上値は抑制される見通しである。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/02/27/ubs-downgrades-the-us-stock-market-heres-what-has-the-investment-bank-worried.html"
       },
       {
         "title": "Not all strategies belong in an ETF wrapper. Here's why",
-        "summary_2lines": "ETFにすべての投資戦略を詰め込むのは適切でなく、非伝統的ETF戦略の淘汰が始まっている。投資家には適時に戦略を選択する責任が増し、AI活用によるETF運用の革新も進んでいる。",
-        "why_it_matters": "市場の多様な投資ニーズに対応するためETFの扱いは拡大しているが、過剰なテーマ追随や類似商品の氾濫はパフォーマンス低下や選択の複雑化を招く。投資家の判断力強化と戦略の取捨選択が求められる中、AI技術の導入による運用の質向上も期待されている。",
-        "market_impact": "非伝統的ETF戦略の集中と淘汰が進むことで、パフォーマンスの良い商品への資金集中と市場の成熟が促される。類似戦略の整理により発行会社の競争環境が変わり、AI活用による運用効率化や商品差別化も進展。これによってETF市場の革新が加速し、投資家の選択肢と責任が拡大する見込み。",
+        "summary_2lines": "ETFにすべての戦略を組み込むのは適切でなく、特に類似の非伝統的戦略は市場の整理が始まる。AIは単なるテーマ投資から運用手法への応用へと進展している。",
+        "why_it_matters": "ETFの手軽な設定や多様化によってテーマ型商品が急増したが、これに伴い業績や市場シェアに差が出て淘汰（タオタ）が進む見込みであり、投資家自身の判断力が重要になる。さらにAIの活用拡大は運用効率や革新を促し、金融商品の構造変革を示唆しているため注目される。",
+        "market_impact": "「コピーキャット」的な類似ETFが多数登場し非伝統的戦略の統合・再編が起こることで、資金流入が良好な戦略に集中し市場競争が激化する。加えてAIの組み込みにより運用手法の高度化が進み、ETFの競争力と商品差別化が進む可能性が高い。これにより投資家・運用会社双方に新たな戦略形成やリスク管理の必要性が生じる。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/02/27/crowded-market-themes-may-have-no-place-in-etfs-.html"
@@ -81,67 +81,67 @@
     ],
     "Geopolitics": [
       {
-        "title": "Government to give go-ahead for £1bn defence helicopter deal",
-        "summary_2lines": "英国政府は約10億ポンドの防衛用ヘリコプター23機の契約を承認予定。イタリア企業レオナルドの英国イェーヴィル工場の将来と3,000人の雇用が守られる見込み。",
-        "why_it_matters": "この契約承認は英国最後の軍用ヘリコプター製造拠点の存続を意味し、地域の雇用維持と防衛力強化を両立させる重要な決定。政府の防衛投資計画の一環であり、国内産業保護と安全保障強化の文脈で注目される。",
-        "market_impact": "防衛産業への大型投資が示されることで、関連サプライチェーン企業や労働市場にプラスの影響。地元経済の安定化と技術継承が期待され、イタリアのレオナルド社にも英国市場での強固な地位維持につながる。",
+        "title": "Three ships attacked near Strait of Hormuz as fears grow of oil price rises",
+        "summary_2lines": "ホルムズ海峡付近で少なくとも3隻の船舶が攻撃を受け、イランと米イスラエル間の紛争が激化している。これにより国際的な石油輸送が停滞し、原油価格が急騰している。",
+        "why_it_matters": "ホルムズ海峡は世界の石油輸送量の約20％を担う重要な海上交通路であり、ここでの紛争激化はエネルギー供給の不安定化を招く。中東情勢の緊迫化はグローバルなエネルギー市場や地政学リスクを増大させ、世界経済に重大な影響を与える可能性がある。",
+        "market_impact": "海峡の事実上の封鎖により多くのタンカーが停滞し、保険料が高騰。石油供給の不安から原油価格は10％近く上昇し、場合によっては100ドル超の高騰も懸念される。これによりエネルギー関連企業のコスト上昇や燃料価格のさらなる値上げが見込まれ、経済全体のインフレ圧力を強める可能性が高い。",
         "category": "Geopolitics",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c75e14k64dvo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "MP Materials selects Texas for rare earth magnet manufacturing site",
-        "summary_2lines": "MP Materialsはテキサス州ノースレイクに12.5億ドルのレアアース磁石製造施設「10X」を建設し、年間7,000トンの生産を目指す。これは米国のレアアース磁石の輸入依存を低減し、国防省向け供給を強化する狙いがある。",
-        "why_it_matters": "レアアースはハイテク製品や軍需品の基幹資源だが、中国が供給の90%以上を占めており、輸出規制による供給不安が露呈している。米国が国内生産を強化することで、国家安全保障と産業競争力の維持を図ろうとしている点で重要だ。",
-        "market_impact": "MP Materialsの新工場稼働により、米国のレアアース磁石の生産能力が大幅に増強され、輸入依存削減が進む。これにより関連企業のサプライチェーン安定化や国防産業の強化が期待され、投資および雇用創出の波及効果も見込まれる。",
+        "summary_2lines": "MP Materialsはテキサス州ノースレイクに12億5000万ドルを投じたレアアース磁石製造工場「10X」を建設し、2028年に稼働開始予定。これにより、年間7,000トンの磁石生産能力を新たに創出し、米国の重要資源依存を低減する。  ",
+        "why_it_matters": "レアアースはデータセンター、防衛、電子機器など多くの産業で不可欠だが、中国が世界の供給の90%以上を支配し、供給リスクが高い。米国政府が自国鉱山と製造能力の強化を進める中、MP Materialsの投資は国家安全保障とサプライチェーンの自律性確保において重要な一歩となる。",
+        "market_impact": "中国依存から脱却し、米国内で希土類磁石の一貫生産を実現することで、自動車や電子機器メーカーなど幅広い顧客の安定供給が期待される。国防省の契約を背景に新規雇用1,500人を創出し、関連産業の活性化や供給網のリショアリングが進む。長期的に希土類素材市場で米国の競争力向上を促す可能性が高い。",
         "category": "Geopolitics",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/02/26/mp-materials-selects-texas-for-rare-earth-magnet-manufacturing-site.html"
+      },
+      {
+        "title": "Flights cancelled and new travel warnings issued after Iran strikes",
+        "summary_2lines": "米国とイスラエルのイランに対する攻撃を受け、中東地域で多数のフライトがキャンセルまたは迂回され、空港での被害や死傷者も報告されている。英国政府は中東への渡航警告を発し、英国人の退避計画も検討中。",
+        "why_it_matters": "中東は国際航空路線の要衝であり、イランを巡る軍事的緊張が航空運行や旅行者の安全に直結している。地域の不安定化は国際的な物流や観光に影響を及ぼし、広範な経済的・安全保障上のリスクを孕むため、各国政府や企業が対応を迫られている。",
+        "market_impact": "航空会社はフライトキャンセルや迂回により運航コスト増、大幅なスケジュール混乱に直面し、収益悪化が避けられない。中東地域を経由する貿易・物流の遅延がサプライチェーンに影響を与え、エネルギー市場も地政学リスクの高まりから価格変動が予想される。旅行業界全体も需要減少や増加するリスク回避コストの影響を受けるだろう。",
+        "category": "Geopolitics",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c0rjpr575g9o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Economy": [],
     "Corporate": [
       {
+        "title": "A firm hiring blind staff went bust - but its mission lives on",
+        "summary_2lines": "1854年創業の視覚障害者雇用の老舗企業Clarityが年金資金不足で倒産したが、元社員が新たに社会的使命を継ぐAmplify Goodsを立ち上げた。Amplifyはホームレスや障害者に就労機会を提供し、環境配慮した石鹸を製造販売している。",
+        "why_it_matters": "障害者や社会的弱者の雇用創出を目的とした企業の倒産とその再生は、社会的インクルージョンの継続的な重要性を示している。年金や労働者保護の問題も浮き彫りになり、社会的企業の役割と持続可能なビジネスモデルの必要性が再認識された。",
+        "market_impact": "社会的企業が障害者やホームレスの雇用に注力することで、従来の市場とは異なる価値創造を促進。消費者の社会的責任意識の高まりに応じた製品需要の拡大が期待され、同種の社会的課題解決型ビジネスの成長余地を示唆する。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cpd8jpn0np1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Berkshire Hathaway operating earnings fell nearly 30% in Warren Buffett's final quarter as CEO",
-        "summary_2lines": "バークシャー・ハサウェイの2025年第4四半期の営業利益は保険事業の不調で前年同期比約29%減少した。ウォーレン・バフェットによる最後の四半期で、グレッグ・エイベルが2026年からCEOに就任した。",
-        "why_it_matters": "バークシャーは世界最大級のコングロマリットであり、その業績動向は保険業界や投資市場全体に大きな影響を持つ。バフェット退任による経営変化も注目されており、投資家心理や戦略転換の可能性を示す重要な節目となる。",
-        "market_impact": "保険関連収益の減少や株式投資の減益は短期的に業績圧迫要因となるが、長期的な経営方針継承が示されているため市場の信頼維持につながる可能性がある。株価は前年に比べ上昇率でS&P500に劣るが、依然として高い累積収益率が強みとなっている。",
+        "summary_2lines": "バークシャー・ハサウェイの2025年第4四半期の営業利益が約30%減少し、保険事業の低迷が主な要因となった。ウォーレン・バフェット氏のCEO退任に伴い、グレッグ・エイベル新CEOが経営を引き継いだ。",
+        "why_it_matters": "バークシャー・ハサウェイはウォーレン・バフェット氏の長期的なリーダーシップのもとで驚異的な資産増加を実現してきた企業であり、その経営交代は投資家や市場にとって重要な転換点となる。また、保険事業の利益減少は同社の収益構造に直接影響するため注目される。",
+        "market_impact": "短期的には営業利益の減少や保険セクターの不調が株価や投資判断にマイナス影響を及ぼす可能性があるものの、バフェットの後継者であるエイベル氏が財務の強さと資本規律を維持する方針を示しているため、中長期的には安定経営が期待される。現時点ではバークシャー株の2025年上昇率は市場平均を下回ったが、引き続き強固な資産基盤を有するため投資家の信頼はある程度継続するとみられる。",
         "category": "Corporate",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/02/28/berkshire-hathaway-brka-q4-2025-earnings.html"
       },
       {
-        "title": "What the Warner Bros deal could mean for streaming, cinemas and news",
-        "summary_2lines": "ParamountがWarner Brosを買収する提案は、ストリーミング市場の競争構造や映画館の経営、ニュースメディアの報道姿勢に大きな影響を与える可能性がある。規制当局の承認が必要で、実現には時間がかかる見込みだ。",
-        "why_it_matters": "この買収は、ストリーミングサービスの統合による価格変動やコンテンツの質・量の変化、映画館需要の維持、さらにはニュース業界における報道の独立性へと影響が及ぶ可能性があり、消費者や業界全体にとって重要な転換点となるため注目されている。",
-        "market_impact": "ストリーミングサービスの統合により一時的な料金割引が期待されるものの、中長期的には価格上昇や競争減少のリスクがある。映画館ビジネスにはNetflixによる直接配信とは異なり、チケット収入維持で緩やかな支援となる一方、コスト削減や負債増加で制作タイトル数は縮小される可能性が高い。また、CNNの経営権移譲は報道内容に政治的影響を及ぼす懸念を生んでいる。",
+        "title": "The third man who links Andrew with Jeffrey Epstein",
+        "summary_2lines": "英国王子アンドリューと有罪判決を受けた米国の性犯罪者ジェフリー・エプスタインを結ぶ第三の人物として、ドイツ人実業家デビッド・スターンの存在が浮上。スターンは中国を拠点に両者を繋ぎ、複数の関係書類にその役割が詳細に記されている。",
+        "why_it_matters": "エプスタイン事件は国際的な政治・ビジネス界に衝撃を与え、エプスタインと親交のあった王族や著名人への注目が集まった。スターンの関与は当該スキャンダルの全貌解明に寄与し、権力者らの不正な繋がりや影響力の構造を理解しやすくするため重要である。",
+        "market_impact": "今回の報道による直接的な市場影響は限定的だが、スターンが関与していた企業（例えば中国関連のヘルスケアIT事業やPitch@Palaceなどのロイヤル関連事業）に対する信頼低下やブランド毀損のリスクがある。また、多国間の倫理関係や規制強化の動きに波及しうるため、中長期的には投資環境や企業ガバナンスに影響する可能性がある。",
         "category": "Corporate",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c20j5n2w4q6o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Brewdog expected to announce sale early next week",
-        "summary_2lines": "スク Scottish craft beer giant Brewdogは来週初めに事業売却を発表予定で、ドイツ事業は除外し清算する。過去の赤字やエクイティ投資家の懸念を背景に、経営再編と売却が進む。",
-        "why_it_matters": "Brewdogはクラフトビール市場で国際的に拡大してきたが、近年の巨額赤字や不採算事業の整理、従業員賃金をめぐる批判など複数の経営課題を抱えており、売却は業界やクラウドファンディング投資家にとって大きな転換点となる。特に一般投資家が損失を被る可能性が懸念され、企業ガバナンスや資金調達手法の課題も浮き彫りとなっている。",
-        "market_impact": "売却によりBrewdogの事業体制が大幅に変わり、店舗やブランド運営に不確実性が増す。投資家保護の問題を含め、英国を中心にクラフトビール業界の競争環境に影響を及ぼす可能性がある。資金調達方法としてのエクイティ・フォー・パンクスの信用低下や投資家心理の冷え込みも市場全体に波及し得る。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c07jmmgyx19o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Paramount set for $111bn Warner Bros takeover after Netflix drops bid",
-        "summary_2lines": "NetflixがWarner Bros Discovery買収の提案を撤回し、Paramountが約1110億ドルでの買収をほぼ確実にした。米規制当局の審査を控え、ハリウッドのメディア再編が進展中。",
-        "why_it_matters": "Warner Brosというハリウッドの歴史的なスタジオの買収合戦は、NetflixとParamountという業界の主要プレイヤー間で繰り広げられ、メディア業界の勢力図を大きく変える可能性がある。加えて、米国の規制当局による審査や政治的背景も絡み、メディアと政治の関係性が注目されている。",
-        "market_impact": "ParamountのWarner Bros買収が成立すれば、巨大なコンテンツ資産の統合によってストリーミングや広告収入の競争が激化し、市場での力関係が再編される。CNNの将来にも影響が及ぶ可能性があり、さらに規制当局の審査結果によってはディールの成否やメディア業界の取引慣行に影響が出ることが予想される。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c98gne0z0rxo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Berkshire CEO Greg Abel vows to keep Buffett's culture of disciplined investing in first annual letter",
-        "summary_2lines": "バークシャー・ハサウェイの新CEOグレッグ・エイベルは、ウォーレン・バフェットの財務保守的かつ規律ある投資文化を継続すると表明した。資金力を維持しつつ集中投資を堅持し、配当は引き続き支払わない方針を示した。",
-        "why_it_matters": "バフェットの後継者として期待されるエイベル氏が、一貫した経営哲学と長期投資方針を堅持することを明言したことで、バークシャーの経営安定性と投資家の信頼が維持されることが確信された。特に95歳のバフェットからのリーダー交代は市場にとって大きな節目であり、慎重なスタンスが注目されている。",
-        "market_impact": "バークシャーの強固な財務基盤や約3,730億ドルの現金保有は、市場に対して同社の強い資金力を印象づけ、機動的な投資活動や買収機会への対応力を示す。集中投資を継続しつつ長期保有を前提とする投資戦略は、市場の不確実性下でも安定的な株価形成を支える可能性が高い。一方、配当非支払い方針は投資家にとって投資回収期間の長期化を示唆するため、一部で影響が出る可能性がある。",
+        "summary_2lines": "バークシャー・ハサウェイの新CEOグレッグ・エイベルは、バフェットの財務保守主義と厳格な投資文化を継続すると表明。大規模な現金保有を戦略的な投資余力として維持し、配当は引き続き支払わない方針を示した。",
+        "why_it_matters": "ウォーレン・バフェットの長年の投資哲学と経営スタイルの継承は、バークシャーの株主や市場にとって重要な安定要因。市場はバフェットの後継者への不安もある中、エイベルの保守的かつ堅実な経営方針の公表は投資家の信頼を維持するための重要なメッセージである。",
+        "market_impact": "バークシャーの大規模な現金保有は、潜在的な大規模買収や投資機会への迅速対応が可能であることを示し、市場に流動性と機動力の高さを示す。一方、配当を支払わず内部留保により企業価値を最大化する方針は長期投資家にとって安心材料となり、同社株の安定的な評価につながる可能性が高い。",
         "category": "Corporate",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/02/28/berkshire-ceo-abel-vows-to-keep-buffetts-culture-of-disciplined-investing-in-first-annual-letter.html"
