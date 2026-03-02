@@ -1,147 +1,147 @@
 {
-  "generated_at_jst": "2026-03-02 07:12",
+  "generated_at_jst": "2026-03-03 07:17",
   "todays_brief": [
     {
-      "title": "Three ships attacked near Strait of Hormuz as fears grow of oil price rises",
-      "summary_2lines": "ホルムズ海峡付近で少なくとも3隻の船舶が攻撃を受け、イランと米イスラエル間の紛争が激化している。これにより国際的な石油輸送が停滞し、原油価格が急騰している。",
-      "why_it_matters": "ホルムズ海峡は世界の石油輸送量の約20％を担う重要な海上交通路であり、ここでの紛争激化はエネルギー供給の不安定化を招く。中東情勢の緊迫化はグローバルなエネルギー市場や地政学リスクを増大させ、世界経済に重大な影響を与える可能性がある。",
-      "market_impact": "海峡の事実上の封鎖により多くのタンカーが停滞し、保険料が高騰。石油供給の不安から原油価格は10％近く上昇し、場合によっては100ドル超の高騰も懸念される。これによりエネルギー関連企業のコスト上昇や燃料価格のさらなる値上げが見込まれ、経済全体のインフレ圧力を強める可能性が高い。",
+      "title": "Oil and gas prices jump as conflict escalates",
+      "summary_2lines": "中東地域の紛争激化により、イランの攻撃を受けたカタールやサウジのエネルギー施設が稼働停止し、原油と天然ガス価格が急騰した。これにより欧米の株価は軟調だったが、エネルギー関連株は上昇した。",
+      "why_it_matters": "中東は世界のエネルギー供給の中心であり、ホルムズ海峡を通る石油・ガスの約20％が輸送されているため、地域の軍事的緊張は世界のエネルギー安全保障に直結する。価格上昇はインフレや中央銀行の金融政策にも影響を及ぼすため、世界経済に重要なリスクとなる。",
+      "market_impact": "エネルギー価格の上昇はインフレ圧力の強まりを通じて消費者物価、金利動向に影響し、金融セクターの株価軟調を招いた。航空業界は中東空域の混乱による運航リスクで株価下落。エネルギー・防衛関連企業は需要増加を織り込み株価上昇。供給不安の長期化は更なる価格上昇と世界経済の混乱をもたらす可能性がある。",
       "category": "Geopolitics",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UBS downgrades the U.S. stock market. Here's what has the investment bank worried",
-      "summary_2lines": "UBSのトップ戦略家は、ドル安や高値圏のバリュエーション、米国の政策リスクを理由に米株市場の格下げを発表。これにより米株の相対的魅力が低下し、海外市場への資金シフトが進行中。",
-      "why_it_matters": "米国株は世界市場で重要な位置を占めているため、その見通し変化はグローバルな資金の流れや投資戦略に影響を及ぼす。特にドルの下落リスクや政策の不確実性は投資家心理にネガティブに作用し、市場のボラティリティを高める可能性があるため重要。",
-      "market_impact": "米株の利益成長を支えてきた自社株買いの効果減少や割高なバリュエーション、政策変動のリスクが重なり、米株への投資魅力は減退。結果として海外株や為替の動向に敏感なポートフォリオ運用者がリスク分散目的で外国市場へのシフトを加速させることが予想される。人工知能分野の成長期待はあるものの、短期的には米株市場の上値は抑制される見通しである。",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/02/27/ubs-downgrades-the-us-stock-market-heres-what-has-the-investment-bank-worried.html"
+      "title": "Will petrol and diesel prices go up now?",
+      "summary_2lines": "中東の紛争により原油価格が上昇し、今後数週間で英国のガソリン・ディーゼル価格が上昇する可能性がある。持続的な価格高騰は食品価格や家庭のエネルギー料金、インフレにも影響を及ぼす恐れがある。",
+      "why_it_matters": "イランのホルムズ海峡通過制限という地政学的リスクが世界の原油供給の約20％に影響を与え、原油価格を押し上げている。これにより英国を含む多くの国で燃料価格が変動し、家計負担やインフレ率、政策金利に影響を与える可能性があるため経済全体に重要な示唆をもたらす。",
+      "market_impact": "原油価格の上昇はガソリンとディーゼル価格を押し上げ、物流コストの増加を通じて食品やその他商品の価格上昇につながる。これにより消費者の生活コストが増加し、持続的な価格高騰が続けばインフレ圧力の上昇を招く。エネルギー価格の高止まりは英国の金融政策にも影響を及ぼし、中央銀行の利下げ姿勢を鈍らせる可能性がある。",
+      "category": "Economy",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Berkshire Hathaway operating earnings fell nearly 30% in Warren Buffett's final quarter as CEO",
-      "summary_2lines": "バークシャー・ハサウェイの2025年第4四半期の営業利益が約30%減少し、保険事業の低迷が主な要因となった。ウォーレン・バフェット氏のCEO退任に伴い、グレッグ・エイベル新CEOが経営を引き継いだ。",
-      "why_it_matters": "バークシャー・ハサウェイはウォーレン・バフェット氏の長期的なリーダーシップのもとで驚異的な資産増加を実現してきた企業であり、その経営交代は投資家や市場にとって重要な転換点となる。また、保険事業の利益減少は同社の収益構造に直接影響するため注目される。",
-      "market_impact": "短期的には営業利益の減少や保険セクターの不調が株価や投資判断にマイナス影響を及ぼす可能性があるものの、バフェットの後継者であるエイベル氏が財務の強さと資本規律を維持する方針を示しているため、中長期的には安定経営が期待される。現時点ではバークシャー株の2025年上昇率は市場平均を下回ったが、引き続き強固な資産基盤を有するため投資家の信頼はある程度継続するとみられる。",
-      "category": "Corporate",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/02/28/berkshire-hathaway-brka-q4-2025-earnings.html"
-    },
-    {
-      "title": "MP Materials selects Texas for rare earth magnet manufacturing site",
-      "summary_2lines": "MP Materialsはテキサス州ノースレイクに12億5000万ドルを投じたレアアース磁石製造工場「10X」を建設し、2028年に稼働開始予定。これにより、年間7,000トンの磁石生産能力を新たに創出し、米国の重要資源依存を低減する。  ",
-      "why_it_matters": "レアアースはデータセンター、防衛、電子機器など多くの産業で不可欠だが、中国が世界の供給の90%以上を支配し、供給リスクが高い。米国政府が自国鉱山と製造能力の強化を進める中、MP Materialsの投資は国家安全保障とサプライチェーンの自律性確保において重要な一歩となる。",
-      "market_impact": "中国依存から脱却し、米国内で希土類磁石の一貫生産を実現することで、自動車や電子機器メーカーなど幅広い顧客の安定供給が期待される。国防省の契約を背景に新規雇用1,500人を創出し、関連産業の活性化や供給網のリショアリングが進む。長期的に希土類素材市場で米国の競争力向上を促す可能性が高い。",
-      "category": "Geopolitics",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/02/26/mp-materials-selects-texas-for-rare-earth-magnet-manufacturing-site.html"
-    },
-    {
-      "title": "Flights cancelled and new travel warnings issued after Iran strikes",
-      "summary_2lines": "米国とイスラエルのイランに対する攻撃を受け、中東地域で多数のフライトがキャンセルまたは迂回され、空港での被害や死傷者も報告されている。英国政府は中東への渡航警告を発し、英国人の退避計画も検討中。",
-      "why_it_matters": "中東は国際航空路線の要衝であり、イランを巡る軍事的緊張が航空運行や旅行者の安全に直結している。地域の不安定化は国際的な物流や観光に影響を及ぼし、広範な経済的・安全保障上のリスクを孕むため、各国政府や企業が対応を迫られている。",
-      "market_impact": "航空会社はフライトキャンセルや迂回により運航コスト増、大幅なスケジュール混乱に直面し、収益悪化が避けられない。中東地域を経由する貿易・物流の遅延がサプライチェーンに影響を与え、エネルギー市場も地政学リスクの高まりから価格変動が予想される。旅行業界全体も需要減少や増加するリスク回避コストの影響を受けるだろう。",
+      "title": "Limited flights leave UAE but disruption continues amid Iran strikes",
+      "summary_2lines": "イランへの米イスラエルの攻撃を背景に中東地域で1日4,000便以上が欠航し、UAEを含む主要空港で運航が大幅に制限されている。多くの乗客が足止めされ、航空業界は深刻な影響を受けている。",
+      "why_it_matters": "中東地域は世界の主要な航空・物流ハブであり、地政学的緊張により航空運航が大幅に制約されることは国際的な人の移動や貨物輸送に大きな混乱をもたらす。また、イランへの攻撃が長期化すれば、航空業界だけでなく中東経済、世界の供給網やエネルギー市場にも波及的影響を与えるリスクが高まるため重要。",
+      "market_impact": "大規模な便のキャンセルや空港閉鎖により、UAEの航空会社をはじめ中東の航空業界は収益悪化と顧客信頼の低下が避けられない。主要エアラインの運航停止は乗客需要の減少や追加コストを生み、関連産業や観光業も影響を受ける。また、航空貨物の遅延は国際貿易に支障をきたし、グローバル供給網の混乱や物流コストの上昇を招く可能性がある。",
       "category": "Geopolitics",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c0rjpr575g9o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c3v7ele1k4zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Berkshire Hathaway shares drop nearly 5% after poor fourth-quarter results, no bold moves by new CEO Abel",
+      "summary_2lines": "バークシャー・ハサウェイの第4四半期営業利益は前年同期比で29%減少し、新CEOアベルは即時の大胆な戦略変更を示さなかった。株価は約5%下落し、市場や投資家に不安が広がった。",
+      "why_it_matters": "バークシャー・ハサウェイはウォーレン・バフェットの後を継いだ新CEO体制下での初の四半期決算を公表したが、利益減少と配当不実施方針により投資家の期待とのギャップが浮き彫りとなった。特に3700億ドル超の現金保有を背景に、配当や積極的な資本配分の動きがないことが投資判断に影響を与えるため、注目されている。",
+      "market_impact": "バークシャーの株価下落は短期的に市場全体の防御的資産としての評価を見直す動きにつながったが、一部アナリストは同社の多角化や流動性の高さから、中長期的には市場の不安定性に対して優れた防御的役割を果たすと見ている。資本配分の保守姿勢が続く限り、大規模なM&Aや株主還元拡大は期待薄で、株価の変動材料として今後も注目される。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/02/berkshire-hathaway-shares-drop-4percent-after-poor-fourth-quarter-results.html"
+    },
+    {
+      "title": "Khamenei's death raises questions about Trump's China trip",
+      "summary_2lines": "米国がイラン最高指導者ハメネイを攻撃したことで、トランプ大統領の中国訪問の実現に不透明感が強まっている。北京は強く非難し、訪中日程の公式確認もまだない状態だ。",
+      "why_it_matters": "トランプ政権によるイラン最高指導者の殺害は、中国との外交関係に緊張をもたらし、米中間の貿易協議や関係改善の機会を損なうリスクが高まった。中国はイラン及びベネズエラと比較的良好な関係にあり、今回の事件は北京がトランプ訪中に慎重になる要因となっているため、両国の今後の外交・経済関係に深刻な影響を及ぼす可能性がある。",
+      "market_impact": "トランプ大統領の中国訪問延期・中止の懸念が高まり、両国の貿易交渉や投資計画の進展が停滞する恐れがある。米国企業の中国進出や共同事業推進にも慎重姿勢が広がり、短期的な市場の不確実性とリスクプレミアムの上昇を招く可能性がある。特に米中貿易の不透明感や地政学リスクの増大が企業収益や株式市場に影響を与えるだろう。",
+      "category": "Geopolitics",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/02/khameneis-death-trump-china-visit-uncertainty-iran-strikes-trade-truce.html"
     }
   ],
   "categories": {
-    "Tech": [
-      {
-        "title": "Could a huge data centre revitalise Ayrshire - or ruin it?",
-        "summary_2lines": "東エアシャーの約100ヘクタールの土地に、エネルギー企業ILIグループが大規模なAI用データセンター建設を計画している。地域活性化への期待と、水資源消費や景観への懸念から地元住民の反対が対立している。",
-        "why_it_matters": "世界的なAI需要の急増に伴い、データセンター開発投資が膨大になる中、地域経済への波及効果と環境負荷が重大な社会的課題となっている。特に大規模施設が地元インフラや水資源に与える影響は、持続可能性と地域住民の生活の質を左右するため注目される。",
-        "market_impact": "データセンター関連の巨大投資により、エネルギー企業や建設業、IT分野への資金流入が見込まれるが、環境制約や反対運動が計画実現を遅らせるリスクがある。スコットランド全域で類似計画が進む中、供給網やエネルギー需給バランスにも影響を与え、地域経済への波及効果に加え、資源管理の厳格化と技術革新の促進を迫る可能性がある。",
-        "category": "Tech",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c2d1ny161yyo?at_medium=RSS&at_campaign=rss"
-      }
-    ],
+    "Tech": [],
     "Markets": [
       {
-        "title": "UBS downgrades the U.S. stock market. Here's what has the investment bank worried",
-        "summary_2lines": "UBSのトップ戦略家は、ドル安や高値圏のバリュエーション、米国の政策リスクを理由に米株市場の格下げを発表。これにより米株の相対的魅力が低下し、海外市場への資金シフトが進行中。",
-        "why_it_matters": "米国株は世界市場で重要な位置を占めているため、その見通し変化はグローバルな資金の流れや投資戦略に影響を及ぼす。特にドルの下落リスクや政策の不確実性は投資家心理にネガティブに作用し、市場のボラティリティを高める可能性があるため重要。",
-        "market_impact": "米株の利益成長を支えてきた自社株買いの効果減少や割高なバリュエーション、政策変動のリスクが重なり、米株への投資魅力は減退。結果として海外株や為替の動向に敏感なポートフォリオ運用者がリスク分散目的で外国市場へのシフトを加速させることが予想される。人工知能分野の成長期待はあるものの、短期的には米株市場の上値は抑制される見通しである。",
+        "title": "Citadel’s various hedge funds rise in February, beating the S&P 500 in a choppy month",
+        "summary_2lines": "シタデルの複数のヘッジファンドは2月に安定したプラスリターンを記録し、S&P 500の下落を上回った。AI関連株の乱高下や地政学リスクが市場の不安定要因となる中で成果を出した。",
+        "why_it_matters": "世界的なマクロ経済不確実性やAIの技術革新が市場のボラティリティを高める中、シタデルの多様な投資戦略がリスク管理に成功し高い運用成果を示したことは、資産運用の優れた手法として注目される。特に主要株価指数が下落する厳しい市場環境でファンドが堅調だったことは、今後の投資家心理や市場動向を占う上で重要な指標となる。",
+        "market_impact": "シタデルの好調なパフォーマンスはヘッジファンド市場全体の強さを示し、AI関連銘柄の変動や地政学的なリスクによる市場動揺の中でも多様な資産クラスへの分散投資が有効であることを証明した。一方、S&P 500の下落は広範な投資家のセンチメント悪化を反映しており、今後もテクノロジーセクターおよび地政学リスクに影響されやすい市場環境が続く可能性が高い。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/02/27/ubs-downgrades-the-us-stock-market-heres-what-has-the-investment-bank-worried.html"
+        "url": "https://www.cnbc.com/2026/03/02/citadels-various-hedge-funds-rise-in-february-beating-the-sp-500-in-a-choppy-month.html"
       },
       {
-        "title": "Not all strategies belong in an ETF wrapper. Here's why",
-        "summary_2lines": "ETFにすべての戦略を組み込むのは適切でなく、特に類似の非伝統的戦略は市場の整理が始まる。AIは単なるテーマ投資から運用手法への応用へと進展している。",
-        "why_it_matters": "ETFの手軽な設定や多様化によってテーマ型商品が急増したが、これに伴い業績や市場シェアに差が出て淘汰（タオタ）が進む見込みであり、投資家自身の判断力が重要になる。さらにAIの活用拡大は運用効率や革新を促し、金融商品の構造変革を示唆しているため注目される。",
-        "market_impact": "「コピーキャット」的な類似ETFが多数登場し非伝統的戦略の統合・再編が起こることで、資金流入が良好な戦略に集中し市場競争が激化する。加えてAIの組み込みにより運用手法の高度化が進み、ETFの競争力と商品差別化が進む可能性が高い。これにより投資家・運用会社双方に新たな戦略形成やリスク管理の必要性が生じる。",
+        "title": "Berkshire Hathaway shares drop nearly 5% after poor fourth-quarter results, no bold moves by new CEO Abel",
+        "summary_2lines": "バークシャー・ハサウェイの第4四半期営業利益は前年同期比で29%減少し、新CEOアベルは即時の大胆な戦略変更を示さなかった。株価は約5%下落し、市場や投資家に不安が広がった。",
+        "why_it_matters": "バークシャー・ハサウェイはウォーレン・バフェットの後を継いだ新CEO体制下での初の四半期決算を公表したが、利益減少と配当不実施方針により投資家の期待とのギャップが浮き彫りとなった。特に3700億ドル超の現金保有を背景に、配当や積極的な資本配分の動きがないことが投資判断に影響を与えるため、注目されている。",
+        "market_impact": "バークシャーの株価下落は短期的に市場全体の防御的資産としての評価を見直す動きにつながったが、一部アナリストは同社の多角化や流動性の高さから、中長期的には市場の不安定性に対して優れた防御的役割を果たすと見ている。資本配分の保守姿勢が続く限り、大規模なM&Aや株主還元拡大は期待薄で、株価の変動材料として今後も注目される。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/02/27/crowded-market-themes-may-have-no-place-in-etfs-.html"
+        "url": "https://www.cnbc.com/2026/03/02/berkshire-hathaway-shares-drop-4percent-after-poor-fourth-quarter-results.html"
       }
     ],
     "Geopolitics": [
       {
-        "title": "Three ships attacked near Strait of Hormuz as fears grow of oil price rises",
-        "summary_2lines": "ホルムズ海峡付近で少なくとも3隻の船舶が攻撃を受け、イランと米イスラエル間の紛争が激化している。これにより国際的な石油輸送が停滞し、原油価格が急騰している。",
-        "why_it_matters": "ホルムズ海峡は世界の石油輸送量の約20％を担う重要な海上交通路であり、ここでの紛争激化はエネルギー供給の不安定化を招く。中東情勢の緊迫化はグローバルなエネルギー市場や地政学リスクを増大させ、世界経済に重大な影響を与える可能性がある。",
-        "market_impact": "海峡の事実上の封鎖により多くのタンカーが停滞し、保険料が高騰。石油供給の不安から原油価格は10％近く上昇し、場合によっては100ドル超の高騰も懸念される。これによりエネルギー関連企業のコスト上昇や燃料価格のさらなる値上げが見込まれ、経済全体のインフレ圧力を強める可能性が高い。",
+        "title": "Oil and gas prices jump as conflict escalates",
+        "summary_2lines": "中東地域の紛争激化により、イランの攻撃を受けたカタールやサウジのエネルギー施設が稼働停止し、原油と天然ガス価格が急騰した。これにより欧米の株価は軟調だったが、エネルギー関連株は上昇した。",
+        "why_it_matters": "中東は世界のエネルギー供給の中心であり、ホルムズ海峡を通る石油・ガスの約20％が輸送されているため、地域の軍事的緊張は世界のエネルギー安全保障に直結する。価格上昇はインフレや中央銀行の金融政策にも影響を及ぼすため、世界経済に重要なリスクとなる。",
+        "market_impact": "エネルギー価格の上昇はインフレ圧力の強まりを通じて消費者物価、金利動向に影響し、金融セクターの株価軟調を招いた。航空業界は中東空域の混乱による運航リスクで株価下落。エネルギー・防衛関連企業は需要増加を織り込み株価上昇。供給不安の長期化は更なる価格上昇と世界経済の混乱をもたらす可能性がある。",
         "category": "Geopolitics",
         "source": "BBC Business",
         "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "MP Materials selects Texas for rare earth magnet manufacturing site",
-        "summary_2lines": "MP Materialsはテキサス州ノースレイクに12億5000万ドルを投じたレアアース磁石製造工場「10X」を建設し、2028年に稼働開始予定。これにより、年間7,000トンの磁石生産能力を新たに創出し、米国の重要資源依存を低減する。  ",
-        "why_it_matters": "レアアースはデータセンター、防衛、電子機器など多くの産業で不可欠だが、中国が世界の供給の90%以上を支配し、供給リスクが高い。米国政府が自国鉱山と製造能力の強化を進める中、MP Materialsの投資は国家安全保障とサプライチェーンの自律性確保において重要な一歩となる。",
-        "market_impact": "中国依存から脱却し、米国内で希土類磁石の一貫生産を実現することで、自動車や電子機器メーカーなど幅広い顧客の安定供給が期待される。国防省の契約を背景に新規雇用1,500人を創出し、関連産業の活性化や供給網のリショアリングが進む。長期的に希土類素材市場で米国の競争力向上を促す可能性が高い。",
-        "category": "Geopolitics",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/02/26/mp-materials-selects-texas-for-rare-earth-magnet-manufacturing-site.html"
-      },
-      {
-        "title": "Flights cancelled and new travel warnings issued after Iran strikes",
-        "summary_2lines": "米国とイスラエルのイランに対する攻撃を受け、中東地域で多数のフライトがキャンセルまたは迂回され、空港での被害や死傷者も報告されている。英国政府は中東への渡航警告を発し、英国人の退避計画も検討中。",
-        "why_it_matters": "中東は国際航空路線の要衝であり、イランを巡る軍事的緊張が航空運行や旅行者の安全に直結している。地域の不安定化は国際的な物流や観光に影響を及ぼし、広範な経済的・安全保障上のリスクを孕むため、各国政府や企業が対応を迫られている。",
-        "market_impact": "航空会社はフライトキャンセルや迂回により運航コスト増、大幅なスケジュール混乱に直面し、収益悪化が避けられない。中東地域を経由する貿易・物流の遅延がサプライチェーンに影響を与え、エネルギー市場も地政学リスクの高まりから価格変動が予想される。旅行業界全体も需要減少や増加するリスク回避コストの影響を受けるだろう。",
+        "title": "What are my rights if my flight is cancelled or delayed?",
+        "summary_2lines": "中東情勢の悪化に伴う航空便の遅延・欠航により、乗客は基本的に払い戻しや代替便の提供を受ける権利がある。ただし、紛争などの『不可抗力』による場合は追加賠償は支払われない。",
+        "why_it_matters": "中東の紛争が国際航空運航に影響を及ぼし、多くの旅客が移動の混乱に直面している。消費者の権利や航空会社の対応のルールを理解し適切に対応することが重要であり、旅行保険や政府の渡航情報も関連するため、多方面での影響が懸念される。",
+        "market_impact": "航空業界では運航制限や燃料費上昇などコスト増の圧力が強まる可能性があり、大手空港ハブの混雑は顧客満足度の低下や収益減少につながる。旅行関連企業のキャンセル対応コスト増加や保険業界の請求増も予想され、地域経済も観光需要減退の影響を受ける。",
         "category": "Geopolitics",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c0rjpr575g9o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Limited flights leave UAE but disruption continues amid Iran strikes",
+        "summary_2lines": "イランへの米イスラエルの攻撃を背景に中東地域で1日4,000便以上が欠航し、UAEを含む主要空港で運航が大幅に制限されている。多くの乗客が足止めされ、航空業界は深刻な影響を受けている。",
+        "why_it_matters": "中東地域は世界の主要な航空・物流ハブであり、地政学的緊張により航空運航が大幅に制約されることは国際的な人の移動や貨物輸送に大きな混乱をもたらす。また、イランへの攻撃が長期化すれば、航空業界だけでなく中東経済、世界の供給網やエネルギー市場にも波及的影響を与えるリスクが高まるため重要。",
+        "market_impact": "大規模な便のキャンセルや空港閉鎖により、UAEの航空会社をはじめ中東の航空業界は収益悪化と顧客信頼の低下が避けられない。主要エアラインの運航停止は乗客需要の減少や追加コストを生み、関連産業や観光業も影響を受ける。また、航空貨物の遅延は国際貿易に支障をきたし、グローバル供給網の混乱や物流コストの上昇を招く可能性がある。",
+        "category": "Geopolitics",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c3v7ele1k4zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Khamenei's death raises questions about Trump's China trip",
+        "summary_2lines": "米国がイラン最高指導者ハメネイを攻撃したことで、トランプ大統領の中国訪問の実現に不透明感が強まっている。北京は強く非難し、訪中日程の公式確認もまだない状態だ。",
+        "why_it_matters": "トランプ政権によるイラン最高指導者の殺害は、中国との外交関係に緊張をもたらし、米中間の貿易協議や関係改善の機会を損なうリスクが高まった。中国はイラン及びベネズエラと比較的良好な関係にあり、今回の事件は北京がトランプ訪中に慎重になる要因となっているため、両国の今後の外交・経済関係に深刻な影響を及ぼす可能性がある。",
+        "market_impact": "トランプ大統領の中国訪問延期・中止の懸念が高まり、両国の貿易交渉や投資計画の進展が停滞する恐れがある。米国企業の中国進出や共同事業推進にも慎重姿勢が広がり、短期的な市場の不確実性とリスクプレミアムの上昇を招く可能性がある。特に米中貿易の不透明感や地政学リスクの増大が企業収益や株式市場に影響を与えるだろう。",
+        "category": "Geopolitics",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/02/khameneis-death-trump-china-visit-uncertainty-iran-strikes-trade-truce.html"
       }
     ],
-    "Economy": [],
+    "Economy": [
+      {
+        "title": "Will petrol and diesel prices go up now?",
+        "summary_2lines": "中東の紛争により原油価格が上昇し、今後数週間で英国のガソリン・ディーゼル価格が上昇する可能性がある。持続的な価格高騰は食品価格や家庭のエネルギー料金、インフレにも影響を及ぼす恐れがある。",
+        "why_it_matters": "イランのホルムズ海峡通過制限という地政学的リスクが世界の原油供給の約20％に影響を与え、原油価格を押し上げている。これにより英国を含む多くの国で燃料価格が変動し、家計負担やインフレ率、政策金利に影響を与える可能性があるため経済全体に重要な示唆をもたらす。",
+        "market_impact": "原油価格の上昇はガソリンとディーゼル価格を押し上げ、物流コストの増加を通じて食品やその他商品の価格上昇につながる。これにより消費者の生活コストが増加し、持続的な価格高騰が続けばインフレ圧力の上昇を招く。エネルギー価格の高止まりは英国の金融政策にも影響を及ぼし、中央銀行の利下げ姿勢を鈍らせる可能性がある。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+      }
+    ],
     "Corporate": [
       {
-        "title": "A firm hiring blind staff went bust - but its mission lives on",
-        "summary_2lines": "1854年創業の視覚障害者雇用の老舗企業Clarityが年金資金不足で倒産したが、元社員が新たに社会的使命を継ぐAmplify Goodsを立ち上げた。Amplifyはホームレスや障害者に就労機会を提供し、環境配慮した石鹸を製造販売している。",
-        "why_it_matters": "障害者や社会的弱者の雇用創出を目的とした企業の倒産とその再生は、社会的インクルージョンの継続的な重要性を示している。年金や労働者保護の問題も浮き彫りになり、社会的企業の役割と持続可能なビジネスモデルの必要性が再認識された。",
-        "market_impact": "社会的企業が障害者やホームレスの雇用に注力することで、従来の市場とは異なる価値創造を促進。消費者の社会的責任意識の高まりに応じた製品需要の拡大が期待され、同種の社会的課題解決型ビジネスの成長余地を示唆する。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cpd8jpn0np1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Berkshire Hathaway operating earnings fell nearly 30% in Warren Buffett's final quarter as CEO",
-        "summary_2lines": "バークシャー・ハサウェイの2025年第4四半期の営業利益が約30%減少し、保険事業の低迷が主な要因となった。ウォーレン・バフェット氏のCEO退任に伴い、グレッグ・エイベル新CEOが経営を引き継いだ。",
-        "why_it_matters": "バークシャー・ハサウェイはウォーレン・バフェット氏の長期的なリーダーシップのもとで驚異的な資産増加を実現してきた企業であり、その経営交代は投資家や市場にとって重要な転換点となる。また、保険事業の利益減少は同社の収益構造に直接影響するため注目される。",
-        "market_impact": "短期的には営業利益の減少や保険セクターの不調が株価や投資判断にマイナス影響を及ぼす可能性があるものの、バフェットの後継者であるエイベル氏が財務の強さと資本規律を維持する方針を示しているため、中長期的には安定経営が期待される。現時点ではバークシャー株の2025年上昇率は市場平均を下回ったが、引き続き強固な資産基盤を有するため投資家の信頼はある程度継続するとみられる。",
+        "title": "Jamie Dimon says Trump’s $5 billion debanking lawsuit ‘has no merit’ but he’s sympathetic to concerns",
+        "summary_2lines": "JPMorgan CEO Jamie Dimon dismissed Trump's $5 billion lawsuit over account closures as baseless but acknowledged the president's frustration. Dimon explained banks debank customers to avoid regulatory and reputational risks under current financial regulations.",
+        "why_it_matters": "この裁判は政治的対立が金融業界に及ぼす影響を示しており、銀行が法規制と評判リスクの狭間で顧客選別を迫られている現状を浮き彫りにしている。Trumpの影響力が市場や金融政策にも波及する可能性があるため注目される。",
+        "market_impact": "訴訟や政治リスクがJPMorganの経営陣にプレッシャーを与えつつも、同時に規制緩和による銀行利益増加の期待感もある。金融機関が顧客選別を強める動きは、業界のリスク管理や顧客関係に長期的影響を及ぼす恐れがある。",
         "category": "Corporate",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/02/28/berkshire-hathaway-brka-q4-2025-earnings.html"
+        "url": "https://www.cnbc.com/2026/03/02/dimon-trump-debanking-lawsuit-no-merit-concerns.html"
       },
       {
-        "title": "The third man who links Andrew with Jeffrey Epstein",
-        "summary_2lines": "英国王子アンドリューと有罪判決を受けた米国の性犯罪者ジェフリー・エプスタインを結ぶ第三の人物として、ドイツ人実業家デビッド・スターンの存在が浮上。スターンは中国を拠点に両者を繋ぎ、複数の関係書類にその役割が詳細に記されている。",
-        "why_it_matters": "エプスタイン事件は国際的な政治・ビジネス界に衝撃を与え、エプスタインと親交のあった王族や著名人への注目が集まった。スターンの関与は当該スキャンダルの全貌解明に寄与し、権力者らの不正な繋がりや影響力の構造を理解しやすくするため重要である。",
-        "market_impact": "今回の報道による直接的な市場影響は限定的だが、スターンが関与していた企業（例えば中国関連のヘルスケアIT事業やPitch@Palaceなどのロイヤル関連事業）に対する信頼低下やブランド毀損のリスクがある。また、多国間の倫理関係や規制強化の動きに波及しうるため、中長期的には投資環境や企業ガバナンスに影響する可能性がある。",
+        "title": "Bars close and hundreds lose jobs as US firm buys Brewdog in £33m deal",
+        "summary_2lines": "米国企業ティルレイが英国のクラフトビール会社Brewdogの醸造事業と11店舗を3300万ポンドで買収。38店舗の閉鎖と484人の解雇が発生し、個人投資家には回収の見込みがない厳しい再編となった。",
+        "why_it_matters": "Brewdogはクラフトビール業界で成長を続けてきたが、経営悪化と損失により経営破綻。特に多くの個人投資家が参画したエクイティ・フォー・パンクスの資金が戻らない可能性が高く、従業員や地域経済に大きな影響を与えるため、労働環境や投資リスクの観点から注目される。",
+        "market_impact": "業界ではBrewdogの再編により店舗減少と雇用縮小が波及し、地元の経済環境や観光にも打撃となる可能性がある。ティルレイの買収による市場再編は、クラフトビールの国際展開を加速させる一方、小規模投資家のリスク意識が高まる。失業増加は労働市場にマイナス影響を与えるが、一部事業継続による雇用維持も見られる。",
         "category": "Corporate",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c98gne0z0rxo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c05v0p1d0peo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Berkshire CEO Greg Abel vows to keep Buffett's culture of disciplined investing in first annual letter",
-        "summary_2lines": "バークシャー・ハサウェイの新CEOグレッグ・エイベルは、バフェットの財務保守主義と厳格な投資文化を継続すると表明。大規模な現金保有を戦略的な投資余力として維持し、配当は引き続き支払わない方針を示した。",
-        "why_it_matters": "ウォーレン・バフェットの長年の投資哲学と経営スタイルの継承は、バークシャーの株主や市場にとって重要な安定要因。市場はバフェットの後継者への不安もある中、エイベルの保守的かつ堅実な経営方針の公表は投資家の信頼を維持するための重要なメッセージである。",
-        "market_impact": "バークシャーの大規模な現金保有は、潜在的な大規模買収や投資機会への迅速対応が可能であることを示し、市場に流動性と機動力の高さを示す。一方、配当を支払わず内部留保により企業価値を最大化する方針は長期投資家にとって安心材料となり、同社株の安定的な評価につながる可能性が高い。",
+        "summary_2lines": "バークシャー・ハサウェイの新CEOグレッグ・アベルが、ウォーレン・バフェットの厳格な投資文化と財務保守主義を継続すると表明。巨額のキャッシュポジションは機動的な投資機会確保のための戦略的蓄えと強調した。",
+        "why_it_matters": "ウォーレン・バフェットの後継者としてアベル氏が就任し、投資家や市場は経営方針の継続性と企業文化の維持を懸念していた。財務の保守性を保ちつつも積極的な投資機会を狙う姿勢は、バークシャー株の安定感と将来の成長期待に直結するため極めて重要だ。",
+        "market_impact": "アベルCEOは長期価値重視の集中投資と慎重な資本運営を継続する方針で、市場には安定感をもたらす。また、配当拒否や大量キャッシュ保有の意図を明確に示し、株主期待の調整が行われる。これによりバークシャー株への信頼は維持されつつ、新規の買収・投資機会が適切に活用される可能性が高まる。",
         "category": "Corporate",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/02/28/berkshire-ceo-abel-vows-to-keep-buffetts-culture-of-disciplined-investing-in-first-annual-letter.html"
