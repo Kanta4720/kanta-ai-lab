@@ -1,69 +1,78 @@
 {
-  "generated_at_jst": "2026-03-03 07:17",
+  "generated_at_jst": "2026-03-04 07:17",
   "todays_brief": [
     {
-      "title": "Oil and gas prices jump as conflict escalates",
-      "summary_2lines": "中東地域の紛争激化により、イランの攻撃を受けたカタールやサウジのエネルギー施設が稼働停止し、原油と天然ガス価格が急騰した。これにより欧米の株価は軟調だったが、エネルギー関連株は上昇した。",
-      "why_it_matters": "中東は世界のエネルギー供給の中心であり、ホルムズ海峡を通る石油・ガスの約20％が輸送されているため、地域の軍事的緊張は世界のエネルギー安全保障に直結する。価格上昇はインフレや中央銀行の金融政策にも影響を及ぼすため、世界経済に重要なリスクとなる。",
-      "market_impact": "エネルギー価格の上昇はインフレ圧力の強まりを通じて消費者物価、金利動向に影響し、金融セクターの株価軟調を招いた。航空業界は中東空域の混乱による運航リスクで株価下落。エネルギー・防衛関連企業は需要増加を織り込み株価上昇。供給不安の長期化は更なる価格上昇と世界経済の混乱をもたらす可能性がある。",
+      "title": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
+      "summary_2lines": "中東の紛争激化によりガスと原油価格が急騰し、世界の株式市場が大幅に下落した。特に英国のガス価格は3年ぶりの高値を記録し、輸送コストも急増している。",
+      "why_it_matters": "中東は世界エネルギー供給と主要海上輸送路の要衝であるため、紛争の長期化はエネルギー価格やインフレに直結し、世界経済の安定に深刻なリスクをもたらす。過去にロシアのウクライナ侵攻が引き起こしたエネルギー価格高騰の再来懸念が強まっている。",
+      "market_impact": "エネルギー価格の急騰で企業のコスト増加や消費者の負担増加が見込まれ、英国・欧州・米国・アジアの株価は軒並み下落。特に英国ガス価格は二倍に跳ね上がり、物流コストも過去最高水準に達しているため、インフレ加速や金利政策にも影響を与える可能性が高い。",
       "category": "Geopolitics",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Will petrol and diesel prices go up now?",
-      "summary_2lines": "中東の紛争により原油価格が上昇し、今後数週間で英国のガソリン・ディーゼル価格が上昇する可能性がある。持続的な価格高騰は食品価格や家庭のエネルギー料金、インフレにも影響を及ぼす恐れがある。",
-      "why_it_matters": "イランのホルムズ海峡通過制限という地政学的リスクが世界の原油供給の約20％に影響を与え、原油価格を押し上げている。これにより英国を含む多くの国で燃料価格が変動し、家計負担やインフレ率、政策金利に影響を与える可能性があるため経済全体に重要な示唆をもたらす。",
-      "market_impact": "原油価格の上昇はガソリンとディーゼル価格を押し上げ、物流コストの増加を通じて食品やその他商品の価格上昇につながる。これにより消費者の生活コストが増加し、持続的な価格高騰が続けばインフレ圧力の上昇を招く。エネルギー価格の高止まりは英国の金融政策にも影響を及ぼし、中央銀行の利下げ姿勢を鈍らせる可能性がある。",
-      "category": "Economy",
+      "summary_2lines": "中東の紛争による原油価格の上昇懸念から、英国でのガソリンやディーゼルの価格が上昇する可能性が出ている。燃料価格上昇は輸送コストや食品価格にも波及し、生活費の上昇要因となりうる。",
+      "why_it_matters": "英国は原油や天然ガスの多くを輸入に依存しており、中東情勢の不安定化は世界市場のエネルギー価格に直接影響する。これにより燃料価格が高騰すると、消費者の負担増加や企業のコスト圧迫を通じて経済全体に波及効果が生じる恐れがあるため重要である。",
+      "market_impact": "原油価格の上昇が継続すれば、英国のガソリンとディーゼル価格は数週間で年初の水準に近づく可能性がある。輸送コスト増加による食品価格の上昇、そして家庭の光熱費（特に変動契約者や北アイルランドの暖房油利用者）への影響も懸念される。これらがインフレ圧力を強め、消費や企業の利益率を圧迫することが予想される。",
+      "category": "Geopolitics",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Limited flights leave UAE but disruption continues amid Iran strikes",
-      "summary_2lines": "イランへの米イスラエルの攻撃を背景に中東地域で1日4,000便以上が欠航し、UAEを含む主要空港で運航が大幅に制限されている。多くの乗客が足止めされ、航空業界は深刻な影響を受けている。",
-      "why_it_matters": "中東地域は世界の主要な航空・物流ハブであり、地政学的緊張により航空運航が大幅に制約されることは国際的な人の移動や貨物輸送に大きな混乱をもたらす。また、イランへの攻撃が長期化すれば、航空業界だけでなく中東経済、世界の供給網やエネルギー市場にも波及的影響を与えるリスクが高まるため重要。",
-      "market_impact": "大規模な便のキャンセルや空港閉鎖により、UAEの航空会社をはじめ中東の航空業界は収益悪化と顧客信頼の低下が避けられない。主要エアラインの運航停止は乗客需要の減少や追加コストを生み、関連産業や観光業も影響を受ける。また、航空貨物の遅延は国際貿易に支障をきたし、グローバル供給網の混乱や物流コストの上昇を招く可能性がある。",
+      "title": "Trump says US Navy will protect ships in Middle East 'if necessary'",
+      "summary_2lines": "トランプ大統領は、中東の航行船舶を必要に応じて米海軍が保護すると表明し、海上保険も政府が支援すると発表した。これによりエネルギー供給の安定を図り、世界的な石油価格の高騰に対応する意向を示した。",
+      "why_it_matters": "中東は世界の石油輸送の重要ルートであり、最近のイランとの紛争激化でタンカー攻撃や保険キャンセルが相次ぎ供給リスクが増大。これが原油価格の急騰を招き、各国の経済や家庭の燃料費に深刻な影響を及ぼすため、米国政府が介入してリスク軽減を図る動きは市場の安定に向けた重要な対策となる。",
+      "market_impact": "米軍による船舶護衛および政府保証による保険供給は、海上輸送の安全性を一時的に高め原油の供給リスクを緩和。これによって原油価格の急騰が抑制される可能性があるが、紛争の長期化に伴う価格高騰リスクは依然残る。エネルギー市場のボラティリティは減少し、石油関連企業や消費者のコストにも影響を与えるため、経済全体の安定化に寄与するとみられる。",
       "category": "Geopolitics",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c3v7ele1k4zo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c20zg54g5vvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump threatens to halt trade with Spain over military base access",
+      "summary_2lines": "トランプ大統領はスペインがイランへの軍事作戦で米軍基地使用を拒否したことを受けて、スペインとの貿易を全面的に停止する可能性を示唆した。これにより米西関係に緊張が高まっている。",
+      "why_it_matters": "米国はスペインを含むNATO同盟国に防衛費の増額を求めているが、スペインは軍事的協力と国際法の遵守を理由に拒否しており、米国の貿易制限の脅しは同盟内の分裂と緊張を示している。欧州連合内の自由貿易の枠組みもあり、実際の制裁措置の実施は複雑な国際政治・経済上の問題を孕む。",
+      "market_impact": "米西間の貿易は2025年には約470億ドル規模で、スペインからは医薬品やオリーブオイルが多く輸入されている。制裁が実施された場合、両国の貿易業界や関連企業に混乱やコスト増加が生じるほか、EU全体の対米貿易にも不透明感が広がり、市場の不確実性を高める可能性がある。",
+      "category": "Geopolitics",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c8r1mzd8vygo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Berkshire Hathaway shares drop nearly 5% after poor fourth-quarter results, no bold moves by new CEO Abel",
-      "summary_2lines": "バークシャー・ハサウェイの第4四半期営業利益は前年同期比で29%減少し、新CEOアベルは即時の大胆な戦略変更を示さなかった。株価は約5%下落し、市場や投資家に不安が広がった。",
-      "why_it_matters": "バークシャー・ハサウェイはウォーレン・バフェットの後を継いだ新CEO体制下での初の四半期決算を公表したが、利益減少と配当不実施方針により投資家の期待とのギャップが浮き彫りとなった。特に3700億ドル超の現金保有を背景に、配当や積極的な資本配分の動きがないことが投資判断に影響を与えるため、注目されている。",
-      "market_impact": "バークシャーの株価下落は短期的に市場全体の防御的資産としての評価を見直す動きにつながったが、一部アナリストは同社の多角化や流動性の高さから、中長期的には市場の不安定性に対して優れた防御的役割を果たすと見ている。資本配分の保守姿勢が続く限り、大規模なM&Aや株主還元拡大は期待薄で、株価の変動材料として今後も注目される。",
+      "summary_2lines": "バークシャー・ハサウェイは2025年第4四半期の営業利益が29%減少し、株価が約5%下落した。新CEOアベルは当面の積極的な戦略転換や配当開始を示さなかった。",
+      "why_it_matters": "バークシャー・ハサウェイはウォーレン・バフェットの後を継いだCEOアベルの下で、伝統的な資本配分方針が継続されることが確認されたため、投資家は今後の成長戦略や資本還元方針に注目している。特に4兆円超の現金保有と配当未実施が注目され、投資判断に影響を与える。",
+      "market_impact": "バークシャーの利益減少と株価下落は短期的には市場にネガティブなシグナルを送ったが、多様化された事業構造と強固な財務基盤により、地政学的リスクが高まる中で防御的投資先としての魅力は維持される可能性が高い。配当不実施は一部投資家の失望を招くが、内部留保による長期価値創造も評価されている。",
       "category": "Markets",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/03/02/berkshire-hathaway-shares-drop-4percent-after-poor-fourth-quarter-results.html"
-    },
-    {
-      "title": "Khamenei's death raises questions about Trump's China trip",
-      "summary_2lines": "米国がイラン最高指導者ハメネイを攻撃したことで、トランプ大統領の中国訪問の実現に不透明感が強まっている。北京は強く非難し、訪中日程の公式確認もまだない状態だ。",
-      "why_it_matters": "トランプ政権によるイラン最高指導者の殺害は、中国との外交関係に緊張をもたらし、米中間の貿易協議や関係改善の機会を損なうリスクが高まった。中国はイラン及びベネズエラと比較的良好な関係にあり、今回の事件は北京がトランプ訪中に慎重になる要因となっているため、両国の今後の外交・経済関係に深刻な影響を及ぼす可能性がある。",
-      "market_impact": "トランプ大統領の中国訪問延期・中止の懸念が高まり、両国の貿易交渉や投資計画の進展が停滞する恐れがある。米国企業の中国進出や共同事業推進にも慎重姿勢が広がり、短期的な市場の不確実性とリスクプレミアムの上昇を招く可能性がある。特に米中貿易の不透明感や地政学リスクの増大が企業収益や株式市場に影響を与えるだろう。",
-      "category": "Geopolitics",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/02/khameneis-death-trump-china-visit-uncertainty-iran-strikes-trade-truce.html"
     }
   ],
   "categories": {
     "Tech": [],
     "Markets": [
       {
-        "title": "Citadel’s various hedge funds rise in February, beating the S&P 500 in a choppy month",
-        "summary_2lines": "シタデルの複数のヘッジファンドは2月に安定したプラスリターンを記録し、S&P 500の下落を上回った。AI関連株の乱高下や地政学リスクが市場の不安定要因となる中で成果を出した。",
-        "why_it_matters": "世界的なマクロ経済不確実性やAIの技術革新が市場のボラティリティを高める中、シタデルの多様な投資戦略がリスク管理に成功し高い運用成果を示したことは、資産運用の優れた手法として注目される。特に主要株価指数が下落する厳しい市場環境でファンドが堅調だったことは、今後の投資家心理や市場動向を占う上で重要な指標となる。",
-        "market_impact": "シタデルの好調なパフォーマンスはヘッジファンド市場全体の強さを示し、AI関連銘柄の変動や地政学的なリスクによる市場動揺の中でも多様な資産クラスへの分散投資が有効であることを証明した。一方、S&P 500の下落は広範な投資家のセンチメント悪化を反映しており、今後もテクノロジーセクターおよび地政学リスクに影響されやすい市場環境が続く可能性が高い。",
+        "title": "The momentum trades of 2026 are breaking with gold, silver and South Korea down big",
+        "summary_2lines": "2026年の主要なモメンタム銘柄であった金、銀、韓国市場がイラン情勢の悪化懸念で大幅下落した。投資家はインフレ懸念や原油価格の急騰を受けて幅広くリスク回避に動いている。",
+        "why_it_matters": "これらの資産は米国大型ハイテクへの過度な集中投資を避けたい投資家にとって魅力的な代替投資先であり、世界的な資産分散や新興需要に支えられてきた。しかし、地政学リスクとインフレ圧力が高まる中で、これまでの成長が一時的に後退しやすいことを示唆している。",
+        "market_impact": "短期的には金・銀・韓国株の大幅な調整により投資家のリスク選好が低下し、関連ETFや資源株への売りが加速。原油価格の上昇はインフレ圧力を強め、世界経済の不透明感が増す可能性が高い。長期的には供給制約や技術需要に支えられた資産の回復期待も残るが、地政学リスク管理の難しさが増す結果となっている。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/02/citadels-various-hedge-funds-rise-in-february-beating-the-sp-500-in-a-choppy-month.html"
+        "url": "https://www.cnbc.com/2026/03/03/the-momentum-trades-of-2026-are-breaking-with-gold-silver-and-south-korea-down-big.html"
+      },
+      {
+        "title": "Blackstone’s Gray: Market ‘noise’ fueled record redemptions from world’s largest private credit fund",
+        "summary_2lines": "Blackstoneのプライベートクレジットファンドから第4四半期に約8％の資金流出があったが、社長のジョン・グレイは貸付先の質の高さを強調し安心感を示した。市場の懸念はプライベートクレジット全体に広がり、他社にも波及している。",
+        "why_it_matters": "プライベートクレジット市場は近年拡大しており、投資家の不安による資金流出は資産運用業界にとってリスクシグナルとなる。ブラックストーンは世界最大級のファンド運用会社であり、その資金動向が市場心理に大きな影響を与えるため、投資家や金融市場にとって注目すべき事象である。",
+        "market_impact": "投資家の大規模な資金引き上げによりブラックストーン株の下落やプライベートクレジット関連資産の売却が進み、他の資産運用会社にも警戒感が広がった。特にソフトウェア企業への貸付けが多いことからテクノロジーセクターの信用環境にも影響し、プライベートクレジット市場の流動性低下や投資リスク増加の懸念が強まっている。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/03/blackstone-private-credit-fund.html"
       },
       {
         "title": "Berkshire Hathaway shares drop nearly 5% after poor fourth-quarter results, no bold moves by new CEO Abel",
-        "summary_2lines": "バークシャー・ハサウェイの第4四半期営業利益は前年同期比で29%減少し、新CEOアベルは即時の大胆な戦略変更を示さなかった。株価は約5%下落し、市場や投資家に不安が広がった。",
-        "why_it_matters": "バークシャー・ハサウェイはウォーレン・バフェットの後を継いだ新CEO体制下での初の四半期決算を公表したが、利益減少と配当不実施方針により投資家の期待とのギャップが浮き彫りとなった。特に3700億ドル超の現金保有を背景に、配当や積極的な資本配分の動きがないことが投資判断に影響を与えるため、注目されている。",
-        "market_impact": "バークシャーの株価下落は短期的に市場全体の防御的資産としての評価を見直す動きにつながったが、一部アナリストは同社の多角化や流動性の高さから、中長期的には市場の不安定性に対して優れた防御的役割を果たすと見ている。資本配分の保守姿勢が続く限り、大規模なM&Aや株主還元拡大は期待薄で、株価の変動材料として今後も注目される。",
+        "summary_2lines": "バークシャー・ハサウェイは2025年第4四半期の営業利益が29%減少し、株価が約5%下落した。新CEOアベルは当面の積極的な戦略転換や配当開始を示さなかった。",
+        "why_it_matters": "バークシャー・ハサウェイはウォーレン・バフェットの後を継いだCEOアベルの下で、伝統的な資本配分方針が継続されることが確認されたため、投資家は今後の成長戦略や資本還元方針に注目している。特に4兆円超の現金保有と配当未実施が注目され、投資判断に影響を与える。",
+        "market_impact": "バークシャーの利益減少と株価下落は短期的には市場にネガティブなシグナルを送ったが、多様化された事業構造と強固な財務基盤により、地政学的リスクが高まる中で防御的投資先としての魅力は維持される可能性が高い。配当不実施は一部投資家の失望を招くが、内部留保による長期価値創造も評価されている。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/02/berkshire-hathaway-shares-drop-4percent-after-poor-fourth-quarter-results.html"
@@ -71,80 +80,71 @@
     ],
     "Geopolitics": [
       {
-        "title": "Oil and gas prices jump as conflict escalates",
-        "summary_2lines": "中東地域の紛争激化により、イランの攻撃を受けたカタールやサウジのエネルギー施設が稼働停止し、原油と天然ガス価格が急騰した。これにより欧米の株価は軟調だったが、エネルギー関連株は上昇した。",
-        "why_it_matters": "中東は世界のエネルギー供給の中心であり、ホルムズ海峡を通る石油・ガスの約20％が輸送されているため、地域の軍事的緊張は世界のエネルギー安全保障に直結する。価格上昇はインフレや中央銀行の金融政策にも影響を及ぼすため、世界経済に重要なリスクとなる。",
-        "market_impact": "エネルギー価格の上昇はインフレ圧力の強まりを通じて消費者物価、金利動向に影響し、金融セクターの株価軟調を招いた。航空業界は中東空域の混乱による運航リスクで株価下落。エネルギー・防衛関連企業は需要増加を織り込み株価上昇。供給不安の長期化は更なる価格上昇と世界経済の混乱をもたらす可能性がある。",
+        "title": "Will petrol and diesel prices go up now?",
+        "summary_2lines": "中東の紛争による原油価格の上昇懸念から、英国でのガソリンやディーゼルの価格が上昇する可能性が出ている。燃料価格上昇は輸送コストや食品価格にも波及し、生活費の上昇要因となりうる。",
+        "why_it_matters": "英国は原油や天然ガスの多くを輸入に依存しており、中東情勢の不安定化は世界市場のエネルギー価格に直接影響する。これにより燃料価格が高騰すると、消費者の負担増加や企業のコスト圧迫を通じて経済全体に波及効果が生じる恐れがあるため重要である。",
+        "market_impact": "原油価格の上昇が継続すれば、英国のガソリンとディーゼル価格は数週間で年初の水準に近づく可能性がある。輸送コスト増加による食品価格の上昇、そして家庭の光熱費（特に変動契約者や北アイルランドの暖房油利用者）への影響も懸念される。これらがインフレ圧力を強め、消費や企業の利益率を圧迫することが予想される。",
         "category": "Geopolitics",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
+        "summary_2lines": "中東の紛争激化によりガスと原油価格が急騰し、世界の株式市場が大幅に下落した。特に英国のガス価格は3年ぶりの高値を記録し、輸送コストも急増している。",
+        "why_it_matters": "中東は世界エネルギー供給と主要海上輸送路の要衝であるため、紛争の長期化はエネルギー価格やインフレに直結し、世界経済の安定に深刻なリスクをもたらす。過去にロシアのウクライナ侵攻が引き起こしたエネルギー価格高騰の再来懸念が強まっている。",
+        "market_impact": "エネルギー価格の急騰で企業のコスト増加や消費者の負担増加が見込まれ、英国・欧州・米国・アジアの株価は軒並み下落。特に英国ガス価格は二倍に跳ね上がり、物流コストも過去最高水準に達しているため、インフレ加速や金利政策にも影響を与える可能性が高い。",
+        "category": "Geopolitics",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump threatens to halt trade with Spain over military base access",
+        "summary_2lines": "トランプ大統領はスペインがイランへの軍事作戦で米軍基地使用を拒否したことを受けて、スペインとの貿易を全面的に停止する可能性を示唆した。これにより米西関係に緊張が高まっている。",
+        "why_it_matters": "米国はスペインを含むNATO同盟国に防衛費の増額を求めているが、スペインは軍事的協力と国際法の遵守を理由に拒否しており、米国の貿易制限の脅しは同盟内の分裂と緊張を示している。欧州連合内の自由貿易の枠組みもあり、実際の制裁措置の実施は複雑な国際政治・経済上の問題を孕む。",
+        "market_impact": "米西間の貿易は2025年には約470億ドル規模で、スペインからは医薬品やオリーブオイルが多く輸入されている。制裁が実施された場合、両国の貿易業界や関連企業に混乱やコスト増加が生じるほか、EU全体の対米貿易にも不透明感が広がり、市場の不確実性を高める可能性がある。",
+        "category": "Geopolitics",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c8r1mzd8vygo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "What are my rights if my flight is cancelled or delayed?",
-        "summary_2lines": "中東情勢の悪化に伴う航空便の遅延・欠航により、乗客は基本的に払い戻しや代替便の提供を受ける権利がある。ただし、紛争などの『不可抗力』による場合は追加賠償は支払われない。",
-        "why_it_matters": "中東の紛争が国際航空運航に影響を及ぼし、多くの旅客が移動の混乱に直面している。消費者の権利や航空会社の対応のルールを理解し適切に対応することが重要であり、旅行保険や政府の渡航情報も関連するため、多方面での影響が懸念される。",
-        "market_impact": "航空業界では運航制限や燃料費上昇などコスト増の圧力が強まる可能性があり、大手空港ハブの混雑は顧客満足度の低下や収益減少につながる。旅行関連企業のキャンセル対応コスト増加や保険業界の請求増も予想され、地域経済も観光需要減退の影響を受ける。",
+        "summary_2lines": "中東での米・イスラエルとイラン間の紛争拡大により航空便に遅延・欠航が発生し、乗客は主に払い戻しや代替便の選択が可能。英国およびEU法のもと、航空会社は食事や宿泊などのサポート提供義務があるが、紛争による混乱は補償対象外となる場合が多い。",
+        "why_it_matters": "中東情勢の緊迫化が国際航空網に混乱を生じさせ、多くの旅行者や観光業界に直接影響を及ぼしている。特に英国とEUの法規制が乗客保護の基盤となっており、旅行者が自らの権利を理解し行使することが重要となるため、影響の大きい国際的問題と言える。",
+        "market_impact": "航空会社は紛争地域の運航制限に伴う経営リスクと運航コストの増加に直面し、旅行代理店やパッケージツアー大手も中東方面の販売停止やキャンセル処理に追われる。これにより航空・旅行業界の短期的な収益悪化が懸念され、関連するクレジットカード会社や保険業界も補償請求の増加で影響を受ける可能性が高い。",
         "category": "Geopolitics",
         "source": "BBC Business",
         "url": "https://www.bbc.com/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Limited flights leave UAE but disruption continues amid Iran strikes",
-        "summary_2lines": "イランへの米イスラエルの攻撃を背景に中東地域で1日4,000便以上が欠航し、UAEを含む主要空港で運航が大幅に制限されている。多くの乗客が足止めされ、航空業界は深刻な影響を受けている。",
-        "why_it_matters": "中東地域は世界の主要な航空・物流ハブであり、地政学的緊張により航空運航が大幅に制約されることは国際的な人の移動や貨物輸送に大きな混乱をもたらす。また、イランへの攻撃が長期化すれば、航空業界だけでなく中東経済、世界の供給網やエネルギー市場にも波及的影響を与えるリスクが高まるため重要。",
-        "market_impact": "大規模な便のキャンセルや空港閉鎖により、UAEの航空会社をはじめ中東の航空業界は収益悪化と顧客信頼の低下が避けられない。主要エアラインの運航停止は乗客需要の減少や追加コストを生み、関連産業や観光業も影響を受ける。また、航空貨物の遅延は国際貿易に支障をきたし、グローバル供給網の混乱や物流コストの上昇を招く可能性がある。",
+        "title": "Trump says US Navy will protect ships in Middle East 'if necessary'",
+        "summary_2lines": "トランプ大統領は、中東の航行船舶を必要に応じて米海軍が保護すると表明し、海上保険も政府が支援すると発表した。これによりエネルギー供給の安定を図り、世界的な石油価格の高騰に対応する意向を示した。",
+        "why_it_matters": "中東は世界の石油輸送の重要ルートであり、最近のイランとの紛争激化でタンカー攻撃や保険キャンセルが相次ぎ供給リスクが増大。これが原油価格の急騰を招き、各国の経済や家庭の燃料費に深刻な影響を及ぼすため、米国政府が介入してリスク軽減を図る動きは市場の安定に向けた重要な対策となる。",
+        "market_impact": "米軍による船舶護衛および政府保証による保険供給は、海上輸送の安全性を一時的に高め原油の供給リスクを緩和。これによって原油価格の急騰が抑制される可能性があるが、紛争の長期化に伴う価格高騰リスクは依然残る。エネルギー市場のボラティリティは減少し、石油関連企業や消費者のコストにも影響を与えるため、経済全体の安定化に寄与するとみられる。",
         "category": "Geopolitics",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c3v7ele1k4zo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Khamenei's death raises questions about Trump's China trip",
-        "summary_2lines": "米国がイラン最高指導者ハメネイを攻撃したことで、トランプ大統領の中国訪問の実現に不透明感が強まっている。北京は強く非難し、訪中日程の公式確認もまだない状態だ。",
-        "why_it_matters": "トランプ政権によるイラン最高指導者の殺害は、中国との外交関係に緊張をもたらし、米中間の貿易協議や関係改善の機会を損なうリスクが高まった。中国はイラン及びベネズエラと比較的良好な関係にあり、今回の事件は北京がトランプ訪中に慎重になる要因となっているため、両国の今後の外交・経済関係に深刻な影響を及ぼす可能性がある。",
-        "market_impact": "トランプ大統領の中国訪問延期・中止の懸念が高まり、両国の貿易交渉や投資計画の進展が停滞する恐れがある。米国企業の中国進出や共同事業推進にも慎重姿勢が広がり、短期的な市場の不確実性とリスクプレミアムの上昇を招く可能性がある。特に米中貿易の不透明感や地政学リスクの増大が企業収益や株式市場に影響を与えるだろう。",
-        "category": "Geopolitics",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/02/khameneis-death-trump-china-visit-uncertainty-iran-strikes-trade-truce.html"
+        "url": "https://www.bbc.com/news/articles/c20zg54g5vvo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Economy": [
       {
-        "title": "Will petrol and diesel prices go up now?",
-        "summary_2lines": "中東の紛争により原油価格が上昇し、今後数週間で英国のガソリン・ディーゼル価格が上昇する可能性がある。持続的な価格高騰は食品価格や家庭のエネルギー料金、インフレにも影響を及ぼす恐れがある。",
-        "why_it_matters": "イランのホルムズ海峡通過制限という地政学的リスクが世界の原油供給の約20％に影響を与え、原油価格を押し上げている。これにより英国を含む多くの国で燃料価格が変動し、家計負担やインフレ率、政策金利に影響を与える可能性があるため経済全体に重要な示唆をもたらす。",
-        "market_impact": "原油価格の上昇はガソリンとディーゼル価格を押し上げ、物流コストの増加を通じて食品やその他商品の価格上昇につながる。これにより消費者の生活コストが増加し、持続的な価格高騰が続けばインフレ圧力の上昇を招く。エネルギー価格の高止まりは英国の金融政策にも影響を及ぼし、中央銀行の利下げ姿勢を鈍らせる可能性がある。",
+        "title": "New York Fed's Williams says tariff burden falls 'overwhelmingly' on U.S. businesses and consumers",
+        "summary_2lines": "ニューヨーク連銀のウィリアムズ総裁は、トランプ政権の関税負担の大半が米国内の企業と消費者にのしかかっていると述べた。関税がインフレを押し上げ、FRBの2％インフレ目標達成を遅らせていると指摘している。",
+        "why_it_matters": "トランプ政権は当初、関税のコストは輸出業者が負担すると主張していたが、これに反し、実際には米国内で価格上昇が進んでいることをFRBの主要幹部が認めたことで、政策の経済的影響が改めて注目されている。これは消費者の購買力低下やインフレの継続的な上昇リスクを示唆し、金融政策運営にも影響を及ぼすため重要だ。",
+        "market_impact": "関税による価格上昇は消費者物価を押し上げることでインフレを加速させ、FRBは目標インフレ率到達を阻まれている。市場ではFRBが今後利下げに動く可能性が高まっており、短期金利や債券市場、株価の変動要因となる。企業はコスト増を転嫁できず利益圧迫の恐れがあり、消費も抑制され景気成長にブレーキがかかる可能性がある。",
         "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/03/new-york-feds-williams-says-tariff-burden-falls-overwhelmingly-on-us-businesses-and-consumers.html"
       }
     ],
     "Corporate": [
       {
         "title": "Jamie Dimon says Trump’s $5 billion debanking lawsuit ‘has no merit’ but he’s sympathetic to concerns",
-        "summary_2lines": "JPMorgan CEO Jamie Dimon dismissed Trump's $5 billion lawsuit over account closures as baseless but acknowledged the president's frustration. Dimon explained banks debank customers to avoid regulatory and reputational risks under current financial regulations.",
-        "why_it_matters": "この裁判は政治的対立が金融業界に及ぼす影響を示しており、銀行が法規制と評判リスクの狭間で顧客選別を迫られている現状を浮き彫りにしている。Trumpの影響力が市場や金融政策にも波及する可能性があるため注目される。",
-        "market_impact": "訴訟や政治リスクがJPMorganの経営陣にプレッシャーを与えつつも、同時に規制緩和による銀行利益増加の期待感もある。金融機関が顧客選別を強める動きは、業界のリスク管理や顧客関係に長期的影響を及ぼす恐れがある。",
+        "summary_2lines": "JPMorgan CEO Jamie Dimon dismissed Donald Trump’s $5 billion debanking lawsuit as baseless but acknowledged the frustration behind it. Banks close accounts to avoid legal and regulatory risks tied to reputational damage.",
+        "why_it_matters": "この訴訟は、金融機関が政治的圧力や評判リスクにどう対応するかを浮き彫りにし、規制環境や銀行の顧客選択基準の問題を示している。トランプの影響力と金融界のバランスを探る重要な事案である。",
+        "market_impact": "トランプとJPMorgan間の訴訟は金融業界の規制遵守のあり方やリスク管理方針に注目を集め、銀行の顧客撤退リスクが投資家の警戒を呼ぶ可能性がある。一方で、規制緩和進展により銀行収益性向上の期待もある。",
         "category": "Corporate",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/02/dimon-trump-debanking-lawsuit-no-merit-concerns.html"
-      },
-      {
-        "title": "Bars close and hundreds lose jobs as US firm buys Brewdog in £33m deal",
-        "summary_2lines": "米国企業ティルレイが英国のクラフトビール会社Brewdogの醸造事業と11店舗を3300万ポンドで買収。38店舗の閉鎖と484人の解雇が発生し、個人投資家には回収の見込みがない厳しい再編となった。",
-        "why_it_matters": "Brewdogはクラフトビール業界で成長を続けてきたが、経営悪化と損失により経営破綻。特に多くの個人投資家が参画したエクイティ・フォー・パンクスの資金が戻らない可能性が高く、従業員や地域経済に大きな影響を与えるため、労働環境や投資リスクの観点から注目される。",
-        "market_impact": "業界ではBrewdogの再編により店舗減少と雇用縮小が波及し、地元の経済環境や観光にも打撃となる可能性がある。ティルレイの買収による市場再編は、クラフトビールの国際展開を加速させる一方、小規模投資家のリスク意識が高まる。失業増加は労働市場にマイナス影響を与えるが、一部事業継続による雇用維持も見られる。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c05v0p1d0peo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Berkshire CEO Greg Abel vows to keep Buffett's culture of disciplined investing in first annual letter",
-        "summary_2lines": "バークシャー・ハサウェイの新CEOグレッグ・アベルが、ウォーレン・バフェットの厳格な投資文化と財務保守主義を継続すると表明。巨額のキャッシュポジションは機動的な投資機会確保のための戦略的蓄えと強調した。",
-        "why_it_matters": "ウォーレン・バフェットの後継者としてアベル氏が就任し、投資家や市場は経営方針の継続性と企業文化の維持を懸念していた。財務の保守性を保ちつつも積極的な投資機会を狙う姿勢は、バークシャー株の安定感と将来の成長期待に直結するため極めて重要だ。",
-        "market_impact": "アベルCEOは長期価値重視の集中投資と慎重な資本運営を継続する方針で、市場には安定感をもたらす。また、配当拒否や大量キャッシュ保有の意図を明確に示し、株主期待の調整が行われる。これによりバークシャー株への信頼は維持されつつ、新規の買収・投資機会が適切に活用される可能性が高まる。",
-        "category": "Corporate",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/02/28/berkshire-ceo-abel-vows-to-keep-buffetts-culture-of-disciplined-investing-in-first-annual-letter.html"
       }
     ]
   }
