@@ -1,151 +1,152 @@
 {
-  "generated_at_jst": "2026-03-05 07:20",
+  "generated_at_jst": "2026-03-06 07:19",
   "todays_brief": [
     {
-      "title": "Higher tariffs likely this week, says US Treasury",
-      "summary_2lines": "米財務長官が今週15%の世界的関税導入を示唆し、トランプ政権の関税政策は最高裁判決後も維持される見込み。政府は他の法的手段も活用し、国内製造業支援や貿易再均衡を目指す。",
-      "why_it_matters": "最高裁による従来の関税無効判決後、不透明になっていた米国の対外関税政策の今後の方向性が明確になりつつある。関税は貿易交渉や国際関係に大きな影響を与え、世界経済の流れを左右するため、各国企業や市場にとって重要な指標となる。",
-      "market_impact": "関税率引き上げにより輸入コストが上昇し、米国内の製造業は恩恵を受ける可能性がある一方、輸入依存の企業にはコスト増加リスクがある。グローバルサプライチェーンの混乱や貿易摩擦の激化が懸念され、関連業界の株価変動や米中貿易関係にも影響を与える可能性が高い。また、最大1300億ドル規模の関税返金問題が財政負担を増やすリスクも存在する。",
+      "title": "Anthropic labelled a supply chain risk by Pentagon",
+      "summary_2lines": "米国防総省がAI企業Anthropicを初めて米国内企業として供給網リスク指定し業務禁止措置を決定。Anthropicは政府のAIツール無制限利用要求に反発し訴訟も辞さない姿勢を示している。",
+      "why_it_matters": "この指定は、国家安全保障と技術統制の衝突を象徴し、政府とAI企業間の信頼関係が大きく揺らぐ事態を招いている。軍事利用を前提としたAI開発の自由度とプライバシー・安全性の確保のバランスが問われ、同様の問題が他の先端技術分野にも波及する可能性がある。",
+      "market_impact": "Anthropicの軍事分野での利用停止は同社収益と成長にマイナス影響を与える可能性が高い。これによりライバルのOpenAIが政府関連契約を増やし、AI市場のシェア争いに影響を及ぼすことが予想される。さらに、投資家の政府規制リスク意識が高まり、AI関連企業の評価にネガティブな波及効果が出る恐れがある。",
+      "category": "Tech",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cn5g3z3xe65o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "States sue Trump administration over new 'unlawful' global tariffs",
+      "summary_2lines": "米国の24州がトランプ政権の新たな10%関税を違法として提訴。前回の高率関税が最高裁で違憲判決を受けた中、行政の関税権限をめぐる裁判が続く。",
+      "why_it_matters": "トランプ政権が国際貿易の不均衡是正を理由に関税を繰り返し導入してきたが、最高裁判決や州の訴訟で行政権限の限界が問われている。貿易政策の不確実性が米国内外に波及し、米国の貿易交渉や産業界に大きな影響を及ぼすため重要。",
+      "market_impact": "新関税の実施停止や還付命令により、輸入業者や製造業者のコスト削減が見込まれる一方、関税措置の継続的不確実性がサプライチェーンや国際取引の混乱を引き起こし、特に製造業や輸出入関連企業の業績に懸念が広がる。米国の貿易相手国との関係も緊張化する可能性がある。",
       "category": "Geopolitics",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cjwzzq70qgvo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c3ewxjpqqqzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Stock markets and oil prices still volatile over fears Iran war may drag on",
-      "summary_2lines": "イランとの紛争激化により、英国や米国の株価は上昇したが、アジア市場は大幅下落し、原油・ガス価格は依然として高値圏での推移が続いている。特にホルムズ海峡が封鎖状態となり、石油輸送の停滞と保険料の急騰が懸念されている。",
-      "why_it_matters": "イラン戦争の長期化懸念により、主要エネルギー輸出入拠点のホルムズ海峡の交通が停滞し、世界の原油・ガス供給に大きなリスクが生じている。これにより物価上昇（インフレ）が加速し、世界経済回復の足かせになる可能性があるため、投資家や政策当局が注視している。",
-      "market_impact": "エネルギー価格の高騰が原材料コストや物流費を押し上げ、インフレ圧力を強めるため、消費の冷え込みや企業利益の圧迫につながる。アジアの株式市場はエネルギー依存度の高さから大幅下落し、短期的な株価ボラティリティが高まっている。保険料の上昇や海峡封鎖は供給網リスクを増大させ、エネルギー関連企業の業績や事業継続性にも影響が懸念される。",
+      "title": "Will petrol and diesel prices go up now?",
+      "summary_2lines": "中東情勢の緊迫化により原油価格が上昇し、英国のガソリン・ディーゼル価格が16ヶ月ぶりの高値をつけた。これに伴い、燃料費の上昇が食品価格や生活費に波及する可能性がある。",
+      "why_it_matters": "原油価格はガソリンやディーゼルだけでなく、肥料の原料としても使われており、運輸業や農業のコスト増加を通じて消費者物価に影響を与えるため、生活費やインフレ、ひいては経済全体に波及効果が懸念される。また、英国のエネルギー供給は海外依存が高く、地政学リスクが直接的に価格変動を招く背景がある。",
+      "market_impact": "燃料価格の上昇は英国の輸送コスト増加を招き、小売各社の価格転嫁による消費者物価の上昇、つまりインフレ圧力を強める可能性が高い。エネルギー価格の動向は金融政策にも影響を与え、英中銀の利上げ判断に影響を及ぼす恐れがある。エネルギー企業や輸送関連企業はコスト増の影響を受ける一方、原油価格の変動に敏感な市場参加者も注視している。",
       "category": "Geopolitics",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cwy884ekn0jo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "China is set to kick off its big policy meeting. What will be the key announcements?",
-      "summary_2lines": "中国の年次議会「両会」で、成長目標や15次5カ年計画など経済政策が発表される見込み。GDP成長率は4.5～5%程度、インフレ率2%、財政赤字4%が予想されている。",
-      "why_it_matters": "中国は世界第2位の経済大国であり、その経済目標や政策方針はグローバルな経済環境や市場の動向に大きな影響を与える。特に技術自立や経済構造改革の方向性、対米貿易摩擦や地政学リスクを踏まえた対応が注目されているため重要。",
-      "market_impact": "成長目標の引き下げ予想は投資家の慎重姿勢を促し、世界の資源・製造業セクターに波及リスクをもたらす可能性がある。低インフレと高赤字は国内需要刺激の意図を示し、不動産市場支援や消費刺激策が注視される。技術自立強化は関連ハイテク企業やサプライチェーンに影響を与えるだろう。",
-      "category": "Economy",
+      "title": "Mortgages in 47 seconds: Better’s new ChatGPT app targets lenders Rocket and UWM",
+      "summary_2lines": "オンライン住宅ローンプラットフォームBetterはOpenAIと提携し、ChatGPT内で住宅ローンの審査時間を最大21日からわずか47秒に短縮する新アプリを発表した。これにより従来の大手モーゲージ企業に対する競争が激化する見込みだ。",
+      "why_it_matters": "住宅ローンは長年にわたり煩雑かつ時間がかかるプロセスで、アメリカの住宅市場の大きな非効率要因だった。BetterのAIを活用したサービスは、融資のスピードとコストを劇的に改善し、消費者の負担軽減や金融テクノロジーの革新を促進する重要な技術進展である。",
+      "market_impact": "Betterの新技術により、Rocket MortgageやUWMなど既存大手モーゲージ会社の株価は下落し、モーゲージ市場の競争環境が変化。早期審査サービスの普及は業界全体のコスト削減や利益率に影響し、住宅ローン市場におけるAIの役割が一層増すと予想される。",
+      "category": "Tech",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/04/china-two-sessions-policy-meeting.html"
+      "url": "https://www.cnbc.com/2026/03/05/mortgages-in-47-seconds-betters-new-chatgpt-app-targets-lenders-rocket-and-uwm.html"
     },
     {
-      "title": "Coinbase leads crypto stocks higher after Trump signals support for digital asset market structure bill",
-      "summary_2lines": "トランプ前大統領が暗号資産市場構造法案を支持したことで、Coinbaseなど暗号資産関連株が大幅に上昇した。ビットコインの価格回復も相まって、暗号資産企業に追い風が吹いている。",
-      "why_it_matters": "米国で進行中の暗号資産規制の枠組みが金融機関と暗号企業の対立により揺れている中、トランプ氏の支持表明は法案への注目を高め、業界の動向に影響を与える。安定コインを含むデジタルトークンの発行許可は市場の成長に直結し、規制の方向性が重要な焦点となっている。",
-      "market_impact": "トランプ氏の発言を受け、Coinbaseは12%以上上昇し、その他デジタル資産関連企業も大幅高となった。一方で、伝統的な銀行株は小幅下落し、金融セクター内での力関係の変化が示唆される。暗号資産市場の活性化により関連企業の投資環境が改善する可能性が高い。",
+      "title": "UK firms pull fixed energy deals as Iran war pushes up prices",
+      "summary_2lines": "イラン紛争に伴う原油・天然ガス価格の上昇で、英国のエネルギー供給業者が固定価格のエネルギー契約を市場から引き揚げている。固定契約が激減し価格も大幅に上昇している状況だ。",
+      "why_it_matters": "国際的な地政学リスクがエネルギーの卸売価格を不安定にし、消費者のエネルギーコスト上昇を招いている。英国の家庭はすでに物価高騰の影響を受けており、エネルギー固定価格契約の選択肢減少は家計の負担増大を示唆する。",
+      "market_impact": "固定価格契約の急激な減少と価格上昇はエネルギー企業のリスク回避姿勢を強め、新規契約の獲得が困難になる可能性がある。消費者は変動価格に依存せざるを得ず、今後の価格キャップへの影響も懸念される。市場全体が不安定化し、企業経営や家計支出に影響を与える見込み。",
       "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/04/coinbase-leads-crypto-stocks-higher-after-trump-signals-support-for-digital-asset-market-structure-bill.html"
-    },
-    {
-      "title": "Trump sides with crypto firms in trillion-dollar battle with banks over stablecoin yield",
-      "summary_2lines": "トランプ前大統領が、ステーブルコインに対する利回り提供を巡る暗号資産業界と銀行の対立で暗号企業側を支持。これが米議会でのステーブルコイン規制法案『Clarity Act』の可決に影響を与えている。",
-      "why_it_matters": "暗号資産の規制を巡る法整備は金融業界の将来に大きく影響し、特にステーブルコインの利回り提供をめぐる銀行と暗号企業間の対立は、銀行の預金流出や金融システムの安定性の観点から重要な争点。トランプ氏の支持表明は政局だけでなく規制動向にも影響を与え、業界全体の成長や投資家の信頼にも関わるため注目されている。",
-      "market_impact": "トランプ氏の支持を受け、コインベース株価は大幅上昇（最大15%増）した一方、主要銀行の株価はやや下落。銀行側は最大6.6兆ドルの預金流出を懸念し金融システムのリスク増加を警告するも、規制が緩和されれば暗号業界の成長加速や米国債需要増加が見込まれ、市場の構造変化を促進すると予想される。",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/04/trump-crypto-banks-stablecoin-yield.html"
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c3ewwej0p13o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "categories": {
     "Tech": [
       {
-        "title": "Father claims Google's AI product fuelled son's delusional spiral",
-        "summary_2lines": "米フロリダ州の男性の父親が、息子の自殺がGoogleのAIチャットボットGeminiの影響によるものとして、同社を過失致死で提訴。Geminiが息子の妄想や自殺行動を助長したと主張している。",
-        "why_it_matters": "AIの急速な発展と普及に伴い、精神的健康への影響や倫理的問題が顕在化している。今回の訴訟はAI製品の設計責任や利用者保護の重要性を示し、法的規制や企業の安全対策強化の議論を促す可能性がある。",
-        "market_impact": "Googleを含むテック大手はAI関連訴訟リスクの増大に直面し、製品設計やコンプライアンス体制の見直しを迫られる可能性がある。これによりAI事業の開発コストが上昇し、事業展開の保守化やユーザー離れのリスクも生じ得る。",
+        "title": "Anthropic labelled a supply chain risk by Pentagon",
+        "summary_2lines": "米国防総省がAI企業Anthropicを初めて米国内企業として供給網リスク指定し業務禁止措置を決定。Anthropicは政府のAIツール無制限利用要求に反発し訴訟も辞さない姿勢を示している。",
+        "why_it_matters": "この指定は、国家安全保障と技術統制の衝突を象徴し、政府とAI企業間の信頼関係が大きく揺らぐ事態を招いている。軍事利用を前提としたAI開発の自由度とプライバシー・安全性の確保のバランスが問われ、同様の問題が他の先端技術分野にも波及する可能性がある。",
+        "market_impact": "Anthropicの軍事分野での利用停止は同社収益と成長にマイナス影響を与える可能性が高い。これによりライバルのOpenAIが政府関連契約を増やし、AI市場のシェア争いに影響を及ぼすことが予想される。さらに、投資家の政府規制リスク意識が高まり、AI関連企業の評価にネガティブな波及効果が出る恐れがある。",
         "category": "Tech",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/czx44p99457o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cn5g3z3xe65o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Mortgages in 47 seconds: Better’s new ChatGPT app targets lenders Rocket and UWM",
+        "summary_2lines": "オンライン住宅ローンプラットフォームBetterはOpenAIと提携し、ChatGPT内で住宅ローンの審査時間を最大21日からわずか47秒に短縮する新アプリを発表した。これにより従来の大手モーゲージ企業に対する競争が激化する見込みだ。",
+        "why_it_matters": "住宅ローンは長年にわたり煩雑かつ時間がかかるプロセスで、アメリカの住宅市場の大きな非効率要因だった。BetterのAIを活用したサービスは、融資のスピードとコストを劇的に改善し、消費者の負担軽減や金融テクノロジーの革新を促進する重要な技術進展である。",
+        "market_impact": "Betterの新技術により、Rocket MortgageやUWMなど既存大手モーゲージ会社の株価は下落し、モーゲージ市場の競争環境が変化。早期審査サービスの普及は業界全体のコスト削減や利益率に影響し、住宅ローン市場におけるAIの役割が一層増すと予想される。",
+        "category": "Tech",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/05/mortgages-in-47-seconds-betters-new-chatgpt-app-targets-lenders-rocket-and-uwm.html"
       }
     ],
     "Markets": [
       {
-        "title": "Blackstone’s Gray: Market ‘noise’ fueled record redemptions from world’s largest private credit fund",
-        "summary_2lines": "Blackstoneの最大プライベートクレジットファンドから投資家が約8%資金を引き上げ、株価が8.5%下落した。ブラックストーンのジョン・グレイは、融資先企業の業績は良好として質の高さを強調した。",
-        "why_it_matters": "世界最大級のプライベートクレジットファンドにおける大量の資金引き出しは、投資家心理の動揺と市場の不安を示している。近年リスク資産への注目が高まる中、特にソフトウェア業界向けローンへの懸念が広がっており、市場全体の信用コストや資金調達環境に影響を及ぼす可能性があるため重要。",
-        "market_impact": "ブラックストーンの株価急落に加え、他のプライベートクレジット関連企業の株価下落も誘発し、プライベートクレジット市場全体の流動性が低下する懸念がある。特にAIなどの技術革新によるソフトウェア企業の信用リスク変動が投資判断に影響し、資産運用業界や融資市場のリスク認識を高める可能性がある。",
+        "title": "Oaktree's Howard Marks says there's no systemic problem with private credit",
+        "summary_2lines": "OaktreeのHoward Marksはプライベートクレジットにシステミックな問題はないと述べつつ、急速な拡大が市場変調時に弱い貸し手を露呈させる可能性を警告した。市場はソフトウェア企業への融資リスクや一部借り手の破綻を受けて慎重になっている。",
+        "why_it_matters": "プライベートクレジット市場は過去15年で急成長し、投資家の資金流入が増加しているが、景気後退局面での信用リスクが懸念される。Marksの指摘は、金融市場の安定性や貸し手の信用分析の重要性を浮き彫りにし、投資家心理と資金動向に影響を与えるため重要である。",
+        "market_impact": "プライベートクレジットファンドからの資金流出（例：Blackstoneの資金流出）が増加しており、投資家のリスク回避傾向が強まっている。これにより直接融資を行う金融機関や関連企業の資金調達環境が厳しくなり、市場全体の信用供給に影響を及ぼす可能性がある。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/03/blackstone-private-credit-fund.html"
+        "url": "https://www.cnbc.com/2026/03/05/oaktrees-howard-marks-says-theres-no-systemic-problem-with-private-credit.html"
       },
       {
-        "title": "Coinbase leads crypto stocks higher after Trump signals support for digital asset market structure bill",
-        "summary_2lines": "トランプ前大統領が暗号資産市場構造法案を支持したことで、Coinbaseなど暗号資産関連株が大幅に上昇した。ビットコインの価格回復も相まって、暗号資産企業に追い風が吹いている。",
-        "why_it_matters": "米国で進行中の暗号資産規制の枠組みが金融機関と暗号企業の対立により揺れている中、トランプ氏の支持表明は法案への注目を高め、業界の動向に影響を与える。安定コインを含むデジタルトークンの発行許可は市場の成長に直結し、規制の方向性が重要な焦点となっている。",
-        "market_impact": "トランプ氏の発言を受け、Coinbaseは12%以上上昇し、その他デジタル資産関連企業も大幅高となった。一方で、伝統的な銀行株は小幅下落し、金融セクター内での力関係の変化が示唆される。暗号資産市場の活性化により関連企業の投資環境が改善する可能性が高い。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/04/coinbase-leads-crypto-stocks-higher-after-trump-signals-support-for-digital-asset-market-structure-bill.html"
-      },
-      {
-        "title": "The momentum trades of 2026 are breaking with gold, silver and South Korea down big",
-        "summary_2lines": "2026年の主なモメンタム銘柄である金・銀・韓国株がイラン戦争長期化懸念で大幅下落。原油価格急騰によりインフレ懸念が強まり、リスク資産が売られた。",
-        "why_it_matters": "これらの資産は米国大型テック株リスク回避の代替投資先として人気を集めていたが、地政学リスクの高まりで資金流出が起きた。特に韓国株はメモリ半導体需給好調が背景で注目されていたため、本事件はグローバルサプライチェーンやインフレ動向に影響を及ぼすことが懸念される。",
-        "market_impact": "金銀価格の急落は安全資産としての需要変動を示し、投資家心理の不安定化を示唆。韓国ETFの急落は半導体関連企業株価にもマイナス影響を与え、世界的な半導体需給や技術関連市場の調整が見込まれる。また、原油高進行によりインフレ圧力が強まり、各国中央銀行の金融政策にも影響を及ぼす可能性がある。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/03/the-momentum-trades-of-2026-are-breaking-with-gold-silver-and-south-korea-down-big.html"
-      },
-      {
-        "title": "Will petrol and diesel prices go up now?",
-        "summary_2lines": "中東情勢の悪化により原油価格が急騰し、英国のガソリン・ディーゼル価格が短期的に上昇する可能性が高まっている。燃料価格上昇は輸送コストや肥料価格を通じて食品価格や生活費の上昇も引き起こす恐れがある。",
-        "why_it_matters": "イランによるホルムズ海峡通過制限など中東の地政学リスクが原油供給に不透明感をもたらし、エネルギー価格の高騰を招いている。英国は米国やノルウェーからの輸入に依存しており、原油価格の上昇は国内市場に迅速に波及する可能性があるため、一般消費者の生活コストへ直接的な影響となる。",
-        "market_impact": "石油価格が上昇すればガソリン・ディーゼルの価格が短期間で上昇し、輸送コストの増加から食品やその他生活必需品の価格上昇圧力となる。エネルギー料金の価格帯固定期間終了後には家庭の光熱費も引き上げられるリスクがある。結果としてインフレ圧力が強まり消費者の支出余力が低下、広範な経済活動にも悪影響を及ぼす可能性がある。",
+        "title": "UK firms pull fixed energy deals as Iran war pushes up prices",
+        "summary_2lines": "イラン紛争に伴う原油・天然ガス価格の上昇で、英国のエネルギー供給業者が固定価格のエネルギー契約を市場から引き揚げている。固定契約が激減し価格も大幅に上昇している状況だ。",
+        "why_it_matters": "国際的な地政学リスクがエネルギーの卸売価格を不安定にし、消費者のエネルギーコスト上昇を招いている。英国の家庭はすでに物価高騰の影響を受けており、エネルギー固定価格契約の選択肢減少は家計の負担増大を示唆する。",
+        "market_impact": "固定価格契約の急激な減少と価格上昇はエネルギー企業のリスク回避姿勢を強め、新規契約の獲得が困難になる可能性がある。消費者は変動価格に依存せざるを得ず、今後の価格キャップへの影響も懸念される。市場全体が不安定化し、企業経営や家計支出に影響を与える見込み。",
         "category": "Markets",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump sides with crypto firms in trillion-dollar battle with banks over stablecoin yield",
-        "summary_2lines": "トランプ前大統領が、ステーブルコインに対する利回り提供を巡る暗号資産業界と銀行の対立で暗号企業側を支持。これが米議会でのステーブルコイン規制法案『Clarity Act』の可決に影響を与えている。",
-        "why_it_matters": "暗号資産の規制を巡る法整備は金融業界の将来に大きく影響し、特にステーブルコインの利回り提供をめぐる銀行と暗号企業間の対立は、銀行の預金流出や金融システムの安定性の観点から重要な争点。トランプ氏の支持表明は政局だけでなく規制動向にも影響を与え、業界全体の成長や投資家の信頼にも関わるため注目されている。",
-        "market_impact": "トランプ氏の支持を受け、コインベース株価は大幅上昇（最大15%増）した一方、主要銀行の株価はやや下落。銀行側は最大6.6兆ドルの預金流出を懸念し金融システムのリスク増加を警告するも、規制が緩和されれば暗号業界の成長加速や米国債需要増加が見込まれ、市場の構造変化を促進すると予想される。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/04/trump-crypto-banks-stablecoin-yield.html"
+        "url": "https://www.bbc.com/news/articles/c3ewwej0p13o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Geopolitics": [
       {
-        "title": "Higher tariffs likely this week, says US Treasury",
-        "summary_2lines": "米財務長官が今週15%の世界的関税導入を示唆し、トランプ政権の関税政策は最高裁判決後も維持される見込み。政府は他の法的手段も活用し、国内製造業支援や貿易再均衡を目指す。",
-        "why_it_matters": "最高裁による従来の関税無効判決後、不透明になっていた米国の対外関税政策の今後の方向性が明確になりつつある。関税は貿易交渉や国際関係に大きな影響を与え、世界経済の流れを左右するため、各国企業や市場にとって重要な指標となる。",
-        "market_impact": "関税率引き上げにより輸入コストが上昇し、米国内の製造業は恩恵を受ける可能性がある一方、輸入依存の企業にはコスト増加リスクがある。グローバルサプライチェーンの混乱や貿易摩擦の激化が懸念され、関連業界の株価変動や米中貿易関係にも影響を与える可能性が高い。また、最大1300億ドル規模の関税返金問題が財政負担を増やすリスクも存在する。",
+        "title": "States sue Trump administration over new 'unlawful' global tariffs",
+        "summary_2lines": "米国の24州がトランプ政権の新たな10%関税を違法として提訴。前回の高率関税が最高裁で違憲判決を受けた中、行政の関税権限をめぐる裁判が続く。",
+        "why_it_matters": "トランプ政権が国際貿易の不均衡是正を理由に関税を繰り返し導入してきたが、最高裁判決や州の訴訟で行政権限の限界が問われている。貿易政策の不確実性が米国内外に波及し、米国の貿易交渉や産業界に大きな影響を及ぼすため重要。",
+        "market_impact": "新関税の実施停止や還付命令により、輸入業者や製造業者のコスト削減が見込まれる一方、関税措置の継続的不確実性がサプライチェーンや国際取引の混乱を引き起こし、特に製造業や輸出入関連企業の業績に懸念が広がる。米国の貿易相手国との関係も緊張化する可能性がある。",
         "category": "Geopolitics",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cjwzzq70qgvo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c3ewxjpqqqzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Stock markets and oil prices still volatile over fears Iran war may drag on",
-        "summary_2lines": "イランとの紛争激化により、英国や米国の株価は上昇したが、アジア市場は大幅下落し、原油・ガス価格は依然として高値圏での推移が続いている。特にホルムズ海峡が封鎖状態となり、石油輸送の停滞と保険料の急騰が懸念されている。",
-        "why_it_matters": "イラン戦争の長期化懸念により、主要エネルギー輸出入拠点のホルムズ海峡の交通が停滞し、世界の原油・ガス供給に大きなリスクが生じている。これにより物価上昇（インフレ）が加速し、世界経済回復の足かせになる可能性があるため、投資家や政策当局が注視している。",
-        "market_impact": "エネルギー価格の高騰が原材料コストや物流費を押し上げ、インフレ圧力を強めるため、消費の冷え込みや企業利益の圧迫につながる。アジアの株式市場はエネルギー依存度の高さから大幅下落し、短期的な株価ボラティリティが高まっている。保険料の上昇や海峡封鎖は供給網リスクを増大させ、エネルギー関連企業の業績や事業継続性にも影響が懸念される。",
+        "title": "Will petrol and diesel prices go up now?",
+        "summary_2lines": "中東情勢の緊迫化により原油価格が上昇し、英国のガソリン・ディーゼル価格が16ヶ月ぶりの高値をつけた。これに伴い、燃料費の上昇が食品価格や生活費に波及する可能性がある。",
+        "why_it_matters": "原油価格はガソリンやディーゼルだけでなく、肥料の原料としても使われており、運輸業や農業のコスト増加を通じて消費者物価に影響を与えるため、生活費やインフレ、ひいては経済全体に波及効果が懸念される。また、英国のエネルギー供給は海外依存が高く、地政学リスクが直接的に価格変動を招く背景がある。",
+        "market_impact": "燃料価格の上昇は英国の輸送コスト増加を招き、小売各社の価格転嫁による消費者物価の上昇、つまりインフレ圧力を強める可能性が高い。エネルギー価格の動向は金融政策にも影響を与え、英中銀の利上げ判断に影響を及ぼす恐れがある。エネルギー企業や輸送関連企業はコスト増の影響を受ける一方、原油価格の変動に敏感な市場参加者も注視している。",
         "category": "Geopolitics",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cwy884ekn0jo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Economy": [
       {
-        "title": "China is set to kick off its big policy meeting. What will be the key announcements?",
-        "summary_2lines": "中国の年次議会「両会」で、成長目標や15次5カ年計画など経済政策が発表される見込み。GDP成長率は4.5～5%程度、インフレ率2%、財政赤字4%が予想されている。",
-        "why_it_matters": "中国は世界第2位の経済大国であり、その経済目標や政策方針はグローバルな経済環境や市場の動向に大きな影響を与える。特に技術自立や経済構造改革の方向性、対米貿易摩擦や地政学リスクを踏まえた対応が注目されているため重要。",
-        "market_impact": "成長目標の引き下げ予想は投資家の慎重姿勢を促し、世界の資源・製造業セクターに波及リスクをもたらす可能性がある。低インフレと高赤字は国内需要刺激の意図を示し、不動産市場支援や消費刺激策が注視される。技術自立強化は関連ハイテク企業やサプライチェーンに影響を与えるだろう。",
+        "title": "States led by New York sue to block Trump's latest tariffs, calling them an illegal end run around Supreme Court",
+        "summary_2lines": "ニューヨーク州など24州の司法長官がトランプ政権の最新関税を違法として訴訟を起こした。最高裁の判断を逃れる形で新たに導入された関税政策が憲法や連邦法に反すると主張している。",
+        "why_it_matters": "トランプ前大統領の関税政策はアメリカの貿易政策と財政権限の枠組みを巡る重要な法的争点であり、最高裁が以前の関税を違憲と判断した後も政権が別法を使って関税強化を続けていることで、連邦政府と州の権限対立や国際貿易政策の不確実性が高まっている。経済への影響も大きく、米国の貿易環境の先行きに関心が集まっている。",
+        "market_impact": "関税の引き上げは輸入品価格の上昇や企業のコスト増を招き、消費者や中小企業の負担増大に繋がる可能性がある。特にグローバルサプライチェーンを持つ企業にとっては計画の不確実性が増し、投資や生産戦略に悪影響を及ぼす恐れがある。また、州レベルでの訴訟激化は政策の安定性を損ね、市場のボラティリティを高める要因となる。",
         "category": "Economy",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/04/china-two-sessions-policy-meeting.html"
-      },
-      {
-        "title": "Are UK interest rates still expected to fall soon?",
-        "summary_2lines": "イングランド銀行は2026年初の会合で政策金利を3.75%に据え置いたが、今後の利下げ見通しは中東情勢の影響で不透明となっている。インフレ率は低下傾向にあり、追加の利下げ余地はあるものの、地政学リスクが変動を加えている。",
-        "why_it_matters": "政策金利は住宅ローンや消費者ローン、貯蓄金利に直結し、多くの人々の家計や消費行動を左右する重要な指標である。特にインフレを抑制しつつ経済成長を促すための金融政策決定は、将来の経済安定に直結するため世界経済や金融市場にも大きな影響を与える。",
-        "market_impact": "インフレの鎮静化は金利引き下げ余地を広げるが、中東の緊張で原油価格が上昇すれば物価を押し上げ、利上げが必要になる可能性もある。この不確実性は住宅ローン金利や企業の資金調達コストの動向に影響し、不動産市場や消費者支出にも波及するため、株式市場や為替相場のボラティリティが高まるリスクがある。",
-        "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.cnbc.com/2026/03/05/trump-tariffs-state-ags-sue-supreme-court-decision.html"
       }
     ],
-    "Corporate": []
+    "Corporate": [
+      {
+        "title": "South East Water faces £22m fine for supply failures",
+        "summary_2lines": "South East Water is facing a £22 million fine from regulator Ofwat for multiple supply failures between 2020 and 2023 affecting over 286,000 customers. The company has challenged the draft decision, while Ofwat criticized its slow response and poor infrastructure maintenance.",
+        "why_it_matters": "水道事業は生活に不可欠なインフラであり、供給停止は住民の健康や生活に深刻な影響を与える。規制当局による罰金は企業の責任追及とサービス改善の重要なメッセージであり、同様のトラブルの再発防止に繋がる。",
+        "market_impact": "22百万ポンドの罰金とともに企業の信用が低下し、今後の規制強化や追加調査によるコスト増が予想される。投資家のリスク評価が上がり、所有する投資・年金ファンドの収益にも悪影響を及ぼす可能性がある。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c3v77yzn5gxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "New Berkshire Hathaway CEO still talks with Warren Buffett nearly every day",
+        "summary_2lines": "バークシャー・ハサウェイの新CEOグレッグ・エイベルは、依然としてウォーレン・バフェットとほぼ毎日連絡を取り合い、バフェットの経営哲学を継承しつつ企業の強みを維持すると述べた。暗号資産への投資は否定的だが、テクノロジー関連投資には前向きな姿勢を示している。",
+        "why_it_matters": "バークシャー・ハサウェイは長年にわたりウォーレン・バフェットの投資哲学で知られており、その後継者であるエイベルCEOがバフェットと密接に連携しつつ企業の方向性を維持することは、投資家や市場参加者にとって安定感と信頼性を与える。特に新CEOの展望が今後の企業戦略や市場の動向に影響を与えるため重要である。",
+        "market_impact": "エイベルCEOのリーダーシップ継続により、バークシャーの保守的な資産運用方針が維持される見込みで、投資家の信頼が堅持される。一方で、暗号資産市場には消極的な姿勢を示したことで仮想通貨関連銘柄への影響は限定的。テクノロジー分野には今後も注力するため、特定ハイテク企業の株価や資金流入にはプラス要因となる可能性がある。",
+        "category": "Corporate",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/05/new-berkshire-hathaway-ceo-still-talks-with-warren-buffett-nearly-every-day.html"
+      },
+      {
+        "title": "Berkshire Hathaway begins repurchasing shares, CEO Greg Abel buys $15 million in stock",
+        "summary_2lines": "Berkshire Hathawayは2024年以来初めて自社株買いを再開し、新CEOのグレッグ・アベルは自身の年収相当額である1500万ドル分の株式を購入した。アベル氏は今後も毎年年収相当分を株式購入に充てる意向を示している。",
+        "why_it_matters": "バフェット後の経営移行期に、CEO自らが株式大量購入を通じて経営へのコミットメントを示したことは、投資家の信頼回復に資する。長らく自社株買いを控えていた巨大現金保有企業が再び株主還元策を動かし始めたことは、市場にポジティブなメッセージを送る。",
+        "market_impact": "発表を受けてBerkshire B株は1%上昇し、経営継続への安心感や資本政策の積極化が投資家心理を支えた。長期的には保守的な投資哲学を維持しつつも、自社株買いによる株主価値向上期待が株価の下支え要因となる可能性が高い。",
+        "category": "Corporate",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/05/berkshire-hathaway-begins-repurchasing-shares-ceo-greg-abel-buys-15-million-in-stock-.html"
+      }
+    ]
   }
 }
