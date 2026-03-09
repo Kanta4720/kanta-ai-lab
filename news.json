@@ -1,149 +1,148 @@
 {
-  "generated_at_jst": "2026-03-09 07:12",
+  "generated_at_jst": "2026-03-10 07:17",
   "todays_brief": [
     {
-      "title": "Oil price at two-year high after Qatar warns all Gulf production could stop within days",
-      "summary_2lines": "中東の紛争が激化し、カタールがゴルフ湾の全石油・ガス生産停止を警告。これを受けて原油価格が2年ぶりの高値に急騰した。",
-      "why_it_matters": "ゴルフ湾は世界の原油供給の重要拠点であり、生産停止や輸出途絶はエネルギー価格の急騰を招く。結果として世界的なインフレ加速や経済成長鈍化のリスクが高まるため、グローバル経済に重大な影響をもたらす可能性がある。",
-      "market_impact": "原油価格は9%以上上昇して1バレル93ドル超に達し、今後150ドルに達するとの警告もある。エネルギー価格の高騰は交通費や食品・輸入品の価格上昇を促進し、主要国のインフレ圧力を強める。さらに、生産停止や海上輸送の混乱は供給網に影響を及ぼし、世界経済に悪影響を与える恐れがある。英国などでは既に燃料価格の上昇が顕著で、家庭のエネルギーコストも今後増加が予想される。",
-      "category": "Markets",
+      "title": "Six ways the Iran war could affect you - in charts",
+      "summary_2lines": "イラン情勢の悪化により、世界のエネルギー価格と海上物流コストが急騰している。これが日常生活の燃料料金や輸入品価格の上昇につながる可能性が高い。",
+      "why_it_matters": "中東は世界のエネルギー供給と貿易の要衝であり、イラン紛争は石油や天然ガスの供給停止や輸送路の封鎖によって世界経済と消費者の生活に直接的な影響を与えるからだ。特に英国や米国のガソリン・ガス価格上昇は消費者物価に波及する可能性があり、経済政策にも影響を及ぼす。",
+      "market_impact": "原油価格の上昇は燃料コストを押し上げ、自動車燃料や家庭の暖房費用増加をもたらす。海運業界では保険料や運賃が高騰し、貨物運送コスト増加がインフレ圧力を加速させる。エネルギー価格の高止まりに伴い、政府の支援策や価格規制の見直しも必要となり、中長期的に企業のコスト構造と消費者購買力に影響を与える。",
+      "category": "Geopolitics",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cy031ylgepro?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "China says 'thorough preparations' needed as Trump-Xi meeting hangs in the balance amid Iran war",
-      "summary_2lines": "中国外交トップの王毅は、イラン戦争と貿易摩擦を背景にトランプ大統領と習近平主席の会談準備の必要性を強調した。貿易関税の引き下げなどの協議も進む中、両国関係は緊張緩和の局面を迎えている。",
-      "why_it_matters": "米中のトップ会談は世界経済や安全保障の安定に直結する重要なイベントであり、特にイラン戦争や貿易摩擦という複雑な問題が絡む今、準備や環境整備が慎重に進められている。これにより誤解や対立回避を目指しており、地政学リスクと経済摩擦の影響緩和の鍵となるため注目されている。",
-      "market_impact": "トランプ氏の中国訪問が実現すれば、関税引き下げや事業協議の具体化を通じて米中貿易環境が改善し、一部企業のサプライチェーンや輸出入コストの軽減につながる可能性がある。一方、イラン情勢の緊張が収まらなければ原油価格の高騰など市場の不安定化を招くリスクも残る。",
+      "summary_2lines": "中国の外交トップ王毅氏は、米中首脳会談に向けた入念な準備の重要性を強調し、イラン戦争や関税問題を巡る対立があるものの協議継続を示唆した。習近平主席とトランプ大統領の対話が、3月末に予定される訪中を前に進展しているが、訪中日程は未確定のままである。",
+      "why_it_matters": "米中両国は世界の経済・安全保障における重要なパワーであり、首脳間の直接対話は貿易摩擦の緩和やイラン紛争などの地政学リスクの管理に不可欠だ。特に関税撤廃や戦争回避を巡る協調が、世界の貿易・投資環境の安定に大きな影響を与えるため、本会談の行方は国際社会にとって極めて重要である。",
+      "market_impact": "トランプ大統領の訪中および両首脳の会談実現は、米中間の貿易交渉や関税引き下げの具体化につながる可能性が高く、これにより世界市場のリスクオフムードが緩和し、企業のサプライチェーンや投資戦略に好影響を与える。一方、イラン情勢の緊迫化や訪問延期は、エネルギー価格の変動や市場の不透明感を高めるリスクも孕んでいる。",
       "category": "Geopolitics",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/03/08/china-says-thorough-preparations-needed-ahead-of-trump-xi-meeting.html"
     },
     {
-      "title": "US economy unexpectedly sheds 92,000 jobs in February",
-      "summary_2lines": "米国経済は2月に予想外の9.2万人の雇用減少を記録し、失業率も4.4%に上昇した。労働市場の弱まりが懸念され、成長の先行きに不透明感が広がっている。",
-      "why_it_matters": "米国の労働市場は経済の健康度を示す重要指標であり、今回の雇用減少は景気回復や経済成長の持続に疑問符を付ける。加えて、急騰する原油価格や地政学リスクがインフレ圧力を高め、金融政策の難しさを増しているため、経済政策や市場動向に大きな影響を及ぼす可能性がある。",
-      "market_impact": "雇用統計の悪化により株式市場は下落し、投資家の不安が強まった。労働市場の鈍化は消費支出の減少をもたらし企業業績に影響を与える可能性がある。加えて、原油価格上昇によるインフレ圧力と金融引き締めのジレンマが、今後の政策決定を難航させる見通しだ。",
-      "category": "Economy",
+      "title": "G7 to take 'necessary measures' to support energy supplies",
+      "summary_2lines": "G7諸国は、イランと米・イスラエルの紛争に伴うエネルギー供給不安に対応し、必要に応じて戦略的石油備蓄の放出も含む対策を講じる準備があると表明した。現在の原油価格は120ドル近くまで高騰し、供給リスクが市場を揺るがしている。",
+      "why_it_matters": "世界の約5分の1の石油供給がホルムズ海峡を経由しているため、同地域での紛争は国際エネルギー市場に深刻な供給不安をもたらす。これにより原油価格の急騰と不安定化が発生し、消費者物価の上昇や世界経済のインフレ圧力強化につながる可能性が高い。G7の対応はエネルギー安全保障確保と世界経済安定の観点から重要である。",
+      "market_impact": "原油価格の急騰はエネルギーコスト上昇を通じて企業の生産コスト増加や消費者支出の減少を招き、世界的なインフレ圧力を強める。中央銀行はインフレ抑制のため利上げ継続を迫られ、金融市場に不確実性が増す。石油備蓄の放出が行われれば一時的に価格の急騰を抑制できる可能性があるが、根本的な地政学リスクは依然残る。",
+      "category": "Geopolitics",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cjd98091g28o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "There’s an inflation wave coming - what does the Iran war mean for the UK economy?",
-      "summary_2lines": "イラン戦争に伴うホルムズ海峡の事実上の閉鎖により、原油価格が急騰し、英国を含む世界経済にインフレ圧力が高まっている。これにより英政府の経済見通しが大幅に変わり、金利や住宅ローン市場にも影響が及んでいる。",
-      "why_it_matters": "中東地域は世界のエネルギー供給の要であり、今回の紛争による供給不安は原油価格の急騰を招いている。これはエネルギーコストの上昇を通じたインフレ圧力で、英国経済の回復見通しや金融政策に直接的な悪影響を与え、生活費や企業活動にも広範な影響をもたらすため重要である。",
-      "market_impact": "原油価格が27%上昇し、天然ガス価格も急騰した結果、英国の国債利回りが上昇し、金融市場の不安定化を招いている。住宅ローンの金利は上昇傾向となり、金利引き下げ期待は後退。企業の製造コストや物流コストも上昇し、インフレが加速することで消費や投資に悪影響を与える可能性が高い。",
-      "category": "Economy",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cd9gvv5w3v8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Mortgages in 47 seconds: Better’s new ChatGPT app targets lenders Rocket and UWM",
-      "summary_2lines": "オンライン住宅ローンプラットフォームBetterがOpenAIと提携し、ChatGPT内で住宅ローン審査を約21日から47秒に短縮するアプリを発表。これによりローンの審査効率が大幅に向上する。",
-      "why_it_matters": "住宅ローン審査は従来非常に時間がかかり、その過程で多くの費用が消費者に転嫁されてきた。BetterのAI搭載アプリは審査時間とコストを劇的に削減し、米国の1兆ドル規模の住宅ローン市場に大きな変革をもたらす可能性があるため重要である。",
-      "market_impact": "Betterの技術革新により、既存の大手住宅ローン企業であるRocket MortgageやUWMの市場シェアが脅かされ、これらの企業の株価下落が示す通り競争環境が激化する。さらに、住宅ローンの審査コスト削減は消費者の借入負担軽減や市場のさらなる活性化につながる可能性が高い。",
-      "category": "Tech",
+      "title": "There's another energy market that may get hit harder than oil by Strait of Hormuz closure",
+      "summary_2lines": "ホルムズ海峡の閉鎖により原油価格が急騰する一方、液化天然ガス（LNG）市場の影響はさらに深刻化する可能性がある。主要なLNG供給拠点であるカタールの生産停止は、供給リスクと市場混乱を加速させている。",
+      "why_it_matters": "LNGは原油と異なり輸送手段が限定されており、供給の集中度も高いため、ホルムズ海峡の封鎖が長期化すれば世界のガス需給バランスに甚大な悪影響を及ぼす。特にカタールのRas Laffan施設は世界最大級であり、ここが停止すると短期間での生産再開は極めて困難であり、価格高騰や代替エネルギーへのシフトを促す可能性がある。",
+      "market_impact": "原油はパイプラインでの迂回ルートがあるものの、LNGは船舶輸送に依存し、主要生産地の停止は即座に供給不足を招く。欧州やアジアの天然ガス価格急騰に加え、米国も既に生産能力限界に達しているため、供給逼迫が続き需給調整は主に需要破壊に頼ることになる。長期的にはLNG施設への攻撃リスクが高まり、エネルギー安全保障問題と市場の不安定化をもたらす可能性がある。",
+      "category": "Markets",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/05/mortgages-in-47-seconds-betters-new-chatgpt-app-targets-lenders-rocket-and-uwm.html"
+      "url": "https://www.cnbc.com/2026/03/09/theres-another-energy-market-that-may-get-hit-harder-than-oil-by-strait-of-hormuz-closure.html"
+    },
+    {
+      "title": "Fed Governor Miran says job losses in February add to the case for more interest rate cuts",
+      "summary_2lines": "FRB理事ミランは2月の雇用減少を受け、更なる利下げの必要性を強調。インフレよりも労働市場支援を優先すべきと主張している。",
+      "why_it_matters": "米連邦準備制度理事会（FRB）の金融政策の方向性は世界経済に大きな影響を及ぼす。ミラン理事の見解は、インフレ懸念が和らぐ中で利下げ圧力が強まっていることを示唆し、今後の政策判断や市場期待に変化をもたらす可能性があるため重要である。",
+      "market_impact": "利下げ期待が高まることで、株価は上昇傾向となりやすく、債券市場では利回り低下が予想される。金融コストの低下は企業の投資意欲を刺激し、消費者支出も押し上げる可能性があるが、一方でインフレの正確な把握に課題が残るため市場の不透明感も増すかもしれない。",
+      "category": "Economy",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/06/fed-governor-miran-says-job-losses-in-february-add-to-the-case-for-more-interest-rate-cuts.html"
     }
   ],
   "categories": {
-    "Tech": [
-      {
-        "title": "Mayor Sadiq Khan invites embattled AI firm Anthropic to expand in London",
-        "summary_2lines": "ロンドン市長サディク・カーン氏が米AI企業Anthropicのロンドン拠点拡大を招致。米国政府は同社を供給網リスクと指定し関係が悪化している。",
-        "why_it_matters": "Anthropicは倫理的配慮から米国防総省の全面的アクセス要求を拒否し、米政府との対立が表面化。これに対しロンドン市長が支援を表明したことで、地政学的・規制面でのAI企業の拠点移転や国際競争の新たな展開を示唆している。",
-        "market_impact": "Anthropicの米政府との軋轢は軍関連技術市場やサプライチェーンに波及し得るが、Microsoftは引き続き同技術採用を表明。ロンドン拠点拡大が実現すれば、英国・欧州でのAI競争力強化と米中以外のAI拠点形成に寄与する可能性がある。",
-        "category": "Tech",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/czx7915nn8qo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Mortgages in 47 seconds: Better’s new ChatGPT app targets lenders Rocket and UWM",
-        "summary_2lines": "オンライン住宅ローンプラットフォームBetterがOpenAIと提携し、ChatGPT内で住宅ローン審査を約21日から47秒に短縮するアプリを発表。これによりローンの審査効率が大幅に向上する。",
-        "why_it_matters": "住宅ローン審査は従来非常に時間がかかり、その過程で多くの費用が消費者に転嫁されてきた。BetterのAI搭載アプリは審査時間とコストを劇的に削減し、米国の1兆ドル規模の住宅ローン市場に大きな変革をもたらす可能性があるため重要である。",
-        "market_impact": "Betterの技術革新により、既存の大手住宅ローン企業であるRocket MortgageやUWMの市場シェアが脅かされ、これらの企業の株価下落が示す通り競争環境が激化する。さらに、住宅ローンの審査コスト削減は消費者の借入負担軽減や市場のさらなる活性化につながる可能性が高い。",
-        "category": "Tech",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/05/mortgages-in-47-seconds-betters-new-chatgpt-app-targets-lenders-rocket-and-uwm.html"
-      }
-    ],
+    "Tech": [],
     "Markets": [
       {
-        "title": "Oil price at two-year high after Qatar warns all Gulf production could stop within days",
-        "summary_2lines": "中東の紛争が激化し、カタールがゴルフ湾の全石油・ガス生産停止を警告。これを受けて原油価格が2年ぶりの高値に急騰した。",
-        "why_it_matters": "ゴルフ湾は世界の原油供給の重要拠点であり、生産停止や輸出途絶はエネルギー価格の急騰を招く。結果として世界的なインフレ加速や経済成長鈍化のリスクが高まるため、グローバル経済に重大な影響をもたらす可能性がある。",
-        "market_impact": "原油価格は9%以上上昇して1バレル93ドル超に達し、今後150ドルに達するとの警告もある。エネルギー価格の高騰は交通費や食品・輸入品の価格上昇を促進し、主要国のインフレ圧力を強める。さらに、生産停止や海上輸送の混乱は供給網に影響を及ぼし、世界経済に悪影響を与える恐れがある。英国などでは既に燃料価格の上昇が顕著で、家庭のエネルギーコストも今後増加が予想される。",
-        "category": "Markets",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cy031ylgepro?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Robinhood's venture fund, which gives investors access to private companies, tanks 11% on first day",
-        "summary_2lines": "RobinhoodのベンチャーファンドRVIは、ニューヨーク証券取引所の初日に11%下落した。リスク資産への投資意欲が地政学的緊張の中で冷え込む状況が反映された。",
-        "why_it_matters": "Robinhoodが個人投資家向けにプライベート企業への投資機会を提供する新しい投資ファンドを開始したが、地政学リスクや市場全体の不安定さが響き、初値を大きく下回った。これは、リスク資産への関心低下や個人投資家の参加意図に影響を及ぼす可能性がある。",
-        "market_impact": "ファンドの初値割れは資金調達環境の厳しさを示し、成長企業への投資が制約される懸念がある。加えて、米中東情勢の不透明感が株式市場全体の売りを誘発し、リスク資産全般にマイナスの影響を与えている。",
+        "summary_2lines": "RobinhoodのベンチャーファンドRVIは、初日のNYSE公開取引で11%下落した。これは地政学的緊張が高まる中で、リスクの高い投資への投資家の慎重姿勢を示している。",
+        "why_it_matters": "Robinhoodが提供するこのファンドは、従来リテール投資家に開かれていなかったプライベート企業への投資機会を民主化する試みであり、新たな投資の扉を開こうとしている。しかし、世界の不透明感が増す中での価格下落は、その挑戦が容易でないことを浮き彫りにしている。",
+        "market_impact": "RVIの下落は、投資家のリスク回避傾向が強まっていることを示し、プライベート市場へのアクセス拡大を目指す同種ファンドの展開に慎重さが求められる可能性がある。また、地政学的不安定要因が資本市場のボラティリティを高める要因として影響している。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/06/robinhoods-venture-fund-which-gives-investors-access-to-private-companies-tanks-11percent-on-first-day.html"
       },
       {
-        "title": "U.S.-Iran war exposes big market concentration risk. It isn't in S&P 500 stocks",
-        "summary_2lines": "米イラン紛争により新興市場の特定地域・銘柄への過度な集中リスクが浮き彫りに。投資家はアジア依存を抑え、ラテンアメリカなど多様化戦略を検討すべきとの指摘。",
-        "why_it_matters": "近年投資家はS&P500の集中リスク回避と高リターン追求で新興市場を重視してきたが、地政学リスクが顕在化し、特にアジアのテクノロジー関連株に大きく依存した構造が示された。エネルギー価格高騰や地域間の政治・経済状況の違いが投資先の安定性に直接影響を与えるため、多面的なリスク管理が重要となる。",
-        "market_impact": "米イラン戦争による中東情勢の緊迫化でエネルギー価格が急騰し、エネルギー集約型のアジア新興市場株に大きな不安定化をもたらした。結果、韓国株の急落と反発が顕著となり、新興市場ETFの上昇幅が抑制される状況。投資家は地域分散を意識し、資源国や政治改革期待のあるラテンアメリカ株へのシフトが加速する可能性がある。",
+        "title": "There's another energy market that may get hit harder than oil by Strait of Hormuz closure",
+        "summary_2lines": "ホルムズ海峡の閉鎖により原油価格が急騰する一方、液化天然ガス（LNG）市場の影響はさらに深刻化する可能性がある。主要なLNG供給拠点であるカタールの生産停止は、供給リスクと市場混乱を加速させている。",
+        "why_it_matters": "LNGは原油と異なり輸送手段が限定されており、供給の集中度も高いため、ホルムズ海峡の封鎖が長期化すれば世界のガス需給バランスに甚大な悪影響を及ぼす。特にカタールのRas Laffan施設は世界最大級であり、ここが停止すると短期間での生産再開は極めて困難であり、価格高騰や代替エネルギーへのシフトを促す可能性がある。",
+        "market_impact": "原油はパイプラインでの迂回ルートがあるものの、LNGは船舶輸送に依存し、主要生産地の停止は即座に供給不足を招く。欧州やアジアの天然ガス価格急騰に加え、米国も既に生産能力限界に達しているため、供給逼迫が続き需給調整は主に需要破壊に頼ることになる。長期的にはLNG施設への攻撃リスクが高まり、エネルギー安全保障問題と市場の不安定化をもたらす可能性がある。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/06/iran-war-oil-energy-emerging-markets-stocks-south-korea.html"
+        "url": "https://www.cnbc.com/2026/03/09/theres-another-energy-market-that-may-get-hit-harder-than-oil-by-strait-of-hormuz-closure.html"
       }
     ],
     "Geopolitics": [
       {
+        "title": "Six ways the Iran war could affect you - in charts",
+        "summary_2lines": "イラン情勢の悪化により、世界のエネルギー価格と海上物流コストが急騰している。これが日常生活の燃料料金や輸入品価格の上昇につながる可能性が高い。",
+        "why_it_matters": "中東は世界のエネルギー供給と貿易の要衝であり、イラン紛争は石油や天然ガスの供給停止や輸送路の封鎖によって世界経済と消費者の生活に直接的な影響を与えるからだ。特に英国や米国のガソリン・ガス価格上昇は消費者物価に波及する可能性があり、経済政策にも影響を及ぼす。",
+        "market_impact": "原油価格の上昇は燃料コストを押し上げ、自動車燃料や家庭の暖房費用増加をもたらす。海運業界では保険料や運賃が高騰し、貨物運送コスト増加がインフレ圧力を加速させる。エネルギー価格の高止まりに伴い、政府の支援策や価格規制の見直しも必要となり、中長期的に企業のコスト構造と消費者購買力に影響を与える。",
+        "category": "Geopolitics",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "China says 'thorough preparations' needed as Trump-Xi meeting hangs in the balance amid Iran war",
-        "summary_2lines": "中国外交トップの王毅は、イラン戦争と貿易摩擦を背景にトランプ大統領と習近平主席の会談準備の必要性を強調した。貿易関税の引き下げなどの協議も進む中、両国関係は緊張緩和の局面を迎えている。",
-        "why_it_matters": "米中のトップ会談は世界経済や安全保障の安定に直結する重要なイベントであり、特にイラン戦争や貿易摩擦という複雑な問題が絡む今、準備や環境整備が慎重に進められている。これにより誤解や対立回避を目指しており、地政学リスクと経済摩擦の影響緩和の鍵となるため注目されている。",
-        "market_impact": "トランプ氏の中国訪問が実現すれば、関税引き下げや事業協議の具体化を通じて米中貿易環境が改善し、一部企業のサプライチェーンや輸出入コストの軽減につながる可能性がある。一方、イラン情勢の緊張が収まらなければ原油価格の高騰など市場の不安定化を招くリスクも残る。",
+        "summary_2lines": "中国の外交トップ王毅氏は、米中首脳会談に向けた入念な準備の重要性を強調し、イラン戦争や関税問題を巡る対立があるものの協議継続を示唆した。習近平主席とトランプ大統領の対話が、3月末に予定される訪中を前に進展しているが、訪中日程は未確定のままである。",
+        "why_it_matters": "米中両国は世界の経済・安全保障における重要なパワーであり、首脳間の直接対話は貿易摩擦の緩和やイラン紛争などの地政学リスクの管理に不可欠だ。特に関税撤廃や戦争回避を巡る協調が、世界の貿易・投資環境の安定に大きな影響を与えるため、本会談の行方は国際社会にとって極めて重要である。",
+        "market_impact": "トランプ大統領の訪中および両首脳の会談実現は、米中間の貿易交渉や関税引き下げの具体化につながる可能性が高く、これにより世界市場のリスクオフムードが緩和し、企業のサプライチェーンや投資戦略に好影響を与える。一方、イラン情勢の緊迫化や訪問延期は、エネルギー価格の変動や市場の不透明感を高めるリスクも孕んでいる。",
         "category": "Geopolitics",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/08/china-says-thorough-preparations-needed-ahead-of-trump-xi-meeting.html"
       },
       {
-        "title": "Flight paths squeezed as Iran conflict closes more airspace",
-        "summary_2lines": "イラン周辺の紛争によりアゼルバイジャン南部の空域が閉鎖され、航空路が北部の狭い通路に集中。これにより飛行時間が延び、航空会社の運航計画に大きな影響が出ている。",
-        "why_it_matters": "中東・カスピ海地域は世界の主要航空回廊の1つであり、紛争による空域閉鎖は航空会社にとって大幅な運航コスト増大と混雑を招く。加えて、ロシア空域回避も重なり、代替ルートが限られるため、世界の航空物流と渡航に広範な影響が及ぶ。",
-        "market_impact": "航空会社は燃料消費と飛行時間の増加で経費が上昇し、遅延や路線変更で顧客サービスにも打撃。湾岸諸国の航空ブランドは運航モデルの再検討を迫られ、特にドバイやアブダビを拠点とする接続便の需要が減少する恐れがある。石油市場も地政学的リスク上昇で価格動向に影響を与えうる。",
+        "title": "G7 to take 'necessary measures' to support energy supplies",
+        "summary_2lines": "G7諸国は、イランと米・イスラエルの紛争に伴うエネルギー供給不安に対応し、必要に応じて戦略的石油備蓄の放出も含む対策を講じる準備があると表明した。現在の原油価格は120ドル近くまで高騰し、供給リスクが市場を揺るがしている。",
+        "why_it_matters": "世界の約5分の1の石油供給がホルムズ海峡を経由しているため、同地域での紛争は国際エネルギー市場に深刻な供給不安をもたらす。これにより原油価格の急騰と不安定化が発生し、消費者物価の上昇や世界経済のインフレ圧力強化につながる可能性が高い。G7の対応はエネルギー安全保障確保と世界経済安定の観点から重要である。",
+        "market_impact": "原油価格の急騰はエネルギーコスト上昇を通じて企業の生産コスト増加や消費者支出の減少を招き、世界的なインフレ圧力を強める。中央銀行はインフレ抑制のため利上げ継続を迫られ、金融市場に不確実性が増す。石油備蓄の放出が行われれば一時的に価格の急騰を抑制できる可能性があるが、根本的な地政学リスクは依然残る。",
         "category": "Geopolitics",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Economy": [
       {
-        "title": "US economy unexpectedly sheds 92,000 jobs in February",
-        "summary_2lines": "米国経済は2月に予想外の9.2万人の雇用減少を記録し、失業率も4.4%に上昇した。労働市場の弱まりが懸念され、成長の先行きに不透明感が広がっている。",
-        "why_it_matters": "米国の労働市場は経済の健康度を示す重要指標であり、今回の雇用減少は景気回復や経済成長の持続に疑問符を付ける。加えて、急騰する原油価格や地政学リスクがインフレ圧力を高め、金融政策の難しさを増しているため、経済政策や市場動向に大きな影響を及ぼす可能性がある。",
-        "market_impact": "雇用統計の悪化により株式市場は下落し、投資家の不安が強まった。労働市場の鈍化は消費支出の減少をもたらし企業業績に影響を与える可能性がある。加えて、原油価格上昇によるインフレ圧力と金融引き締めのジレンマが、今後の政策決定を難航させる見通しだ。",
-        "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cjd98091g28o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "There’s an inflation wave coming - what does the Iran war mean for the UK economy?",
-        "summary_2lines": "イラン戦争に伴うホルムズ海峡の事実上の閉鎖により、原油価格が急騰し、英国を含む世界経済にインフレ圧力が高まっている。これにより英政府の経済見通しが大幅に変わり、金利や住宅ローン市場にも影響が及んでいる。",
-        "why_it_matters": "中東地域は世界のエネルギー供給の要であり、今回の紛争による供給不安は原油価格の急騰を招いている。これはエネルギーコストの上昇を通じたインフレ圧力で、英国経済の回復見通しや金融政策に直接的な悪影響を与え、生活費や企業活動にも広範な影響をもたらすため重要である。",
-        "market_impact": "原油価格が27%上昇し、天然ガス価格も急騰した結果、英国の国債利回りが上昇し、金融市場の不安定化を招いている。住宅ローンの金利は上昇傾向となり、金利引き下げ期待は後退。企業の製造コストや物流コストも上昇し、インフレが加速することで消費や投資に悪影響を与える可能性が高い。",
-        "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cd9gvv5w3v8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Fed Governor Miran says job losses in February add to the case for more interest rate cuts",
-        "summary_2lines": "連邦準備制度理事のミラン氏は、2月の雇用減少を踏まえ、さらなる利下げが正当化されると述べた。インフレより労働市場支援を重視し、中立金利水準への引き下げを支持している。",
-        "why_it_matters": "ミラン氏の発言はFRB内部での金融政策の方向性を示す重要なサインであり、特に利下げを主張する立場から労働市場の弱さを重視する姿勢が注目される。これは今後の金利政策に影響を与え、市場や経済全体の動向を左右するため重要な意味を持つ。",
-        "market_impact": "ミラン氏の追加利下げ支持は短期的に市場の金利低下期待を高め、株式市場にはプラス要因となる一方で、貸出金利の低下で企業の設備投資や消費活動が刺激される可能性がある。反面、金融機関の利ザヤ縮小懸念もあるため銀行株には下押し圧力がかかることも予想される。",
+        "summary_2lines": "FRB理事ミランは2月の雇用減少を受け、更なる利下げの必要性を強調。インフレよりも労働市場支援を優先すべきと主張している。",
+        "why_it_matters": "米連邦準備制度理事会（FRB）の金融政策の方向性は世界経済に大きな影響を及ぼす。ミラン理事の見解は、インフレ懸念が和らぐ中で利下げ圧力が強まっていることを示唆し、今後の政策判断や市場期待に変化をもたらす可能性があるため重要である。",
+        "market_impact": "利下げ期待が高まることで、株価は上昇傾向となりやすく、債券市場では利回り低下が予想される。金融コストの低下は企業の投資意欲を刺激し、消費者支出も押し上げる可能性があるが、一方でインフレの正確な把握に課題が残るため市場の不透明感も増すかもしれない。",
         "category": "Economy",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/06/fed-governor-miran-says-job-losses-in-february-add-to-the-case-for-more-interest-rate-cuts.html"
+      },
+      {
+        "title": "Why China can withstand oil's surge past $100 more easily than other countries",
+        "summary_2lines": "中国は大量の原油備蓄と再生可能エネルギーへのエネルギー源多様化により、原油価格の急騰に対して他国より影響を受けにくい。特にホルムズ海峡の閉鎖リスクに対しても構造的なヘッジを持っている。",
+        "why_it_matters": "原油価格の急上昇は世界経済に大きな影響を及ぼすため、主要なエネルギー消費国の対応力が注目される。中国は戦略的備蓄と電動車・再生可能エネルギーの推進により、輸入依存度を下げつつあり、国際的なエネルギー安全保障の観点で重要なプレイヤーとなっている。",
+        "market_impact": "中国のエネルギー消費構造の変化は、世界の石油市場における需要構造の変動をもたらす可能性がある。電気自動車の普及による石油需要の削減は長期的に原油価格の上昇圧力を和らげ、また中国の安定した供給確保が地域の経済・貿易情勢に安定をもたらすと予測される。",
+        "category": "Economy",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/09/china-oil-shock-iran-war-hormuz-energy-transition.html"
+      },
+      {
+        "title": "How the Iran war may affect your bills and finances",
+        "summary_2lines": "イラン戦争の影響で原油価格が上昇し、イギリスのガソリン価格やモーゲージ金利、エネルギー料金に圧力がかかっている。今後の戦況次第で、家計負担がさらに増大する可能性がある。",
+        "why_it_matters": "イラン戦争は世界の原油供給に不安をもたらし、それが直接的に燃料価格や生活コストに反映されることで、多くの消費者の家計に影響を与える。特に英国ではエネルギー価格の規制はあるものの期限付きであり、住宅ローン金利も上昇しているため経済的なダメージが広がる可能性が高い。",
+        "market_impact": "原油価格の上昇によりガソリンスタンドの価格は既に上昇しており、これが物流コストの増大や食品価格の上昇へ波及。金融機関はモーゲージ金利を引き上げ、一部商品は市場から撤退しているため、消費者の借入環境が厳しくなる。加えて、エネルギー市場は供給不安により料金体系の不安定化が進み、特に暖房油を使用する家庭の負担が増大する懸念がある。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why the price of oil matters more than you might think",
+        "summary_2lines": "イラン情勢の悪化による湾岸地域の原油供給が大幅に減少し、原油価格が急騰している。これは世界的なエネルギー価格上昇と経済成長の鈍化リスクを孕む深刻な供給ショックを引き起こしている。",
+        "why_it_matters": "世界のエネルギー市場は中東産油国に大きく依存しており、イラン周辺の紛争が石油および天然ガスの供給を阻害すると、供給不足による価格高騰が避けられない。こうした状況は、過去の供給ショック以上の深刻さを持ち、グローバル経済にインフレ圧力や成長鈍化という重大な影響を及ぼすため注目されている。",
+        "market_impact": "原油価格は一時120ドル近くまで上昇し、欧州やアジアでエネルギー価格の急激な上昇と需要制限策が実施されている。これにより企業のコスト負担が増加し、消費者の可処分所得が圧迫されることで経済活動が鈍化する恐れがある。特にエネルギー集約型産業や輸入依存度の高い地域で影響が顕著で、テクノロジー分野や農業など多岐にわたり波及効果が懸念されている。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cr457nq7z61o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Reeves to look at how to help households with heating oil bills",
+        "summary_2lines": "英政府の財務相レイヴス氏が、北アイルランドなど石油暖房に依存する家庭の急激な光熱費上昇に対応する方策を検討すると発表。供給不安から原油価格が約4年ぶりの高値に達し、暖房油価格が急騰している。",
+        "why_it_matters": "ロシア・ウクライナ情勢に加え米・イスラエル・イランの緊張激化で世界的な原油価格が高騰し、特に北アイルランドなどで暖房油への依存が高い地域の住民が生活費負担で深刻な影響を受けている。電気・ガスとは異なり暖房油費用に価格上限制度がなく、価格高止まりの長期化が懸念されるため対策が急務となっている。",
+        "market_impact": "暖房油価格の急騰により関連燃料販売業者や物流業者の収益変動が予想される一方、価格高止まりや供給不足は消費者の支出抑制を招き地域経済にもネガティブな波及効果が及ぶ可能性がある。政府の支援策やCMAの監視強化は市場の公正性維持と消費者保護に寄与すると見られる。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c07jyd0rrz2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Corporate": []
