@@ -1,151 +1,150 @@
 {
-  "generated_at_jst": "2026-03-11 07:15",
+  "generated_at_jst": "2026-03-12 07:16",
   "todays_brief": [
     {
       "title": "China says 'thorough preparations' needed as Trump-Xi meeting hangs in the balance amid Iran war",
-      "summary_2lines": "中国の外交トップ、王毅氏は米中首脳会談に向けた準備が進んでいると強調したが、イラン紛争や関税問題などの懸念が依然として存在している。トランプ大統領の中国訪問は未確定で、両国の緊張緩和のための慎重な対応が求められている。",
-      "why_it_matters": "米中関係は世界経済と地政学的安定の鍵を握っており、首脳会談は貿易摩擦の解消や地域紛争の影響緩和に繋がる可能性がある。イラン情勢の悪化と連動することで会談の実施や内容に影響が出れば、国際政治の緊張が高まり市場の不安定化を招く恐れがあるため重要である。",
-      "market_impact": "会談が予定通り実施される場合、関税緩和や経済協力の加速が期待され、グローバルサプライチェーンや貿易市場に好影響を与える可能性がある。しかし、紛争や外交リスクの継続は投資家心理を冷やし、リスク回避姿勢が強まることで株式市場の変動性が高まる懸念がある。また、技術・経済の切り離しを避けるとの発言は企業間の連携を維持する姿勢の表れであり、企業活動にもプラス効果となる可能性がある。",
+      "summary_2lines": "中国の外交トップ王毅は米中首脳会談準備の重要性を強調し、イラン戦争や貿易関税の課題がある中での関係改善を目指す姿勢を示した。トランプ大統領の中国訪問は未確定で、地政学的緊張が両国の関係に影響を与えている。",
+      "why_it_matters": "米中両国は世界経済および国際秩序において主導的な役割を持つため、両首脳の会談と関係改善の動きは世界全体の安定や貿易の行方、さらにイラン紛争を含む地域の安全保障にも大きな影響を及ぼす。特に関税問題や多極化の考え方は、今後のグローバル経済構造を左右する重要な文脈である。",
+      "market_impact": "米中首脳会談が実現すれば貿易摩擦の緩和や経済協力の強化が期待され、株式市場や為替市場にポジティブな影響を与える可能性がある。一方、イラン情勢や不透明な訪中日程などがリスク要因となり、市場の不確実性やボラティリティを高める恐れがある。企業ではサプライチェーンの安定化や関税引き下げが事業環境改善につながる可能性がある。",
       "category": "Geopolitics",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/03/08/china-says-thorough-preparations-needed-ahead-of-trump-xi-meeting.html"
     },
     {
-      "title": "Deal needed to restore trade routes, boss of shipping giant tells BBC",
-      "summary_2lines": "MaerskのCEOが米国・イスラエル・イランによる合意の必要性を強調し、中東の航路を再開する重要性を訴えた。戦争による航路封鎖で世界的な物流と経済が混乱している。",
-      "why_it_matters": "中東は世界の主要な海上貿易ルートの一大拠点であり、特にホルムズ海峡は世界の原油供給の約5分の1が通過している。戦争による航路封鎖は輸送コストや物流遅延を招き、世界的なインフレ圧力の一因となっているため、早急な停戦や安全な航行の確保が経済安定に不可欠である。",
-      "market_impact": "航路遮断によりマースクをはじめ大手海運会社は迂回航路を取らざるを得ず、燃料費や輸送コストが約15-20％上昇。これが顧客や消費者に転嫁され、世界的な物価上昇とサプライチェーンの混乱を助長。食料品や化学製品の輸出も停滞し、地域の食料安全保障にもリスクをもたらしている。",
+      "title": "Countries agree to record release of emergency oil reserves as prices surge",
+      "summary_2lines": "IEA加盟国32カ国が、急激な原油価格上昇と供給不足に対応するため、過去最多の4億バレルの緊急石油備蓄を放出することに合意した。これはホルムズ海峡を巡る中東の紛争による供給停滞への短期的な対策である。",
+      "why_it_matters": "ホルムズ海峡は世界の海上石油供給の約25%を占める重要ルートであり、地域紛争による輸出停止は世界のエネルギー安定供給に深刻な影響を及ぼしている。IEAの緊急備蓄放出は、石油価格高騰と供給不足に対応する国際的な協調行動であるが、長期的な問題解決には繋がらず、市場の混乱は続く可能性が高い。",
+      "market_impact": "今回の備蓄放出により短期的には原油供給が増え価格高騰の勢いを抑える効果が見込まれるが、精製設備の制約や根本的な供給不足は解消されず、原油価格の急落には至っていない。加えて液化天然ガス（LNG）市場では依然として供給不足と価格高騰が続くため、エネルギー関連企業や消費経済には不透明感が残る。",
       "category": "Geopolitics",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c5ykzyd0rkyo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "There's another energy market that may get hit harder than oil by Strait of Hormuz closure",
-      "summary_2lines": "ホルムズ海峡の封鎖により液化天然ガス（LNG）市場が原油以上に大きな影響を受ける可能性がある。特にカタールのLNG生産が集中しているため、供給再開には長期間を要する見込みだ。",
-      "why_it_matters": "ホルムズ海峡は世界の液化天然ガスの約20%が通過する重要な海上輸送ルートであり、原油と異なりLNGはパイプライン代替が困難で、生産もカタールの単一の大型施設に集中している。そのため、海峡封鎖による輸送停止は長期的な供給不足を招き、世界のエネルギー市場の安定性に深刻なリスクをもたらす。",
-      "market_impact": "LNG供給の大幅な停滞で欧米・アジアの天然ガス価格が急騰し、エネルギーコスト上昇が加速。カタールの再稼働に数週間以上かかるため、世界的なLNG需給バランスが崩れ、価格高騰と供給不安定さが続く可能性が高い。代替エネルギー需要の増加や市場の需給調整が進む一方で、中東情勢の悪化によるさらなる供給リスクも懸念される。",
+      "summary_2lines": "ホルムズ海峡の閉鎖により石油価格は上昇しているが、液化天然ガス（LNG）市場への影響はそれ以上に深刻になる可能性がある。特にカタールのLNG生産が集中しているため、供給停止が長期化する懸念がある。",
+      "why_it_matters": "LNGは石油と異なりパイプラインの代替がなく、輸送に船が不可欠で生産再開も時間がかかるため、ホルムズ海峡の閉鎖は世界のエネルギー供給に深刻なリスクをもたらす。特に欧州やアジアの天然ガス価格が大幅に上昇し、エネルギー市場の不安定化を招く背景がある。",
+      "market_impact": "LNG供給の停滞により天然ガス価格が急騰し、特にアジア市場に大きな影響を与えている。米国は最大のLNG輸出国であるものの既に最大稼働で追加供給は困難であり、需要削減によるバランス回復の可能性が高い。また、カタールのLNG施設を標的にした攻撃懸念が続くことで長期的な供給不安が残り、エネルギー価格のさらなる上昇や代替燃料への切り替えが進むことも予想される。",
       "category": "Markets",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/03/09/theres-another-energy-market-that-may-get-hit-harder-than-oil-by-strait-of-hormuz-closure.html"
     },
     {
-      "title": "Meta urged to boost oversight of fake AI videos",
-      "summary_2lines": "Metaの監視委員会はAI生成の偽動画の拡散に対し、企業の対応が不十分だと指摘した。特に中東紛争に関連した偽情報のラベル付け強化を求めている。",
-      "why_it_matters": "AI技術の進展に伴い偽情報の拡散が加速しており、特にグローバルな軍事紛争において虚偽情報が公衆の信頼を損ねるリスクが高まっている。プラットフォーム運営企業の適切な対応は情報の透明性と社会的信頼維持に不可欠だ。",
-      "market_impact": "Metaが偽情報対応を強化し透明性を高めることは、ユーザー信頼の向上や規制リスクの軽減につながる。逆に対応が不十分だと広告主離れや規制強化の圧力増加につながり、同社の株価やデジタル広告市場に悪影響を与える可能性がある。",
-      "category": "Tech",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c4gjyg0g78vo?at_medium=RSS&at_campaign=rss"
+      "title": "Why China can withstand oil's surge past $100 more easily than other countries",
+      "summary_2lines": "中国は大量の石油備蓄と再生可能エネルギーの拡大で、原油価格が100ドルを超えても影響を受けにくい。ホルムズ海峡への依存度も減少しており、エネルギー安全保障が強化されている。",
+      "why_it_matters": "世界の石油需給と地政学リスクが高まる中、中国のエネルギー戦略は他国よりリスク耐性が高い。ホルムズ海峡を経由する石油供給が不安定になる可能性がある一方で、中国の備蓄やエネルギー多様化戦略は経済安定に寄与し、国際市場の変動に強い立場を示している。",
+      "market_impact": "中国の石油需要が比較的影響を受けにくいため、原油価格の急騰が中国経済成長の鈍化を招きにくい。電気自動車の普及拡大は石油需要の抑制につながり、関連エネルギー企業や電池・EV市場に追い風となる。他国よりエネルギー輸入リスクが低減されることが、投資家の中国市場に対する信頼を支える可能性がある。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/09/china-oil-shock-iran-war-hormuz-energy-transition.html"
     },
     {
-      "title": "Surging oil prices could wipe out benefits from Trump's 'big beautiful bill'",
-      "summary_2lines": "原油価格の急騰により、トランプ大統領の「ビッグ・ビューティフル・ビル」による個人税減税の経済効果が相殺される可能性が高まっている。原油高が続くと、消費者のガソリン代が増え、税還付による消費刺激が薄れる恐れがある。",
-      "why_it_matters": "トランプ大統領の税制改革は2025年の経済成長やインフレ抑制に寄与すると期待されていたが、原油価格の上昇によってその効果が打ち消されるリスクが浮上している。原油価格の推移は、インフレや消費動向に直接的な影響を与えるため、政策効果や経済見通しを左右する重要なファクターとなっている。",
-      "market_impact": "原油価格が20ドル以上高騰したため、消費者は年間約1500億ドルの追加支出を強いられ、税還付による1290億ドルの恩恵を超える負担が生じている。これにより消費者支出の増加が抑制され、景気刺激効果が減退。エネルギーコスト増加は企業のコスト構造にも影響し、インフレ圧力を高める可能性がある。一方で、一部専門家は税還付が支えとなるためリセッション回避の可能性を指摘している。",
-      "category": "Economy",
+      "title": "JPMorgan Chase reins in lending to private credit firms after marking down software loans",
+      "summary_2lines": "JPMorgan Chaseはプライベートクレジット業界向け融資の担保価値を引き下げ、ソフトウェア企業向けローンを中心に貸出を抑制している。これは潜在的リスクと市場変動に備えた先制的な財務判断だ。",
+      "why_it_matters": "AIの影響でソフトウェア企業の将来性に不透明感が高まり、プライベートクレジット市場に動揺が広がっている。JPMorganの措置は業界全体の信用リスクを早期に対処し、広範な金融リスクの波及を防ごうとする重要な動きである。",
+      "market_impact": "プライベートクレジットファンドの調達能力が制限され、ファンドのレバレッジ戦略に制約が生じる。結果として業界の資金流動性は縮小し、関連する投資家やソフトウェア企業の資金調達環境に負の影響が及ぶ可能性がある。また、他金融機関も同様のリスク評価を迫られることが予想され、市場全体のリスク管理強化へ繋がる可能性がある。",
+      "category": "Markets",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/10/rising-oil-prices-may-wipe-out-effects-of-trumps-big-beautiful-bill.html"
+      "url": "https://www.cnbc.com/2026/03/11/jpmorgan-reins-lending-private-credit-marks-down-software-loans.html"
     }
   ],
   "categories": {
-    "Tech": [
-      {
-        "title": "Meta urged to boost oversight of fake AI videos",
-        "summary_2lines": "Metaの監視委員会はAI生成の偽動画の拡散に対し、企業の対応が不十分だと指摘した。特に中東紛争に関連した偽情報のラベル付け強化を求めている。",
-        "why_it_matters": "AI技術の進展に伴い偽情報の拡散が加速しており、特にグローバルな軍事紛争において虚偽情報が公衆の信頼を損ねるリスクが高まっている。プラットフォーム運営企業の適切な対応は情報の透明性と社会的信頼維持に不可欠だ。",
-        "market_impact": "Metaが偽情報対応を強化し透明性を高めることは、ユーザー信頼の向上や規制リスクの軽減につながる。逆に対応が不十分だと広告主離れや規制強化の圧力増加につながり、同社の株価やデジタル広告市場に悪影響を与える可能性がある。",
-        "category": "Tech",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c4gjyg0g78vo?at_medium=RSS&at_campaign=rss"
-      }
-    ],
+    "Tech": [],
     "Markets": [
       {
+        "title": "JPMorgan Chase reins in lending to private credit firms after marking down software loans",
+        "summary_2lines": "JPMorgan Chaseはプライベートクレジット業界向け融資の担保価値を引き下げ、ソフトウェア企業向けローンを中心に貸出を抑制している。これは潜在的リスクと市場変動に備えた先制的な財務判断だ。",
+        "why_it_matters": "AIの影響でソフトウェア企業の将来性に不透明感が高まり、プライベートクレジット市場に動揺が広がっている。JPMorganの措置は業界全体の信用リスクを早期に対処し、広範な金融リスクの波及を防ごうとする重要な動きである。",
+        "market_impact": "プライベートクレジットファンドの調達能力が制限され、ファンドのレバレッジ戦略に制約が生じる。結果として業界の資金流動性は縮小し、関連する投資家やソフトウェア企業の資金調達環境に負の影響が及ぶ可能性がある。また、他金融機関も同様のリスク評価を迫られることが予想され、市場全体のリスク管理強化へ繋がる可能性がある。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/11/jpmorgan-reins-lending-private-credit-marks-down-software-loans.html"
+      },
+      {
+        "title": "Why China can withstand oil's surge past $100 more easily than other countries",
+        "summary_2lines": "中国は大量の石油備蓄と再生可能エネルギーの拡大で、原油価格が100ドルを超えても影響を受けにくい。ホルムズ海峡への依存度も減少しており、エネルギー安全保障が強化されている。",
+        "why_it_matters": "世界の石油需給と地政学リスクが高まる中、中国のエネルギー戦略は他国よりリスク耐性が高い。ホルムズ海峡を経由する石油供給が不安定になる可能性がある一方で、中国の備蓄やエネルギー多様化戦略は経済安定に寄与し、国際市場の変動に強い立場を示している。",
+        "market_impact": "中国の石油需要が比較的影響を受けにくいため、原油価格の急騰が中国経済成長の鈍化を招きにくい。電気自動車の普及拡大は石油需要の抑制につながり、関連エネルギー企業や電池・EV市場に追い風となる。他国よりエネルギー輸入リスクが低減されることが、投資家の中国市場に対する信頼を支える可能性がある。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/09/china-oil-shock-iran-war-hormuz-energy-transition.html"
+      },
+      {
         "title": "There's another energy market that may get hit harder than oil by Strait of Hormuz closure",
-        "summary_2lines": "ホルムズ海峡の封鎖により液化天然ガス（LNG）市場が原油以上に大きな影響を受ける可能性がある。特にカタールのLNG生産が集中しているため、供給再開には長期間を要する見込みだ。",
-        "why_it_matters": "ホルムズ海峡は世界の液化天然ガスの約20%が通過する重要な海上輸送ルートであり、原油と異なりLNGはパイプライン代替が困難で、生産もカタールの単一の大型施設に集中している。そのため、海峡封鎖による輸送停止は長期的な供給不足を招き、世界のエネルギー市場の安定性に深刻なリスクをもたらす。",
-        "market_impact": "LNG供給の大幅な停滞で欧米・アジアの天然ガス価格が急騰し、エネルギーコスト上昇が加速。カタールの再稼働に数週間以上かかるため、世界的なLNG需給バランスが崩れ、価格高騰と供給不安定さが続く可能性が高い。代替エネルギー需要の増加や市場の需給調整が進む一方で、中東情勢の悪化によるさらなる供給リスクも懸念される。",
+        "summary_2lines": "ホルムズ海峡の閉鎖により石油価格は上昇しているが、液化天然ガス（LNG）市場への影響はそれ以上に深刻になる可能性がある。特にカタールのLNG生産が集中しているため、供給停止が長期化する懸念がある。",
+        "why_it_matters": "LNGは石油と異なりパイプラインの代替がなく、輸送に船が不可欠で生産再開も時間がかかるため、ホルムズ海峡の閉鎖は世界のエネルギー供給に深刻なリスクをもたらす。特に欧州やアジアの天然ガス価格が大幅に上昇し、エネルギー市場の不安定化を招く背景がある。",
+        "market_impact": "LNG供給の停滞により天然ガス価格が急騰し、特にアジア市場に大きな影響を与えている。米国は最大のLNG輸出国であるものの既に最大稼働で追加供給は困難であり、需要削減によるバランス回復の可能性が高い。また、カタールのLNG施設を標的にした攻撃懸念が続くことで長期的な供給不安が残り、エネルギー価格のさらなる上昇や代替燃料への切り替えが進むことも予想される。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/09/theres-another-energy-market-that-may-get-hit-harder-than-oil-by-strait-of-hormuz-closure.html"
-      },
-      {
-        "title": "Robinhood's venture fund, which gives investors access to private companies, tanks 11% on first day",
-        "summary_2lines": "Robinhoodのベンチャーファンドは上場初日に11%下落し、リスク資産への投資意欲に懸念が示された。個人投資家に未公開企業へのアクセスを提供する新しい試みだが、市場環境は厳しい状況だ。",
-        "why_it_matters": "Robinhoodは従来個人投資家に制限されてきたプライベート市場への参入障壁を下げ、投資の民主化を目指している。だが、地政学的リスクや株式市場の不透明感が強まる中での価格低迷は、個人投資家のリスク許容度や市場環境の厳しさを示唆している。",
-        "market_impact": "ベンチャーファンドの初値割れは、リスク性資産への資金流入が鈍化する可能性を示し、他の類似ファンドやプライベート投資の魅力低下を招く恐れがある。また、地政学的緊張が市場全体のボラティリティを高め、不安定要素として作用している。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/06/robinhoods-venture-fund-which-gives-investors-access-to-private-companies-tanks-11percent-on-first-day.html"
       }
     ],
     "Geopolitics": [
       {
         "title": "China says 'thorough preparations' needed as Trump-Xi meeting hangs in the balance amid Iran war",
-        "summary_2lines": "中国の外交トップ、王毅氏は米中首脳会談に向けた準備が進んでいると強調したが、イラン紛争や関税問題などの懸念が依然として存在している。トランプ大統領の中国訪問は未確定で、両国の緊張緩和のための慎重な対応が求められている。",
-        "why_it_matters": "米中関係は世界経済と地政学的安定の鍵を握っており、首脳会談は貿易摩擦の解消や地域紛争の影響緩和に繋がる可能性がある。イラン情勢の悪化と連動することで会談の実施や内容に影響が出れば、国際政治の緊張が高まり市場の不安定化を招く恐れがあるため重要である。",
-        "market_impact": "会談が予定通り実施される場合、関税緩和や経済協力の加速が期待され、グローバルサプライチェーンや貿易市場に好影響を与える可能性がある。しかし、紛争や外交リスクの継続は投資家心理を冷やし、リスク回避姿勢が強まることで株式市場の変動性が高まる懸念がある。また、技術・経済の切り離しを避けるとの発言は企業間の連携を維持する姿勢の表れであり、企業活動にもプラス効果となる可能性がある。",
+        "summary_2lines": "中国の外交トップ王毅は米中首脳会談準備の重要性を強調し、イラン戦争や貿易関税の課題がある中での関係改善を目指す姿勢を示した。トランプ大統領の中国訪問は未確定で、地政学的緊張が両国の関係に影響を与えている。",
+        "why_it_matters": "米中両国は世界経済および国際秩序において主導的な役割を持つため、両首脳の会談と関係改善の動きは世界全体の安定や貿易の行方、さらにイラン紛争を含む地域の安全保障にも大きな影響を及ぼす。特に関税問題や多極化の考え方は、今後のグローバル経済構造を左右する重要な文脈である。",
+        "market_impact": "米中首脳会談が実現すれば貿易摩擦の緩和や経済協力の強化が期待され、株式市場や為替市場にポジティブな影響を与える可能性がある。一方、イラン情勢や不透明な訪中日程などがリスク要因となり、市場の不確実性やボラティリティを高める恐れがある。企業ではサプライチェーンの安定化や関税引き下げが事業環境改善につながる可能性がある。",
         "category": "Geopolitics",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/08/china-says-thorough-preparations-needed-ahead-of-trump-xi-meeting.html"
       },
       {
-        "title": "Deal needed to restore trade routes, boss of shipping giant tells BBC",
-        "summary_2lines": "MaerskのCEOが米国・イスラエル・イランによる合意の必要性を強調し、中東の航路を再開する重要性を訴えた。戦争による航路封鎖で世界的な物流と経済が混乱している。",
-        "why_it_matters": "中東は世界の主要な海上貿易ルートの一大拠点であり、特にホルムズ海峡は世界の原油供給の約5分の1が通過している。戦争による航路封鎖は輸送コストや物流遅延を招き、世界的なインフレ圧力の一因となっているため、早急な停戦や安全な航行の確保が経済安定に不可欠である。",
-        "market_impact": "航路遮断によりマースクをはじめ大手海運会社は迂回航路を取らざるを得ず、燃料費や輸送コストが約15-20％上昇。これが顧客や消費者に転嫁され、世界的な物価上昇とサプライチェーンの混乱を助長。食料品や化学製品の輸出も停滞し、地域の食料安全保障にもリスクをもたらしている。",
+        "title": "Countries agree to record release of emergency oil reserves as prices surge",
+        "summary_2lines": "IEA加盟国32カ国が、急激な原油価格上昇と供給不足に対応するため、過去最多の4億バレルの緊急石油備蓄を放出することに合意した。これはホルムズ海峡を巡る中東の紛争による供給停滞への短期的な対策である。",
+        "why_it_matters": "ホルムズ海峡は世界の海上石油供給の約25%を占める重要ルートであり、地域紛争による輸出停止は世界のエネルギー安定供給に深刻な影響を及ぼしている。IEAの緊急備蓄放出は、石油価格高騰と供給不足に対応する国際的な協調行動であるが、長期的な問題解決には繋がらず、市場の混乱は続く可能性が高い。",
+        "market_impact": "今回の備蓄放出により短期的には原油供給が増え価格高騰の勢いを抑える効果が見込まれるが、精製設備の制約や根本的な供給不足は解消されず、原油価格の急落には至っていない。加えて液化天然ガス（LNG）市場では依然として供給不足と価格高騰が続くため、エネルギー関連企業や消費経済には不透明感が残る。",
         "category": "Geopolitics",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c5ykzyd0rkyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "British Airways to suspend UK repatriation flights - latest on travel from Middle East",
-        "summary_2lines": "British Airways is suspending repatriation flights from Muscat due to reduced demand and canceling multiple Middle East routes until late March. Other airlines like Emirates and Qatar Airways are operating limited flights amidst regional tensions and airspace restrictions.",
-        "why_it_matters": "The disruption of flights from the Middle East affects thousands of British nationals trying to return amid escalating geopolitical tensions, particularly following Iranian strikes and retaliations. This highlights ongoing instability impacting travel, safety, and international relations in the region.",
-        "market_impact": "Airlines operating Middle East routes face operational challenges and revenue loss from cancellations and reduced demand. The UK government incurs costs for multiple chartered repatriation flights. Continued volatility may affect investor confidence in regional carriers and the broader aviation sector.",
-        "category": "Geopolitics",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c4ge52x4w37o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Oil and gas prices fall after Trump says war is 'very complete'",
-        "summary_2lines": "トランプ大統領がイランとの戦争はほぼ完了したとの発言を受け、原油・ガス価格が急落し世界株式市場は反発した。だが依然として原油価格は戦争前より高く、供給不安は続いている。",
-        "why_it_matters": "中東の緊張とエネルギー供給への懸念は世界経済に大きな影響を与える。ホルムズ海峡の封鎖は世界石油輸送の約5分の1に影響し、供給途絶リスクが高まるため、価格変動やインフレ率の上昇を招く重要な地政学的問題である。",
-        "market_impact": "原油価格の急落はエネルギー関連企業の収益見通しに影響し、株式市場の回復を促進した。米英のガソリン・ディーゼル価格上昇は消費者物価に波及し、英インフレ率は3%近くに押し上げられる可能性がある。IEAとG7が在庫放出を検討するなど市場安定化策も進行中だが、供給懸念が続く限り価格のボラティリティは高い状態が続く見通し。",
-        "category": "Geopolitics",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cx2jxe382pwo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Economy": [
       {
-        "title": "Why China can withstand oil's surge past $100 more easily than other countries",
-        "summary_2lines": "中国は原油価格が100ドルを超えても、戦略的備蓄と再生可能エネルギーの普及で影響を受けにくい。石油依存の低減と電気自動車推進が経済的リスク軽減に寄与している。",
-        "why_it_matters": "世界的な地政学的リスクや原油価格の高騰が続く中で、中国のエネルギー構造転換と巨大な備蓄は同国の経済安定性を支える重要な要素。特にホルムズ海峡閉鎖のリスクを比較的回避できる戦略が、国際エネルギー市場での中国の立ち位置を強化している。",
-        "market_impact": "中国の原油輸入依存度の削減や再生可能エネルギーの拡大は、世界の石油需要に影響を与え、石油関連企業の収益やエネルギー価格の変動を緩和する可能性がある。中国の電気自動車普及は石油需要の構造的変化を促進し、関連市場に長期的なシフトをもたらすだろう。",
+        "title": "Wildlife to replace historical figures on banknotes - and you get a say",
+        "summary_2lines": "イギリスの次期英ポンド紙幣には歴史的人物の代わりに英国の野生動物が描かれ、市民もそのデザインに意見を出せる。偽造防止と自然の祝福を目的とし、新デザインは数年以内に導入予定。",
+        "why_it_matters": "歴史的人物の選定における社会的議論や多様性不足への対応として、自然をテーマにすることで批判を避けつつ、偽造防止技術の向上や公共の参加を促し、英国文化の新たな象徴を提示する重要な政策転換である。",
+        "market_impact": "新紙幣の導入に伴う印刷・偽造防止関連産業の技術開発と需要増が期待されるほか、デザイン変更により貨幣の認知や流通にも影響。動物や自然をテーマにしたブランドイメージの転換は観光・文化産業にも間接的な好影響を及ぼす可能性がある。",
         "category": "Economy",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/09/china-oil-shock-iran-war-hormuz-energy-transition.html"
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c4geyyg9en6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Fuel tax hike plan to be kept under review over Iran, says PM",
+        "summary_2lines": "英国のスターーマー首相は、イラン情勢の影響を踏まえ、9月から予定されている燃料税引き上げを見直すと表明。与野党が燃料税政策を巡って激しく対立している。",
+        "why_it_matters": "燃料税は国民生活のコストに直結し、特にエネルギー価格の不安定化が続く現在、多くの市民や政治勢力の関心事。中東の地政学リスクがエネルギー市場に与える影響を考慮し政策変更の可能性があることは、経済と社会の安定に大きく関わる。",
+        "market_impact": "燃料税の引き上げが延期または取消されれば、エネルギーコストの急騰を抑制し消費者支出の減少を緩和する可能性がある。一方、不透明感は投資家心理を左右し、燃料関連企業の収益見通しや市場の価格変動に影響を与えるだろう。また、エネルギー価格の変動は広範な経済活動にも波及しうる。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cvg593l3yd5o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Surging oil prices could wipe out benefits from Trump's 'big beautiful bill'",
-        "summary_2lines": "原油価格の急騰により、トランプ大統領の「ビッグ・ビューティフル・ビル」による個人税減税の経済効果が相殺される可能性が高まっている。原油高が続くと、消費者のガソリン代が増え、税還付による消費刺激が薄れる恐れがある。",
-        "why_it_matters": "トランプ大統領の税制改革は2025年の経済成長やインフレ抑制に寄与すると期待されていたが、原油価格の上昇によってその効果が打ち消されるリスクが浮上している。原油価格の推移は、インフレや消費動向に直接的な影響を与えるため、政策効果や経済見通しを左右する重要なファクターとなっている。",
-        "market_impact": "原油価格が20ドル以上高騰したため、消費者は年間約1500億ドルの追加支出を強いられ、税還付による1290億ドルの恩恵を超える負担が生じている。これにより消費者支出の増加が抑制され、景気刺激効果が減退。エネルギーコスト増加は企業のコスト構造にも影響し、インフレ圧力を高める可能性がある。一方で、一部専門家は税還付が支えとなるためリセッション回避の可能性を指摘している。",
+        "summary_2lines": "米国の個人減税法案『big beautiful bill』による経済効果が、戦争による20ドル超の原油価格上昇で相殺される可能性がある。これにより、消費者の増税分還付が燃料費に消え、インフレ抑制への影響も懸念されている。",
+        "why_it_matters": "トランプ大統領の減税政策による景気刺激効果が原油高によって打ち消される恐れがあり、個人消費が増税還付よりも燃料費に多く回ることで、インフレの抑制や経済成長の期待が損なわれる可能性がある。エネルギー価格の動向は経済全体に大きな影響を及ぼすため、市場や政策決定に重要な示唆を与える。",
+        "market_impact": "消費者のガソリン支出が1500億ドル増加する試算は、減税で得る約1290億ドルの還付を相殺する。結果的に消費支出の伸び悩みやインフレ加速を招き、経済刺激策の効果減少を示唆する。また、原油高が長期化すれば企業のコスト圧迫も続き、市場の成長期待にブレーキがかかる可能性がある。",
         "category": "Economy",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/10/rising-oil-prices-may-wipe-out-effects-of-trumps-big-beautiful-bill.html"
+      },
+      {
+        "title": "Mortgage rates rise and deals pulled over Iran war turmoil",
+        "summary_2lines": "イランを巡る中東紛争の影響で、英国の住宅ローン金利が2年固定で5％を超え、約500件のローン商品が市場から撤退した。石油価格の上昇も続き、燃料価格の高騰が家計負担をさらに圧迫している。",
+        "why_it_matters": "英国では2022年のミニ予算以来のローン市場の混乱が再燃し、当初予想されていた金利引き下げが困難になった。中東の地政学リスクが原油価格とインフレ圧力を高める中、英国の金融政策や家計の借入コストに大きな影響を及ぼしているため重要である。",
+        "market_impact": "住宅ローン金利の上昇により借り換えや新規購入者の負担増加が見込まれ、住宅市場の停滞や消費活動の減速につながる可能性がある。加えて、燃料価格高騰がインフレ圧力を強め、政策金利のさらなる引き上げを促す可能性があるため、金融市場や実体経済に波及効果が予想される。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c24dm9vgrz7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Corporate": [
       {
-        "title": "Google employee loses tribunal claim after sexual harassment complaint",
-        "summary_2lines": "Googleの上級社員ヴィクトリア・ウッドオールが、性的嫌がらせを報告した後の報復措置を訴えたが、雇用裁判所は証拠不足で訴えを退けた。問題のマネージャーは解雇されたが、ウッドオールらと同時に組織再編で解雇された他の26名もいたことが影響した。",
-        "why_it_matters": "大手テック企業における性的嫌がらせの告発後の報復や職場環境の問題は、職場の倫理や企業文化に直接関わる社会問題であり、 whistleblowerの保護制度の不備や法的対応の限界を浮き彫りにしている。特に女性従業員や告発者の声が適切に扱われるかは業界全体の信頼性に直結する。",
-        "market_impact": "今回の判決自体はGoogleの大規模な経済的打撃には直結しないが、性的嫌がらせ問題や whistleblower保護の不備は企業のブランドイメージや従業員満足度に影響し、中長期的には人材確保や企業評価にマイナスの影響を与える可能性がある。テック業界全体での労働環境改善圧力が高まると見られる。",
+        "title": "'Icky and heartbreaking': The $2 per hour worker behind the OnlyFans boom",
+        "summary_2lines": "フィリピンの女性が低賃金でOnlyFansモデルのふりをしてオンラインチャット業務を行い、労働環境の過酷さと感情的な負担を明かした。OnlyFansの収益は巨大だが、実際にファン対応する「チャッター」たちは極めて低賃金で働いている。",
+        "why_it_matters": "オンラインコンテンツプラットフォームの収益構造における労働搾取や労働環境の問題を露呈している。特に発展途上国の労働者が低賃金で過酷な労働を強いられることで、労働者保護や規制の必要性が浮き彫りになっている。",
+        "market_impact": "OnlyFansの急成長の裏で低賃金労働が存在する実態は業界の評判リスクとなり得る。規制強化や労働者保護措置への社会的圧力が高まる可能性があり、今後プラットフォーム運営企業のビジネスモデルや業務委託先管理の見直しが求められるかもしれない。",
         "category": "Corporate",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c8r1nxe1rp4o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cq571g9gd4lo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
