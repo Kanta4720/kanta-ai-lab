@@ -1,59 +1,59 @@
 {
-  "generated_at_jst": "2026-03-13 07:14",
+  "generated_at_jst": "2026-03-14 07:18",
   "todays_brief": [
     {
-      "title": "How Iran war laid bare the world's reliance on Gulf oil and gas",
-      "summary_2lines": "イランを巡る戦争によりホルムズ海峡が事実上封鎖され、世界の石油価格が急騰。特に中東産の重質硫黄分を含む原油に依存するアジア諸国が大きな影響を受けている。",
-      "why_it_matters": "ホルムズ海峡は世界の原油供給の約20%を運ぶ重要な海路であり、その閉鎖は世界的なエネルギー供給の脆弱性を露呈。中東の特定種原油に特化したアジアの製油能力が高く、他国からの代替調達が困難なため、エネルギー安全保障や経済安定に大きなリスクをもたらしている。",
-      "market_impact": "原油価格は1バレル100ドル超と急上昇し、燃料価格高騰や供給不安がアジアを中心に消費者や企業に打撃。政府は燃料価格抑制策や省エネ策を講じているが、製造業や輸送コスト上昇による物価高騰や景気悪化への懸念が強まる。中国は石油備蓄とイラン産原油密輸により相対的に優位な立場を保持している。",
+      "title": "New US trade probe targets EU, Canada, UK over forced labour",
+      "summary_2lines": "米国はEU、カナダ、英国、中国など60か国を対象に、強制労働に関わる輸入品の調査を開始。違反が認められれば関税強化が検討される見込みだ。",
+      "why_it_matters": "この調査は、トランプ前政権が設定した関税措置が最高裁で違憲とされたことを受け、新たな根拠法（セクション301）を活用して米国企業の競争環境を保護し、強制労働問題にも対応するための重要な動き。強制労働が背景にある商品輸入の規制強化は、国際貿易ルールやサプライチェーンの透明性向上を促す可能性がある。",
+      "market_impact": "対象となる主要経済圏や多国籍企業のサプライチェーンに混乱が生じる恐れがある。関税の引き上げは輸入コスト増加や価格転嫁を招き、消費者や関連産業に負担が波及。特に中国の新疆地域産品の輸入規制強化は、関連産業や原材料調達に影響を及ぼす。また、不透明な規制運用はグローバル投資や企業戦略の見直しを促す可能性が高い。",
       "category": "Geopolitics",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c15x1y8d37vo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/cgrzvdqze5xo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "What on earth is going on with the oil price?",
-      "summary_2lines": "最近の中東情勢悪化に伴い原油価格は大きく変動し、30％以上上昇した。重要な海峡の封鎖や緊急備蓄放出の影響で価格は乱高下している。",
-      "why_it_matters": "原油は世界経済の根幹を成す資源であり、その価格変動はエネルギーコストやインフレに直結するため世界中の経済活動に影響を及ぼす。特に中東の地政学リスクが高まることで供給不安が強まり、市場の不確実性が増大している。",
-      "market_impact": "急激な原油価格の上昇は企業のコスト圧迫や消費者物価の上昇を招き、世界経済の回復にブレーキをかける可能性がある。緊急備蓄の放出は一時的な価格安定に寄与するが、根本的な供給問題解決には至っていないため、価格の乱高下が続く懸念がある。",
-      "category": "Markets",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/ce3g49w5zxwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "There's another energy market that may get hit harder than oil by Strait of Hormuz closure",
-      "summary_2lines": "ホルムズ海峡の閉鎖で石油価格が急騰する一方、液化天然ガス（LNG）市場に与える長期的な影響はさらに大きい可能性がある。特にカタールのLNG生産が停止し、再稼働に時間を要するため世界のガス供給に深刻な不足が懸念されている。",
-      "why_it_matters": "ホルムズ海峡は世界のエネルギー供給の重要な物流ルートであり、その閉鎖は石油だけでなくLNGの輸送にも大きな支障をきたす。LNGは輸送インフラが限られており、カタールの一大生産拠点が攻撃により機能停止したことで、世界のガス市場に供給ひっ迫と価格高騰をもたらしているため、エネルギー安全保障と市場安定に重大なリスクが生じている。",
-      "market_impact": "世界のLNG供給の約20％がホルムズ海峡を通過しており、カタールの生産停止により欧州・アジアのガス価格が急騰。石油はパイプラインで代替ルートがあるがLNGは船舶輸送が必須で再開に時間を要するため、短期的な供給混乱が継続する見込み。需給バランスを取るためには需給破壊や燃料の代替利用が必要になり、地政学リスクの高まりは世界のエネルギー市場の不安を増大させる可能性がある。",
-      "category": "Markets",
+      "title": "Lobster buffet: China’s tech firms feast on OpenClaw as companies race to deploy AI agents",
+      "summary_2lines": "中国の主要テック企業や地方政府がオープンソースAIエージェントOpenClawの導入を急速に進めており、中国国内での利用が米国を上回る勢いとなっている。使いやすさ向上のためインストール支援やブラウザ対応版も提供され、普及が加速している。",
+      "why_it_matters": "OpenClawのような自律型AIエージェントは従来のチャットボットを超え、幅広いタスクを自動実行できるため、業務効率化やサービス拡充に大きな可能性を秘める。特に中国企業が迅速に対応し、中国製大規模言語モデルの成長と低価格化も相まって、技術競争や市場シェア獲得の鍵を握る重要な動きとなっている。",
+      "market_impact": "中国の主要テック企業はOpenClawを基盤としたAI製品を投入し、消費者と企業ユーザーの取り込みを加速。低コストで性能向上した中国製AIモデルとの組み合わせで競争力を高め、国内外のAI市場における中国勢の存在感を強める可能性が高い。これにより関連ハードウェアやクラウドサービス、AI開発スタートアップへの需要増大も期待される。",
+      "category": "Tech",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/09/theres-another-energy-market-that-may-get-hit-harder-than-oil-by-strait-of-hormuz-closure.html"
+      "url": "https://www.cnbc.com/2026/03/12/china-openclaw-ai-agent-adoption-tech-companies-government-support-lobster-shrimp.html"
+    },
+    {
+      "title": "Inside JPMorgan Chase's push to become the startup world’s new Silicon Valley Bank",
+      "summary_2lines": "JPMorgan Chaseはシリコンバレー銀行（SVB）の崩壊を受けてスタートアップ向け銀行業務を強化し、同業界の新たなリーダーを目指している。2023年にはSVB人材の採用やFirst Republic銀行の買収でスタートアップ銀行業務の収益を倍増させた。",
+      "why_it_matters": "SVBの倒産はスタートアップ界隈に大きな不安をもたらし、主要取引銀行の再編を促した。JPMorganの動きは、テクノロジー企業やベンチャーキャピタルに対する金融サービスの中核を担う可能性が高く、金融業界における新たな成長分野として注目される。",
+      "market_impact": "JPMorganのスタートアップ向け銀行業務拡大は、競合他社との顧客獲得競争を激化させ、企業間の資金調達条件や金融サービスの進化を加速させる。また、銀行の技術投資や革新促進に伴う新興技術の実用化を通じて、広範なイノベーションが期待される。",
+      "category": "Corporate",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/13/jpmorgan-silicon-valley-bank-startup-bank.html"
     },
     {
       "title": "Markets' hopes for Fed interest rate cuts are rapidly fading away",
-      "summary_2lines": "エネルギー価格の上昇と中東情勢の緊迫化で、米連邦準備制度理事会（FRB）の利下げ期待が急速に後退している。市場は早期の利下げを織り込まず、2026年末以降まで低金利政策の変更を織り込みにくい状況だ。",
-      "why_it_matters": "FRBの利下げ期待が後退する背景には、イラン関連の地政学リスクによる原油価格の高騰とそれに伴うインフレ懸念の強まりがある。これにより、FRBはインフレ抑制を優先し、景気刺激を控える可能性が高く、金融政策の展望が大きく変化している。",
-      "market_impact": "利下げ期待の後退は、株式市場のボラティリティ増大や金利関連商品の価格変動を引き起こし、設備投資や消費にも抑制的に作用する可能性がある。また、原油高は企業のコスト増加とインフレ持続を促し、企業収益や経済成長にとってマイナス要因となる。",
+      "summary_2lines": "市場は米連邦準備制度理事会（FRB）の利下げ期待を急速に後退させている。イラン情勢の緊迫化と原油価格の上昇がインフレ懸念を強め、早期の金融緩和観測を覆した。",
+      "why_it_matters": "FRBの利下げは経済成長の刺激策として市場で注目される中、地政学的リスクと原油高によりインフレ圧力が持続すると見られ、金融政策の方向性に不透明感が増している。今後の金融政策が企業の投資・消費動向や消費者物価に大きく影響するため、市場参加者や政策決定者にとって重要な影響を持つ。",
+      "market_impact": "期待されていた早期利下げの後退により株式市場の上昇期待が抑制される可能性がある。長引く高インフレは消費コストの増加につながり、企業利益圧迫や景気減速リスクを高める。また、原油価格の高止まりは物流コストの上昇を通じて物価を押し上げ、金融市場では金利見通しの引き締まりにつながるため、債券市場や為替市場にも影響が及ぶ見込みである。",
       "category": "Markets",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/03/12/markets-hopes-for-fed-interest-rate-cuts-are-rapidly-fading-away.html"
     },
     {
-      "title": "Lobster buffet: China’s tech firms feast on OpenClaw as companies race to deploy AI agents",
-      "summary_2lines": "中国の主要テック企業や地方政府がオープンソースのAIエージェント「OpenClaw」を積極的に導入し、利用が米国を上回る勢いで拡大している。TencentやZhipu AIなどがユーザーフレンドリーな製品や簡単なインストール環境を提供し、AI活用の普及を後押ししている。",
-      "why_it_matters": "OpenClawの普及は、中国のAI技術開発競争とデジタル経済成長の象徴であり、国内企業が安価かつ高性能なAIモデルで米国製品と競合する環境の形成を示す。これにより中国のAIエコシステム強化や政府と産業界の連携深化が期待され、技術覇権争いの中で中国の存在感が増している。",
-      "market_impact": "中国のテック企業はOpenClawを駆使し、独自AIサービスの開発や利用者拡大を進めることで市場競争力を強化。AI関連のコスト削減やユーザー体験向上が進み、消費者や企業のAI導入が促進される。結果として、中国製大規模言語モデルのシェア拡大や関連ハード・ソフト市場の活性化が見込まれ、国内外の競合構造に大きな影響を与える。",
-      "category": "Tech",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/12/china-openclaw-ai-agent-adoption-tech-companies-government-support-lobster-shrimp.html"
+      "title": "Why has Trump eased sanctions on Russian oil - and will it help Putin?",
+      "summary_2lines": "トランプ政権はロシア産石油の購入国に対する制裁を一時的に緩和し、ロシアの経済支援につながるとの懸念が広がっている。イラン・イスラエル戦争による市場の供給不安を緩和する狙いがあるが、ウクライナ支援派からは強い批判が出ている。",
+      "why_it_matters": "米国がロシア産石油の制裁を緩和したことは、ウクライナ紛争中のロシア経済にとって追い風となる可能性がある。一方でイラン・イスラエル間の地政学的リスクに対処するための政策転換であり、国際的なエネルギー市場の安定化と、制裁政策の効果維持の両立という困難な課題に直面している。",
+      "market_impact": "ロシアの石油輸出が月間最大約100億ドル増加する可能性があり、ロシア政府の財政収入増加に寄与する。これはウクライナ戦争の長期化を助長する懸念がある一方、世界の石油供給不足を一部緩和し、原油価格の急騰抑制に寄与すると想定される。だが、供給不足の根本問題であるホルムズ海峡の封鎖が解消されない限り、市場の不安定化は続く見込みである。",
+      "category": "Geopolitics",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cm2871wyz9ko?at_medium=RSS&at_campaign=rss"
     }
   ],
   "categories": {
     "Tech": [
       {
         "title": "Lobster buffet: China’s tech firms feast on OpenClaw as companies race to deploy AI agents",
-        "summary_2lines": "中国の主要テック企業や地方政府がオープンソースのAIエージェント「OpenClaw」を積極的に導入し、利用が米国を上回る勢いで拡大している。TencentやZhipu AIなどがユーザーフレンドリーな製品や簡単なインストール環境を提供し、AI活用の普及を後押ししている。",
-        "why_it_matters": "OpenClawの普及は、中国のAI技術開発競争とデジタル経済成長の象徴であり、国内企業が安価かつ高性能なAIモデルで米国製品と競合する環境の形成を示す。これにより中国のAIエコシステム強化や政府と産業界の連携深化が期待され、技術覇権争いの中で中国の存在感が増している。",
-        "market_impact": "中国のテック企業はOpenClawを駆使し、独自AIサービスの開発や利用者拡大を進めることで市場競争力を強化。AI関連のコスト削減やユーザー体験向上が進み、消費者や企業のAI導入が促進される。結果として、中国製大規模言語モデルのシェア拡大や関連ハード・ソフト市場の活性化が見込まれ、国内外の競合構造に大きな影響を与える。",
+        "summary_2lines": "中国の主要テック企業や地方政府がオープンソースAIエージェントOpenClawの導入を急速に進めており、中国国内での利用が米国を上回る勢いとなっている。使いやすさ向上のためインストール支援やブラウザ対応版も提供され、普及が加速している。",
+        "why_it_matters": "OpenClawのような自律型AIエージェントは従来のチャットボットを超え、幅広いタスクを自動実行できるため、業務効率化やサービス拡充に大きな可能性を秘める。特に中国企業が迅速に対応し、中国製大規模言語モデルの成長と低価格化も相まって、技術競争や市場シェア獲得の鍵を握る重要な動きとなっている。",
+        "market_impact": "中国の主要テック企業はOpenClawを基盤としたAI製品を投入し、消費者と企業ユーザーの取り込みを加速。低コストで性能向上した中国製AIモデルとの組み合わせで競争力を高め、国内外のAI市場における中国勢の存在感を強める可能性が高い。これにより関連ハードウェアやクラウドサービス、AI開発スタートアップへの需要増大も期待される。",
         "category": "Tech",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/12/china-openclaw-ai-agent-adoption-tech-companies-government-support-lobster-shrimp.html"
@@ -61,91 +61,91 @@
     ],
     "Markets": [
       {
-        "title": "What on earth is going on with the oil price?",
-        "summary_2lines": "最近の中東情勢悪化に伴い原油価格は大きく変動し、30％以上上昇した。重要な海峡の封鎖や緊急備蓄放出の影響で価格は乱高下している。",
-        "why_it_matters": "原油は世界経済の根幹を成す資源であり、その価格変動はエネルギーコストやインフレに直結するため世界中の経済活動に影響を及ぼす。特に中東の地政学リスクが高まることで供給不安が強まり、市場の不確実性が増大している。",
-        "market_impact": "急激な原油価格の上昇は企業のコスト圧迫や消費者物価の上昇を招き、世界経済の回復にブレーキをかける可能性がある。緊急備蓄の放出は一時的な価格安定に寄与するが、根本的な供給問題解決には至っていないため、価格の乱高下が続く懸念がある。",
-        "category": "Markets",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/ce3g49w5zxwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Markets' hopes for Fed interest rate cuts are rapidly fading away",
-        "summary_2lines": "エネルギー価格の上昇と中東情勢の緊迫化で、米連邦準備制度理事会（FRB）の利下げ期待が急速に後退している。市場は早期の利下げを織り込まず、2026年末以降まで低金利政策の変更を織り込みにくい状況だ。",
-        "why_it_matters": "FRBの利下げ期待が後退する背景には、イラン関連の地政学リスクによる原油価格の高騰とそれに伴うインフレ懸念の強まりがある。これにより、FRBはインフレ抑制を優先し、景気刺激を控える可能性が高く、金融政策の展望が大きく変化している。",
-        "market_impact": "利下げ期待の後退は、株式市場のボラティリティ増大や金利関連商品の価格変動を引き起こし、設備投資や消費にも抑制的に作用する可能性がある。また、原油高は企業のコスト増加とインフレ持続を促し、企業収益や経済成長にとってマイナス要因となる。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/12/markets-hopes-for-fed-interest-rate-cuts-are-rapidly-fading-away.html"
-      },
-      {
         "title": "JPMorgan Chase reins in lending to private credit firms after marking down software loans",
-        "summary_2lines": "JPMorgan Chaseはソフトウェア企業向けのローンの価値を引き下げ、プライベートクレジット企業への貸出を抑制している。これは市場の潜在的なリスクに先手を打つ財務管理措置だ。",
-        "why_it_matters": "AI関連の技術進化がソフトウェア企業に不確実性をもたらし、プライベートクレジット市場に動揺が広がっている。JPMorganの動きは、金融機関が早期にリスク管理を強化し、システミックリスクの拡大を防ごうとする兆候であるため重要だ。",
-        "market_impact": "プライベートクレジット市場のレバレッジが縮小し、資金調達環境が引き締まる可能性がある。投資家の資金流出が加速し、関連ファンドや取引先企業の業績や信用力に圧力がかかることが予想される。銀行や金融機関のリスク管理手法の変化が業界全体に波及するおそれもある。",
+        "summary_2lines": "JPMorgan Chaseはソフトウェア関連の私的信用ローン担保価値を引き下げ、私的信用業界への融資を抑制している。これは潜在的な貸倒リスクに備えた財務上の先行的な対応だ。",
+        "why_it_matters": "近年、AI技術の進展によるソフトウェア市場の構造変化で一部企業の収益見通しが不透明になり、関連する私的信用ローンの価値が下落しつつある。JPMorganの対応は大手銀行として市場の信用リスク増大に先手を打ち、金融システムの安定維持を図る意図があるため重要だ。",
+        "market_impact": "JPMorganが私的信用業界向けのレバレッジ調整を進めたことで、同業他行も追随する可能性が高い。私的信用ファンドの資金調達環境が厳しくなり、ファンド運用の資金効率低下や投資家の資金流出加速を招くことが予想され、市場全体のリスク許容度が抑制される可能性がある。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/11/jpmorgan-reins-lending-private-credit-marks-down-software-loans.html"
       },
       {
-        "title": "There's another energy market that may get hit harder than oil by Strait of Hormuz closure",
-        "summary_2lines": "ホルムズ海峡の閉鎖で石油価格が急騰する一方、液化天然ガス（LNG）市場に与える長期的な影響はさらに大きい可能性がある。特にカタールのLNG生産が停止し、再稼働に時間を要するため世界のガス供給に深刻な不足が懸念されている。",
-        "why_it_matters": "ホルムズ海峡は世界のエネルギー供給の重要な物流ルートであり、その閉鎖は石油だけでなくLNGの輸送にも大きな支障をきたす。LNGは輸送インフラが限られており、カタールの一大生産拠点が攻撃により機能停止したことで、世界のガス市場に供給ひっ迫と価格高騰をもたらしているため、エネルギー安全保障と市場安定に重大なリスクが生じている。",
-        "market_impact": "世界のLNG供給の約20％がホルムズ海峡を通過しており、カタールの生産停止により欧州・アジアのガス価格が急騰。石油はパイプラインで代替ルートがあるがLNGは船舶輸送が必須で再開に時間を要するため、短期的な供給混乱が継続する見込み。需給バランスを取るためには需給破壊や燃料の代替利用が必要になり、地政学リスクの高まりは世界のエネルギー市場の不安を増大させる可能性がある。",
+        "title": "Dividend stocks are catching up to tech stocks on a key earnings metric at a critical time for the market",
+        "summary_2lines": "配当株の収益成長率がテクノロジー株に迫り、S&P500の収益モメンタムに貢献している。市場の不確実性が高まる中、安定性と成長性を兼ね備えた配当株への注目が高まっている。",
+        "why_it_matters": "米中東情勢や原油価格の急騰といった地政学リスクが市場の変動性を強めるなか、伝統的に安定した配当株がテック株の成長鈍化に伴い相対的な魅力を増している。投資家がリスク回避を意識する現状では、長期的に配当を増やし続ける質の高い企業への資金シフトが重要な市場トレンドとなる。",
+        "market_impact": "配当株の収益回復および成長が進むことで、テクノロジー株中心の市場構造が変化し、多様なセクターに分散投資が促進される。これにより、ボラティリティが高い時期でも安定したキャッシュフローが期待できる銘柄の需要が増加し、関連ETFのパフォーマンスや投資資金の流れにプラスの影響を与える可能性がある。一方で、中東情勢の悪化や高油価継続は経済全体の不透明感を増大させ、リセッションリスクも併存するため投資判断には慎重さが求められる。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/09/theres-another-energy-market-that-may-get-hit-harder-than-oil-by-strait-of-hormuz-closure.html"
+        "url": "https://www.cnbc.com/2026/03/13/dividend-stocks-tech-earnings-growth-market.html"
+      },
+      {
+        "title": "Markets' hopes for Fed interest rate cuts are rapidly fading away",
+        "summary_2lines": "市場は米連邦準備制度理事会（FRB）の利下げ期待を急速に後退させている。イラン情勢の緊迫化と原油価格の上昇がインフレ懸念を強め、早期の金融緩和観測を覆した。",
+        "why_it_matters": "FRBの利下げは経済成長の刺激策として市場で注目される中、地政学的リスクと原油高によりインフレ圧力が持続すると見られ、金融政策の方向性に不透明感が増している。今後の金融政策が企業の投資・消費動向や消費者物価に大きく影響するため、市場参加者や政策決定者にとって重要な影響を持つ。",
+        "market_impact": "期待されていた早期利下げの後退により株式市場の上昇期待が抑制される可能性がある。長引く高インフレは消費コストの増加につながり、企業利益圧迫や景気減速リスクを高める。また、原油価格の高止まりは物流コストの上昇を通じて物価を押し上げ、金融市場では金利見通しの引き締まりにつながるため、債券市場や為替市場にも影響が及ぶ見込みである。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/12/markets-hopes-for-fed-interest-rate-cuts-are-rapidly-fading-away.html"
       }
     ],
     "Geopolitics": [
       {
-        "title": "How Iran war laid bare the world's reliance on Gulf oil and gas",
-        "summary_2lines": "イランを巡る戦争によりホルムズ海峡が事実上封鎖され、世界の石油価格が急騰。特に中東産の重質硫黄分を含む原油に依存するアジア諸国が大きな影響を受けている。",
-        "why_it_matters": "ホルムズ海峡は世界の原油供給の約20%を運ぶ重要な海路であり、その閉鎖は世界的なエネルギー供給の脆弱性を露呈。中東の特定種原油に特化したアジアの製油能力が高く、他国からの代替調達が困難なため、エネルギー安全保障や経済安定に大きなリスクをもたらしている。",
-        "market_impact": "原油価格は1バレル100ドル超と急上昇し、燃料価格高騰や供給不安がアジアを中心に消費者や企業に打撃。政府は燃料価格抑制策や省エネ策を講じているが、製造業や輸送コスト上昇による物価高騰や景気悪化への懸念が強まる。中国は石油備蓄とイラン産原油密輸により相対的に優位な立場を保持している。",
+        "title": "New US trade probe targets EU, Canada, UK over forced labour",
+        "summary_2lines": "米国はEU、カナダ、英国、中国など60か国を対象に、強制労働に関わる輸入品の調査を開始。違反が認められれば関税強化が検討される見込みだ。",
+        "why_it_matters": "この調査は、トランプ前政権が設定した関税措置が最高裁で違憲とされたことを受け、新たな根拠法（セクション301）を活用して米国企業の競争環境を保護し、強制労働問題にも対応するための重要な動き。強制労働が背景にある商品輸入の規制強化は、国際貿易ルールやサプライチェーンの透明性向上を促す可能性がある。",
+        "market_impact": "対象となる主要経済圏や多国籍企業のサプライチェーンに混乱が生じる恐れがある。関税の引き上げは輸入コスト増加や価格転嫁を招き、消費者や関連産業に負担が波及。特に中国の新疆地域産品の輸入規制強化は、関連産業や原材料調達に影響を及ぼす。また、不透明な規制運用はグローバル投資や企業戦略の見直しを促す可能性が高い。",
         "category": "Geopolitics",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c15x1y8d37vo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cgrzvdqze5xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why has Trump eased sanctions on Russian oil - and will it help Putin?",
+        "summary_2lines": "トランプ政権はロシア産石油の購入国に対する制裁を一時的に緩和し、ロシアの経済支援につながるとの懸念が広がっている。イラン・イスラエル戦争による市場の供給不安を緩和する狙いがあるが、ウクライナ支援派からは強い批判が出ている。",
+        "why_it_matters": "米国がロシア産石油の制裁を緩和したことは、ウクライナ紛争中のロシア経済にとって追い風となる可能性がある。一方でイラン・イスラエル間の地政学的リスクに対処するための政策転換であり、国際的なエネルギー市場の安定化と、制裁政策の効果維持の両立という困難な課題に直面している。",
+        "market_impact": "ロシアの石油輸出が月間最大約100億ドル増加する可能性があり、ロシア政府の財政収入増加に寄与する。これはウクライナ戦争の長期化を助長する懸念がある一方、世界の石油供給不足を一部緩和し、原油価格の急騰抑制に寄与すると想定される。だが、供給不足の根本問題であるホルムズ海峡の封鎖が解消されない限り、市場の不安定化は続く見込みである。",
+        "category": "Geopolitics",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cm2871wyz9ko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Economy": [
       {
-        "title": "Surging oil prices could wipe out benefits from Trump's 'big beautiful bill'",
-        "summary_2lines": "原油価格の高騰がトランプ大統領の個人減税策『ビッグ・ビューティフル・ビル』による経済効果を相殺する可能性が高まっている。油価上昇により消費者のガソリン支出が増加し、税還付による消費支出増加が打ち消される見込みだ。",
-        "why_it_matters": "このニュースは、インフレ抑制と経済成長促進を目指す米国の税制改革が外的要因で効果を失うリスクを示している。高止まりする油価は消費者負担を増大させ、政府の財政刺激策の意図した景気刺激効果が薄れるため、政策運営上の課題を浮き彫りにする。",
-        "market_impact": "高油価の継続により、消費者の可処分所得が減少し、消費活動が抑制される可能性がある。これにより、個人消費依存度の高い企業の売上に悪影響が及び、経済成長鈍化や物価上昇圧力が強まる恐れがある。一方で、税還付の恩恵が減少するため、金融市場の期待感も冷え込む可能性がある。",
+        "title": "Judge says 'no evidence' to justify Federal Reserve probe",
+        "summary_2lines": "米連邦裁判官が司法省による連邦準備制度理事会（FRB）への調査を却下し、調査に正当な証拠がないと判断した。FRB議長パウエルの独立性維持をめぐる政治的対立が背景となっている。",
+        "why_it_matters": "この判決はFRBの独立性を支持するものであり、政権からの不当な政治圧力による政策介入を防ぐ意味がある。中央銀行の金融政策の透明性と信頼性に対する市場の懸念が強まる中、司法の判断が金融政策への政治介入の抑止力となる重要なケースといえる。",
+        "market_impact": "FRBの独立性維持が確認されたことで、市場の不確実性が一部緩和される可能性が高い。しかし政治的対立や調査継続の可能性は、利下げ期待や金融政策の予見可能性に影響を与え、短期的には金融市場のボラティリティ増加要因となりうる。長期的には中央銀行の政策運営への信頼回復に寄与する。",
         "category": "Economy",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/10/rising-oil-prices-may-wipe-out-effects-of-trumps-big-beautiful-bill.html"
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cwy6z25y7z0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Petrol retailers in row with government over 'rip off' accusations",
+        "summary_2lines": "石油価格の急騰を背景に、政府が石油小売業者に価格吊り上げ（rip off）を非難する一方、業者側は誤解を招く表現でスタッフへの嫌がらせを招いていると反発。政府と業界は話し合いを重ね、公正な価格設定を目指している。",
+        "why_it_matters": "米・イスラエル戦争とイラン情勢による原油価格の高騰が、英国国内の燃料価格を18ヶ月ぶりの高水準に押し上げている。消費者の生活コストに直結する石油価格の高騰は、政府の信頼や市場の公正性をめぐる議論を呼んでおり、適正な価格管理とエネルギー政策の方向性が問われているため重要。",
+        "market_impact": "価格急騰により消費者の燃料需要に影響が出る可能性がある一方、公正取引委員会（CMA）の調査が進行中で、競争環境の改善や価格設定の透明性が求められている。燃料小売業者は価格変動リスクに直面し、政府の介入リスクも増大。エネルギーセクター全体では、短期的な価格不安定や政治的圧力が投資や生産方針に影響を与える可能性がある。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/crk83e2g65no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Dharshini David: Economy on shaky ground even before Iran war",
+        "summary_2lines": "2026年の経済成長は消費者心理の冷え込みや失業率上昇の懸念で停滞し、イラン戦争によるエネルギー価格の影響でさらに悪化の可能性がある。長期化すれば成長率が大幅に下振れし、場合によっては経済縮小のリスクもある。",
+        "why_it_matters": "イラン戦争によるエネルギー価格の急騰は、英国をはじめとした世界経済の回復基調に大きな打撃を与える恐れがある。特にコロナやエネルギー危機で増加した公的債務の返済負担を抱える中、政府の財政支援余力も限られており、景気後退リスクとインフレ圧力の同時進行が市場不安を拡大させている。",
+        "market_impact": "ガソリン価格上昇に伴う消費減退が飲食・宿泊・人材派遣業界に打撃を与え、エネルギーコスト増加は家計負担を押し上げる。インフレ再燃と金利引き下げの難航が企業投資や消費を抑制し、経済成長鈍化や失業率上昇を招く懸念が強い。場合によっては成長率が予測の半分程度に落ち込むことで市場全体のリスクが高まる可能性がある。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cn0z7971r4zo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Corporate": [
       {
-        "title": "Lloyds, Bank of Scotland and Halifax apps showed customers other users' transactions",
-        "summary_2lines": "ロイズ銀行グループが運営するLloyds、Bank of Scotland、Halifaxのアプリで、利用者が他の顧客の取引情報を閲覧できる不具合が発生。問題は既に解決され、調査中と発表された。",
-        "why_it_matters": "顧客の取引情報や個人情報が誤って他人に見られることは銀行の信頼性と安全性に重大な影響を及ぼす。特に金融機関は顧客データの保護が法的・社会的に厳しく求められており、情報漏洩リスクはブランドイメージと顧客離れにつながる。",
-        "market_impact": "今回の不具合はロイズ銀行グループの信用にダメージを与え、一部顧客の離反や法的リスクが懸念される。加えて、セキュリティ対策強化のためのコスト増加や規制当局からの監視強化が予想される。競合他社にも警戒心を呼び起こし、金融アプリのセキュリティが市場全体での重要課題となる可能性がある。",
+        "title": "Inside JPMorgan Chase's push to become the startup world’s new Silicon Valley Bank",
+        "summary_2lines": "JPMorgan Chaseはシリコンバレー銀行（SVB）の崩壊を受けてスタートアップ向け銀行業務を強化し、同業界の新たなリーダーを目指している。2023年にはSVB人材の採用やFirst Republic銀行の買収でスタートアップ銀行業務の収益を倍増させた。",
+        "why_it_matters": "SVBの倒産はスタートアップ界隈に大きな不安をもたらし、主要取引銀行の再編を促した。JPMorganの動きは、テクノロジー企業やベンチャーキャピタルに対する金融サービスの中核を担う可能性が高く、金融業界における新たな成長分野として注目される。",
+        "market_impact": "JPMorganのスタートアップ向け銀行業務拡大は、競合他社との顧客獲得競争を激化させ、企業間の資金調達条件や金融サービスの進化を加速させる。また、銀行の技術投資や革新促進に伴う新興技術の実用化を通じて、広範なイノベーションが期待される。",
         "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c4g23npxpwgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Jo Malone sued for using her own name in collaboration with Zara",
-        "summary_2lines": "エスティローダーが、ジョー・マローンが自らの名前を使ってザラとコラボしたことに対して商標権侵害で訴訟を起こした。ジョー・マローンは1999年に自身のブランドを売却しており、その契約で名前の商業利用が制限されていた。",
-        "why_it_matters": "有名デザイナーや創業者が自身の名前の商業的使用権を売却後も主張する事例は増えており、これがブランド価値の保護や著名人の権利の境界を巡る法的判断に影響を与える。本件はブランド名の知的財産権の取り扱いに関する先例となる可能性がある。",
-        "market_impact": "エスティローダーは自社ブランドの価値と知的財産権を守る姿勢を示すことで、同様の事案での権利保護を強化できる。一方、ザラのファッションと香水市場でのイメージや顧客信頼が揺らぐリスクもある。香水業界全体でもブランド名の権利管理がより厳密に意識されることが予想される。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cly09j2542no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Pottery firm Denby to appoint administrators",
-        "summary_2lines": "英国の老舗陶器メーカーDenbyが資金調達に苦戦し、管理者の任命を検討中。コスト高騰と需要低迷が経営を圧迫している。",
-        "why_it_matters": "217年の歴史を持つDenbyは英国陶器産業の象徴的存在であり、エネルギー価格の高騰や労働コスト増加が製造業に深刻な影響を与えている点が示された。産業支援の必要性や地域雇用への懸念も浮き彫りとなった。",
-        "market_impact": "Denbyの経営不安は英国陶器業界の構造的課題を象徴しており、投資家や関連メーカーの警戒感が高まる可能性がある。エネルギー価格の問題による製造コスト上昇や資金調達難は、同業他社にも波及し地域経済や雇用に悪影響を及ぼす恐れがある。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cm287ylyydjo?at_medium=RSS&at_campaign=rss"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/13/jpmorgan-silicon-valley-bank-startup-bank.html"
       }
     ]
   }
