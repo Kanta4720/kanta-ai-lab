@@ -1,151 +1,152 @@
 {
-  "generated_at_jst": "2026-03-16 07:16",
+  "generated_at_jst": "2026-03-17 07:21",
   "todays_brief": [
     {
-      "title": "Markets' hopes for Fed interest rate cuts are rapidly fading away",
-      "summary_2lines": "イラン情勢の緊迫化と原油価格高騰により、米連邦準備制度理事会（FRB）の利下げ期待が急速に後退している。市場は年内の利下げ実施をほぼ織り込んでおらず、インフレ抑制が最優先と見られている。",
-      "why_it_matters": "FRBの金融政策は世界の金利水準や資金調達コストに直結し、株式市場や為替、企業活動に大きな影響を与える。本ニュースは地政学リスクとインフレ動向が重なり、今後の利下げ時期が大幅に後ろ倒しになることを示唆。経済全体の景気回復期待や投資戦略に重要な示唆を与える。",
-      "market_impact": "原油高騰は企業のコスト増加と消費者物価上昇を促し、企業収益の圧迫や消費の鈍化につながる。利下げ期待の後退は金融セクターを中心に株式市場の調整圧力となり、長期金利の上昇圧力も高まる可能性がある。これにより景気拡大ペースが抑制され、市場の不透明感が強まることが予想される。",
+      "title": "Dividend stocks are catching up to tech stocks on a key earnings metric at a critical time for the market",
+      "summary_2lines": "配当株の利益成長率がテクノロジー株に迫り、S&P500における利益モメンタムが広がっている。市場の不確実性が高まる中、配当株は収益と安全性を求める投資家に注目されている。",
+      "why_it_matters": "中東での軍事紛争と異例の原油市場ショックにより市場のリスクが増大し、投資家は価格変動の少ない高品質な配当株に注目している。テック株の利益成長鈍化と、配当株の利益回復が投資戦略の転換を促しているタイミングだからこそ重要である。",
+      "market_impact": "配当株への資金流入が増加し、S&P500の利益成長構造がテクノロジー株依存から多様化へ移行する可能性が高い。ETF市場ではProSharesのNOBLなど配当株中心の商品が注目される。リスク回避志向の強まりで市場全体のバリュエーション調整とバランスシフトが進む見込みだ。",
       "category": "Markets",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/12/markets-hopes-for-fed-interest-rate-cuts-are-rapidly-fading-away.html"
+      "url": "https://www.cnbc.com/2026/03/13/dividend-stocks-tech-earnings-growth-market.html"
     },
     {
-      "title": "We will intervene on energy bills if necessary, says Miliband",
-      "summary_2lines": "エネルギー大臣ミリバンドは、米イスラエル・イラン紛争による燃料価格の高騰が続けば、エネルギー料金や燃料税の介入を検討すると表明した。政府は国民を支援するため、必要に応じて対策を講じる準備を進めている。",
-      "why_it_matters": "中東の地政学的紛争が世界的なエネルギー価格の不安定化を招いている中、英国政府がエネルギー料金の上昇に対し積極的に介入の姿勢を示した。生活費や経済の持続性に直結するため、国民の生活安定と経済への悪影響防止が急務となっている。",
-      "market_impact": "油価・ガス価格の高騰により家庭や企業のコスト増加が懸念され、燃料業界の利益率や競争環境にも注目が集まる。政府が燃料税凍結維持や支援策を実施すれば、自動車関連市場やエネルギー需要に短期的な影響を与える可能性がある。エネルギー政策の長期的な見直しも示唆され、再生可能エネルギー促進が加速する見込み。",
+      "title": "Holiday spending, export demand drive China’s economic momentum as Iran war headwinds loom",
+      "summary_2lines": "中国経済はホリデー消費と輸出需要により2026年初頭に予想を上回る成長を見せている。一方で、中東情勢の悪化による地政学的リスクが景気の逆風となる可能性が高まっている。",
+      "why_it_matters": "中国は世界第2位の経済大国としてグローバル経済に大きな影響力を持ち、特に輸出と消費が牽引役となっている。だが、中東での戦争など地政学的リスクがエネルギー価格や供給網に影響を与え、この成長を阻害する恐れがあるため、今後の世界経済にとって重要な指標となる。",
+      "market_impact": "短期的には堅調な小売・工業生産により企業収益や市場心理は改善する可能性があるが、原油価格の上昇や供給制約によるインフレ圧力が高まると、輸出依存の中国経済は減速リスクに直面する。特に不動産投資の低迷継続やインフラ投資の依存が高まる中、政策対応にも注目が集まる。",
+      "category": "Economy",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/16/china-data-today-retail-sales-property-industrial-production.html"
+    },
+    {
+      "title": "China talks up oil sufficiency as Trump seeks Beijing's help on securing Hormuz energy route",
+      "summary_2lines": "中国はホルムズ海峡を巡るイラン戦争下でもエネルギー資源は十分と強調。トランプ大統領は中国に同海峡の安全確保支援を要請している。",
+      "why_it_matters": "ホルムズ海峡は世界石油輸送の要所であり、紛争により供給が不安定になると世界の原油価格に大きな影響を与える。中国は大量の原油を同海峡経由で輸入しているため、エネルギー安全保障が国際政治と経済の焦点となっている。",
+      "market_impact": "原油価格が4年ぶりの高騰を見せており、石油関連企業の収益やエネルギーコストを押し上げる。中国の大量備蓄が短期的な供給不安を和らげるが、長期化すると市場にさらなる不安定要因となる可能性がある。",
       "category": "Geopolitics",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cj4z7zr4kd8o?at_medium=RSS&at_campaign=rss"
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/16/china-oil-reserves-trump-iran-war-hormuz.html"
     },
     {
-      "title": "Inside JPMorgan Chase's push to become the startup world’s new Silicon Valley Bank",
-      "summary_2lines": "JPMorgan Chaseはシリコンバレー銀行（SVB）の崩壊を受け、スタートアップ向け銀行サービスの拡充を加速し、新たな競合としての地位を確立しようとしている。2023年にはファーストリパブリック銀行を買収し、スタートアップ銀行業務の収益を倍増させた。",
-      "why_it_matters": "SVBの崩壊はスタートアップ界隈に大きな動揺をもたらし、多くの顧客が安全な銀行を求めて移動した。JPMorganはこの機会を逃さず、スタートアップとベンチャーキャピタルに特化したサービスを強化して市場の空白を埋めることで、テクノロジー分野における影響力と成長を図っている。これは金融業界における競争構造の変化を意味し、テクノロジーと金融の融合を加速させる動きとして重要である。",
-      "market_impact": "JPMorganの動きにより、西海岸のスタートアップ向け銀行市場では大手銀行がより積極的に参入し、従来のベンチャーキャピタル銀行やデジタルバンクと競合する環境が生まれている。スタートアップの資金調達環境が安定化し、銀行のデジタル化やイノベーション推進も加速。さらに、JPMorganが技術開発を内製しながら顧客の動向を学ぶことで、競争優位性が高まり、長期的な収益基盤強化につながる可能性が高い。",
+      "title": "Bitcoin beat the S&P 500, Nasdaq Composite and gold since the start of the Iran war",
+      "summary_2lines": "イラン戦争開始以降、ビットコインは約8%上昇し、S&P500やナスダック、金を上回るパフォーマンスを見せている。専門家は現状を「クリプト・ウィンターの底打ち段階」と評価し、多様化投資の観点から注目している。",
+      "why_it_matters": "地政学リスクの高まりにより伝統的資産が下落する中、ビットコインが安全資産としての役割を果たす可能性が浮上している。これは投資家が資産ポートフォリオの見直しやリスク分散を図るうえで重要な示唆となる。",
+      "market_impact": "イラン紛争を契機にビットコインの需要が増加し、暗号資産ETFの注目度も高まっている。これにより暗号資産市場の資金流入が促進される一方、依然として高ボラティリティでリスクも内包しているため、投資家の慎重な姿勢も求められる。",
       "category": "Markets",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/13/jpmorgan-silicon-valley-bank-startup-bank.html"
+      "url": "https://www.cnbc.com/2026/03/14/bitcoin-outperforms-sp-500-nasdaq-gold-since-the-start-of-iran-war.html"
     },
     {
-      "title": "Lobster buffet: China’s tech firms feast on OpenClaw as companies race to deploy AI agents",
-      "summary_2lines": "中国の主要テック企業や地方政府がオープンソースAIエージェント『OpenClaw』の導入を急速に進めている。これにより中国におけるAIエージェントの利用が米国を上回り、関連する中国製大規模言語モデルの人気も高まっている。",
-      "why_it_matters": "OpenClawは多機能な自律型AIエージェントであり、中国企業がこれを積極活用することで、AI競争において米国に匹敵する技術力と市場利用を確立しようとしている。中国経済の減速局面で新たな成長機会となるほか、AIの普及に伴うセキュリティやプライバシーリスクも注目される。",
-      "market_impact": "中国の大手企業（Tencent、ByteDance、京東など）がOpenClaw対応製品やサービスを次々と投入し、AIツールの普及を加速させる。これにより中国製AIモデルの競争力向上とコスト低減が進み、国内外でのシェア拡大が期待される。また、利用者の拡大は関連クラウドサービスや周辺エコシステムの活性化にも寄与する可能性が高い。",
-      "category": "Tech",
+      "title": "Apollo's John Zito questions private equity's software valuations: 'All the marks are wrong'",
+      "summary_2lines": "Apolloのジョン・ジトは、プライベートエクイティのソフトウェア企業評価は実態を反映しておらず過大評価と指摘。特に2018～22年の高評価期に買収された企業が軟調で、プライベートクレジットの貸付も危険に晒されていると警鐘を鳴らした。",
+      "why_it_matters": "ソフトウェア企業の評価割高問題は、投資家の信頼を低下させプライベートクレジット市場の流動性悪化を招く恐れがある。またAI技術の進展で市場変動が激しく、既存の評価方法や融資リスクの見直しが迫られているため金融機関の健全性にも影響が及ぶ可能性が高い。",
+      "market_impact": "プライベートエクイティやプライベートクレジット市場でソフトウェア関連資産の価値下落に伴う投資家離れや資金流出が加速。JPMorganなどが実際に評価減を行い、貸付抑制に動く動きが出ている。これにより関連企業の資金調達環境が厳しくなり、金融市場全体の信用リスクが高まる懸念がある。",
+      "category": "Markets",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/12/china-openclaw-ai-agent-adoption-tech-companies-government-support-lobster-shrimp.html"
-    },
-    {
-      "title": "Starmer speaks to Trump about importance of reopening Strait of Hormuz",
-      "summary_2lines": "英国のスター損首相がトランプ大統領とホルムズ海峡の再開の重要性について協議。イランの封鎖によりエネルギー供給と世界の海上物流が深刻な影響を受けている。",
-      "why_it_matters": "ホルムズ海峡は世界の石油輸送の約20%が通過する重要海路であり、イランの封鎖はエネルギー市場やサプライチェーンに甚大な混乱を引き起こしている。主要国が安全確保に向けた協調行動を模索していることは、中東情勢とグローバル経済安定の鍵を握っているため重要である。",
-      "market_impact": "海峡の封鎖により原油供給リスクが高まりエネルギー価格が急騰、市場の不確実性が増大。物流遅延が多方面の産業に影響し、エネルギー関連企業や関連輸送業界のコスト増加や収益悪化が懸念される。さらに、政治的緊張から軍事費用増加や投資意欲の低下も予想される。",
-      "category": "Geopolitics",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cj0dlvl086eo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.cnbc.com/2026/03/16/apollo-john-zito-private-equity-software-valuations.html"
     }
   ],
   "categories": {
     "Tech": [
       {
-        "title": "Lobster buffet: China’s tech firms feast on OpenClaw as companies race to deploy AI agents",
-        "summary_2lines": "中国の主要テック企業や地方政府がオープンソースAIエージェント『OpenClaw』の導入を急速に進めている。これにより中国におけるAIエージェントの利用が米国を上回り、関連する中国製大規模言語モデルの人気も高まっている。",
-        "why_it_matters": "OpenClawは多機能な自律型AIエージェントであり、中国企業がこれを積極活用することで、AI競争において米国に匹敵する技術力と市場利用を確立しようとしている。中国経済の減速局面で新たな成長機会となるほか、AIの普及に伴うセキュリティやプライバシーリスクも注目される。",
-        "market_impact": "中国の大手企業（Tencent、ByteDance、京東など）がOpenClaw対応製品やサービスを次々と投入し、AIツールの普及を加速させる。これにより中国製AIモデルの競争力向上とコスト低減が進み、国内外でのシェア拡大が期待される。また、利用者の拡大は関連クラウドサービスや周辺エコシステムの活性化にも寄与する可能性が高い。",
+        "title": "Teens sue Musk's xAI over Grok's pornographic images of them",
+        "summary_2lines": "Elon MuskのxAIが開発したチャットボットGrokが未成年者の画像を性的に改変し、被害を受けた10代女性らが訴訟を起こした。訴訟は子どもポルノの作成を助長したとして損害賠償と画像生成の禁止を求めている。",
+        "why_it_matters": "AI技術による画像生成が個人のプライバシー侵害や児童性的搾取につながる深刻な問題が浮き彫りになった。企業の倫理的責任や規制の必要性が問われている中、AIの悪用対策は社会的に重要な課題となっている。",
+        "market_impact": "訴訟によるxAIと親会社のイメージダウン、規制強化の可能性が企業価値にネガティブな影響を与える可能性がある。AI画像生成技術の規制・監督強化により関連企業の事業展開や収益モデルに調整が迫られるだろう。",
         "category": "Tech",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/12/china-openclaw-ai-agent-adoption-tech-companies-government-support-lobster-shrimp.html"
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cgk2lzmm22eo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Markets": [
       {
         "title": "Dividend stocks are catching up to tech stocks on a key earnings metric at a critical time for the market",
-        "summary_2lines": "配当株がテクノロジー株に対する利益成長率で急速に追いつきつつあり、市場の不安定な時期に投資家にとって魅力的な選択肢となっている。S&P500配当貴族指数の利益成長が回復し、テクノロジー株の利益成長率が鈍化している。",
-        "why_it_matters": "中東での軍事衝突や原油市場のショックがリスク回避志向を高める中で、安定したキャッシュフローと継続的な配当増加を示す配当株の価値が再評価されている。テクノロジー株の高バリュエーションやAI投資による財務負担と比較し、配当株は安全性と収益性のバランスが取れた投資先として注目されている。",
-        "market_impact": "投資家の資金がテクノロジー株から配当株へシフトする可能性が高まり、配当株のETF（例：ProShares NOBL）への買いが増加すると予想される。これにより、配当銘柄の株価や時価総額の上昇、及び中・大型株の収益構造が安定化することが見込まれる。一方、地政学リスク次第では市場全体の不安定さも続く可能性がある。",
+        "summary_2lines": "配当株の利益成長率がテクノロジー株に迫り、S&P500における利益モメンタムが広がっている。市場の不確実性が高まる中、配当株は収益と安全性を求める投資家に注目されている。",
+        "why_it_matters": "中東での軍事紛争と異例の原油市場ショックにより市場のリスクが増大し、投資家は価格変動の少ない高品質な配当株に注目している。テック株の利益成長鈍化と、配当株の利益回復が投資戦略の転換を促しているタイミングだからこそ重要である。",
+        "market_impact": "配当株への資金流入が増加し、S&P500の利益成長構造がテクノロジー株依存から多様化へ移行する可能性が高い。ETF市場ではProSharesのNOBLなど配当株中心の商品が注目される。リスク回避志向の強まりで市場全体のバリュエーション調整とバランスシフトが進む見込みだ。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/13/dividend-stocks-tech-earnings-growth-market.html"
       },
       {
         "title": "Bitcoin beat the S&P 500, Nasdaq Composite and gold since the start of the Iran war",
-        "summary_2lines": "イラン戦争開始以降、ビットコインがS&P 500、ナスダック、金を上回るパフォーマンスを示している。暗号資産ETFの運用会社もビットコインの強さを注目しつつ、依然として調整局面にあると指摘している。",
-        "why_it_matters": "地政学的リスクが高まる中でビットコインが伝統的な資産に対するヘッジや分散投資手段としての役割を強めている可能性が示された。特に米株式市場や貴金属との比較での優位性は、今後の資産運用戦略に影響を与えるため注目される。",
-        "market_impact": "ビットコインの相対的な強さは暗号資産市場への資金流入を促す一方で、伝統的な株式市場や金市場のリスク回避需要を奪う可能性がある。暗号資産ETFのパフォーマンス向上も金融商品の多様化を推進し、投資家の選択肢拡大を後押ししている。",
+        "summary_2lines": "イラン戦争開始以降、ビットコインは約8%上昇し、S&P500やナスダック、金を上回るパフォーマンスを見せている。専門家は現状を「クリプト・ウィンターの底打ち段階」と評価し、多様化投資の観点から注目している。",
+        "why_it_matters": "地政学リスクの高まりにより伝統的資産が下落する中、ビットコインが安全資産としての役割を果たす可能性が浮上している。これは投資家が資産ポートフォリオの見直しやリスク分散を図るうえで重要な示唆となる。",
+        "market_impact": "イラン紛争を契機にビットコインの需要が増加し、暗号資産ETFの注目度も高まっている。これにより暗号資産市場の資金流入が促進される一方、依然として高ボラティリティでリスクも内包しているため、投資家の慎重な姿勢も求められる。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/14/bitcoin-outperforms-sp-500-nasdaq-gold-since-the-start-of-iran-war.html"
       },
       {
-        "title": "Markets' hopes for Fed interest rate cuts are rapidly fading away",
-        "summary_2lines": "イラン情勢の緊迫化と原油価格高騰により、米連邦準備制度理事会（FRB）の利下げ期待が急速に後退している。市場は年内の利下げ実施をほぼ織り込んでおらず、インフレ抑制が最優先と見られている。",
-        "why_it_matters": "FRBの金融政策は世界の金利水準や資金調達コストに直結し、株式市場や為替、企業活動に大きな影響を与える。本ニュースは地政学リスクとインフレ動向が重なり、今後の利下げ時期が大幅に後ろ倒しになることを示唆。経済全体の景気回復期待や投資戦略に重要な示唆を与える。",
-        "market_impact": "原油高騰は企業のコスト増加と消費者物価上昇を促し、企業収益の圧迫や消費の鈍化につながる。利下げ期待の後退は金融セクターを中心に株式市場の調整圧力となり、長期金利の上昇圧力も高まる可能性がある。これにより景気拡大ペースが抑制され、市場の不透明感が強まることが予想される。",
+        "title": "Apollo's John Zito questions private equity's software valuations: 'All the marks are wrong'",
+        "summary_2lines": "Apolloのジョン・ジトは、プライベートエクイティのソフトウェア企業評価は実態を反映しておらず過大評価と指摘。特に2018～22年の高評価期に買収された企業が軟調で、プライベートクレジットの貸付も危険に晒されていると警鐘を鳴らした。",
+        "why_it_matters": "ソフトウェア企業の評価割高問題は、投資家の信頼を低下させプライベートクレジット市場の流動性悪化を招く恐れがある。またAI技術の進展で市場変動が激しく、既存の評価方法や融資リスクの見直しが迫られているため金融機関の健全性にも影響が及ぶ可能性が高い。",
+        "market_impact": "プライベートエクイティやプライベートクレジット市場でソフトウェア関連資産の価値下落に伴う投資家離れや資金流出が加速。JPMorganなどが実際に評価減を行い、貸付抑制に動く動きが出ている。これにより関連企業の資金調達環境が厳しくなり、金融市場全体の信用リスクが高まる懸念がある。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/12/markets-hopes-for-fed-interest-rate-cuts-are-rapidly-fading-away.html"
-      },
-      {
-        "title": "'Gruesome' war bets fuel calls for crackdown on prediction markets",
-        "summary_2lines": "予測市場でイラン最高指導者の退陣など戦争関連の賭けが急増し、規制強化の声が高まっている。これらの賭けは倫理的問題や国家安全保障リスクを孕み、法的な監督体制の議論を呼んでいる。",
-        "why_it_matters": "予測市場の急成長と新たな賭け対象の拡大は、従来のギャンブルや金融取引の枠組みを超えた複雑な問題を生み出している。特に戦争や政治の死生観に絡む賭けは、倫理・法的・安全保障上の懸念を誘発し、規制当局の監督強化や市場運営の透明性確保が喫緊の課題となっているため重要である。",
-        "market_impact": "予測市場企業は戦争関連の賭けで巨額の取引を集めているが、これに対する批判と規制圧力が強まり、サービスの提供制限や運営コストの増加が見込まれる。法的な監督の不透明さが続く中で、米国各州や連邦機関による規制の動向が業界の成長と投資環境に大きな影響を与える可能性がある。",
-        "category": "Markets",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Inside JPMorgan Chase's push to become the startup world’s new Silicon Valley Bank",
-        "summary_2lines": "JPMorgan Chaseはシリコンバレー銀行（SVB）の崩壊を受け、スタートアップ向け銀行サービスの拡充を加速し、新たな競合としての地位を確立しようとしている。2023年にはファーストリパブリック銀行を買収し、スタートアップ銀行業務の収益を倍増させた。",
-        "why_it_matters": "SVBの崩壊はスタートアップ界隈に大きな動揺をもたらし、多くの顧客が安全な銀行を求めて移動した。JPMorganはこの機会を逃さず、スタートアップとベンチャーキャピタルに特化したサービスを強化して市場の空白を埋めることで、テクノロジー分野における影響力と成長を図っている。これは金融業界における競争構造の変化を意味し、テクノロジーと金融の融合を加速させる動きとして重要である。",
-        "market_impact": "JPMorganの動きにより、西海岸のスタートアップ向け銀行市場では大手銀行がより積極的に参入し、従来のベンチャーキャピタル銀行やデジタルバンクと競合する環境が生まれている。スタートアップの資金調達環境が安定化し、銀行のデジタル化やイノベーション推進も加速。さらに、JPMorganが技術開発を内製しながら顧客の動向を学ぶことで、競争優位性が高まり、長期的な収益基盤強化につながる可能性が高い。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/13/jpmorgan-silicon-valley-bank-startup-bank.html"
+        "url": "https://www.cnbc.com/2026/03/16/apollo-john-zito-private-equity-software-valuations.html"
       }
     ],
     "Geopolitics": [
       {
-        "title": "We will intervene on energy bills if necessary, says Miliband",
-        "summary_2lines": "エネルギー大臣ミリバンドは、米イスラエル・イラン紛争による燃料価格の高騰が続けば、エネルギー料金や燃料税の介入を検討すると表明した。政府は国民を支援するため、必要に応じて対策を講じる準備を進めている。",
-        "why_it_matters": "中東の地政学的紛争が世界的なエネルギー価格の不安定化を招いている中、英国政府がエネルギー料金の上昇に対し積極的に介入の姿勢を示した。生活費や経済の持続性に直結するため、国民の生活安定と経済への悪影響防止が急務となっている。",
-        "market_impact": "油価・ガス価格の高騰により家庭や企業のコスト増加が懸念され、燃料業界の利益率や競争環境にも注目が集まる。政府が燃料税凍結維持や支援策を実施すれば、自動車関連市場やエネルギー需要に短期的な影響を与える可能性がある。エネルギー政策の長期的な見直しも示唆され、再生可能エネルギー促進が加速する見込み。",
+        "title": "China talks up oil sufficiency as Trump seeks Beijing's help on securing Hormuz energy route",
+        "summary_2lines": "中国はホルムズ海峡を巡るイラン戦争下でもエネルギー資源は十分と強調。トランプ大統領は中国に同海峡の安全確保支援を要請している。",
+        "why_it_matters": "ホルムズ海峡は世界石油輸送の要所であり、紛争により供給が不安定になると世界の原油価格に大きな影響を与える。中国は大量の原油を同海峡経由で輸入しているため、エネルギー安全保障が国際政治と経済の焦点となっている。",
+        "market_impact": "原油価格が4年ぶりの高騰を見せており、石油関連企業の収益やエネルギーコストを押し上げる。中国の大量備蓄が短期的な供給不安を和らげるが、長期化すると市場にさらなる不安定要因となる可能性がある。",
         "category": "Geopolitics",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cj4z7zr4kd8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Starmer speaks to Trump about importance of reopening Strait of Hormuz",
-        "summary_2lines": "英国のスター損首相がトランプ大統領とホルムズ海峡の再開の重要性について協議。イランの封鎖によりエネルギー供給と世界の海上物流が深刻な影響を受けている。",
-        "why_it_matters": "ホルムズ海峡は世界の石油輸送の約20%が通過する重要海路であり、イランの封鎖はエネルギー市場やサプライチェーンに甚大な混乱を引き起こしている。主要国が安全確保に向けた協調行動を模索していることは、中東情勢とグローバル経済安定の鍵を握っているため重要である。",
-        "market_impact": "海峡の封鎖により原油供給リスクが高まりエネルギー価格が急騰、市場の不確実性が増大。物流遅延が多方面の産業に影響し、エネルギー関連企業や関連輸送業界のコスト増加や収益悪化が懸念される。さらに、政治的緊張から軍事費用増加や投資意欲の低下も予想される。",
-        "category": "Geopolitics",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cj0dlvl086eo?at_medium=RSS&at_campaign=rss"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/16/china-oil-reserves-trump-iran-war-hormuz.html"
       }
     ],
     "Economy": [
       {
-        "title": "Banknotes, beavers and a very British backlash",
-        "summary_2lines": "イングランド銀行は偽造防止の一環で、次期紙幣の肖像を歴史的人物から英国の野生動物に変更する方針を示した。これに対し、政治家らが強く反発し議論が起きている。",
-        "why_it_matters": "紙幣のデザイン変更は国の歴史的象徴や文化的アイデンティティに関わる重大な決定であり、特に英国では歴史的人物への敬意が高い。加えて、今回の変更は偽造防止技術導入が目的であり、通貨の安全性強化と国民感情の調和のバランスを問う社会的議論を生んでいる。",
-        "market_impact": "直接的な金融市場への影響は限定的だが、イングランド銀行の紙幣偽造対策強化はキャッシュ流通の信頼性向上に寄与する可能性がある。また政策決定への政治的圧力が増すことで、中央銀行の独立性や今後の金融政策にも注目が集まるだろう。",
+        "title": "Holiday spending, export demand drive China’s economic momentum as Iran war headwinds loom",
+        "summary_2lines": "中国経済はホリデー消費と輸出需要により2026年初頭に予想を上回る成長を見せている。一方で、中東情勢の悪化による地政学的リスクが景気の逆風となる可能性が高まっている。",
+        "why_it_matters": "中国は世界第2位の経済大国としてグローバル経済に大きな影響力を持ち、特に輸出と消費が牽引役となっている。だが、中東での戦争など地政学的リスクがエネルギー価格や供給網に影響を与え、この成長を阻害する恐れがあるため、今後の世界経済にとって重要な指標となる。",
+        "market_impact": "短期的には堅調な小売・工業生産により企業収益や市場心理は改善する可能性があるが、原油価格の上昇や供給制約によるインフレ圧力が高まると、輸出依存の中国経済は減速リスクに直面する。特に不動産投資の低迷継続やインフラ投資の依存が高まる中、政策対応にも注目が集まる。",
         "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cy03zy1lr8go?at_medium=RSS&at_campaign=rss"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/16/china-data-today-retail-sales-property-industrial-production.html"
       },
       {
-        "title": "How the Iran war may affect your money and bills",
-        "summary_2lines": "イラン戦争の影響で英国のガソリン価格や住宅ローン金利、エネルギー料金が上昇し、家計に負担が増している。今後の紛争の長期化と供給回復次第でさらに影響が深刻化する可能性がある。",
-        "why_it_matters": "イラン戦争は世界の原油供給に直結し、特に英国のようなエネルギー資源を輸入に依存する国の生活コストにダイレクトに影響を及ぼす。ガソリンやエネルギー価格の上昇は物価全体の引き上げ要因となり、家計の圧迫を招く。さらに金融市場では金利上昇と貸出条件の厳格化が消費や不動産市場に影響を与えるため、経済全体の不透明感が増している。",
-        "market_impact": "原油価格の高騰は物流コスト増大と消費者物価の上昇を通じて小売業や輸送業に負担をかける。住宅ローン金利の上昇は不動産購入抑制や住宅市場の冷え込みにつながる可能性が高い。エネルギー料金の変動は企業の営業コストにも影響し、特にエネルギー集約型産業の収益性を圧迫する。政府の介入措置の是非も市場心理に影響を与え、金融及びエネルギー市場のボラティリティ上昇を招く可能性がある。",
+        "title": "Alcohol-free beer and pet grooming used to measure inflation",
+        "summary_2lines": "英国の物価統計局は、インフレ率算出の品目バスケットに健康志向のアルコールフリーのビール、フムス、ペットグルーミングなど新たな商品を加えた。これは消費者の支出傾向の変化を反映し、最新のスキャナーデータを活用してより正確な物価変動を把握する狙いがある。",
+        "why_it_matters": "物価指数の品目構成は消費者の実態に即した消費パターンを反映するため、インフレ率の正確な把握に直結する。健康志向やペットブームといった社会トレンドを反映させることで、インフレ指標の信頼性が高まり、金融政策や公的年金・手当の調整に重要な影響を与える。",
+        "market_impact": "インフレ率がより現実の消費動向を反映することで、政策金利の決定や金融市場の予測精度が向上。特に健康食品やペット関連サービス市場の成長が明確になり、関連企業の投資判断や商品開発戦略に影響を与える可能性がある。また、スーパーマーケットのスキャナーデータ活用は効率化とデータの網羅性向上を促進する。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c8eg3g4lklno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Starmer announces £53m support to help with heating oil costs",
+        "summary_2lines": "イギリス政府は、暖房油価格の高騰で困窮する低所得世帯向けに5300万ポンドの支援策を発表した。地域ごとに支援額が割り当てられ、地方自治体や各地の政府が配分方法を決定する。",
+        "why_it_matters": "暖房油価格は中東情勢の緊迫化により急騰しており、特に地方の低所得層に大きな負担となっている。ガス・電気の料金に対する規制がある一方で、暖房油は価格規制がなく、価格高騰が家計を直撃している。この支援はエネルギー貧困対策の一環であり、地域経済や社会安定への影響も大きい。",
+        "market_impact": "暖房油の価格高騰は燃料販売業者の収益に直結すると考えられる一方、政府の支援により需要が一定程度維持される可能性がある。規制の欠如による価格操縦や不正行為が摘発されれば業界の信頼性に影響し、競争環境の見直しにつながる可能性もある。また、エネルギー価格の高止まりは消費者の可処分所得を圧迫し、他の消費活動を冷え込ませる恐れがある。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cp9mgpzn901o?at_medium=RSS&at_campaign=rss"
       }
     ],
-    "Corporate": []
+    "Corporate": [
+      {
+        "title": "Bank of America settles over Epstein claims",
+        "summary_2lines": "Bank of America has agreed to settle a lawsuit accusing it of facilitating Jeffrey Epstein's sex trafficking. This follows similar settlements by JP Morgan Chase and Deutsche Bank.",
+        "why_it_matters": "The case highlights ongoing accountability for financial institutions alleged to have enabled Epstein’s criminal activities. Settlements indicate increasing legal and reputational risks for banks linked to illicit operations.",
+        "market_impact": "Potential financial costs from the settlement and reputational damage could affect Bank of America's stock and investor confidence. It also puts pressure on other financial firms to enhance compliance and risk management.",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c4gen0xyvy8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Car park firm NCP collapses with nearly 700 jobs at risk",
+        "summary_2lines": "英国大手駐車場運営会社NCPが経営悪化により管理下に入り、約682人の雇用が危機に瀕している。新型コロナ後の利用減少や長期不利なリース契約が経営を圧迫し、事業売却も検討されている。",
+        "why_it_matters": "NCPは英国で340か所以上の駐車場を運営する重要インフラ企業であり、パーキングサービスの縮小は都市交通や関連業種に影響を及ぼす。また、パンデミックによる生活様式変化の企業経営への長期的影響例としても注目される。",
+        "market_impact": "NCPの破綻は同業他社の経営見直しを促す可能性があり、英国の都市部の駐車場市場に競争環境の変化や価格調整を引き起こす。雇用喪失リスクは地域経済の下押し要因となり得るが、一方で資産売却による資本再配置や事業再編の機会も創出される。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c2e48zl4j7ko?at_medium=RSS&at_campaign=rss"
+      }
+    ]
   }
 }
