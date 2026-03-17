@@ -1,151 +1,150 @@
 {
-  "generated_at_jst": "2026-03-17 07:21",
+  "generated_at_jst": "2026-03-18 07:21",
   "todays_brief": [
     {
-      "title": "Dividend stocks are catching up to tech stocks on a key earnings metric at a critical time for the market",
-      "summary_2lines": "配当株の利益成長率がテクノロジー株に迫り、S&P500における利益モメンタムが広がっている。市場の不確実性が高まる中、配当株は収益と安全性を求める投資家に注目されている。",
-      "why_it_matters": "中東での軍事紛争と異例の原油市場ショックにより市場のリスクが増大し、投資家は価格変動の少ない高品質な配当株に注目している。テック株の利益成長鈍化と、配当株の利益回復が投資戦略の転換を促しているタイミングだからこそ重要である。",
-      "market_impact": "配当株への資金流入が増加し、S&P500の利益成長構造がテクノロジー株依存から多様化へ移行する可能性が高い。ETF市場ではProSharesのNOBLなど配当株中心の商品が注目される。リスク回避志向の強まりで市場全体のバリュエーション調整とバランスシフトが進む見込みだ。",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/13/dividend-stocks-tech-earnings-growth-market.html"
-    },
-    {
-      "title": "Holiday spending, export demand drive China’s economic momentum as Iran war headwinds loom",
-      "summary_2lines": "中国経済はホリデー消費と輸出需要により2026年初頭に予想を上回る成長を見せている。一方で、中東情勢の悪化による地政学的リスクが景気の逆風となる可能性が高まっている。",
-      "why_it_matters": "中国は世界第2位の経済大国としてグローバル経済に大きな影響力を持ち、特に輸出と消費が牽引役となっている。だが、中東での戦争など地政学的リスクがエネルギー価格や供給網に影響を与え、この成長を阻害する恐れがあるため、今後の世界経済にとって重要な指標となる。",
-      "market_impact": "短期的には堅調な小売・工業生産により企業収益や市場心理は改善する可能性があるが、原油価格の上昇や供給制約によるインフレ圧力が高まると、輸出依存の中国経済は減速リスクに直面する。特に不動産投資の低迷継続やインフラ投資の依存が高まる中、政策対応にも注目が集まる。",
-      "category": "Economy",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/16/china-data-today-retail-sales-property-industrial-production.html"
-    },
-    {
       "title": "China talks up oil sufficiency as Trump seeks Beijing's help on securing Hormuz energy route",
-      "summary_2lines": "中国はホルムズ海峡を巡るイラン戦争下でもエネルギー資源は十分と強調。トランプ大統領は中国に同海峡の安全確保支援を要請している。",
-      "why_it_matters": "ホルムズ海峡は世界石油輸送の要所であり、紛争により供給が不安定になると世界の原油価格に大きな影響を与える。中国は大量の原油を同海峡経由で輸入しているため、エネルギー安全保障が国際政治と経済の焦点となっている。",
-      "market_impact": "原油価格が4年ぶりの高騰を見せており、石油関連企業の収益やエネルギーコストを押し上げる。中国の大量備蓄が短期的な供給不安を和らげるが、長期化すると市場にさらなる不安定要因となる可能性がある。",
+      "summary_2lines": "中国はホルムズ海峡を通る石油供給に対し比較的十分なエネルギー備蓄があると強調し、一方でトランプ大統領は中国に同海峡の安全確保を要請した。ホルムズ海峡を巡る地政学的緊張が高まる中、原油価格は4年ぶりの高値に達している。",
+      "why_it_matters": "ホルムズ海峡は世界原油輸送の重要ルートであり、イラン戦争の影響で供給不安が生じると原油価格やエネルギー市場に大きな波及効果がある。米中関係の中でエネルギー安全保障が新たな交渉材料となっていることが背景にある。",
+      "market_impact": "原油価格の急騰により世界のエネルギーコスト上昇が懸念されるが、中国が大規模な備蓄を有しているため短期的な供給ショックは抑制される可能性がある。トランプ大統領の発言や地政学リスクにより市場のボラティリティが高まり、エネルギー関連企業や原油市場が影響を受けるだろう。",
       "category": "Geopolitics",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/03/16/china-oil-reserves-trump-iran-war-hormuz.html"
     },
     {
-      "title": "Bitcoin beat the S&P 500, Nasdaq Composite and gold since the start of the Iran war",
-      "summary_2lines": "イラン戦争開始以降、ビットコインは約8%上昇し、S&P500やナスダック、金を上回るパフォーマンスを見せている。専門家は現状を「クリプト・ウィンターの底打ち段階」と評価し、多様化投資の観点から注目している。",
-      "why_it_matters": "地政学リスクの高まりにより伝統的資産が下落する中、ビットコインが安全資産としての役割を果たす可能性が浮上している。これは投資家が資産ポートフォリオの見直しやリスク分散を図るうえで重要な示唆となる。",
-      "market_impact": "イラン紛争を契機にビットコインの需要が増加し、暗号資産ETFの注目度も高まっている。これにより暗号資産市場の資金流入が促進される一方、依然として高ボラティリティでリスクも内包しているため、投資家の慎重な姿勢も求められる。",
-      "category": "Markets",
+      "title": "Mastercard says it's acquiring stablecoin startup BVNK in $1.8 billion bet on future of payments",
+      "summary_2lines": "Mastercardはロンドン拠点のステーブルコインインフラ企業BVNKを最大18億ドルで買収すると発表した。デジタル通貨が主流になる未来を見据えた同社の最大規模の投資案件である。",
+      "why_it_matters": "デジタル通貨やステーブルコインの採用が進む中、Mastercardは従来の決済ネットワークとブロックチェーン技術を融合させる戦略を強化している。これにより金融機関やフィンテック企業がデジタル通貨サービスを提供しやすくなり、決済市場の構造が変化する可能性が高い。",
+      "market_impact": "Mastercardの買収により、同社はデジタル通貨決済分野での競争力を大幅に強化し、Visaなどのライバル企業に対して優位性を築く可能性がある。これに伴いステーブルコイン関連サービスの普及が加速し、金融市場におけるデジタル資産の流動性や利用機会が拡大すると予想される。",
+      "category": "Corporate",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/14/bitcoin-outperforms-sp-500-nasdaq-gold-since-the-start-of-iran-war.html"
+      "url": "https://www.cnbc.com/2026/03/17/mastercard-acquiring-stablecoin-startup-bvnk-in-crypto-bet.html"
     },
     {
-      "title": "Apollo's John Zito questions private equity's software valuations: 'All the marks are wrong'",
-      "summary_2lines": "Apolloのジョン・ジトは、プライベートエクイティのソフトウェア企業評価は実態を反映しておらず過大評価と指摘。特に2018～22年の高評価期に買収された企業が軟調で、プライベートクレジットの貸付も危険に晒されていると警鐘を鳴らした。",
-      "why_it_matters": "ソフトウェア企業の評価割高問題は、投資家の信頼を低下させプライベートクレジット市場の流動性悪化を招く恐れがある。またAI技術の進展で市場変動が激しく、既存の評価方法や融資リスクの見直しが迫られているため金融機関の健全性にも影響が及ぶ可能性が高い。",
-      "market_impact": "プライベートエクイティやプライベートクレジット市場でソフトウェア関連資産の価値下落に伴う投資家離れや資金流出が加速。JPMorganなどが実際に評価減を行い、貸付抑制に動く動きが出ている。これにより関連企業の資金調達環境が厳しくなり、金融市場全体の信用リスクが高まる懸念がある。",
-      "category": "Markets",
+      "title": "The Fed issues its latest interest rate decision Wednesday. Here's what to expect",
+      "summary_2lines": "米連邦準備制度理事会（FRB）は3月のFOMCで政策金利を3.5～3.75％の現状で据え置く見込み。ウクライナ戦争やインフレ懸念、労働市場の混在したシグナルを踏まえ、利下げは年内10月以降の可能性が高い。",
+      "why_it_matters": "FRBの利上げ・利下げの決定は米国経済と世界市場に大きな影響を与えるため、投資家や企業は政策の方向性を注視している。今回の決定は中東情勢やインフレの不透明感も絡み慎重な対応が求められている点が重要である。",
+      "market_impact": "政策金利据え置きにより、短期金利は安定しつつ長期的には利下げ期待が後退し、市場のボラティリティが続く可能性がある。特にエネルギー価格の上昇やインフレ懸念が企業コストや消費マインドに影響し、株式市場や債券市場の動向にも注意が必要。",
+      "category": "Economy",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/16/apollo-john-zito-private-equity-software-valuations.html"
+      "url": "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html"
+    },
+    {
+      "title": "Trump seeks to delay meeting with Xi in China",
+      "summary_2lines": "トランプ大統領はイラン戦争対応のため、中国訪問による習近平主席との会談を約1ヶ月延期する意向を示した。米中は訪問日程の調整を続けており、両国間の貿易・安全保障交渉も継続中である。",
+      "why_it_matters": "世界最大の経済大国である米中両国の首脳会談は貿易や地政学的な緊張緩和に重要な意味を持つ。今回の延期はイラン情勢という新たなリスク要因が国際関係に影響を与えていることを示し、戦争対応が外交日程に優先される現実を反映している。",
+      "market_impact": "イラン戦争によるエネルギー供給不安が長引く中、米中関係の先行き不透明感が増すことで市場のリスク回避姿勢が強まる可能性がある。中国のイランからのエネルギー調達や、米中貿易摩擦の継続はグローバルなサプライチェーンや原材料価格に影響し、特にエネルギー・輸出関連企業に影響を及ぼすと予想される。",
+      "category": "Geopolitics",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Typical new mortgage costs soar £788 a year in two weeks",
+      "summary_2lines": "英国で新規住宅ローンの平均金利が2週間で大幅上昇し、年間負担が£788増加した。主要銀行は低金利のローン商品を引き揚げ、借り手の負担が増加している。",
+      "why_it_matters": "イラン紛争による地政学的リスクと国際的な混乱が原油価格を押し上げ、インフレ懸念から中央銀行の利上げ期待が強まった。これが住宅ローンの金利上昇や商品撤退につながり、多くの消費者の借入コストが急増したため、住宅市場と消費者の経済活動に不透明感をもたらしている。",
+      "market_impact": "住宅ローンの金利上昇により借入可能額が減少し、住宅購入や市場全体の取引活動が低下する恐れがある。金融機関は低金利商品の撤退で競争が減り利益率に影響が出る可能性があり、不動産業界や関連消費も冷え込む懸念がある。また、金利変動に敏感な金融市場全体のボラティリティも高まる見込み。",
+      "category": "Economy",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c0mgd3z1e9ko?at_medium=RSS&at_campaign=rss"
     }
   ],
   "categories": {
-    "Tech": [
-      {
-        "title": "Teens sue Musk's xAI over Grok's pornographic images of them",
-        "summary_2lines": "Elon MuskのxAIが開発したチャットボットGrokが未成年者の画像を性的に改変し、被害を受けた10代女性らが訴訟を起こした。訴訟は子どもポルノの作成を助長したとして損害賠償と画像生成の禁止を求めている。",
-        "why_it_matters": "AI技術による画像生成が個人のプライバシー侵害や児童性的搾取につながる深刻な問題が浮き彫りになった。企業の倫理的責任や規制の必要性が問われている中、AIの悪用対策は社会的に重要な課題となっている。",
-        "market_impact": "訴訟によるxAIと親会社のイメージダウン、規制強化の可能性が企業価値にネガティブな影響を与える可能性がある。AI画像生成技術の規制・監督強化により関連企業の事業展開や収益モデルに調整が迫られるだろう。",
-        "category": "Tech",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cgk2lzmm22eo?at_medium=RSS&at_campaign=rss"
-      }
-    ],
+    "Tech": [],
     "Markets": [
       {
-        "title": "Dividend stocks are catching up to tech stocks on a key earnings metric at a critical time for the market",
-        "summary_2lines": "配当株の利益成長率がテクノロジー株に迫り、S&P500における利益モメンタムが広がっている。市場の不確実性が高まる中、配当株は収益と安全性を求める投資家に注目されている。",
-        "why_it_matters": "中東での軍事紛争と異例の原油市場ショックにより市場のリスクが増大し、投資家は価格変動の少ない高品質な配当株に注目している。テック株の利益成長鈍化と、配当株の利益回復が投資戦略の転換を促しているタイミングだからこそ重要である。",
-        "market_impact": "配当株への資金流入が増加し、S&P500の利益成長構造がテクノロジー株依存から多様化へ移行する可能性が高い。ETF市場ではProSharesのNOBLなど配当株中心の商品が注目される。リスク回避志向の強まりで市場全体のバリュエーション調整とバランスシフトが進む見込みだ。",
+        "title": "Orlando Bravo pushes back on private markets criticism: 'Everybody's extremely comfortable'",
+        "summary_2lines": "Thoma Bravoの創業者オーランド・ブラボはプライベート市場への批判に反論し、専門知識と投資先の堅調な業績を強調した。一方で、一部の投資判断ミスも認めつつ全体としてのポートフォリオのパフォーマンスは良好と述べた。",
+        "why_it_matters": "近年、プライベートクレジットとプライベートエクイティの評価減や流動性問題が表面化しており、投資家の懸念が増している中、業界大手であるThoma Bravoのリーダーが専門家目線で自信を示したことで、プライベート市場への信頼回復やリスクの再評価に影響を与える重要な示唆となる。",
+        "market_impact": "プライベート市場への不安が高まる中でも、大型投資家の支持を背景にThoma Bravoのような信頼を集めるファンドは資金流入を維持しやすい。AIによるソフトウェア業界の変革が企業価値の見直しを加速させていることから、公開市場とプライベート市場での評価ギャップや投資戦略の差異が明確化し、今後の資産運用方針やリスク管理に影響を及ぼす可能性がある。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/13/dividend-stocks-tech-earnings-growth-market.html"
-      },
-      {
-        "title": "Bitcoin beat the S&P 500, Nasdaq Composite and gold since the start of the Iran war",
-        "summary_2lines": "イラン戦争開始以降、ビットコインは約8%上昇し、S&P500やナスダック、金を上回るパフォーマンスを見せている。専門家は現状を「クリプト・ウィンターの底打ち段階」と評価し、多様化投資の観点から注目している。",
-        "why_it_matters": "地政学リスクの高まりにより伝統的資産が下落する中、ビットコインが安全資産としての役割を果たす可能性が浮上している。これは投資家が資産ポートフォリオの見直しやリスク分散を図るうえで重要な示唆となる。",
-        "market_impact": "イラン紛争を契機にビットコインの需要が増加し、暗号資産ETFの注目度も高まっている。これにより暗号資産市場の資金流入が促進される一方、依然として高ボラティリティでリスクも内包しているため、投資家の慎重な姿勢も求められる。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/14/bitcoin-outperforms-sp-500-nasdaq-gold-since-the-start-of-iran-war.html"
+        "url": "https://www.cnbc.com/2026/03/17/orlando-bravo-pushes-back-on-private-markets-criticism-everybodys-extremely-comfortable.html"
       },
       {
         "title": "Apollo's John Zito questions private equity's software valuations: 'All the marks are wrong'",
-        "summary_2lines": "Apolloのジョン・ジトは、プライベートエクイティのソフトウェア企業評価は実態を反映しておらず過大評価と指摘。特に2018～22年の高評価期に買収された企業が軟調で、プライベートクレジットの貸付も危険に晒されていると警鐘を鳴らした。",
-        "why_it_matters": "ソフトウェア企業の評価割高問題は、投資家の信頼を低下させプライベートクレジット市場の流動性悪化を招く恐れがある。またAI技術の進展で市場変動が激しく、既存の評価方法や融資リスクの見直しが迫られているため金融機関の健全性にも影響が及ぶ可能性が高い。",
-        "market_impact": "プライベートエクイティやプライベートクレジット市場でソフトウェア関連資産の価値下落に伴う投資家離れや資金流出が加速。JPMorganなどが実際に評価減を行い、貸付抑制に動く動きが出ている。これにより関連企業の資金調達環境が厳しくなり、金融市場全体の信用リスクが高まる懸念がある。",
+        "summary_2lines": "Apolloのジョン・ジトは、ソフトウェア企業のプライベート・エクイティ評価額は公正でなく過大評価されていると指摘した。これによりプライベートクレジット市場の資産価値見直しや投資家の資金流出が加速している。",
+        "why_it_matters": "近年、AI技術の進展でソフトウェア企業の競争環境が激変し、株価が急落したことで、旧来の評価モデルが通用しなくなっている。プライベートエクイティやプライベートクレジットは潜在的な損失リスクを抱えており、金融市場の安定性に影響を及ぼす可能性があるため、投資家や市場参加者はこれを注視している。",
+        "market_impact": "プライベートクレジットファンドからの大量の資金引き出しが続いており、特にAI等の新技術に順応できないソフトウェア関連貸付けの価値が大幅に値崩れするリスクが高い。これにより貸し手の損失拡大やプライベートエクイティの評価悪化、市場全体の信用環境悪化が懸念される。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/16/apollo-john-zito-private-equity-software-valuations.html"
+      },
+      {
+        "title": "Easter holidaymakers switching from Dubai to Spain as flights fill up",
+        "summary_2lines": "イースター休暇を控え、英国の旅行者が中東の情勢不安によりドバイから安全なスペイン等へ旅行先を切り替えている。これにより、スペインやポルトガル、カリブ海地域などの旅行需要が急増している。",
+        "why_it_matters": "中東情勢の不安により航空路線の運航停止や渡航警戒が強まっており、旅行者がリスクを避けて安全な目的地を選択し直す動きが顕著。これにより地域間の観光需要のシフトが発生し、旅行業界全体の収益構造やサプライチェーンに影響を及ぼす可能性が高い。",
+        "market_impact": "航空会社は中東路線の運休を余儀なくされ、収益に影響。観光業ではスペイン、ポルトガル、カリブ海などへの予約増加でこれらの地域の経済に好影響。逆にドバイや隣接地域の旅行関連企業は需要縮小により売上減少が見込まれ、旅行代理店はキャンセル対応や振替手配などの運営コスト増加に直面している。",
+        "category": "Markets",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Geopolitics": [
       {
         "title": "China talks up oil sufficiency as Trump seeks Beijing's help on securing Hormuz energy route",
-        "summary_2lines": "中国はホルムズ海峡を巡るイラン戦争下でもエネルギー資源は十分と強調。トランプ大統領は中国に同海峡の安全確保支援を要請している。",
-        "why_it_matters": "ホルムズ海峡は世界石油輸送の要所であり、紛争により供給が不安定になると世界の原油価格に大きな影響を与える。中国は大量の原油を同海峡経由で輸入しているため、エネルギー安全保障が国際政治と経済の焦点となっている。",
-        "market_impact": "原油価格が4年ぶりの高騰を見せており、石油関連企業の収益やエネルギーコストを押し上げる。中国の大量備蓄が短期的な供給不安を和らげるが、長期化すると市場にさらなる不安定要因となる可能性がある。",
+        "summary_2lines": "中国はホルムズ海峡を通る石油供給に対し比較的十分なエネルギー備蓄があると強調し、一方でトランプ大統領は中国に同海峡の安全確保を要請した。ホルムズ海峡を巡る地政学的緊張が高まる中、原油価格は4年ぶりの高値に達している。",
+        "why_it_matters": "ホルムズ海峡は世界原油輸送の重要ルートであり、イラン戦争の影響で供給不安が生じると原油価格やエネルギー市場に大きな波及効果がある。米中関係の中でエネルギー安全保障が新たな交渉材料となっていることが背景にある。",
+        "market_impact": "原油価格の急騰により世界のエネルギーコスト上昇が懸念されるが、中国が大規模な備蓄を有しているため短期的な供給ショックは抑制される可能性がある。トランプ大統領の発言や地政学リスクにより市場のボラティリティが高まり、エネルギー関連企業や原油市場が影響を受けるだろう。",
         "category": "Geopolitics",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/16/china-oil-reserves-trump-iran-war-hormuz.html"
+      },
+      {
+        "title": "Trump seeks to delay meeting with Xi in China",
+        "summary_2lines": "トランプ大統領はイラン戦争対応のため、中国訪問による習近平主席との会談を約1ヶ月延期する意向を示した。米中は訪問日程の調整を続けており、両国間の貿易・安全保障交渉も継続中である。",
+        "why_it_matters": "世界最大の経済大国である米中両国の首脳会談は貿易や地政学的な緊張緩和に重要な意味を持つ。今回の延期はイラン情勢という新たなリスク要因が国際関係に影響を与えていることを示し、戦争対応が外交日程に優先される現実を反映している。",
+        "market_impact": "イラン戦争によるエネルギー供給不安が長引く中、米中関係の先行き不透明感が増すことで市場のリスク回避姿勢が強まる可能性がある。中国のイランからのエネルギー調達や、米中貿易摩擦の継続はグローバルなサプライチェーンや原材料価格に影響し、特にエネルギー・輸出関連企業に影響を及ぼすと予想される。",
+        "category": "Geopolitics",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Economy": [
       {
-        "title": "Holiday spending, export demand drive China’s economic momentum as Iran war headwinds loom",
-        "summary_2lines": "中国経済はホリデー消費と輸出需要により2026年初頭に予想を上回る成長を見せている。一方で、中東情勢の悪化による地政学的リスクが景気の逆風となる可能性が高まっている。",
-        "why_it_matters": "中国は世界第2位の経済大国としてグローバル経済に大きな影響力を持ち、特に輸出と消費が牽引役となっている。だが、中東での戦争など地政学的リスクがエネルギー価格や供給網に影響を与え、この成長を阻害する恐れがあるため、今後の世界経済にとって重要な指標となる。",
-        "market_impact": "短期的には堅調な小売・工業生産により企業収益や市場心理は改善する可能性があるが、原油価格の上昇や供給制約によるインフレ圧力が高まると、輸出依存の中国経済は減速リスクに直面する。特に不動産投資の低迷継続やインフラ投資の依存が高まる中、政策対応にも注目が集まる。",
+        "title": "Typical new mortgage costs soar £788 a year in two weeks",
+        "summary_2lines": "英国で新規住宅ローンの平均金利が2週間で大幅上昇し、年間負担が£788増加した。主要銀行は低金利のローン商品を引き揚げ、借り手の負担が増加している。",
+        "why_it_matters": "イラン紛争による地政学的リスクと国際的な混乱が原油価格を押し上げ、インフレ懸念から中央銀行の利上げ期待が強まった。これが住宅ローンの金利上昇や商品撤退につながり、多くの消費者の借入コストが急増したため、住宅市場と消費者の経済活動に不透明感をもたらしている。",
+        "market_impact": "住宅ローンの金利上昇により借入可能額が減少し、住宅購入や市場全体の取引活動が低下する恐れがある。金融機関は低金利商品の撤退で競争が減り利益率に影響が出る可能性があり、不動産業界や関連消費も冷え込む懸念がある。また、金利変動に敏感な金融市場全体のボラティリティも高まる見込み。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c0mgd3z1e9ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Train Delay Repay rule changes to make claims easier",
+        "summary_2lines": "鉄道の割引切符使用者に対する確認強化と、第三者販売業者からの遅延補償請求が容易になる新ルールが導入される。これにより、不正防止と乗客の補償手続きの簡素化が期待されている。",
+        "why_it_matters": "割引切符の不正利用や誤認逮捕を防ぐことで公共交通システムの信頼性を向上させるとともに、遅延補償請求の利便性向上で利用者満足度を高める。加えて、鉄道会社の収益保全や公的資金の適正運用に繋がる重要な制度改善である。",
+        "market_impact": "鉄道事業者は不正利用削減による収益増加（年間約2000万ポンドの回収見込み）が期待される。Trainlineなどの第三者販売業者も補償請求窓口として関与拡大で影響を受ける。消費者の利便性向上により鉄道利用促進やサービス改善圧力も高まる可能性がある。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/ce94k3v3rvro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The Fed issues its latest interest rate decision Wednesday. Here's what to expect",
+        "summary_2lines": "米連邦準備制度理事会（FRB）は3月のFOMCで政策金利を3.5～3.75％の現状で据え置く見込み。ウクライナ戦争やインフレ懸念、労働市場の混在したシグナルを踏まえ、利下げは年内10月以降の可能性が高い。",
+        "why_it_matters": "FRBの利上げ・利下げの決定は米国経済と世界市場に大きな影響を与えるため、投資家や企業は政策の方向性を注視している。今回の決定は中東情勢やインフレの不透明感も絡み慎重な対応が求められている点が重要である。",
+        "market_impact": "政策金利据え置きにより、短期金利は安定しつつ長期的には利下げ期待が後退し、市場のボラティリティが続く可能性がある。特にエネルギー価格の上昇やインフレ懸念が企業コストや消費マインドに影響し、株式市場や債券市場の動向にも注意が必要。",
         "category": "Economy",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/16/china-data-today-retail-sales-property-industrial-production.html"
+        "url": "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html"
       },
       {
-        "title": "Alcohol-free beer and pet grooming used to measure inflation",
-        "summary_2lines": "英国の物価統計局は、インフレ率算出の品目バスケットに健康志向のアルコールフリーのビール、フムス、ペットグルーミングなど新たな商品を加えた。これは消費者の支出傾向の変化を反映し、最新のスキャナーデータを活用してより正確な物価変動を把握する狙いがある。",
-        "why_it_matters": "物価指数の品目構成は消費者の実態に即した消費パターンを反映するため、インフレ率の正確な把握に直結する。健康志向やペットブームといった社会トレンドを反映させることで、インフレ指標の信頼性が高まり、金融政策や公的年金・手当の調整に重要な影響を与える。",
-        "market_impact": "インフレ率がより現実の消費動向を反映することで、政策金利の決定や金融市場の予測精度が向上。特に健康食品やペット関連サービス市場の成長が明確になり、関連企業の投資判断や商品開発戦略に影響を与える可能性がある。また、スーパーマーケットのスキャナーデータ活用は効率化とデータの網羅性向上を促進する。",
+        "title": "Mayors to gain more spending power under Reeves tax plans",
+        "summary_2lines": "財務大臣レイヴスは地域の市長に一部の国税収入の支配権を与える税の権限移譲計画を発表。AIや量子コンピューティングに25億ポンド投資し、英国経済の成長を支援する方針を示した。",
+        "why_it_matters": "中央政府から地方自治体へ税収の一部を移譲することで、地域ごとの優先課題に対する財政的裁量を高め、地域経済の活性化を目指す。加えて、AIや量子技術への大規模投資は英国の技術競争力強化と雇用創出に繋がるため、経済成長に重要な役割を果たすからである。",
+        "market_impact": "税の権限移譲により、地域経済の独自発展が期待され、それに伴い地方企業やテクノロジー関連企業が恩恵を受ける可能性がある。政府のAIおよび量子コンピューティング投資は技術セクターの成長と新規雇用を促進し、英国の技術流出抑制につながる一方、国際情勢の緊迫化によるエネルギー価格上昇は経済成長のダウンサイドリスクとして警戒される。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c8eg3g4lklno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Starmer announces £53m support to help with heating oil costs",
-        "summary_2lines": "イギリス政府は、暖房油価格の高騰で困窮する低所得世帯向けに5300万ポンドの支援策を発表した。地域ごとに支援額が割り当てられ、地方自治体や各地の政府が配分方法を決定する。",
-        "why_it_matters": "暖房油価格は中東情勢の緊迫化により急騰しており、特に地方の低所得層に大きな負担となっている。ガス・電気の料金に対する規制がある一方で、暖房油は価格規制がなく、価格高騰が家計を直撃している。この支援はエネルギー貧困対策の一環であり、地域経済や社会安定への影響も大きい。",
-        "market_impact": "暖房油の価格高騰は燃料販売業者の収益に直結すると考えられる一方、政府の支援により需要が一定程度維持される可能性がある。規制の欠如による価格操縦や不正行為が摘発されれば業界の信頼性に影響し、競争環境の見直しにつながる可能性もある。また、エネルギー価格の高止まりは消費者の可処分所得を圧迫し、他の消費活動を冷え込ませる恐れがある。",
-        "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cp9mgpzn901o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Corporate": [
       {
-        "title": "Bank of America settles over Epstein claims",
-        "summary_2lines": "Bank of America has agreed to settle a lawsuit accusing it of facilitating Jeffrey Epstein's sex trafficking. This follows similar settlements by JP Morgan Chase and Deutsche Bank.",
-        "why_it_matters": "The case highlights ongoing accountability for financial institutions alleged to have enabled Epstein’s criminal activities. Settlements indicate increasing legal and reputational risks for banks linked to illicit operations.",
-        "market_impact": "Potential financial costs from the settlement and reputational damage could affect Bank of America's stock and investor confidence. It also puts pressure on other financial firms to enhance compliance and risk management.",
+        "title": "Mastercard says it's acquiring stablecoin startup BVNK in $1.8 billion bet on future of payments",
+        "summary_2lines": "Mastercardはロンドン拠点のステーブルコインインフラ企業BVNKを最大18億ドルで買収すると発表した。デジタル通貨が主流になる未来を見据えた同社の最大規模の投資案件である。",
+        "why_it_matters": "デジタル通貨やステーブルコインの採用が進む中、Mastercardは従来の決済ネットワークとブロックチェーン技術を融合させる戦略を強化している。これにより金融機関やフィンテック企業がデジタル通貨サービスを提供しやすくなり、決済市場の構造が変化する可能性が高い。",
+        "market_impact": "Mastercardの買収により、同社はデジタル通貨決済分野での競争力を大幅に強化し、Visaなどのライバル企業に対して優位性を築く可能性がある。これに伴いステーブルコイン関連サービスの普及が加速し、金融市場におけるデジタル資産の流動性や利用機会が拡大すると予想される。",
         "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c4gen0xyvy8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Car park firm NCP collapses with nearly 700 jobs at risk",
-        "summary_2lines": "英国大手駐車場運営会社NCPが経営悪化により管理下に入り、約682人の雇用が危機に瀕している。新型コロナ後の利用減少や長期不利なリース契約が経営を圧迫し、事業売却も検討されている。",
-        "why_it_matters": "NCPは英国で340か所以上の駐車場を運営する重要インフラ企業であり、パーキングサービスの縮小は都市交通や関連業種に影響を及ぼす。また、パンデミックによる生活様式変化の企業経営への長期的影響例としても注目される。",
-        "market_impact": "NCPの破綻は同業他社の経営見直しを促す可能性があり、英国の都市部の駐車場市場に競争環境の変化や価格調整を引き起こす。雇用喪失リスクは地域経済の下押し要因となり得るが、一方で資産売却による資本再配置や事業再編の機会も創出される。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c2e48zl4j7ko?at_medium=RSS&at_campaign=rss"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/17/mastercard-acquiring-stablecoin-startup-bvnk-in-crypto-bet.html"
       }
     ]
   }
