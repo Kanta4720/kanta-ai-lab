@@ -1,151 +1,151 @@
 {
-  "generated_at_jst": "2026-03-19 07:21",
+  "generated_at_jst": "2026-03-20 07:16",
   "todays_brief": [
     {
-      "title": "US holds interest rates as Iran war triggers oil shock",
-      "summary_2lines": "米連邦準備制度理事会は、イラン戦争に伴う原油価格急騰による経済不透明感とインフレ懸念から、政策金利を3.5%-3.75%の現状で据え置いた。将来的な利下げはインフレ動向次第で慎重に判断すると表明した。",
-      "why_it_matters": "中東情勢の緊迫化が石油価格の上昇を招き、米国内のインフレ圧力を強めている中で、金融政策の舵取りが非常に難しくなっている。これは米経済のみならず、グローバルな物価動向と金融市場に大きな影響を与えるため重要である。",
-      "market_impact": "金利据え置きは借入コストの急激な変動を防ぎつつ、原油高によるコスト上昇が消費者物価を押し上げる見通しで、企業の利益圧迫や消費減速を招くリスクが増大。市場は利下げ織り込みを後退させ、経済成長の先行き不透明感も強まっている。",
-      "category": "Economy",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c36364d06x3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Oil nears $110 a barrel after gas field strike",
-      "summary_2lines": "イランの南パルスガス田に対する空爆を受け、原油価格が110ドル近くまで急騰した。カタールのラースラファン施設も被害を受け、地域のエネルギー市場の緊張が高まっている。",
-      "why_it_matters": "世界最大のガス田である南パルス/ノースドーム地帯は世界のエネルギー供給にとって極めて重要であり、ここでの攻撃は中東情勢とエネルギー安全保障の不安定化を示している。石油・天然ガスの供給懸念が価格を押し上げ、地域紛争の激化リスクを高める。",
-      "market_impact": "原油価格は一時5%以上上昇し、天然ガス価格も急騰した。これによりエネルギーコストが上がり、世界的なインフレ圧力が強まる可能性がある。米国はジョーンズ法の一時停止で供給の安定化を目指すが、価格高騰の根本要因には届いていない。市場は引き続き地政学的リスクに敏感に反応しボラティリティが高い状態が続くと予想される。",
-      "category": "Geopolitics",
+      "title": "Stock markets rattled and energy prices soar after strikes on Qatar gas hub",
+      "summary_2lines": "イランによる中東のエネルギーインフラへの攻撃で、カタールの主要な液化天然ガス（LNG）施設が損傷し、原油･ガス価格が急騰。世界の株式市場は不安定化し、特に英国の株価と国債利回りに大きな影響が出た。",
+      "why_it_matters": "カタールは世界のLNG供給の約20％を占める主要産出国であり、同施設の生産削減は世界的なエネルギー供給の逼迫に直結。米イラン間の緊張や中東情勢の悪化はエネルギー価格の高騰と経済不安を加速させ、消費者や企業のコスト増大、インフレ圧力強化につながるから重要。",
+      "market_impact": "原油・天然ガス価格の急上昇がエネルギー関連企業や輸入依存国のコストを押し上げる一方で、投資家心理悪化から英FTSE100をはじめとする主要株価指数が大幅下落。欧米・日本の国債利回りも急上昇し、特に英国債の利回りは経済混乱の懸念から大幅上昇し、住宅ローン金利等へも波及リスクがある。これらは世界経済の成長見通しを下押しする要因となっている。",
+      "category": "Markets",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Fed still expects to cut rates once this year despite spiking oil prices",
-      "summary_2lines": "連邦準備制度理事会（Fed）は、イラン戦争に伴う原油価格の急騰にもかかわらず、今年1回の利下げを見込んでいる。メンバーの予想は減少幅が縮小し、利下げ回数は2回から1回に修正された。",
-      "why_it_matters": "Fedの利上げ・利下げの見通しは経済全体の資金コストやインフレ期待に直接影響し、投資や消費行動に重要な指標となる。特に原油価格の急騰はインフレ圧力を加速させ、金融政策の調整を複雑化させているため、市場参加者にとっては今後の政策動向を理解する上で重要なニュースである。",
-      "market_impact": "利下げが減少し、利上げの持続または据え置きの可能性が高まったため、債券市場では長期金利が安定または上昇圧力を受ける可能性がある。株式市場は引き続き慎重な展開が予想され、特にエネルギー関連企業は原油価格上昇の恩恵を受ける一方、消費関連企業はコスト高が逆風となる可能性がある。経済全体では、インフレの持続が消費者購買力を圧迫し、成長ペースに不透明感をもたらす可能性がある。",
+      "summary_2lines": "米連邦準備制度理事会（FRB）は、イラン紛争による原油価格の上昇にもかかわらず、今年1回の利下げを見込んでいる。政策金利は現状維持され、市場予想も利下げ回数が減少傾向にある。",
+      "why_it_matters": "FRBの金融政策は世界経済に大きな影響を与えるため、利下げ予測の変動はインフレや成長見通し、投資環境を左右する重要な指標となる。特に原油価格の上昇はインフレ圧力を強め、利下げ余地を狭めるため今後の経済運営の難しさを示している。",
+      "market_impact": "利下げ回数の見直しや政策金利の据え置きは、金融市場でのリスク評価を変化させ、株式や債券市場のボラティリティに影響を及ぼす。企業の借入コストや消費者の支出意欲にも影響し、経済成長のペースやインフレ動向にも波及効果が及ぶ可能性がある。",
       "category": "Economy",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/03/18/dot-plot-fed-still-expects-to-cut-rates-once-this-year-despite-spiking-oil-prices-.html"
     },
     {
-      "title": "Here's what changed in the new Fed statement",
-      "summary_2lines": "連邦公開市場委員会（FOMC）の最新声明は、1月の声明から変更点を強調している。新旧声明の差分を示すことで、金融政策の方向性を明確にした。",
-      "why_it_matters": "FOMCの声明は米国の金融政策の基調を示し、市場参加者や企業の意思決定に大きな影響を与えるため、変更点の把握は重要である。",
-      "market_impact": "声明の変更内容によっては米国の金利動向や金融環境が変化し、株式市場や債券市場に影響を及ぼす。企業の資金調達コストや消費者の購買力も左右される可能性がある。",
-      "category": "Economy",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/18/federal-reserve-meeting-statement-march.html"
+      "title": "US considers lifting sanctions on some Iranian oil",
+      "summary_2lines": "米国はイランの一部石油に対する制裁解除を検討している。これにより短期間だが世界の石油供給増加を目指す動きだ。",
+      "why_it_matters": "ロシア・ウクライナ戦争とイラン情勢によるエネルギー供給の混乱を背景に、米国が従来の厳格な制裁方針を緩和し市場安定を図ろうとしている点が注目される。だが制裁解除はイランへの資金流入や政策の後退といったリスクも伴う。",
+      "market_impact": "制裁解除対象の石油は横流しが可能な既存の積載分中心で、世界需要に対して量は限定的。短期的な価格下落が期待されるが持続性は乏しく、供給増加効果は限定的とみられる。対イラン強硬派の政治的反発や資金流出リスクも市場の不確実性を高める。",
+      "category": "Geopolitics",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "JPMorgan Chase taps Dwyane Wade, Tom Brady for new athlete wealth management push",
-      "summary_2lines": "JPMorgan Chase has launched the Athlete Council, led by Dwyane Wade and featuring top athletes like Tom Brady, to develop tailored wealth management programs for athletes. This initiative aims to address the financial challenges professional athletes face after short careers and sudden wealth.",
-      "why_it_matters": "Many professional athletes struggle with financial instability due to lack of personal finance education and the brief nature of their earnings window. By involving high-profile athletes in creating support programs, JPMorgan seeks to provide targeted financial guidance that can help prevent bankruptcy and improve long-term financial security for athletes.",
-      "market_impact": "This initiative positions JPMorgan Chase as a leader in the niche market of athlete wealth management, enhancing its brand among high-net-worth clients and potentially capturing new business in the growing segment of athlete entrepreneurs and investors. It also increases competition among banks and wealth managers pursuing athlete clientele, likely driving innovation in personalized financial services.",
-      "category": "Corporate",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/18/jpmorgan-athlete-wealth-management-tom-brady-dwyane-wade.html"
+      "title": "Bank ready to raise interest rates if Iran war price 'shock' persists",
+      "summary_2lines": "イラン情勢に伴うエネルギー価格上昇を受け、イングランド銀行は現状の金利3.75%を維持しつつ、物価上昇が続くならば利上げを辞さない姿勢を示した。経済へのショックを見極めるため、全委員が一時的に利上げ・利下げを見送った。",
+      "why_it_matters": "中東の紛争はエネルギー供給に影響を与え、インフレ圧力を高めることで金融政策に大きな影響を及ぼしている。物価上昇を抑制して経済の安定を守るために、中央銀行の金利政策が転換点を迎えていることが背景にある。",
+      "market_impact": "石油・ガス価格の高騰によりインフレが加速し、住宅ローン金利の上昇や貸出条件の厳格化を招いている。金融市場は今後の利上げに備え警戒感を強め、消費者や企業の支出抑制や投資判断に影響を与える可能性が高い。米欧の中央銀行も足並みを揃え、金融引き締めの姿勢を示している。",
+      "category": "Economy",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Why are gas prices soaring and how could it affect you?",
+      "summary_2lines": "カタールの主要な液化天然ガス（LNG）施設がミサイル攻撃を受け、大規模な被害を受けたことで世界のガス価格が急騰している。これにより、供給の長期的な不安定化と英国を含む欧州のエネルギー価格上昇が懸念されている。",
+      "why_it_matters": "このニュースは、中東地域での軍事的緊張がエネルギー供給に直接的な影響を及ぼし、世界のガス市場に重大な混乱をもたらしていることを示している。ガスは世界のエネルギー供給の要であり、特に欧州では価格が電力価格に直結するため、一般消費者の生活コスト上昇や経済全体の不安定化につながる可能性が高い。",
+      "market_impact": "カタールのRas Laffan施設の生産停止により、世界のLNG供給が約17％減少し、ガス価格が11%以上急騰した。これにより、欧州のガス・電力価格が上昇し、関連企業の生産コスト増加や消費者負担の増大が予想される。また、回復までに数年を要する見通しから、エネルギー市場の供給不安定が長期化し、世界のエネルギー市場に深刻な波及効果を及ぼす可能性がある。",
+      "category": "Geopolitics",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cj6d66w0995o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "categories": {
     "Tech": [
       {
-        "title": "Computer says no. Are AI interviews making it harder to get a job?",
-        "summary_2lines": "英国の若者がAIによる採用プロセスで大幅な不採用を経験。企業は大量応募者を効率的に選考するためAIを活用し、一方で採用の公平性や人間らしさが懸念されている。",
-        "why_it_matters": "パンデミック後の求人減少と労働市場の変化により、企業は人材採用の効率化をAIに頼るようになった。これにより求職者は人間の目に触れないまま大量にふるい落とされる可能性が高まり、若年層の就職困難が深刻化しているため、労働市場の健全性や公平性の観点から重要な課題となっている。",
-        "market_impact": "求人市場では求人件数の縮小と採用コスト増加を背景にAIを活用したスクリーニングが急増。採用効率は向上する一方で、求職者の不満や応募者のAI利用による競争激化が起きている。企業側はAI活用により大量応募者から適合人材を迅速に抽出可能だが、採用の質や公平性の確保が今後の課題となるため、人材業界やAI関連テック企業のサービス開発・投資が加速すると予想される。",
+        "title": "OpenClaw demand in China is driving up the price of used MacBooks",
+        "summary_2lines": "中国でOpenClawというAIツールの人気が高まり、中古MacBookの需要が急増して価格が上昇している。これにより、Apple製品の中古市場が活況を呈し、取扱量や価格水準が例年の季節パターンと異なる動きを見せている。",
+        "why_it_matters": "OpenClawは個人タスクを自律的に遂行できるAIツールで、特に中国ユーザーの利用が米国を上回るほど広がっている。セキュリティリスクを考慮し専用端末での利用が求められるため、パワフルで安定したApple製のMacが需要増に繋がっている。この動きはAI技術の浸透が個人のデバイス需要や中古市場まで波及する新たな潮流を示している。",
+        "market_impact": "中古MacBookの価格上昇により、Apple製品の再販業者やリセラーの取り扱い量が増加し、買い取り価格も引き上げられている。これに伴い、旧型チップ搭載モデルから最新チップ搭載モデルへの買い替え需要も高まっている。加えて、AI関連の計算需要増加がメモリーチップ価格の高騰を招き、中国市場では高価な新品スマホよりも中古Apple製スマホの需要が伸びるなど、関連分野全体に価格と供給の動揺をもたらしている。",
         "category": "Tech",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/clyznzrqeggo?at_medium=RSS&at_campaign=rss"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/19/openclaw-demand-in-china-is-driving-up-the-price-of-secondhand-macbooks.html"
       }
     ],
-    "Markets": [],
-    "Geopolitics": [
+    "Markets": [
       {
-        "title": "Oil nears $110 a barrel after gas field strike",
-        "summary_2lines": "イランの南パルスガス田に対する空爆を受け、原油価格が110ドル近くまで急騰した。カタールのラースラファン施設も被害を受け、地域のエネルギー市場の緊張が高まっている。",
-        "why_it_matters": "世界最大のガス田である南パルス/ノースドーム地帯は世界のエネルギー供給にとって極めて重要であり、ここでの攻撃は中東情勢とエネルギー安全保障の不安定化を示している。石油・天然ガスの供給懸念が価格を押し上げ、地域紛争の激化リスクを高める。",
-        "market_impact": "原油価格は一時5%以上上昇し、天然ガス価格も急騰した。これによりエネルギーコストが上がり、世界的なインフレ圧力が強まる可能性がある。米国はジョーンズ法の一時停止で供給の安定化を目指すが、価格高騰の根本要因には届いていない。市場は引き続き地政学的リスクに敏感に反応しボラティリティが高い状態が続くと予想される。",
-        "category": "Geopolitics",
+        "title": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
+        "summary_2lines": "米イラン戦争を背景に原油価格が急騰する中、金や銅など主要コモディティ価格が大幅下落し、投資家の景気後退懸念が高まっている。特に銅の下落は経済成長鈍化のサインと見なされている。",
+        "why_it_matters": "原油高によるインフレ再燃とそれに伴う利上げ継続懸念が、金などの安全資産の魅力を減退させ、加えてドル高が貴金属価格を圧迫している。さらに銅などの産業用金属の価格下落は、世界景気の減速とリセッションリスクの高まりを示唆しており、投資家心理に大きな影響を与えている。",
+        "market_impact": "金価格は金利上昇とドル高を背景に下落したが、国家債務や軍事支出の増加を受けて長期的には回復の可能性がある。一方で、銅を始めとする産業用金属の価格下落は、製造業や建設業など幅広い産業にコスト面や需要面で悪影響を及ぼし、世界経済の成長鈍化リスクを示している。これにより、金融政策や企業業績、投資戦略にも調整圧力が生まれている。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html"
+      },
+      {
+        "title": "Stock markets rattled and energy prices soar after strikes on Qatar gas hub",
+        "summary_2lines": "イランによる中東のエネルギーインフラへの攻撃で、カタールの主要な液化天然ガス（LNG）施設が損傷し、原油･ガス価格が急騰。世界の株式市場は不安定化し、特に英国の株価と国債利回りに大きな影響が出た。",
+        "why_it_matters": "カタールは世界のLNG供給の約20％を占める主要産出国であり、同施設の生産削減は世界的なエネルギー供給の逼迫に直結。米イラン間の緊張や中東情勢の悪化はエネルギー価格の高騰と経済不安を加速させ、消費者や企業のコスト増大、インフレ圧力強化につながるから重要。",
+        "market_impact": "原油・天然ガス価格の急上昇がエネルギー関連企業や輸入依存国のコストを押し上げる一方で、投資家心理悪化から英FTSE100をはじめとする主要株価指数が大幅下落。欧米・日本の国債利回りも急上昇し、特に英国債の利回りは経済混乱の懸念から大幅上昇し、住宅ローン金利等へも波及リスクがある。これらは世界経済の成長見通しを下押しする要因となっている。",
+        "category": "Markets",
         "source": "BBC Business",
         "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Here's what changed in the new Fed statement",
+        "summary_2lines": "連邦公開市場委員会（FOMC）の最新声明では、1月の声明文からの変更点が明確に示された。削除された文言と新たに追加された文言が色分けされ、政策の方向性の変化が読み取れる。",
+        "why_it_matters": "FOMC声明は金融政策の現状と今後の見通しを示す重要な指標であり、利上げや資産購入方針など市場の期待形成に直結する。声明の文言変化は経済の見通しやインフレ・雇用情勢に対するFRBのスタンスの変化を反映するため、投資家や企業に大きな影響を与える。",
+        "market_impact": "声明の変更内容によって金融政策の方向性が示されるため、株式市場、債券市場、為替市場が敏感に反応する。例えば、利上げ継続を示唆する文言の強化ならば金利上昇と米ドル高の可能性が高まり、企業の資金調達コスト増加や消費の減速も懸念される。逆に緩和的な内容であれば市場はリスク選好に傾く可能性がある。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/18/federal-reserve-meeting-statement-march.html"
+      }
+    ],
+    "Geopolitics": [
+      {
+        "title": "US considers lifting sanctions on some Iranian oil",
+        "summary_2lines": "米国はイランの一部石油に対する制裁解除を検討している。これにより短期間だが世界の石油供給増加を目指す動きだ。",
+        "why_it_matters": "ロシア・ウクライナ戦争とイラン情勢によるエネルギー供給の混乱を背景に、米国が従来の厳格な制裁方針を緩和し市場安定を図ろうとしている点が注目される。だが制裁解除はイランへの資金流入や政策の後退といったリスクも伴う。",
+        "market_impact": "制裁解除対象の石油は横流しが可能な既存の積載分中心で、世界需要に対して量は限定的。短期的な価格下落が期待されるが持続性は乏しく、供給増加効果は限定的とみられる。対イラン強硬派の政治的反発や資金流出リスクも市場の不確実性を高める。",
+        "category": "Geopolitics",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why are gas prices soaring and how could it affect you?",
+        "summary_2lines": "カタールの主要な液化天然ガス（LNG）施設がミサイル攻撃を受け、大規模な被害を受けたことで世界のガス価格が急騰している。これにより、供給の長期的な不安定化と英国を含む欧州のエネルギー価格上昇が懸念されている。",
+        "why_it_matters": "このニュースは、中東地域での軍事的緊張がエネルギー供給に直接的な影響を及ぼし、世界のガス市場に重大な混乱をもたらしていることを示している。ガスは世界のエネルギー供給の要であり、特に欧州では価格が電力価格に直結するため、一般消費者の生活コスト上昇や経済全体の不安定化につながる可能性が高い。",
+        "market_impact": "カタールのRas Laffan施設の生産停止により、世界のLNG供給が約17％減少し、ガス価格が11%以上急騰した。これにより、欧州のガス・電力価格が上昇し、関連企業の生産コスト増加や消費者負担の増大が予想される。また、回復までに数年を要する見通しから、エネルギー市場の供給不安定が長期化し、世界のエネルギー市場に深刻な波及効果を及ぼす可能性がある。",
+        "category": "Geopolitics",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cj6d66w0995o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Economy": [
       {
-        "title": "Here's what changed in the new Fed statement",
-        "summary_2lines": "連邦公開市場委員会（FOMC）の最新声明は、1月の声明から変更点を強調している。新旧声明の差分を示すことで、金融政策の方向性を明確にした。",
-        "why_it_matters": "FOMCの声明は米国の金融政策の基調を示し、市場参加者や企業の意思決定に大きな影響を与えるため、変更点の把握は重要である。",
-        "market_impact": "声明の変更内容によっては米国の金利動向や金融環境が変化し、株式市場や債券市場に影響を及ぼす。企業の資金調達コストや消費者の購買力も左右される可能性がある。",
-        "category": "Economy",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/18/federal-reserve-meeting-statement-march.html"
-      },
-      {
-        "title": "US holds interest rates as Iran war triggers oil shock",
-        "summary_2lines": "米連邦準備制度理事会は、イラン戦争に伴う原油価格急騰による経済不透明感とインフレ懸念から、政策金利を3.5%-3.75%の現状で据え置いた。将来的な利下げはインフレ動向次第で慎重に判断すると表明した。",
-        "why_it_matters": "中東情勢の緊迫化が石油価格の上昇を招き、米国内のインフレ圧力を強めている中で、金融政策の舵取りが非常に難しくなっている。これは米経済のみならず、グローバルな物価動向と金融市場に大きな影響を与えるため重要である。",
-        "market_impact": "金利据え置きは借入コストの急激な変動を防ぎつつ、原油高によるコスト上昇が消費者物価を押し上げる見通しで、企業の利益圧迫や消費減速を招くリスクが増大。市場は利下げ織り込みを後退させ、経済成長の先行き不透明感も強まっている。",
-        "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c36364d06x3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Fed votes to hold rates steady, notes 'uncertain' impacts from Iran war",
-        "summary_2lines": "米連邦準備制度理事会（FRB）は政策金利を3.5%-3.75%で据え置きと決定。イラン戦争によるエネルギー価格上昇など不確実要素が残る中、2026年にかけて若干の利下げを見込む。",
-        "why_it_matters": "インフレ抑制と景気維持のバランスを探る米政策金利の動向は、世界経済や金融市場に大きな影響を与える。特に中東情勢による原油価格の上昇がインフレを押し上げ、今後の金融政策判断を不透明にしているため重要。",
-        "market_impact": "利上げ停止は金融・企業の借入コストを安定させるが、戦争によるエネルギー価格高騰がインフレ押し上げ圧力を継続。市場では景気鈍化とインフレ懸念が交錯し、一時的に株価が下落。今後の利下げ期待が後退したことで債券利回りやドル相場も影響を受けやすい。",
-        "category": "Economy",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/18/fed-interest-rate-decision-march-2026.html"
-      },
-      {
-        "title": "Here are the five key takeaways from this week's Fed meeting",
-        "summary_2lines": "米連邦準備制度理事会は政策金利を据え置きし、経済見通しに微調整を加えたが、今後の利下げ時期は不透明。パウエル議長はウクライナ情勢など不確実性を強調し、スターグフレーション懸念を否定した。",
-        "why_it_matters": "米国の金融政策はグローバル経済に大きな影響を与える。今回の会合で利下げが予想されながらも明確な方向性が示されず、不確実性が増したことで投資家や企業の意思決定に影響が及ぶ。さらに、地政学的緊張が経済見通しに予想外のリスクをもたらすことも重要な背景である。",
-        "market_impact": "今後の利下げが遅れる可能性や、政策の不透明感が続くことで金融市場のボラティリティが高まる恐れがある。企業は資金調達コストや消費動向の見通しに慎重になり、経済全体にもやや慎重な姿勢が広がる。また、エネルギー価格の不確実性はインフレ圧力を変動させ、政策運営の難しさを増す要因となる。",
-        "category": "Economy",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/18/here-are-the-five-key-takeaways-from-this-weeks-fed-meeting.html"
-      },
-      {
         "title": "Fed still expects to cut rates once this year despite spiking oil prices",
-        "summary_2lines": "連邦準備制度理事会（Fed）は、イラン戦争に伴う原油価格の急騰にもかかわらず、今年1回の利下げを見込んでいる。メンバーの予想は減少幅が縮小し、利下げ回数は2回から1回に修正された。",
-        "why_it_matters": "Fedの利上げ・利下げの見通しは経済全体の資金コストやインフレ期待に直接影響し、投資や消費行動に重要な指標となる。特に原油価格の急騰はインフレ圧力を加速させ、金融政策の調整を複雑化させているため、市場参加者にとっては今後の政策動向を理解する上で重要なニュースである。",
-        "market_impact": "利下げが減少し、利上げの持続または据え置きの可能性が高まったため、債券市場では長期金利が安定または上昇圧力を受ける可能性がある。株式市場は引き続き慎重な展開が予想され、特にエネルギー関連企業は原油価格上昇の恩恵を受ける一方、消費関連企業はコスト高が逆風となる可能性がある。経済全体では、インフレの持続が消費者購買力を圧迫し、成長ペースに不透明感をもたらす可能性がある。",
+        "summary_2lines": "米連邦準備制度理事会（FRB）は、イラン紛争による原油価格の上昇にもかかわらず、今年1回の利下げを見込んでいる。政策金利は現状維持され、市場予想も利下げ回数が減少傾向にある。",
+        "why_it_matters": "FRBの金融政策は世界経済に大きな影響を与えるため、利下げ予測の変動はインフレや成長見通し、投資環境を左右する重要な指標となる。特に原油価格の上昇はインフレ圧力を強め、利下げ余地を狭めるため今後の経済運営の難しさを示している。",
+        "market_impact": "利下げ回数の見直しや政策金利の据え置きは、金融市場でのリスク評価を変化させ、株式や債券市場のボラティリティに影響を及ぼす。企業の借入コストや消費者の支出意欲にも影響し、経済成長のペースやインフレ動向にも波及効果が及ぶ可能性がある。",
         "category": "Economy",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/18/dot-plot-fed-still-expects-to-cut-rates-once-this-year-despite-spiking-oil-prices-.html"
       },
       {
-        "title": "Average age of first time buyer climbs to 34",
-        "summary_2lines": "イングランドの初めて住宅を購入する人の平均年齢が34歳に上昇し、若年層の住宅取得が困難になっている。特に25歳未満の購入者割合は大幅に減少し、親からの資金援助も増加している。",
-        "why_it_matters": "住宅価格の上昇や頭金の増加により、若年層が独立して住宅を所有することが難しくなっていることは、個人の生活設計や経済的安定性に直結する重要な社会課題である。これにより世代間の資産格差が拡大し、将来的な住宅市場や消費動向にも影響を与える可能性があるため注目される。",
-        "market_impact": "住宅取得のハードル上昇は、住宅ローン市場の長期契約増加や親からの資金援助の増加という形で金融市場に影響を及ぼす。加えて、地域ごとの住宅価格の大きな差は不動産投資や地域経済格差を拡大させ、住宅関連企業は商品の品質や住宅タイプの見直しを迫られることになる。",
+        "title": "Here are the five key takeaways from this week's Fed meeting",
+        "summary_2lines": "FRBは政策金利を据え置きし、経済見通しに不確実性が強調された。パウエル議長は利下げの可能性を示した一方で、景気停滞の懸念は否定した。",
+        "why_it_matters": "FRBの金利政策は米経済とグローバル市場に大きな影響を与える。現状の不確実性や地政学リスクが高まる中で、今後の金融政策の方向性が不透明であり、投資家や企業は慎重な姿勢を求められているため重要だ。",
+        "market_impact": "利上げ・利下げ見通しのばらつきや戦争リスクの存在により、市場のボラティリティが増す可能性がある。企業は資金調達コストの変動に備え、投資や雇用計画を柔軟に調整する必要がある。景気後退懸念は限定的とされながらも、慎重な金融政策運営が経済活動に影響を与えるだろう。",
         "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cge8e2dq9plo?at_medium=RSS&at_campaign=rss"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/18/here-are-the-five-key-takeaways-from-this-weeks-fed-meeting.html"
       },
       {
-        "title": "How high could UK petrol and diesel prices go?",
-        "summary_2lines": "英国のガソリン・ディーゼル価格は、米・イスラエルとイランの戦争による中東地域の供給障害で急騰中。今後も原油価格の高止まりにより燃料と関連する物価が上昇する見込み。  ",
-        "why_it_matters": "英国は原油・ガスの多くを輸入に頼っており、中東情勢の不安定化が原油価格を押し上げることで国内の燃料費が上昇。燃料価格上昇は物流費や肥料などの間接コストを通じて食料品など生活必需品の価格上昇やインフレ圧力につながりやすいため、家計や景気に幅広い影響が及ぶ恐れがある。",
-        "market_impact": "原油価格上昇に伴い英国のガソリン・ディーゼル価格が既に大幅に上昇しており、RACは引き続き燃料価格の高騰を予測。これにより小売や物流企業のコスト増加が予想され、消費者物価指数（CPI）の上昇要因となる可能性が高い。エネルギー料金の価格抑制策により短期的な家計負担は一部緩和するが、長期化すれば電力・ガスの料金にも波及し、インフレや金融政策に影響を与えるリスクがある。",
+        "title": "Bank ready to raise interest rates if Iran war price 'shock' persists",
+        "summary_2lines": "イラン情勢に伴うエネルギー価格上昇を受け、イングランド銀行は現状の金利3.75%を維持しつつ、物価上昇が続くならば利上げを辞さない姿勢を示した。経済へのショックを見極めるため、全委員が一時的に利上げ・利下げを見送った。",
+        "why_it_matters": "中東の紛争はエネルギー供給に影響を与え、インフレ圧力を高めることで金融政策に大きな影響を及ぼしている。物価上昇を抑制して経済の安定を守るために、中央銀行の金利政策が転換点を迎えていることが背景にある。",
+        "market_impact": "石油・ガス価格の高騰によりインフレが加速し、住宅ローン金利の上昇や貸出条件の厳格化を招いている。金融市場は今後の利上げに備え警戒感を強め、消費者や企業の支出抑制や投資判断に影響を与える可能性が高い。米欧の中央銀行も足並みを揃え、金融引き締めの姿勢を示している。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Faisal Islam: Iran war is having a dramatic effect on the UK economy",
+        "summary_2lines": "イランでの戦争が英国経済に劇的な影響を及ぼしており、エネルギー価格の急騰からインフレ率の上昇と住宅ローン市場の混乱を引き起こしている。イングランド銀行は利上げ見送りとしつつも、不透明な状況が続いていると警戒を示した。",
+        "why_it_matters": "英国はイランのガスを直接輸入していないにもかかわらず、中東の地政学的リスクがエネルギー価格を押し上げ、インフレと長期金利に波及している。これが住宅ローン市場にまで影響を及ぼし、経済の先行きに大きな不確実性をもたらしているため、政策対応や市場の動向が重要な注目点となっている。",
+        "market_impact": "イングランド銀行が期待されていた利下げを見送り、長期金利が急上昇したことで政府の借入コストが増加。住宅ローンの固定金利が上昇し、借り入れ条件が悪化して住宅市場の停滞を招いている。さらに、エネルギー価格上昇によるインフレ増加が家計の負担を押し上げ、消費抑制や経済成長鈍化のリスクが高まっている。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c33lnd1gxxro?at_medium=RSS&at_campaign=rss"
       }
     ],
-    "Corporate": [
-      {
-        "title": "JPMorgan Chase taps Dwyane Wade, Tom Brady for new athlete wealth management push",
-        "summary_2lines": "JPMorgan Chase has launched the Athlete Council, led by Dwyane Wade and featuring top athletes like Tom Brady, to develop tailored wealth management programs for athletes. This initiative aims to address the financial challenges professional athletes face after short careers and sudden wealth.",
-        "why_it_matters": "Many professional athletes struggle with financial instability due to lack of personal finance education and the brief nature of their earnings window. By involving high-profile athletes in creating support programs, JPMorgan seeks to provide targeted financial guidance that can help prevent bankruptcy and improve long-term financial security for athletes.",
-        "market_impact": "This initiative positions JPMorgan Chase as a leader in the niche market of athlete wealth management, enhancing its brand among high-net-worth clients and potentially capturing new business in the growing segment of athlete entrepreneurs and investors. It also increases competition among banks and wealth managers pursuing athlete clientele, likely driving innovation in personalized financial services.",
-        "category": "Corporate",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/18/jpmorgan-athlete-wealth-management-tom-brady-dwyane-wade.html"
-      }
-    ]
+    "Corporate": []
   }
 }
