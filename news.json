@@ -1,151 +1,150 @@
 {
-  "generated_at_jst": "2026-03-21 07:16",
+  "generated_at_jst": "2026-03-22 07:12",
   "todays_brief": [
     {
-      "title": "Fed Governor Waller urges caution for now, says rate cuts possible later in the year",
-      "summary_2lines": "連邦準備制度理事のウォラー氏は現時点での景気状況に慎重な姿勢を示す一方、年内の利下げの可能性を否定していない。労働市場の動向とイラン情勢の不確実性が判断を保留させている。",
-      "why_it_matters": "米国の金融政策は世界経済に大きな影響を持ち、利下げの可能性が示されることで市場の期待が変動する。ウォラー氏の慎重発言は、利下げがすぐには実施されない可能性を示唆し、経済の先行き不透明感を反映しているため重要である。",
-      "market_impact": "当面は利下げ期待の後退により長期金利の上昇圧力が続く可能性がある。エネルギー価格高騰や地政学的リスクが懸念材料となり、株式市場のボラティリティが高まる恐れがある一方、景気後退リスクが高まれば年後半にかけて利下げ期待が再燃し市場が反応する可能性もある。",
-      "category": "Economy",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/20/fed-gov-waller-urges-caution-for-now-cuts-possible-later-in-the-year.html"
-    },
-    {
-      "title": "Here are the five key takeaways from this week's Fed meeting",
-      "summary_2lines": "FRBは政策金利を据え置き、経済見通しや政策方針の不確実性を強調。パウエル議長は利下げの可能性を示唆しつつ、今後の状況を慎重に見極める姿勢を示した。",
-      "why_it_matters": "FRBの金融政策は米国経済のみならず世界経済に大きな影響を与える。今回、ウクライナ・イラン情勢という地政学的リスクが政策判断を難しくしており、金融市場の見通しにも不透明感が増しているため、今後の政策動向は投資家や企業にとって重要な指標となる。",
-      "market_impact": "金利据え置きにより短期的な市場の安定が期待されるが、利下げの時期が不確実であるためボラティリティは高まる可能性がある。特にエネルギー価格の急変動が企業収益やインフレ動向に影響し、投資判断に慎重さが求められる。通貨相場や株式市場にも調整圧力がかかる局面が予想される。",
-      "category": "Economy",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/18/here-are-the-five-key-takeaways-from-this-weeks-fed-meeting.html"
-    },
-    {
-      "title": "Small cap-focused Russell 2000 becomes first U.S. benchmark to enter correction territory",
-      "summary_2lines": "ラッセル2000指数が10%以上下落し、2026年に入り最初の米国主要ベンチマークとして調整局面入りを記録した。イラン紛争による原油価格急騰と経済減速懸念が背景にある。",
-      "why_it_matters": "小型株は経済の先行指標とされ、特に景気減速やエネルギー価格の変動に敏感であるため、ラッセル2000の調整入りは経済成長の鈍化や市場の不安定化を示す重要なシグナルとなる。大型株に比べて影響を受けやすい点から、今後の市場動向の先読みに役立つ。",
-      "market_impact": "小型株を中心に資金流出やリスク回避の動きが強まり、関連セクターの企業業績に悪影響が及ぶ可能性がある。また、原油価格の上昇は生産コスト増加やインフレ圧力の強化をもたらし、経済全体の成長見通しを厳しくするため、市場全体のボラティリティが高まる恐れがある。",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/20/small-cap-russell-2000-enters-correction-territory.html"
-    },
-    {
       "title": "UK borrowing costs hit highest level since 2008 financial crisis",
-      "summary_2lines": "英国の政府長期借入金利が2008年金融危機以来の高水準となり、公的債務コストが急増。エネルギー価格の高騰と中東情勢の悪化が財政負担を強め、追加的なエネルギー支援策の可能性が低下している。",
-      "why_it_matters": "政府の借入金利上昇は財政の持続可能性や社会保障支出の余力に直接影響する。中東の地政学的リスクによるエネルギー価格高騰がインフレと借入コストを押し上げ、経済成長への懸念が強まる中、財政政策の選択肢が限定されることで国民生活および市場に大きな影響を及ぼす可能性がある。",
-      "market_impact": "借入コスト増大により政府の債務返済負担が膨らみ、公共支出の削減圧力が強まる。エネルギー補助金の縮小が消費者支出減少を招き、経済成長を鈍化させる恐れがある。市場では国債売り圧力が増し、投資家のリスク回避姿勢を促進。金融政策にも制約が出るため、金利上昇が続けば企業の借入コストも高まり、景気全体に下押し圧力がかかる可能性がある。",
+      "summary_2lines": "英国の国債利回りが2008年金融危機以来の高水準に達し、2月の政府借入額は予想を大幅に上回った。エネルギー価格の高騰やインフレ、金利上昇が財政への大きな圧力となっている。",
+      "why_it_matters": "米イスラエルとイランの紛争によるエネルギー価格の急騰が英国の借入コストを押し上げ、政府の財政負担が増大。財政支援の余裕が乏しくなり、経済の不確実性や家計への影響拡大が懸念されるため重要である。",
+      "market_impact": "国債利回りの上昇は政府の借入コスト増を意味し、債券市場の不安定化や金利の上昇圧力に繋がる。財政支援の縮小は消費減退や景気後退リスクを高め、エネルギー関連企業や公共サービス支出にも影響が及ぶ可能性がある。",
       "category": "Economy",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
+      "summary_2lines": "原油価格の上昇に伴い、金・銀・銅など幅広いコモディティ価格が急落。投資家はインフレ再燃や景気後退リスクに懸念を強めている。",
+      "why_it_matters": "米・イラン戦争による原油価格の高騰が世界経済の成長見通しを悪化させており、これがインフレ持続や金利上昇を招いているため、非利子資産の金は魅力を失い、銅などの産業用金属価格の下落は景気減速・リセッション懸念を示す指標となっている。",
+      "market_impact": "金利上昇とドル高が貴金属の価格下落圧力となり、原油高によるコスト増と消費・投資抑制で銅など産業用金属の需要減少が示唆される。これによりコモディティ関連企業の収益悪化や市場全体のリスク回避ムードが強まり、資産配分や投資戦略に影響が出る可能性が高い。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html"
+    },
+    {
+      "title": "Small cap-focused Russell 2000 becomes first U.S. benchmark to enter correction territory",
+      "summary_2lines": "Russell 2000指数は高値から10.9%下落し、2026年で初めて米国主要株価指数で調整局面に突入した。イラン情勢による原油価格急騰が小型株に特に打撃を与えている。",
+      "why_it_matters": "小型株は経済成長の鈍化や景気後退、スタグフレーションの影響を大きく受けやすく、今回の調整入りは米経済の先行き不透明感の強まりを示している。主要指数に先駆けて調整局面に入ったことは投資家のリスク意識の高まりを反映している。",
+      "market_impact": "小型株は景気敏感セクターの比率が高いため、原油価格の急上昇や地政学リスクが企業業績にマイナスに働く可能性が高い。これにより他の指数も調整入りする恐れがあり、投資家は分散投資や防御的ポジションを強化する動きが想定される。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/20/small-cap-russell-2000-enters-correction-territory.html"
+    },
+    {
       "title": "Work from home and drive more slowly to save energy, global body urges",
-      "summary_2lines": "国際エネルギー機関（IEA）は世界的にエネルギー消費を抑えるため、自宅勤務や速度制限の強化などの10の具体策を提案。現在の湾岸地域の紛争による供給不安がエネルギー安全保障の危機を深刻化させていると警告している。",
-      "why_it_matters": "エネルギー価格の高騰はグローバル経済の回復を妨げる要因となっており、供給不安が長期化する可能性が高い。IEAの提言は生活様式と企業活動に大きな影響を与えるだけでなく、世界的なエネルギー安全保障と環境政策の転換期を示している。特に石油供給の不確実性と代替エネルギーへのシフトが今後のエネルギー市場と国際政治の構図を決定づける。",
-      "market_impact": "自動車業界は走行効率化やEV推進にさらに投資を加速させ、航空業界はビジネス需要の減少に対応せざるを得なくなる。エネルギー市場では石油供給不安から価格の不安定化が続き、投資家のリスク回避が強まる可能性。また政府の政策転換により再生可能エネルギーセクターへの資金流入が増加し、長期的なエネルギー市場の構造変化を促すだろう。",
-      "category": "Geopolitics",
+      "summary_2lines": "国際エネルギー機関（IEA）は、エネルギー価格の高騰に対応し、在宅勤務推奨や速度制限の引き下げなど10のエネルギー削減策を各国に提案した。戦略には公共交通の促進や燃料効率改善も含まれ、エネルギー危機への対応が急務とされている。",
+      "why_it_matters": "ロシア・ウクライナ紛争による中東および湾岸地域のエネルギー供給不安が世界的なエネルギー価格高騰を引き起こし、経済活動や生活コストに大きな影響を及ぼしている。IEAの提案は、異常な価格高騰に際して持続可能なエネルギー使用と安全保障を確保するため、各国政府や個人の行動変容を促す重要な指針となる。",
+      "market_impact": "燃料コストの高止まりが交通産業、製造業、消費者の購買力に圧力をかける中、IEAの勧告はエネルギー関連セクターに省エネ技術や再生可能エネルギーへのシフトを加速させる可能性が高い。油価の安定化に向けた備蓄放出も短期的に市場の需給緩和を図るが、中長期的にはインフラ復旧と新技術投資に注目が集まる。",
+      "category": "Economy",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/cvg4540d0g4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Fed Governor Waller urges caution for now, says rate cuts possible later in the year",
+      "summary_2lines": "FRBのウォーラー理事は現時点で利下げに慎重な姿勢を示すも、労働市場の悪化とインフレ動向次第で年内に利下げを支持する可能性を示唆。イラン情勢と高騰する原油価格が市場の利下げ期待を後退させている。",
+      "why_it_matters": "FRBの金利政策は米国経済の景気動向やインフレに大きな影響を与えるため、ウォーラー理事の慎重ながらも柔軟な姿勢は市場の今後の金融政策予測に重要な示唆を与える。地政学リスクと労働市場の動向も政策判断の鍵となる背景がある。",
+      "market_impact": "市場は現在2026年まで利下げ期待をほぼ織り込んでいないが、労働市場がさらに悪化しインフレが落ち着けば利下げ観測が強まる可能性がある。原油高や地政学リスクは企業のコスト負担増と消費心理冷え込みをもたらし、経済成長の足かせになるおそれがある。",
+      "category": "Economy",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/20/fed-gov-waller-urges-caution-for-now-cuts-possible-later-in-the-year.html"
     }
   ],
   "categories": {
-    "Tech": [
-      {
-        "title": "Hargreaves Lansdown says IT issues which affected thousands are over",
-        "summary_2lines": "英国大手投資プラットフォームのHargreaves Lansdownは数千人の顧客が影響を受けたITトラブルが解消したと発表。資産とデータの安全性は確保されているとした。",
-        "why_it_matters": "同社は200万人の資産を管理する英国最大の個人投資プラットフォームであり、年末の繁忙期にトラブルが発生したため、顧客の資産運用に大きな支障が生じた。特に相場変動が激しい時期であり、迅速な取引や資産管理ができないことは顧客の損失リスクにつながる。",
-        "market_impact": "トラブルにより個人投資家の取引機会が奪われ、顧客の一部からは損失や補償要求の声が出ている。競合他社への顧客流出リスクもあり、同社の信頼性とブランドイメージに悪影響を及ぼす可能性が高い。英国の個人投資市場全体にも一時的な混乱が生じたと推測される。",
-        "category": "Tech",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cx2reyjdyjzo?at_medium=RSS&at_campaign=rss"
-      }
-    ],
+    "Tech": [],
     "Markets": [
       {
+        "title": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
+        "summary_2lines": "原油価格の上昇に伴い、金・銀・銅など幅広いコモディティ価格が急落。投資家はインフレ再燃や景気後退リスクに懸念を強めている。",
+        "why_it_matters": "米・イラン戦争による原油価格の高騰が世界経済の成長見通しを悪化させており、これがインフレ持続や金利上昇を招いているため、非利子資産の金は魅力を失い、銅などの産業用金属価格の下落は景気減速・リセッション懸念を示す指標となっている。",
+        "market_impact": "金利上昇とドル高が貴金属の価格下落圧力となり、原油高によるコスト増と消費・投資抑制で銅など産業用金属の需要減少が示唆される。これによりコモディティ関連企業の収益悪化や市場全体のリスク回避ムードが強まり、資産配分や投資戦略に影響が出る可能性が高い。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html"
+      },
+      {
         "title": "Small cap-focused Russell 2000 becomes first U.S. benchmark to enter correction territory",
-        "summary_2lines": "ラッセル2000指数が10%以上下落し、2026年に入り最初の米国主要ベンチマークとして調整局面入りを記録した。イラン紛争による原油価格急騰と経済減速懸念が背景にある。",
-        "why_it_matters": "小型株は経済の先行指標とされ、特に景気減速やエネルギー価格の変動に敏感であるため、ラッセル2000の調整入りは経済成長の鈍化や市場の不安定化を示す重要なシグナルとなる。大型株に比べて影響を受けやすい点から、今後の市場動向の先読みに役立つ。",
-        "market_impact": "小型株を中心に資金流出やリスク回避の動きが強まり、関連セクターの企業業績に悪影響が及ぶ可能性がある。また、原油価格の上昇は生産コスト増加やインフレ圧力の強化をもたらし、経済全体の成長見通しを厳しくするため、市場全体のボラティリティが高まる恐れがある。",
+        "summary_2lines": "Russell 2000指数は高値から10.9%下落し、2026年で初めて米国主要株価指数で調整局面に突入した。イラン情勢による原油価格急騰が小型株に特に打撃を与えている。",
+        "why_it_matters": "小型株は経済成長の鈍化や景気後退、スタグフレーションの影響を大きく受けやすく、今回の調整入りは米経済の先行き不透明感の強まりを示している。主要指数に先駆けて調整局面に入ったことは投資家のリスク意識の高まりを反映している。",
+        "market_impact": "小型株は景気敏感セクターの比率が高いため、原油価格の急上昇や地政学リスクが企業業績にマイナスに働く可能性が高い。これにより他の指数も調整入りする恐れがあり、投資家は分散投資や防御的ポジションを強化する動きが想定される。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/20/small-cap-russell-2000-enters-correction-territory.html"
       },
       {
-        "title": "Trump-backed television merger moves forward",
-        "summary_2lines": "トランプ支持のNexstarが6.2億ドルでTegnaを買収し、米国家庭の80%にリーチ可能な巨大テレビネットワークを形成。FCCが規制緩和し承認したが、地元ニュースの多様性低下や料金上昇を懸念し法的な争いが続く。",
-        "why_it_matters": "この合併は米国内のテレビ放送業界の勢力図を大きく変え、ローカルニュースの独立性や多様性が失われる可能性がある。FCCの規制緩和は既存の視聴率制限を突破しメディア集中化を促進しており、地元報道の質や視聴者コストの面で影響が懸念される。",
-        "market_impact": "Nexstarは地域放送の最大手として影響力を拡大し、広告・配信料金の値上げ圧力が高まる。競合他社や消費者にはコスト増やニュース多様性の減少リスクが生じ、法的な争いの結果次第で市場の再編や規制の見直しもあり得る。衛星テレビディレクTVなども訴訟に加わり業界全体の緊張が高まる。",
+        "title": "SEC Commissioner Hester Peirce on ETFs: 'We want to work with people on new products'",
+        "summary_2lines": "SEC委員のヘスター・ピアスが暗号資産やトークン化に関連する新しいETF商品について、ウォール街と協力して進めたい意向を示した。投資家保護を重視しつつ、新商品の実験や開発に対してオープンな姿勢を示している。",
+        "why_it_matters": "SECが暗号資産やトークン化に関連したETF商品に対して規制の枠組みを柔軟にし、業界と協働して新商品開発を促進しようとしていることは、これらの分野の規制環境の変化を示す重要なシグナルである。投資家保護と革新のバランスを模索する中で、市場の新たな成長機会が生まれる可能性が高まるため注目される。",
+        "market_impact": "ETFを通じた暗号資産やトークン化金融商品の普及が進み、新たな資金流入や投資機会が創出されることが期待される。金融機関や資産運用会社は、規制環境が整備されることで新商品開発のハードルが下がり、競争力強化につながる一方、投資家保護のルール整備により信頼性も向上し、より広範なリテール投資家の参加も促されるだろう。",
         "category": "Markets",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cx2dndp7z12o?at_medium=RSS&at_campaign=rss"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/21/crypto-tokenization-and-etfs-secs-peirce-indicates-openness.html"
       },
       {
         "title": "OpenClaw demand in China is driving up the price of used MacBooks",
-        "summary_2lines": "中国でOpenClawというAIツールの需要急増が中古MacBookの価格上昇を引き起こしている。ユーザーはセキュリティリスクを避けるため中古のMacを購入し、Apple製品の需要が高まっている。",
-        "why_it_matters": "OpenClawの利用拡大は個人情報保護の観点からデバイスセキュリティに影響を与え、さらにAI普及による関連ハードウェア市場の需給バランスを変動させている。特に中国市場でのAI需要集中はグローバルな技術トレンドと消費動向を象徴している。",
-        "market_impact": "中古MacBookの価格が例年春季の下落傾向に反して高止まりし、Apple製品全体の中古市場活性化を促している。ATRenewは買取価格を上げることで在庫確保に動き、結果的にAppleチップ搭載機の需要が強化される見込み。半導体市場でもAI需要に伴うメモリチップ価格上昇が消費者の購買行動を変えており、中国におけるApple製品優位性を押し上げている。",
+        "summary_2lines": "中国でAIツールOpenClawの急速な普及により中古MacBookの需要が高まり、価格が上昇している。これにより中古Apple製品の取扱量や買い取り価格も増加している。",
+        "why_it_matters": "OpenClawの利用者が増加する中国市場において、新たなAI需要がハードウェア市場に直接影響を与えている。さらに、セキュリティリスクから高性能なMac製品の需要が高まり、消費者のIT製品購買動向に変化が見られる。",
+        "market_impact": "中古MacBookの価格上昇と取扱量増加により、Apple製品の中古市場が活性化。ATRenewなどのリセラーが買い取り価格を引き上げることで供給が増え、関連チップやメモリの需要拡大も加速。Apple製品の中国での市場シェア強化と中古PC市場全体の成長につながる可能性が高い。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/19/openclaw-demand-in-china-is-driving-up-the-price-of-secondhand-macbooks.html"
-      },
-      {
-        "title": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
-        "summary_2lines": "米国とイランの戦争による原油価格の高騰を背景に、金・銀をはじめ銅やパラジウムなど主要コモディティ価格が大幅下落した。市場はインフレ再燃と景気後退リスクの高まりを懸念している。",
-        "why_it_matters": "戦争による原油高は世界経済にインフレと成長鈍化の二重圧力をもたらし、金利上昇やドル高を誘発。これらが非利回り資産の金価格を押し下げ、産業用銅価格の下落は経済減速のシグナルとして市場の不安を増幅させている。投資家にとって重要な景気判断材料となる。",
-        "market_impact": "原油価格高騰とそれに伴う利上げ・ドル高により、金銀は安全資産としての魅力を失い価格が下落。銅などの工業金属価格低下は経済活動縮小を示唆し、景気後退リスクを示唆。これにより企業の生産や投資判断に影響し、幅広い市場に不透明感が広がっている。金は依然として債務増大のヘッジとして買われる可能性もある。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html"
       }
     ],
-    "Geopolitics": [
-      {
-        "title": "Work from home and drive more slowly to save energy, global body urges",
-        "summary_2lines": "国際エネルギー機関（IEA）は世界的にエネルギー消費を抑えるため、自宅勤務や速度制限の強化などの10の具体策を提案。現在の湾岸地域の紛争による供給不安がエネルギー安全保障の危機を深刻化させていると警告している。",
-        "why_it_matters": "エネルギー価格の高騰はグローバル経済の回復を妨げる要因となっており、供給不安が長期化する可能性が高い。IEAの提言は生活様式と企業活動に大きな影響を与えるだけでなく、世界的なエネルギー安全保障と環境政策の転換期を示している。特に石油供給の不確実性と代替エネルギーへのシフトが今後のエネルギー市場と国際政治の構図を決定づける。",
-        "market_impact": "自動車業界は走行効率化やEV推進にさらに投資を加速させ、航空業界はビジネス需要の減少に対応せざるを得なくなる。エネルギー市場では石油供給不安から価格の不安定化が続き、投資家のリスク回避が強まる可能性。また政府の政策転換により再生可能エネルギーセクターへの資金流入が増加し、長期的なエネルギー市場の構造変化を促すだろう。",
-        "category": "Geopolitics",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cvg4540d0g4o?at_medium=RSS&at_campaign=rss"
-      }
-    ],
+    "Geopolitics": [],
     "Economy": [
       {
+        "title": "UK borrowing costs hit highest level since 2008 financial crisis",
+        "summary_2lines": "英国の国債利回りが2008年金融危機以来の高水準に達し、2月の政府借入額は予想を大幅に上回った。エネルギー価格の高騰やインフレ、金利上昇が財政への大きな圧力となっている。",
+        "why_it_matters": "米イスラエルとイランの紛争によるエネルギー価格の急騰が英国の借入コストを押し上げ、政府の財政負担が増大。財政支援の余裕が乏しくなり、経済の不確実性や家計への影響拡大が懸念されるため重要である。",
+        "market_impact": "国債利回りの上昇は政府の借入コスト増を意味し、債券市場の不安定化や金利の上昇圧力に繋がる。財政支援の縮小は消費減退や景気後退リスクを高め、エネルギー関連企業や公共サービス支出にも影響が及ぶ可能性がある。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Typical energy bill forecast to rise by £332 a year in July",
-        "summary_2lines": "7月からのエネルギー料金が典型的な世帯で年額約£332上昇すると予測されている。価格上昇は中東情勢の不安定化による原油・天然ガス価格の高騰が主因だ。",
-        "why_it_matters": "エネルギー価格の上昇は生活コストの増加をもたらし、消費者の経済負担を直撃する。特に低所得層や脆弱な世帯への影響が懸念され、政府の支援政策の是非や資源価格の国際情勢が国内経済の安定に直結している。",
-        "market_impact": "電力・ガス業界では料金上昇分が収益に反映される一方、消費者支出の抑制による経済全体の節約志向が強まりうる。政府支援策の財政負担増加や、エネルギーコスト高騰がインフレ圧力を強め、企業のコスト構造にも影響を与える可能性がある。",
+        "summary_2lines": "7月にイギリスの典型的な家庭の年間エネルギー料金が£332上昇し、約£1,973になるとエネルギーコンサルタントが予測した。価格上昇は中東情勢の影響による原油・ガス価格の急騰が主な要因である。",
+        "why_it_matters": "エネルギー料金の上昇は家計負担の増加をもたらし、特に低所得層や脆弱な世帯に深刻な影響を与える。政府の支援政策のあり方が問われており、経済全体の消費動向やインフレ圧力に影響を及ぼす可能性が高い。",
+        "market_impact": "エネルギー価格の上昇は関連するエネルギー企業の収益増加をもたらす一方で、消費者支出の抑制やインフレ悪化を招き、経済成長の足かせとなる可能性がある。政府支援の財政負担増加も財政政策に影響する見込み。",
         "category": "Economy",
         "source": "BBC Business",
         "url": "https://www.bbc.com/news/articles/cede1nn8wp5o?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Work from home and drive more slowly to save energy, global body urges",
+        "summary_2lines": "国際エネルギー機関（IEA）は、エネルギー価格の高騰に対応し、在宅勤務推奨や速度制限の引き下げなど10のエネルギー削減策を各国に提案した。戦略には公共交通の促進や燃料効率改善も含まれ、エネルギー危機への対応が急務とされている。",
+        "why_it_matters": "ロシア・ウクライナ紛争による中東および湾岸地域のエネルギー供給不安が世界的なエネルギー価格高騰を引き起こし、経済活動や生活コストに大きな影響を及ぼしている。IEAの提案は、異常な価格高騰に際して持続可能なエネルギー使用と安全保障を確保するため、各国政府や個人の行動変容を促す重要な指針となる。",
+        "market_impact": "燃料コストの高止まりが交通産業、製造業、消費者の購買力に圧力をかける中、IEAの勧告はエネルギー関連セクターに省エネ技術や再生可能エネルギーへのシフトを加速させる可能性が高い。油価の安定化に向けた備蓄放出も短期的に市場の需給緩和を図るが、中長期的にはインフラ復旧と新技術投資に注目が集まる。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cvg4540d0g4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Fed Governor Waller urges caution for now, says rate cuts possible later in the year",
-        "summary_2lines": "連邦準備制度理事のウォラー氏は現時点での景気状況に慎重な姿勢を示す一方、年内の利下げの可能性を否定していない。労働市場の動向とイラン情勢の不確実性が判断を保留させている。",
-        "why_it_matters": "米国の金融政策は世界経済に大きな影響を持ち、利下げの可能性が示されることで市場の期待が変動する。ウォラー氏の慎重発言は、利下げがすぐには実施されない可能性を示唆し、経済の先行き不透明感を反映しているため重要である。",
-        "market_impact": "当面は利下げ期待の後退により長期金利の上昇圧力が続く可能性がある。エネルギー価格高騰や地政学的リスクが懸念材料となり、株式市場のボラティリティが高まる恐れがある一方、景気後退リスクが高まれば年後半にかけて利下げ期待が再燃し市場が反応する可能性もある。",
+        "summary_2lines": "FRBのウォーラー理事は現時点で利下げに慎重な姿勢を示すも、労働市場の悪化とインフレ動向次第で年内に利下げを支持する可能性を示唆。イラン情勢と高騰する原油価格が市場の利下げ期待を後退させている。",
+        "why_it_matters": "FRBの金利政策は米国経済の景気動向やインフレに大きな影響を与えるため、ウォーラー理事の慎重ながらも柔軟な姿勢は市場の今後の金融政策予測に重要な示唆を与える。地政学リスクと労働市場の動向も政策判断の鍵となる背景がある。",
+        "market_impact": "市場は現在2026年まで利下げ期待をほぼ織り込んでいないが、労働市場がさらに悪化しインフレが落ち着けば利下げ観測が強まる可能性がある。原油高や地政学リスクは企業のコスト負担増と消費心理冷え込みをもたらし、経済成長の足かせになるおそれがある。",
         "category": "Economy",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/20/fed-gov-waller-urges-caution-for-now-cuts-possible-later-in-the-year.html"
-      },
-      {
-        "title": "Here are the five key takeaways from this week's Fed meeting",
-        "summary_2lines": "FRBは政策金利を据え置き、経済見通しや政策方針の不確実性を強調。パウエル議長は利下げの可能性を示唆しつつ、今後の状況を慎重に見極める姿勢を示した。",
-        "why_it_matters": "FRBの金融政策は米国経済のみならず世界経済に大きな影響を与える。今回、ウクライナ・イラン情勢という地政学的リスクが政策判断を難しくしており、金融市場の見通しにも不透明感が増しているため、今後の政策動向は投資家や企業にとって重要な指標となる。",
-        "market_impact": "金利据え置きにより短期的な市場の安定が期待されるが、利下げの時期が不確実であるためボラティリティは高まる可能性がある。特にエネルギー価格の急変動が企業収益やインフレ動向に影響し、投資判断に慎重さが求められる。通貨相場や株式市場にも調整圧力がかかる局面が予想される。",
-        "category": "Economy",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/18/here-are-the-five-key-takeaways-from-this-weeks-fed-meeting.html"
-      },
-      {
-        "title": "UK borrowing costs hit highest level since 2008 financial crisis",
-        "summary_2lines": "英国の政府長期借入金利が2008年金融危機以来の高水準となり、公的債務コストが急増。エネルギー価格の高騰と中東情勢の悪化が財政負担を強め、追加的なエネルギー支援策の可能性が低下している。",
-        "why_it_matters": "政府の借入金利上昇は財政の持続可能性や社会保障支出の余力に直接影響する。中東の地政学的リスクによるエネルギー価格高騰がインフレと借入コストを押し上げ、経済成長への懸念が強まる中、財政政策の選択肢が限定されることで国民生活および市場に大きな影響を及ぼす可能性がある。",
-        "market_impact": "借入コスト増大により政府の債務返済負担が膨らみ、公共支出の削減圧力が強まる。エネルギー補助金の縮小が消費者支出減少を招き、経済成長を鈍化させる恐れがある。市場では国債売り圧力が増し、投資家のリスク回避姿勢を促進。金融政策にも制約が出るため、金利上昇が続けば企業の借入コストも高まり、景気全体に下押し圧力がかかる可能性がある。",
-        "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss"
       }
     ],
-    "Corporate": []
+    "Corporate": [
+      {
+        "title": "Trump-backed television merger moves forward",
+        "summary_2lines": "トランプ支持のNexstarがTegnaを62億ドルで買収し、米国44州でテレビ視聴者の80％にリーチする巨大放送ネットワークを形成。米連邦通信委員会は規制緩和を認めたが、独占懸念から複数の州や企業が訴訟を提起している。",
+        "why_it_matters": "この合併により、ローカルテレビ放送の市場支配が強まる一方で、視聴料の値上げやニュースの多様性縮小、地域報道の質低下への懸念が高まっている。背景には既存メディアの競争環境の激変と規制改革がある。",
+        "market_impact": "Nexstarは全米最大のローカルテレビ局運営会社となり、収益基盤強化が見込まれるが、独占禁止に関する法的リスクや消費者負担増大の可能性が高い。メディア業界の再編加速と市場集中の懸念が強まるだろう。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cx2dndp7z12o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Home working, long leases and rise of parking apps - what went wrong for NCP",
+        "summary_2lines": "NCP（ナショナルカー・パークス）が、在宅勤務の増加や長期契約、駐車アプリの台頭などの影響により経営悪化し、約700名の雇用が危機に。大幅な負債超過も企業倒産の一因となった。",
+        "why_it_matters": "パンデミック以降のワークスタイルの変化や消費行動のデジタル化、環境変動によるエネルギーコスト上昇が伝統的な駐車事業に大きな影響を与えている。これは都市インフラや不動産活用の在り方の変化を示し、経済活動や雇用の構造変化を象徴している。",
+        "market_impact": "NCPの倒産は駐車業界の競争激化と構造変化を浮き彫りにし、駐車場事業者は設備維持とコスト管理の難しさに直面する。加えて、駐車料金の価格競争やアプリ利用拡大が業界収益性を低下させ、関連不動産価値にも影響を及ぼす可能性がある。雇用の喪失も地域経済に負の影響を与える懸念がある。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cgl5rwgr5l2o?at_medium=RSS&at_campaign=rss"
+      }
+    ]
   }
 }
