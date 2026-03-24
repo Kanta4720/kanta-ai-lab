@@ -1,150 +1,150 @@
 {
-  "generated_at_jst": "2026-03-24 07:19",
+  "generated_at_jst": "2026-03-25 07:19",
   "todays_brief": [
     {
+      "title": "Jamie Dimon says Iran war makes Middle East peace prospects better in the long term",
+      "summary_2lines": "JPMorgan CEO Jamie Dimon believes the Iran war, despite short-term risks, could improve long-term Middle East peace prospects due to a convergence of regional interests. He also emphasizes the need for U.S. industrial and security policy reform amid geopolitical tensions with China.",
+      "why_it_matters": "Dimon's perspective highlights how geopolitical conflicts like the Iran war can reshape regional alliances and stability, which in turn affect global economic and security dynamics. His comments underscore U.S. vulnerabilities in defense manufacturing and the strategic importance of preparing for great power competition, especially with China.",
+      "market_impact": "The Iran conflict has already caused oil price surges due to supply disruptions, impacting global markets. Dimon's view suggests that lasting peace could restore foreign direct investment flows into Gulf nations, stabilizing the region economically. Additionally, U.S. industrial weaknesses and dependency on China pose risks to supply chains and national security, influencing investor and policy maker decisions.",
+      "category": "Geopolitics",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/24/jamie-dimon-iran-war-middle-east-peace-prospects-long-term.html"
+    },
+    {
+      "title": "Moody's cuts rating on private credit fund run by KKR and Future Standard to junk as bad loans grow",
+      "summary_2lines": "ムーディーズがKKRとFuture Standardが運営するプライベートクレジットファンドFS KKR Capital Corpの格付けを投機的等級に引き下げ。資産の質悪化と不良債権の増加が背景。",
+      "why_it_matters": "プライベートクレジット市場は近年急成長しているが、不良債権の増加や収益力の低下により信用リスクが顕在化。今後の資金調達コスト上昇や投資家の信頼低下が懸念されるため、市場全体に波及する可能性がある。",
+      "market_impact": "FSKの格下げにより借入コストの上昇が予想され、運用利回り低下や株価の下落が既に表れている。プライベートクレジット全体でも資金流出や償還要求の増加が進む可能性が高く、関連ファンドや類似企業の信用懸念が拡大する恐れがある。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/24/moodys-private-credit-fund-kkr-future-standard-junk.html"
+    },
+    {
       "title": "Volume in stock and oil futures surged minutes before Trump's market-turning post",
-      "summary_2lines": "トランプ大統領のイラン攻撃中止発言の数分前に、S&P 500先物と原油先物で異常な取引量の急増が観測された。これにより発言後の価格変動を狙った動きと疑われている。",
-      "why_it_matters": "市場に大きな影響を与えたトランプ氏の発言直前の異常取引は、インサイダー取引や情報漏洩の可能性を示唆し、マーケットの公正性や監視体制の重要性を浮き彫りにしている。",
-      "market_impact": "発言後、株価先物は急騰し原油先物は急落したため、先物取引を活用した投資家は大きな利益を得た一方、監視当局は取引の適正性調査を強化する可能性がある。市場の信頼性に影響を及ぼすリスクもある。",
+      "summary_2lines": "S&P 500先物とWTI原油先物でトランプ大統領の声明直前に異例の出来高急増が発生。声明後には株価急騰、原油価格急落の反応が見られた。",
+      "why_it_matters": "先物市場での早朝の出来高急増は通常の流動性の低い時間帯では異例であり、トランプ氏の地政学リスクに関する発言を事前に織り込んだ可能性が示唆される。インサイダー情報やアルゴリズム取引の影響が懸念され、市場の公正性への疑問が浮上した。",
+      "market_impact": "トランプ氏の発言でリスク資産が急上昇し、原油価格は急落。先物市場の動きは投資家心理やポジション調整に直結し、短期的なボラティリティを拡大させた。規制当局の監視強化や取引戦略の見直しを促す可能性がある。",
       "category": "Markets",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/03/23/volume-in-stock-and-oil-futures-surged-minutes-before-trumps-market-turning-post.html"
     },
     {
-      "title": "Fed's Goolsbee says he's worried about inflation in 'fraught but intense' climate",
-      "summary_2lines": "シカゴ連銀のグールスビー総裁は、イランとの緊張緩和が進む中でもインフレへの懸念を強調し、金融政策は不確実な中で慎重な判断が求められると述べた。市場は年内利上げの可能性を織り込みつつも、2027年の利下げも予想している。",
-      "why_it_matters": "インフレ抑制は米国経済の安定に不可欠であり、中東情勢が金融政策の先行きを不透明にしている。連邦準備制度（Fed）の政策判断が今後の経済成長や市場の動向を左右するため、今後のインフレ動向に注目が集まっている。",
-      "market_impact": "地政学リスクによる市場のボラティリティが高まる中、利上げ観測の強まりが債券や株式、原油価格に影響。短期的にはエネルギー価格の変動で景気の不確実性が増し、企業の投資意欲や消費者心理にも影響を与える可能性がある。",
-      "category": "Economy",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/23/feds-goolsbee-says-hes-worried-about-inflation-in-fraught-but-intense-climate.html"
-    },
-    {
-      "title": "U.S. executives, from Apple to Eli Lilly, revamp their push into the world's second-largest economy at the China Development Forum",
-      "summary_2lines": "アップルやイーライリリーなどの米国大手企業の経営陣が中国開発フォーラムに参加し、中国市場再参入に意欲を示した。中国の技術進歩や消費拡大を背景に、両国の貿易緊張緩和を受けた動きが活発化している。",
-      "why_it_matters": "米中間の貿易摩擦やパンデミックの影響で停滞していた中国市場への企業投資が、経済回復と技術発展を背景に再び加速している。これは両国関係の今後の動向や、世界経済の供給網・消費構造に重大な影響を与えるため注目される。",
-      "market_impact": "アップルのiPhone販売回復と中国における生産のクリーン化推進、イーライリリーの巨大な中国投資計画は、テック・医薬セクターの中国依存度が高まることを示す。貿易協定の進展や中国のサービス開放は米国企業の収益改善につながり、中国の内需拡大政策とも連動し、グローバルサプライチェーンや消費市場に重要なインパクトを与える。",
-      "category": "Corporate",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/23/apple-eli-lilly-us-china-market-push-trade-truce.html"
-    },
-    {
-      "title": "BlackRock’s Larry Fink warns against market timing, says missing best days can halve returns",
-      "summary_2lines": "ブラックロックのCEOラリー・フィンクは、市場のタイミングを狙わず、長期的に投資を続けることがリターンにとって重要だと警告した。彼はAIの台頭が資産格差を拡大させるリスクにも言及している。",
-      "why_it_matters": "市場の短期的な変動や地政学リスクに惑わされる投資家が多い中、フィンクの発言は長期投資の価値を再認識させるものであり、特に資産運用業界に影響を与える。また、AIの急速な発展が経済的不平等を加速させる可能性があり、社会的・経済的な課題としても注目される。",
-      "market_impact": "投資家が市場の激しい変動時にも動揺せず投資を続けることが促されるため、短期的な市場のボラティリティがやや抑制される可能性がある。加えて、AI関連企業の株価上昇が特定の銘柄に資金を集中させ、資産格差や市場の二極化が深まるリスクが高まると予想される。",
+      "title": "World has 'never experienced' soaring refining margins like this, TotalEnergies CEO tells CNBC",
+      "summary_2lines": "TotalEnergiesのCEOは、イランとの紛争で生産の15%が停止したものの、原油価格上昇と製品の精製マージン急騰により影響を補っていると語った。米国では風力発電事業を放棄し、石油・ガス事業に資本を再配分する方針を示した。",
+      "why_it_matters": "中東の地政学リスクが供給を圧迫し原油・天然ガス及び石油製品の価格を高騰させていることに加え、エネルギー転換の選択肢としてコスト効率の観点からの事業戦略転換が示された。世界のエネルギー市場の不安定化と米国のエネルギー政策動向を反映する重要な示唆である。",
+      "market_impact": "原油価格と精製マージンの高騰は石油企業の収益性改善に寄与する一方、天然ガス価格の急騰は欧アジアのエネルギーコストを押し上げ、インフレ圧力を強める可能性がある。TotalEnergiesの米国投資シフトは再エネと化石燃料のバランスに変化をもたらし、風力市場への影響を与えるだろう。",
       "category": "Markets",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/23/blackrocks-larry-fink-warns-against-trying-to-time-the-market-.html"
+      "url": "https://www.cnbc.com/2026/03/24/totalenergies-ceo-world-has-never-experienced-refining-margins-like-this-.html"
     },
     {
-      "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
-      "summary_2lines": "トランプ大統領がイランとの戦争終結に向けた話し合いがあったと発表し、これを受けて原油価格が急落、株価は反発した。イランは交渉否定し、市場は依然として不安定な状況が続いている。",
-      "why_it_matters": "中東のイランと米国間の緊張は世界の主要エネルギー供給ルートであるホルムズ海峡の閉鎖を招き、原油を中心としたエネルギー価格の高騰と供給リスクをもたらしている。戦争終結へ向けた交渉の可能性は市場の不安を和らげるため重要だが、双方の発言に食い違いがあり依然として不透明。",
-      "market_impact": "原油価格は一時100ドルを超えた後、トランプ声明で大幅下落したが、依然として高値圏で推移しているため、企業や消費者のエネルギーコストが高止まりし経済活動に負担がかかる。株式市場は一時の警戒感が和らぎ反発したが、中長期的には供給不安から変動が予想される。特に中東依存度の高い日本や韓国株式は大幅下落した。",
-      "category": "Geopolitics",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss"
+      "title": "Apollo gives investors only 45% of requested withdrawals from $15 billion private credit fund",
+      "summary_2lines": "Apolloは15億ドル規模のプライベートクレジットファンドで、投資家からの全額引き出し要望のうち約45%のみの払い戻しに制限。業界標準の5%四半期引き出し上限を維持し、資金流出抑制を図る。",
+      "why_it_matters": "プライベートクレジット市場は流動性不足の懸念が強まっており、Apolloが引き出し制限を継続することで資産運用の安定を優先。投資家の資金回収ニーズと長期的価値保護のバランスが試されている状況で、市場全体の信用リスクや資金繰りに影響が波及する可能性があるため重要。",
+      "market_impact": "Apolloの引き出し制限はプライベートクレジット市場の流動性課題を浮き彫りにし、類似ファンドや競合のBlackstoneが引き出し制限を緩和しているのと対照的。投資家の資金回収困難感が他ファンドに波及すれば、信用価値の低下や資産価格の変動要因となる。また、ソフトウェアセクターなど一部貸出先のリスク見直しを促す可能性がある。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/23/apollo-private-credit-fund-gives-investors-only-45percent-of-requested-withdrawals.html"
     }
   ],
   "categories": {
     "Tech": [],
     "Markets": [
       {
+        "title": "Vet prescription fees to be capped at £21",
+        "summary_2lines": "イギリスの獣医処方料金が初回£21、追加の薬は£12.50に上限設定され、価格リスト公開や比較サイト導入など消費者保護が強化される。競争促進と価格透明化により、ペット医療費の高騰抑制を狙う措置だ。",
+        "why_it_matters": "獣医療費がインフレ率の約2倍で上昇している中、ペット所有者の経済的負担が増大している。料金規制や情報公開による透明化は、消費者が適正価格でサービスを選択できる環境を整え、市場の競争を促進することで過剰な価格設定を抑制し、業界の健全性維持に寄与する。",
+        "market_impact": "獣医診療費の上限設定と価格情報開示は、個々の獣医クリニック間の価格競争を促し、消費者はコスト削減のために複数のサービスを比較検討しやすくなる。これにより大規模グループ運営のクリニックは価格戦略の見直しを迫られ、中小規模業者の競争環境が変化。ペット関連市場全体約67億ポンドの透明性向上は、消費者支出行動の変容を促す可能性が高い。",
+        "category": "Markets",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cj32d05x702o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Moody's cuts rating on private credit fund run by KKR and Future Standard to junk as bad loans grow",
+        "summary_2lines": "ムーディーズがKKRとFuture Standardが運営するプライベートクレジットファンドFS KKR Capital Corpの格付けを投機的等級に引き下げ。資産の質悪化と不良債権の増加が背景。",
+        "why_it_matters": "プライベートクレジット市場は近年急成長しているが、不良債権の増加や収益力の低下により信用リスクが顕在化。今後の資金調達コスト上昇や投資家の信頼低下が懸念されるため、市場全体に波及する可能性がある。",
+        "market_impact": "FSKの格下げにより借入コストの上昇が予想され、運用利回り低下や株価の下落が既に表れている。プライベートクレジット全体でも資金流出や償還要求の増加が進む可能性が高く、関連ファンドや類似企業の信用懸念が拡大する恐れがある。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/24/moodys-private-credit-fund-kkr-future-standard-junk.html"
+      },
+      {
         "title": "Volume in stock and oil futures surged minutes before Trump's market-turning post",
-        "summary_2lines": "トランプ大統領のイラン攻撃中止発言の数分前に、S&P 500先物と原油先物で異常な取引量の急増が観測された。これにより発言後の価格変動を狙った動きと疑われている。",
-        "why_it_matters": "市場に大きな影響を与えたトランプ氏の発言直前の異常取引は、インサイダー取引や情報漏洩の可能性を示唆し、マーケットの公正性や監視体制の重要性を浮き彫りにしている。",
-        "market_impact": "発言後、株価先物は急騰し原油先物は急落したため、先物取引を活用した投資家は大きな利益を得た一方、監視当局は取引の適正性調査を強化する可能性がある。市場の信頼性に影響を及ぼすリスクもある。",
+        "summary_2lines": "S&P 500先物とWTI原油先物でトランプ大統領の声明直前に異例の出来高急増が発生。声明後には株価急騰、原油価格急落の反応が見られた。",
+        "why_it_matters": "先物市場での早朝の出来高急増は通常の流動性の低い時間帯では異例であり、トランプ氏の地政学リスクに関する発言を事前に織り込んだ可能性が示唆される。インサイダー情報やアルゴリズム取引の影響が懸念され、市場の公正性への疑問が浮上した。",
+        "market_impact": "トランプ氏の発言でリスク資産が急上昇し、原油価格は急落。先物市場の動きは投資家心理やポジション調整に直結し、短期的なボラティリティを拡大させた。規制当局の監視強化や取引戦略の見直しを促す可能性がある。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/23/volume-in-stock-and-oil-futures-surged-minutes-before-trumps-market-turning-post.html"
       },
       {
-        "title": "BlackRock’s Larry Fink warns against market timing, says missing best days can halve returns",
-        "summary_2lines": "ブラックロックのCEOラリー・フィンクは、市場のタイミングを狙わず、長期的に投資を続けることがリターンにとって重要だと警告した。彼はAIの台頭が資産格差を拡大させるリスクにも言及している。",
-        "why_it_matters": "市場の短期的な変動や地政学リスクに惑わされる投資家が多い中、フィンクの発言は長期投資の価値を再認識させるものであり、特に資産運用業界に影響を与える。また、AIの急速な発展が経済的不平等を加速させる可能性があり、社会的・経済的な課題としても注目される。",
-        "market_impact": "投資家が市場の激しい変動時にも動揺せず投資を続けることが促されるため、短期的な市場のボラティリティがやや抑制される可能性がある。加えて、AI関連企業の株価上昇が特定の銘柄に資金を集中させ、資産格差や市場の二極化が深まるリスクが高まると予想される。",
+        "title": "World has 'never experienced' soaring refining margins like this, TotalEnergies CEO tells CNBC",
+        "summary_2lines": "TotalEnergiesのCEOは、イランとの紛争で生産の15%が停止したものの、原油価格上昇と製品の精製マージン急騰により影響を補っていると語った。米国では風力発電事業を放棄し、石油・ガス事業に資本を再配分する方針を示した。",
+        "why_it_matters": "中東の地政学リスクが供給を圧迫し原油・天然ガス及び石油製品の価格を高騰させていることに加え、エネルギー転換の選択肢としてコスト効率の観点からの事業戦略転換が示された。世界のエネルギー市場の不安定化と米国のエネルギー政策動向を反映する重要な示唆である。",
+        "market_impact": "原油価格と精製マージンの高騰は石油企業の収益性改善に寄与する一方、天然ガス価格の急騰は欧アジアのエネルギーコストを押し上げ、インフレ圧力を強める可能性がある。TotalEnergiesの米国投資シフトは再エネと化石燃料のバランスに変化をもたらし、風力市場への影響を与えるだろう。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/23/blackrocks-larry-fink-warns-against-trying-to-time-the-market-.html"
+        "url": "https://www.cnbc.com/2026/03/24/totalenergies-ceo-world-has-never-experienced-refining-margins-like-this-.html"
       },
       {
-        "title": "SEC Commissioner Hester Peirce on ETFs: 'We want to work with people on new products'",
-        "summary_2lines": "SECのヘスター・ピアス委員は、仮想通貨やトークン化に関連する新しいETF商品の開発に協力的な姿勢を示した。投資家保護を重視しつつも、イノベーションの促進を目指している。",
-        "why_it_matters": "SECは米国の証券市場を監督する重要機関であり、その規制方針の変化は金融商品開発の方向性に大きく影響する。特に暗号資産やトークン化は現代金融の注目分野であり、SECの積極的な関与は業界の発展と投資家保護の両立を示唆している。",
-        "market_impact": "SECが新規ETF商品に対し協力的かつ透明性を求める規制姿勢を示したことで、仮想通貨関連商品の市場参入が加速し、投資商品の多様化が進む可能性が高い。一方で、リスク開示の徹底により投資家保護も強化されるため、健全な成長が期待される。",
+        "title": "Apollo gives investors only 45% of requested withdrawals from $15 billion private credit fund",
+        "summary_2lines": "Apolloは15億ドル規模のプライベートクレジットファンドで、投資家からの全額引き出し要望のうち約45%のみの払い戻しに制限。業界標準の5%四半期引き出し上限を維持し、資金流出抑制を図る。",
+        "why_it_matters": "プライベートクレジット市場は流動性不足の懸念が強まっており、Apolloが引き出し制限を継続することで資産運用の安定を優先。投資家の資金回収ニーズと長期的価値保護のバランスが試されている状況で、市場全体の信用リスクや資金繰りに影響が波及する可能性があるため重要。",
+        "market_impact": "Apolloの引き出し制限はプライベートクレジット市場の流動性課題を浮き彫りにし、類似ファンドや競合のBlackstoneが引き出し制限を緩和しているのと対照的。投資家の資金回収困難感が他ファンドに波及すれば、信用価値の低下や資産価格の変動要因となる。また、ソフトウェアセクターなど一部貸出先のリスク見直しを促す可能性がある。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/21/crypto-tokenization-and-etfs-secs-peirce-indicates-openness.html"
+        "url": "https://www.cnbc.com/2026/03/23/apollo-private-credit-fund-gives-investors-only-45percent-of-requested-withdrawals.html"
+      },
+      {
+        "title": "Oil traders bet millions minutes before Trump's Iran talks post",
+        "summary_2lines": "トランプ大統領のイランとの対話発表直前に、大量の石油先物取引が行われ、石油価格が急落した。これにより、内部情報を基にした取引の可能性が指摘されている。",
+        "why_it_matters": "石油市場は中東情勢に大きく影響されるため、先読み取引は市場の公正性や透明性を損なうリスクがある。内部情報を利用した不正取引があれば、市場の信頼低下や規制強化につながる可能性があるから重要である。",
+        "market_impact": "発表直前の大口取引により石油価格が14％急落し、関連先物や株式市場にも波及した。もし内部情報を用いた取引が確認されれば、取引所や規制当局の調査・処分が入り市場混乱やボラティリティの増加を招く恐れがある。",
+        "category": "Markets",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cg547ljepvzo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Geopolitics": [
       {
-        "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
-        "summary_2lines": "トランプ大統領がイランとの戦争終結に向けた話し合いがあったと発表し、これを受けて原油価格が急落、株価は反発した。イランは交渉否定し、市場は依然として不安定な状況が続いている。",
-        "why_it_matters": "中東のイランと米国間の緊張は世界の主要エネルギー供給ルートであるホルムズ海峡の閉鎖を招き、原油を中心としたエネルギー価格の高騰と供給リスクをもたらしている。戦争終結へ向けた交渉の可能性は市場の不安を和らげるため重要だが、双方の発言に食い違いがあり依然として不透明。",
-        "market_impact": "原油価格は一時100ドルを超えた後、トランプ声明で大幅下落したが、依然として高値圏で推移しているため、企業や消費者のエネルギーコストが高止まりし経済活動に負担がかかる。株式市場は一時の警戒感が和らぎ反発したが、中長期的には供給不安から変動が予想される。特に中東依存度の高い日本や韓国株式は大幅下落した。",
+        "title": "Jamie Dimon says Iran war makes Middle East peace prospects better in the long term",
+        "summary_2lines": "JPMorgan CEO Jamie Dimon believes the Iran war, despite short-term risks, could improve long-term Middle East peace prospects due to a convergence of regional interests. He also emphasizes the need for U.S. industrial and security policy reform amid geopolitical tensions with China.",
+        "why_it_matters": "Dimon's perspective highlights how geopolitical conflicts like the Iran war can reshape regional alliances and stability, which in turn affect global economic and security dynamics. His comments underscore U.S. vulnerabilities in defense manufacturing and the strategic importance of preparing for great power competition, especially with China.",
+        "market_impact": "The Iran conflict has already caused oil price surges due to supply disruptions, impacting global markets. Dimon's view suggests that lasting peace could restore foreign direct investment flows into Gulf nations, stabilizing the region economically. Additionally, U.S. industrial weaknesses and dependency on China pose risks to supply chains and national security, influencing investor and policy maker decisions.",
         "category": "Geopolitics",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/24/jamie-dimon-iran-war-middle-east-peace-prospects-long-term.html"
       }
     ],
     "Economy": [
       {
-        "title": "Fed's Goolsbee says he's worried about inflation in 'fraught but intense' climate",
-        "summary_2lines": "シカゴ連銀のグールスビー総裁は、イランとの緊張緩和が進む中でもインフレへの懸念を強調し、金融政策は不確実な中で慎重な判断が求められると述べた。市場は年内利上げの可能性を織り込みつつも、2027年の利下げも予想している。",
-        "why_it_matters": "インフレ抑制は米国経済の安定に不可欠であり、中東情勢が金融政策の先行きを不透明にしている。連邦準備制度（Fed）の政策判断が今後の経済成長や市場の動向を左右するため、今後のインフレ動向に注目が集まっている。",
-        "market_impact": "地政学リスクによる市場のボラティリティが高まる中、利上げ観測の強まりが債券や株式、原油価格に影響。短期的にはエネルギー価格の変動で景気の不確実性が増し、企業の投資意欲や消費者心理にも影響を与える可能性がある。",
-        "category": "Economy",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/23/feds-goolsbee-says-hes-worried-about-inflation-in-fraught-but-intense-climate.html"
-      },
-      {
-        "title": "'We can't justify a £52 lunch': Middle-income families cut back on days out",
-        "summary_2lines": "中所得層の家族が食事やレジャーの費用高騰により外出を控える傾向が強まっている。特に食事や娯楽施設の利用が減少し、家計の圧迫が顕著に表れている。",
-        "why_it_matters": "生活費の高騰は消費者の行動を変え、経済活動全体に影響を与える。特に中所得層が従来楽しんでいた外食やレジャーが減ることで、関連業界の売上減少や経済成長鈍化のリスクが高まるため重要である。",
-        "market_impact": "飲食店やレジャー施設の利用者減少により収益が低迷し、一部企業は赤字決算を報告している。消費の落ち込みは経済成長にも影響し、インフレ率や賃金上昇のペースによっては更なる消費抑制が懸念される。また、各企業は価格設定やプロモーション戦略の見直しを迫られている。",
+        "title": "Low-deposit mortgage deals hit as rates continue to soar",
+        "summary_2lines": "住宅ローンの金利が急騰し、特に初めての購入者向けの低頭金ローン商品が市場から多数撤退している。地政学的リスクが金利上昇の主因であり、借り手は今後も不安定な状況に備える必要がある。",
+        "why_it_matters": "住宅ローン金利の上昇は住宅購入者にとって負担を増やし、市場全体の住宅需要に影響を与える。米中東情勢の悪化により金融市場の予測が困難になっており、これが英国の金利政策や住宅ローン商品の供給に直接的な影響を及ぼしているため重要である。",
+        "market_impact": "主要な貸し手が金利引き上げや商品撤退を続けることで、借り手は適切な条件を見極めることが難しくなり、住宅購入の意思決定が遅延・停滞する可能性が高い。また、変動金利の不確実性増大により、住宅ローン市場の流動性低下や金融機関のリスク管理が厳格化される恐れがある。長期的には住宅市場の冷え込みや関連セクターへの波及影響も懸念される。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/ckg3g11z6d8o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c5y7gnkez3lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "HS2 trains could run slower than planned to save money",
-        "summary_2lines": "HS2の高速鉄道はコスト削減のため、当初計画よりも低速での運行が検討されている。完成遅延と予算超過が課題となり、最終的な計画の見直しが進められている。",
-        "why_it_matters": "HS2は英国の主要な高速鉄道プロジェクトであり、交通インフラの現代化と地方経済活性化に期待されていたが、大幅な遅延と予算超過により計画の根幹が揺らいでいる。速度低下は利便性や競争力に影響を及ぼし、政府のインフラ政策の信頼性にも関わる重要課題である。",
-        "market_impact": "建設関連企業や鉄道産業に対する影響が大きい。遅延とコスト圧縮のための仕様変更はサプライチェーンや投資計画の見直しを迫る可能性があり、事業の採算性にも影響。地域経済や不動産市場にも間接的な影響が予想される。",
+        "title": "Reeves plans energy bill help for those 'who need it most'",
+        "summary_2lines": "英国財務大臣レイチェル・リーブス氏は、米イスラエルとイランの戦争によるエネルギー価格高騰に対し、「真に困窮する層」に焦点を当てた支援策の検討を明らかにした。エネルギー価格保証とは異なり、支援は富裕層には適用されない見込みである。",
+        "why_it_matters": "中東情勢の悪化により英国内のエネルギーコストが急騰する中、政府の財政制約を踏まえた上で、最も影響を受けやすい低所得層への的確な支援策が求められている。過去のロシア・ウクライナ戦争時には全世帯対象だった支援が、一部に限定されることで社会的公平性と財政健全性のバランスが問われている。",
+        "market_impact": "原油・ガスのホールセール価格上昇が電気・ガス料金に反映され、家庭の光熱費負担が増大するとともに、燃料価格高騰や燃料業界の価格操作疑惑が市場の不透明感を増幅。政府の新たな競争・市場監視強化策は一部企業の収益性に圧力をかける可能性があるが、燃料税の引き上げ見直しなども含め、エネルギー関連市場は引き続き不安定な状況が続く見込み。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/czex3lj077xo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cr516nmer5eo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Corporate": [
       {
-        "title": "Cosmetics giant Estée Lauder in merger talks with owner of Jean Paul Gaultier and Rabanne",
-        "summary_2lines": "米大手化粧品企業エスティローダーが、スペインの香水ブランドを擁するプイグ社と合併交渉中。合意すれば約400億ドル規模のビューティー大手が誕生する可能性がある。",
-        "why_it_matters": "エスティローダーは世界第2位の化粧品企業であり、プイグは著名香水ブランドを多数持つ家族経営企業。両社の統合は厳しい市場環境下での競争力強化や規模拡大を狙う戦略的動きで、美容業界の再編を示唆している。",
-        "market_impact": "取引が成立すれば、約400億ドル規模の巨大ビューティーグループが誕生し、競争構造に大きな変化をもたらす。エスティローダー株価は交渉報道で約8%下落したが、中長期的には事業再活性化の機会となる可能性が高い。加えて、既に進む美容業界の統合トレンドに拍車がかかることも予想される。",
+        "title": "Meta told to pay $375m for misleading users over child safety",
+        "summary_2lines": "ニューメキシコ州の裁判所が、Metaに対し子供の安全に関する誤解を招いたとして3億7500万ドルの支払いを命じた。Metaは判決に異議を唱え、控訴する意向を示している。",
+        "why_it_matters": "本判決は州が大手テック企業の子供保護責任を問う初の成功例であり、プラットフォーム上の未成年者保護に対する法的監視が強まるきっかけとなる。企業の社会的責任と規制強化の潮流を象徴する事例だ。",
+        "market_impact": "Metaにとって巨額の賠償金は経営負担となる一方で、ブランドイメージの悪化や今後の規制強化リスクが増大し、広告収入やユーザー数減少の可能性が指摘される。テックセクター全体に対する法規制の強化圧力も高まるだろう。",
         "category": "Corporate",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c5yvmd6k38ko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "U.S. executives, from Apple to Eli Lilly, revamp their push into the world's second-largest economy at the China Development Forum",
-        "summary_2lines": "アップルやイーライリリーなどの米国大手企業の経営陣が中国開発フォーラムに参加し、中国市場再参入に意欲を示した。中国の技術進歩や消費拡大を背景に、両国の貿易緊張緩和を受けた動きが活発化している。",
-        "why_it_matters": "米中間の貿易摩擦やパンデミックの影響で停滞していた中国市場への企業投資が、経済回復と技術発展を背景に再び加速している。これは両国関係の今後の動向や、世界経済の供給網・消費構造に重大な影響を与えるため注目される。",
-        "market_impact": "アップルのiPhone販売回復と中国における生産のクリーン化推進、イーライリリーの巨大な中国投資計画は、テック・医薬セクターの中国依存度が高まることを示す。貿易協定の進展や中国のサービス開放は米国企業の収益改善につながり、中国の内需拡大政策とも連動し、グローバルサプライチェーンや消費市場に重要なインパクトを与える。",
-        "category": "Corporate",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/23/apple-eli-lilly-us-china-market-push-trade-truce.html"
-      },
-      {
-        "title": "Huel bought by Danone in €1bn deal",
-        "summary_2lines": "フランスの食品大手ダノンが英国のミールサプリメント企業ヒュールを10億ユーロで買収した。ヒュールの植物由来の完全栄養食品は健康志向の市場で注目されている。",
-        "why_it_matters": "健康や利便性を重視する消費者向けの完全栄養食品市場が成長しており、ダノンは今回の買収でデジタル販売力や商品開発力を強化して新市場に展開する狙いがある。ダノンの既存ブランドとのシナジー効果と食の未来への対応を図る重要な一手である。",
-        "market_impact": "ダノンはヒュールの持つファンベースとデジタル販売力を活用し、新興市場を拡大できる可能性が高い。植物ベース食品の需要増加を背景に、完全栄養食品分野での競争力が向上し、健康志向の食品市場におけるシェア拡大が期待される。一方で広告規制問題などリスクも留意が必要である。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/czre7pl600go?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cql75dn07n2o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
