@@ -682,8 +682,12 @@
       if (!str) return '';
       const d = new Date(str.replace(' ', 'T') + '+09:00');
       if (isNaN(d)) return str;
-      const weekdays = ['日曜日', '月曜日', '火曜日', '水曜日', '木曜日', '金曜日', '土曜日'];
-      return `${d.getFullYear()}年${d.getMonth()+1}月${d.getDate()}日（${weekdays[d.getDay()]}）`;
+      const parts = new Intl.DateTimeFormat('ja-JP', {
+        timeZone: 'Asia/Tokyo',
+        year: 'numeric', month: 'numeric', day: 'numeric', weekday: 'long'
+      }).formatToParts(d);
+      const get = t => (parts.find(p => p.type === t) || {}).value || '';
+      return `${get('year')}年${get('month')}月${get('day')}日（${get('weekday')}）`;
     }
 
     function tagClass(cat) {
@@ -718,7 +722,8 @@
       const num = String(idx + 1).padStart(2, '0');
       const tc  = tagClass(article.category);
 
-      const insights = `
+      const hasInsights = article.why_it_matters || article.market_impact;
+      const insights = hasInsights ? `
         <div class="card-insights">
           ${article.why_it_matters ? `
             <div class="insight-row">
@@ -730,7 +735,7 @@
               <span class="insight-label">市場への影響</span>
               <span class="insight-text">${esc(article.market_impact)}</span>
             </div>` : ''}
-        </div>`;
+        </div>` : '';
 
       const body = `
         <div class="card-meta">
@@ -784,7 +789,7 @@
                 </div>` : ''}
             </div>
             <button class="expand-btn" onclick="toggleCard(this,'${id}')">
-              分析を見る <span class="expand-icon">&#9660;</span>
+              <span class="expand-label">分析を見る</span> <span class="expand-icon">&#9660;</span>
             </button>` : ''}          <a href="${esc(article.url)}" target="_blank" rel="noopener noreferrer" class="card-link">
             記事を読む &rarr;
           </a>
@@ -796,6 +801,8 @@
       if (!el) return;
       const open = el.classList.toggle('open');
       btn.classList.toggle('open', open);
+      const label = btn.querySelector('.expand-label');
+      if (label) label.textContent = open ? '閉じる' : '分析を見る';
     }
 
     /* ===== Filter ===== */

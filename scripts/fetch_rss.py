@@ -47,7 +47,7 @@ def analyze_article_with_ai(content, title):
 
 記事タイトル: {title}
 記事本文:
-{content[:4000]} # トークン数削減のため本文を制限
+{content[:4000]}
 
 出力形式:
 {{
