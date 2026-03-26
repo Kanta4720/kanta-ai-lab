@@ -1,96 +1,88 @@
 {
-  "generated_at_jst": "2026-03-26 07:24",
+  "generated_at_jst": "2026-03-27 07:17",
   "todays_brief": [
     {
       "title": "World has 'never experienced' soaring refining margins like this, TotalEnergies CEO tells CNBC",
-      "summary_2lines": "TotalEnergies CEO reports unprecedented soaring refining margins amid Middle East conflict, with supply disruptions boosting oil and LNG prices. The company shifts U.S. strategy away from offshore wind toward oil, gas, and renewables amid regulatory and economic pressures.",
-      "why_it_matters": "The ongoing tensions near the Strait of Hormuz threaten critical oil, LNG, and fertilizer supply routes, driving energy prices higher globally. TotalEnergies’ strategic pivot reflects broader geopolitical risks and the complex balance between energy demand, supply security, and decarbonization goals.",
-      "market_impact": "Surging refining margins and rising LNG prices are lifting profitability for energy producers but increasing costs for consumers and industries dependent on petroleum products and fertilizers. TotalEnergies’ withdrawal from U.S. offshore wind signals potential challenges for renewable energy growth under current U.S. policies and shifts investment capital toward fossil fuels, impacting the clean energy transition pace.",
+      "summary_2lines": "TotalEnergies CEO reports unprecedentedly high refining margins amid soaring oil and product prices due to geopolitical tensions near Iran. The company shifts focus from offshore wind to US oil and gas investments, while expanding renewable energy partnerships with tech giants.",
+      "why_it_matters": "The ongoing conflict around the Strait of Hormuz has drastically disrupted global oil and LNG supplies, pushing prices and refining margins to historic highs. This impacts energy markets, geopolitics, and energy transition strategies, highlighting a pivot by major energy firms away from some renewables under current US policy and towards traditional hydrocarbons.",
+      "market_impact": "Surging crude and refined product prices boost earnings for TotalEnergies despite production cuts, elevating refining margins to unprecedented levels. LNG supply constraints may double gas prices in Europe and Asia, stressing energy security. TotalEnergies’ strategic deal with the US government to drop offshore wind projects in favor of oil and gas investments indicates shifts in energy capital allocation and may influence industry approaches to renewables in the US. Partnerships with hyperscalers also signal growing corporate demand for renewables but underline the complexity of global energy transitions amid geopolitical volatility.",
       "category": "Markets",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/03/24/totalenergies-ceo-world-has-never-experienced-refining-margins-like-this-.html"
     },
     {
-      "title": "Moody's cuts rating on private credit fund run by KKR and Future Standard to junk as bad loans grow",
-      "summary_2lines": "ムーディーズはKKRとFuture Standard運営の私的信用ファンドFS KKR Capital Corpの格付けを投機的等級のBa1に引き下げた。これは、不良債権の増加と収益悪化に伴う資産劣化が原因である。",
-      "why_it_matters": "プライベートクレジット市場で信用不安が浮上しており、特にハイテク分野向けの融資にリスクが集中。機関投資家だけでなく個人投資家の資金流出も加速し、成長著しいこの市場の安定性に疑問符が付くため、金融市場全体に影響を与える可能性がある。",
-      "market_impact": "FSKの格下げにより借入コストが上昇し利益圧迫が予想されるほか、同種のプライベートクレジットファンドにも連鎖的な信用不安が波及し、市場での資金調達環境が厳しくなる可能性が高い。加えて、ファンドの株価は既に大幅下落しており、投資家信頼の低下が続くと見られる。",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/24/moodys-private-credit-fund-kkr-future-standard-junk.html"
-    },
-    {
-      "title": "Oil prices volatile as Trump talks up Iran negotiations",
-      "summary_2lines": "米国とイランの交渉が揺れる中、原油価格は一時100ドルを超え乱高下した。両国の対立継続がエネルギー供給不安と世界市場の変動を引き起こしている。",
-      "why_it_matters": "イランがホルムズ海峡を実質的に封鎖し世界の原油供給の約20％が危機にさらされているため、紛争の長期化は世界経済とエネルギー市場に深刻な影響を及ぼす。更に、主要消費地であるアジア諸国は供給不安から非常事態宣言を出すなど早急な対応を迫られている。",
-      "market_impact": "高騰と乱高下を繰り返す原油価格によりエネルギーコストの急増が懸念され、欧米やアジアの株式市場に波及。石油不足懸念から企業業績や消費者物価が圧迫され、世界的な景気後退リスクが高まっている。BlackRock CEOも150ドル超の原油価格で世界リセッションを警告している。",
-      "category": "Markets",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c995xp4jxj2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Meta and YouTube found liable in landmark social media addiction trial",
-      "summary_2lines": "ロサンゼルスの裁判で、MetaとYouTubeが若年ユーザーのソーシャルメディア依存による精神的被害について責任を認められ、損害賠償を命じられた。これはソーシャルメディア企業に対する法的責任問題の画期的判決だ。",
-      "why_it_matters": "本判決は、ソーシャルメディア企業が意図的に依存性の高いプラットフォームを設計し、若年層の精神健康に深刻な悪影響を及ぼしたと認めた初のケースであり、今後同様の訴訟や規制強化の潮流を生み出す可能性が高い。消費者・社会の視点からテック企業の倫理的責任が改めて問われる重要な転機だ。",
-      "market_impact": "MetaやGoogle（YouTube）が今後複数の追加訴訟や高額の懲罰的損害賠償請求に直面するリスクが増大し、経営コストやブランドイメージに打撃を受ける見込み。業界全体でプラットフォーム設計の見直しやコンプライアンス強化に資源を割く必要が生じ、特に若年層関連サービスの規制強化や収益モデルの転換を迫られる可能性がある。",
-      "category": "Corporate",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "The research firm whose AI paper knocked the whole stock market is out with another big call",
-      "summary_2lines": "リサーチ会社Citrini Researchは、原油価格の高止まりが消費や企業収益に悪影響を与え、株式市場の下落リスクを高めると警告した。これにより、FRBが利下げに転じても株価の反発は限定的と予測している。",
-      "why_it_matters": "エネルギー価格の高騰は消費者の購買力を削ぎ、企業業績の悪化を通じて経済成長にブレーキをかける可能性がある。加えて、FRBの金融政策が追随できない中での持続的なエネルギーショックは、株式市場に長期的な弱気の圧力をかけると予測されるため、投資家や政策決定者に重要な示唆を与える。",
-      "market_impact": "高止まりする原油価格は消費者の燃料コスト増加を通じて消費低迷を招き、企業の利益率を圧迫する。金融政策は既に中立付近で推移しており、追加利上げの余地は限られるが利下げも成長悪化の結果であり、株式市場は持続的な軟調局面に直面しやすい。地政学リスクの長期化は原油価格の強さを支え、投資マインドを冷やす要因となる。",
+      "summary_2lines": "Citrini Research warns that persistently high oil prices driven by geopolitical tensions could slow economic growth and push equities lower, even if the Federal Reserve eventually cuts rates. Their thesis challenges the common belief that rate cuts alone will support stock markets.",
+      "why_it_matters": "この見通しは、エネルギー価格の高止まりによる経済成長への負の影響とそれに伴う株価下落リスクを示しており、市場関係者や投資家にとって重要な警鐘となる。特に米中東情勢やFRBの金融政策との相互作用が市場の先行きを左右するため、注目が集まっている。",
+      "market_impact": "高油価が消費者の購買力を削ぎ、企業収益の圧迫要因となるため、株式市場には下押し圧力が強まる見込み。FRBが金融緩和に踏み切るのは経済悪化のサインと捉えられ、通常の金融緩和期に見られる株価の持続的な回復は期待しづらい。エネルギー価格の動向が市場センチメントに大きな影響を与える状況が続くだろう。",
       "category": "Markets",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/03/25/the-firm-whose-ai-paper-knocked-the-whole-market-is-out-with-another-big-call.html"
+    },
+    {
+      "title": "Jamie Dimon says Iran war makes Middle East peace prospects better in the long term",
+      "summary_2lines": "JPMorgan CEO Jamie Dimon believes the Iran war poses short-term risks but could improve Middle East peace prospects in the long term due to aligned interests among regional powers. He also highlighted U.S. national security vulnerabilities and geopolitical risks related to China.",
+      "why_it_matters": "この発言は、米国最大の金融機関のリーダーが国際情勢と経済安定性を結びつけて分析している点に意義がある。中東の長期的な平和が安定的な投資環境を生み出し、グローバル経済の安定に寄与する可能性がある。また、アメリカの国家安全保障や中国との対立を念頭に置いた戦略的な示唆を含み、世界の政治経済リスクを理解するうえで重要。",
+      "market_impact": "中東の紛争は石油供給を不安定にし原油価格を押し上げるため短期的に市場にネガティブな影響を与えたが、安定化すれば外資の流入が再び活発化し、地域経済の成長と世界市場の安定につながる。加えて、米国の防衛産業や製造業の政策変化が促される可能性があり、長期的にはサプライチェーンの見直しや新たな投資機会をもたらす。",
+      "category": "Geopolitics",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/24/jamie-dimon-iran-war-middle-east-peace-prospects-long-term.html"
+    },
+    {
+      "title": "Former SEC Chair Jay Clayton says regulators would scrutinize trading ahead of Trump post",
+      "summary_2lines": "元SEC議長のジェイ・クレイトン氏は、トランプ前大統領の市場に影響を与えた投稿直前の先物取引の急増について規制当局が調査を行う見込みと指摘した。取引の詳細追跡や法整備の必要性も強調している。",
+      "why_it_matters": "政治的発言による市場操作やインサイダー取引の疑いは市場の公平性・透明性を損なう可能性があり、金融規制当局の監視強化や法的整備が求められている。こうした事例は投資家保護と市場の健全性確保の観点から重要である。",
+      "market_impact": "トランプ氏の投稿により株価と原油価格が急変動し、こうした先物市場の異常な取引動向が明らかになったため、市場の信頼性に影響を与える可能性がある。規制強化や監視技術の向上が進めば、一時的な不安定化が起きるが、中長期的には市場透明性が改善されると期待される。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/25/former-sec-chair-jay-clayton-says-regulators-would-scrutinize-trading-ahead-of-trump-post.html"
+    },
+    {
+      "title": "Sen. Warren rips Federal Reserve chair pick Kevin Warsh: 'You have learned nothing from your failures'",
+      "summary_2lines": "上院議員エリザベス・ウォーレン氏はFRB議長候補ケビン・ウォーシュに対し、過去の失敗から何も学んでいないと厳しく批判した。ウォーシュの指名は審議停滞のリスクがあり、金融政策の方向性に懸念が高まっている。",
+      "why_it_matters": "FRB議長は米国の金融政策を司る極めて重要な役職であり、その指名は経済の安定や成長に直結する。ウォーレン氏は2008年の金融危機時のウォーシュ氏の行動を問題視し、金融規制の強化と労働者保護の観点から適任性を疑問視している。トランプ政権下でのFRB独立性や金融危機の再発防止が焦点となっている中、議長指名を巡る政治的対立は市場の不透明感を増幅させている。",
+      "market_impact": "ウォーシュ氏の議長就任が実現すれば、トランプ氏の意向を反映した金融政策が進む可能性がある一方、ウォーレン氏らによる強い反発は金融規制の強化観測を高め、市場の政策不確実性を招いている。また、現状の議会での指名遅延や調査継続はFRBの意思決定に混乱をもたらし、投資家心理の悪化や市場ボラティリティの高まりが懸念される。",
+      "category": "Economy",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/26/federal-reserve-kevin-walsh-elizabeth-warren-trump.html"
     }
   ],
   "categories": {
-    "Tech": [],
+    "Tech": [
+      {
+        "title": "Don't panic - five ways to stop your kids' endless scrolling",
+        "summary_2lines": "米国の裁判でMetaとGoogleが若年層のメンタルヘルスを害する依存性の高い設計を行ったと認定されたが、実際に子供のスマホ利用を減らすには、親子の対話や段階的な取り組みが重要。専門家は協力的な態度、学びの機会としての活用、親自身の模範行動を推奨している。",
+        "why_it_matters": "SNSの addictive な仕様が若者の精神的健康に悪影響を与えていることが社会問題化し、裁判所も企業責任を認めたことで世界的な注目を集めている。しかし、実際の家庭内での対処法は法律だけでは解決しづらいため、専門家の知見を元に具体的な子供の画面使用時間削減策を模索する必要がある。",
+        "market_impact": "この裁判判決はソーシャルメディア企業に対する規制強化や責任追及の動きを促す可能性があり、プラットフォーム設計の見直しや透明性向上が求められる。その一方で、親子を対象としたスクリーンタイム管理アプリや教育コンテンツ市場が拡大することが期待されるため、新たなビジネスチャンスが生まれる可能性もある。",
+        "category": "Tech",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c86e3q5j992o?at_medium=RSS&at_campaign=rss"
+      }
+    ],
     "Markets": [
       {
         "title": "World has 'never experienced' soaring refining margins like this, TotalEnergies CEO tells CNBC",
-        "summary_2lines": "TotalEnergies CEO reports unprecedented soaring refining margins amid Middle East conflict, with supply disruptions boosting oil and LNG prices. The company shifts U.S. strategy away from offshore wind toward oil, gas, and renewables amid regulatory and economic pressures.",
-        "why_it_matters": "The ongoing tensions near the Strait of Hormuz threaten critical oil, LNG, and fertilizer supply routes, driving energy prices higher globally. TotalEnergies’ strategic pivot reflects broader geopolitical risks and the complex balance between energy demand, supply security, and decarbonization goals.",
-        "market_impact": "Surging refining margins and rising LNG prices are lifting profitability for energy producers but increasing costs for consumers and industries dependent on petroleum products and fertilizers. TotalEnergies’ withdrawal from U.S. offshore wind signals potential challenges for renewable energy growth under current U.S. policies and shifts investment capital toward fossil fuels, impacting the clean energy transition pace.",
+        "summary_2lines": "TotalEnergies CEO reports unprecedentedly high refining margins amid soaring oil and product prices due to geopolitical tensions near Iran. The company shifts focus from offshore wind to US oil and gas investments, while expanding renewable energy partnerships with tech giants.",
+        "why_it_matters": "The ongoing conflict around the Strait of Hormuz has drastically disrupted global oil and LNG supplies, pushing prices and refining margins to historic highs. This impacts energy markets, geopolitics, and energy transition strategies, highlighting a pivot by major energy firms away from some renewables under current US policy and towards traditional hydrocarbons.",
+        "market_impact": "Surging crude and refined product prices boost earnings for TotalEnergies despite production cuts, elevating refining margins to unprecedented levels. LNG supply constraints may double gas prices in Europe and Asia, stressing energy security. TotalEnergies’ strategic deal with the US government to drop offshore wind projects in favor of oil and gas investments indicates shifts in energy capital allocation and may influence industry approaches to renewables in the US. Partnerships with hyperscalers also signal growing corporate demand for renewables but underline the complexity of global energy transitions amid geopolitical volatility.",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/24/totalenergies-ceo-world-has-never-experienced-refining-margins-like-this-.html"
       },
       {
-        "title": "Moody's cuts rating on private credit fund run by KKR and Future Standard to junk as bad loans grow",
-        "summary_2lines": "ムーディーズはKKRとFuture Standard運営の私的信用ファンドFS KKR Capital Corpの格付けを投機的等級のBa1に引き下げた。これは、不良債権の増加と収益悪化に伴う資産劣化が原因である。",
-        "why_it_matters": "プライベートクレジット市場で信用不安が浮上しており、特にハイテク分野向けの融資にリスクが集中。機関投資家だけでなく個人投資家の資金流出も加速し、成長著しいこの市場の安定性に疑問符が付くため、金融市場全体に影響を与える可能性がある。",
-        "market_impact": "FSKの格下げにより借入コストが上昇し利益圧迫が予想されるほか、同種のプライベートクレジットファンドにも連鎖的な信用不安が波及し、市場での資金調達環境が厳しくなる可能性が高い。加えて、ファンドの株価は既に大幅下落しており、投資家信頼の低下が続くと見られる。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/24/moodys-private-credit-fund-kkr-future-standard-junk.html"
-      },
-      {
-        "title": "Oil prices volatile as Trump talks up Iran negotiations",
-        "summary_2lines": "米国とイランの交渉が揺れる中、原油価格は一時100ドルを超え乱高下した。両国の対立継続がエネルギー供給不安と世界市場の変動を引き起こしている。",
-        "why_it_matters": "イランがホルムズ海峡を実質的に封鎖し世界の原油供給の約20％が危機にさらされているため、紛争の長期化は世界経済とエネルギー市場に深刻な影響を及ぼす。更に、主要消費地であるアジア諸国は供給不安から非常事態宣言を出すなど早急な対応を迫られている。",
-        "market_impact": "高騰と乱高下を繰り返す原油価格によりエネルギーコストの急増が懸念され、欧米やアジアの株式市場に波及。石油不足懸念から企業業績や消費者物価が圧迫され、世界的な景気後退リスクが高まっている。BlackRock CEOも150ドル超の原油価格で世界リセッションを警告している。",
-        "category": "Markets",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c995xp4jxj2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Former SEC Chair Jay Clayton says regulators would scrutinize trading ahead of Trump post",
-        "summary_2lines": "元SEC議長ジェイ・クレイトン氏は、トランプ前大統領の市場に影響を与えたSNS投稿直前の異常な先物取引について、規制当局が詳細に調査すると述べた。彼は現行法の不明瞭さを指摘し、議会の明確な対応を求めている。",
-        "why_it_matters": "大統領の発言を利用したインサイダー取引や不正取引の疑いがある異常な取引は、市場の公正性や信頼性を脅かすため重要である。規制が追いついていない点は投資家保護の観点から問題視され、法整備の強化が求められている。",
-        "market_impact": "このような先物市場での異常取引が明らかになると、市場参加者の警戒感が高まりボラティリティ（価格変動）が増加する可能性がある。特に先物やエネルギー関連市場での透明性向上が今後の課題となり、不正防止と投資家信頼回復のための規制強化が期待される。",
+        "summary_2lines": "元SEC議長のジェイ・クレイトン氏は、トランプ前大統領の市場に影響を与えた投稿直前の先物取引の急増について規制当局が調査を行う見込みと指摘した。取引の詳細追跡や法整備の必要性も強調している。",
+        "why_it_matters": "政治的発言による市場操作やインサイダー取引の疑いは市場の公平性・透明性を損なう可能性があり、金融規制当局の監視強化や法的整備が求められている。こうした事例は投資家保護と市場の健全性確保の観点から重要である。",
+        "market_impact": "トランプ氏の投稿により株価と原油価格が急変動し、こうした先物市場の異常な取引動向が明らかになったため、市場の信頼性に影響を与える可能性がある。規制強化や監視技術の向上が進めば、一時的な不安定化が起きるが、中長期的には市場透明性が改善されると期待される。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/25/former-sec-chair-jay-clayton-says-regulators-would-scrutinize-trading-ahead-of-trump-post.html"
       },
       {
         "title": "The research firm whose AI paper knocked the whole stock market is out with another big call",
-        "summary_2lines": "リサーチ会社Citrini Researchは、原油価格の高止まりが消費や企業収益に悪影響を与え、株式市場の下落リスクを高めると警告した。これにより、FRBが利下げに転じても株価の反発は限定的と予測している。",
-        "why_it_matters": "エネルギー価格の高騰は消費者の購買力を削ぎ、企業業績の悪化を通じて経済成長にブレーキをかける可能性がある。加えて、FRBの金融政策が追随できない中での持続的なエネルギーショックは、株式市場に長期的な弱気の圧力をかけると予測されるため、投資家や政策決定者に重要な示唆を与える。",
-        "market_impact": "高止まりする原油価格は消費者の燃料コスト増加を通じて消費低迷を招き、企業の利益率を圧迫する。金融政策は既に中立付近で推移しており、追加利上げの余地は限られるが利下げも成長悪化の結果であり、株式市場は持続的な軟調局面に直面しやすい。地政学リスクの長期化は原油価格の強さを支え、投資マインドを冷やす要因となる。",
+        "summary_2lines": "Citrini Research warns that persistently high oil prices driven by geopolitical tensions could slow economic growth and push equities lower, even if the Federal Reserve eventually cuts rates. Their thesis challenges the common belief that rate cuts alone will support stock markets.",
+        "why_it_matters": "この見通しは、エネルギー価格の高止まりによる経済成長への負の影響とそれに伴う株価下落リスクを示しており、市場関係者や投資家にとって重要な警鐘となる。特に米中東情勢やFRBの金融政策との相互作用が市場の先行きを左右するため、注目が集まっている。",
+        "market_impact": "高油価が消費者の購買力を削ぎ、企業収益の圧迫要因となるため、株式市場には下押し圧力が強まる見込み。FRBが金融緩和に踏み切るのは経済悪化のサインと捉えられ、通常の金融緩和期に見られる株価の持続的な回復は期待しづらい。エネルギー価格の動向が市場センチメントに大きな影響を与える状況が続くだろう。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/25/the-firm-whose-ai-paper-knocked-the-whole-market-is-out-with-another-big-call.html"
@@ -99,9 +91,9 @@
     "Geopolitics": [
       {
         "title": "Jamie Dimon says Iran war makes Middle East peace prospects better in the long term",
-        "summary_2lines": "JPMorgan CEO Jamie Dimon believes the Iran war increases short-term risks but could lead to long-term Middle East peace due to aligned regional interests. He also highlights the economic necessity of regional stability for continued foreign investment.",
-        "why_it_matters": "The Iran conflict tensions influence geopolitics and global markets, especially energy prices. Dimon's insights underscore how regional stability is crucial for sustained economic growth and security, affecting investment flows and US strategic positioning amid rising China tensions.",
-        "market_impact": "In the short term, oil prices may remain volatile due to supply disruptions from the Iran war. However, potential peace could restore investor confidence and foreign direct investment in Gulf countries, benefiting energy and infrastructure sectors. US policies on national security and supply chains also suggest shifts in defense and manufacturing investments.",
+        "summary_2lines": "JPMorgan CEO Jamie Dimon believes the Iran war poses short-term risks but could improve Middle East peace prospects in the long term due to aligned interests among regional powers. He also highlighted U.S. national security vulnerabilities and geopolitical risks related to China.",
+        "why_it_matters": "この発言は、米国最大の金融機関のリーダーが国際情勢と経済安定性を結びつけて分析している点に意義がある。中東の長期的な平和が安定的な投資環境を生み出し、グローバル経済の安定に寄与する可能性がある。また、アメリカの国家安全保障や中国との対立を念頭に置いた戦略的な示唆を含み、世界の政治経済リスクを理解するうえで重要。",
+        "market_impact": "中東の紛争は石油供給を不安定にし原油価格を押し上げるため短期的に市場にネガティブな影響を与えたが、安定化すれば外資の流入が再び活発化し、地域経済の成長と世界市場の安定につながる。加えて、米国の防衛産業や製造業の政策変化が促される可能性があり、長期的にはサプライチェーンの見直しや新たな投資機会をもたらす。",
         "category": "Geopolitics",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/24/jamie-dimon-iran-war-middle-east-peace-prospects-long-term.html"
@@ -109,42 +101,51 @@
     ],
     "Economy": [
       {
-        "title": "UK inflation rate stays at 3% before Iran war hits oil prices",
-        "summary_2lines": "2月の英国のインフレ率は3％で横ばいだったが、イランとの戦争勃発により原油価格が急騰し、今後のエネルギー価格とインフレ率の上昇が懸念されている。燃料価格の急上昇は企業のコスト増加を招き、インフレ低下の予測を覆す可能性が高い。",
-        "why_it_matters": "インフレ率の動向は経済政策や消費者の生活に直結し、特にエネルギー価格は幅広い業種に影響を与える。イラン戦争に伴う原油価格上昇は、英国のインフレ抑制への努力を阻害し、中央銀行の金融政策にも影響を及ぼす重要なファクターとなる。",
-        "market_impact": "燃料やエネルギーコストの上昇により、輸送業やサービス業、製造業などの企業コストは大幅に増加。これが価格転嫁されることで、食料品やレジャーなど生活必需品以外の物価も上昇し、消費者の購買力が低下。インフレ率の上昇は金融市場に緊張をもたらし、利上げ観測が強まるため株式市場の不安定化も予想される。",
+        "title": "Sen. Warren rips Federal Reserve chair pick Kevin Warsh: 'You have learned nothing from your failures'",
+        "summary_2lines": "上院議員エリザベス・ウォーレン氏はFRB議長候補ケビン・ウォーシュに対し、過去の失敗から何も学んでいないと厳しく批判した。ウォーシュの指名は審議停滞のリスクがあり、金融政策の方向性に懸念が高まっている。",
+        "why_it_matters": "FRB議長は米国の金融政策を司る極めて重要な役職であり、その指名は経済の安定や成長に直結する。ウォーレン氏は2008年の金融危機時のウォーシュ氏の行動を問題視し、金融規制の強化と労働者保護の観点から適任性を疑問視している。トランプ政権下でのFRB独立性や金融危機の再発防止が焦点となっている中、議長指名を巡る政治的対立は市場の不透明感を増幅させている。",
+        "market_impact": "ウォーシュ氏の議長就任が実現すれば、トランプ氏の意向を反映した金融政策が進む可能性がある一方、ウォーレン氏らによる強い反発は金融規制の強化観測を高め、市場の政策不確実性を招いている。また、現状の議会での指名遅延や調査継続はFRBの意思決定に混乱をもたらし、投資家心理の悪化や市場ボラティリティの高まりが懸念される。",
         "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cx2w47e9v2vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "We need more plumbers and fewer lawyers in AI age, says BlackRock boss",
-        "summary_2lines": "ブラックロックのCEOラリー・フィンク氏は、AI時代において弁護士よりも配管工や電気技師などの技能職の需要増を指摘し、教育の過剰な大学進学偏重を見直す必要性を訴えた。さらに、原油価格が150ドルに達すると世界的な景気後退を引き起こす警告も行った。",
-        "why_it_matters": "AIの発展により従来のオフィス系職種の需要が減少する一方、技能職の重要性が高まる社会構造の変化を示している。また、エネルギー価格の高騰が経済に与えるリスクを警告し、政策や投資の方向性に影響を与えるため、経済・雇用政策や市場の動向を理解する上で重要な示唆となる。",
-        "market_impact": "技能職の需要増加は教育市場や人材需給に変化をもたらす可能性があり、労働市場の多様化を促す。原油価格が150ドルに達した場合、エネルギーコストの上昇が企業収益を圧迫し、消費者の購買力低下を引き起こして経済成長の鈍化や景気後退をもたらすリスクが高まる。これにより、エネルギーセクターの投資やエネルギー政策の再検討が加速する可能性がある。",
-        "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Why are UK prices still rising?",
-        "summary_2lines": "英国の消費者物価指数（CPI）は2月に前年同月比3%上昇し、インフレは依然としてイングランド銀行の目標の2%を上回っている。ウクライナ侵攻に続く米イスラエル・イラン戦争の影響で、今後の物価上昇加速が懸念される。",
-        "why_it_matters": "インフレの動向は中央銀行の金融政策決定に大きく影響し、家計や企業の経済状況に直結する。エネルギー価格の急騰や賃金上昇圧力が続く中、物価上昇が制御できなければ生活コストの増加や経済成長の鈍化を招くため、注視が必要である。",
-        "market_impact": "物価上昇が続くことで、企業はコスト増を価格に転嫁せざるを得ず、消費者支出の抑制につながる可能性がある。中央銀行は利下げ後も金融政策を調整し続ける見込みで、住宅ローン金利や借入コストの変動が経済全体の投資や消費に影響を与えるだろう。",
-        "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/26/federal-reserve-kevin-walsh-elizabeth-warren-trump.html"
       }
     ],
     "Corporate": [
       {
-        "title": "Meta and YouTube found liable in landmark social media addiction trial",
-        "summary_2lines": "ロサンゼルスの裁判で、MetaとYouTubeが若年ユーザーのソーシャルメディア依存による精神的被害について責任を認められ、損害賠償を命じられた。これはソーシャルメディア企業に対する法的責任問題の画期的判決だ。",
-        "why_it_matters": "本判決は、ソーシャルメディア企業が意図的に依存性の高いプラットフォームを設計し、若年層の精神健康に深刻な悪影響を及ぼしたと認めた初のケースであり、今後同様の訴訟や規制強化の潮流を生み出す可能性が高い。消費者・社会の視点からテック企業の倫理的責任が改めて問われる重要な転機だ。",
-        "market_impact": "MetaやGoogle（YouTube）が今後複数の追加訴訟や高額の懲罰的損害賠償請求に直面するリスクが増大し、経営コストやブランドイメージに打撃を受ける見込み。業界全体でプラットフォーム設計の見直しやコンプライアンス強化に資源を割く必要が生じ、特に若年層関連サービスの規制強化や収益モデルの転換を迫られる可能性がある。",
+        "title": "JLR temporarily halts production at Solihull plant",
+        "summary_2lines": "Jaguar Land Roverは部品供給問題によりソリハル工場でのレンジローバー系の生産を約2週間一時停止する。影響はイースターの計画休止期間も含む。",
+        "why_it_matters": "JLRは昨年の大規模サイバー攻撃で操業に大きな支障を受けており、今回の部品供給問題による生産停止は生産回復の足かせとなる可能性がある。部品サプライチェーンの脆弱性が改めて浮き彫りとなったため重要。",
+        "market_impact": "生産停止は短期的に自動車供給量を減少させ、特にレンジローバーの供給不足による販売機会損失や在庫調整に繋がる。長引けばブランドイメージと売上にマイナス影響が出る恐れがあり、同社株価や自動車部品関連株にも波及する可能性がある。",
         "category": "Corporate",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c3931xz101do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'It took six years to receive my late father's premium bonds'",
+        "summary_2lines": "遺族が故人のプレミアムボンドの受け取りに数年を要し、NS&Iの対応遅延や手続きの煩雑さが問題視されている。政府は指導者交代と遺族への補償を約束した。",
+        "why_it_matters": "NS&Iは政府保証の貯蓄商品を運営しており、多くの市民が資産を保有しているため、遺族への遅延は社会的な信頼性や公的資金管理の問題につながる。特に、葬儀費用の支払いなど遺族の緊急ニーズに影響し、行政サービスの改善要求が高まっている。",
+        "market_impact": "今回の問題はNS&Iの運営体制の脆弱さを露呈し、信頼失墜により顧客離れや資金流出リスクを招く可能性がある。加えて運営コスト増加や賠償による財務負担が予想され、政府の公的金融機関の見直し圧力を強める可能性がある。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c2k350g3jelo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Elon Musk's X advertising boycott lawsuit dismissed by US judge",
+        "summary_2lines": "米国裁判所は、イーロン・マスクのX（旧Twitter）が広告主によるボイコットを反競争的行為として提訴した訴訟を却下した。裁判官はX社が連邦競争法の下で損害を証明できなかったと判断した。",
+        "why_it_matters": "SNSプラットフォームの収益モデルの持続可能性と広告主との関係性が問われる中、マスクのXが直面する広告収入減少問題と訴訟結果は業界全体の競争環境や広告戦略に影響を与える重要な判例となる。広告主側の自主的な広告配分の判断が認められたことで、プラットフォーム運営の公平性と規制のあり方が改めて注目されている。",
+        "market_impact": "Xの広告収入減少は引き続き同社の財務に圧力をかけるが、訴訟却下により大規模広告主がプラットフォームを選択する自由が確認されたことで、他の広告主や競合SNSへの影響も見込まれる。マスクの収益回復戦略にとっては障害が残る一方、広告市場全体では透明性と自主性を重視する動きが強まる可能性がある。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c05dlm0l0jgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "NS&I boss replaced as savers left waiting for millions of pounds",
+        "summary_2lines": "英国政府系貯蓄機関NS&IのCEOが、遺族のプレミアムボンドの資金回収に遅れが出たスキャンダルを受けて交代した。約3万7500人が影響を受け、最大4億7600万ポンドの資金が遅延している。",
+        "why_it_matters": "NS&Iは政府保証付きの貯蓄機関として約2400万人の顧客から信頼を得ており、本件は国民の資金回収プロセスの不備と運営上の大きな問題を示した。遺族の生活資金に関わるため社会的影響も深刻で、政府は補償や改善計画の策定を約束している。",
+        "market_impact": "直接的な金融市場への影響は限定的だが、政府の信用保証を盾にした貯蓄商品への信頼低下リスクがある。また、公的金融機関の運営改善要求が高まり、長期的には金融サービス業界全体のコンプライアンス強化や顧客対応見直しを促す可能性がある。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
