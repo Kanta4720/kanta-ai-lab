@@ -1,47 +1,47 @@
 {
-  "generated_at_jst": "2026-03-28 07:20",
+  "generated_at_jst": "2026-03-29 07:16",
   "todays_brief": [
     {
-      "title": "'Ripple of fear' over Iran war hits consumer confidence",
-      "summary_2lines": "イラン戦争の影響で英国の消費者信頼感が低下し、大型消費や支出意欲が減退している。エネルギー価格の上昇も家計の負担を増やし、不透明感が広がっている。",
-      "why_it_matters": "消費者信頼感の低下は個人消費の縮小を示唆し、英国経済の成長見通しに影響を及ぼす。エネルギー価格の高騰と地政学リスクの増大が家計負担を押し上げ、景気の弱気転換リスクが高まっているため重要である。",
-      "market_impact": "小売業では売上減少が続き、特に大型商品や非店頭販売に悪影響。エネルギー価格高騰は消費者の可処分所得を圧迫し、節約志向を強化。全般的に実質支出が落ち込み、経済成長鈍化や株式市場の不安定化が予想される。",
-      "category": "Economy",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c8957kqqdg4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "The research firm whose AI paper knocked the whole stock market is out with another big call",
-      "summary_2lines": "Citrini Research warns that persistently high oil prices, driven by ongoing geopolitical tensions, could trigger a stock market slowdown despite potential Fed rate cuts. The firm highlights that energy costs act like a growth tax, weakening consumers and corporate earnings.",
-      "why_it_matters": "このニュースは、従来の利下げ期待による株価反発シナリオに疑問を投げかけ、エネルギー価格という外部ショックが経済成長や市場の先行きに重大な影響を与える可能性を示している点で重要。投資家や政策決定者がリスク管理や経済見通しの見直しを迫られる背景となる。",
-      "market_impact": "高止まりする原油価格は消費者の購買力を削ぎ、企業の収益圧迫要因となるため、株式市場は苦戦を強いられる見込み。さらに、利下げが景気後退の結果としての対応になるため、株価の持続的な上昇は期待しにくい。地政学リスクの継続は市場のボラティリティも高める可能性がある。",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/25/the-firm-whose-ai-paper-knocked-the-whole-market-is-out-with-another-big-call.html"
-    },
-    {
-      "title": "How the Hormuz closure could affect food, medicines and smartphones",
-      "summary_2lines": "ホルムズ海峡の閉鎖により、石油・ガスだけでなく世界の肥料、ヘリウムなどの重要資源の供給が大幅に減少。これにより、食料、医療用MRI、スマートフォンなどの価格が上昇する懸念が高まっている。 ",
-      "why_it_matters": "ホルムズ海峡は多くの石油・ガスをはじめ、世界の肥料や半導体製造に不可欠なヘリウムなどが通過する戦略的な海峡である。紛争による閉鎖はこれら必需品の供給不足を招き、農業生産や医療機器、先端技術製品の製造に直接的打撃を与えるため、食料安全保障やグローバル経済の安定に深刻な影響を及ぼす可能性がある。",
-      "market_impact": "肥料不足は種まきシーズンに農作物の収穫減少を起こし、小麦や野菜の価格が4～5%上昇、特にザンビアやスリランカなど一部国で食品価格高騰が懸念される。ヘリウム供給の停滞は半導体製造コストやMRIの運用コストを押し上げ、スマートフォンや医療分野の価格高騰・供給遅延をもたらす可能性が高い。ロシアの肥料増産が供給不足緩和に期待されるが、短期的には市場の混乱が続く見込み。",
-      "category": "Geopolitics",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c4gjxv5g19no?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "Lloyds bank reveals IT glitch affected almost half a million customers",
-      "summary_2lines": "ロイズ銀行のシステム障害により約45万人の顧客が他人の取引内容や個人情報を閲覧する事態が発生。銀行は一部顧客に約13.9万ポンドの補償金を支払い、原因はソフトウェアの欠陥と説明している。",
-      "why_it_matters": "今回の事件は、デジタル化が進む現代銀行業務における利便性と技術的リスクのトレードオフを象徴している。顧客の個人情報保護とシステムの安全性確保が求められる中で、銀行と規制当局の透明性と対応力が試される事態となった。",
-      "market_impact": "ロイズ銀行の信頼性低下につながり顧客離れやブランドイメージの悪化を招く恐れがある。金融規制強化の動きが加速し、ITガバナンスへの投資増加や運用コストの上昇が予想される。業界全体でオンラインバンキングのシステム堅牢化が急務となり、市場全体に緊張感が走る可能性がある。",
+      "summary_2lines": "Lloyds銀行のソフトウェア障害により約44万8千人の顧客情報が誤って他人に表示される問題が発生した。銀行は一部顧客に約13万9千ポンドの補償を行い、規制当局とも協力を進めている。",
+      "why_it_matters": "現代のデジタルバンキングの利便性は高い一方で、システムの予期せぬエラーが顧客のプライバシー侵害や信用リスクを招く可能性があるため、金融機関のIT管理体制と透明性確保の重要性が改めて浮き彫りになった。",
+      "market_impact": "顧客信頼の低下によりLloyds銀行のブランドイメージや顧客獲得に悪影響が生じる恐れがある。規制強化や追加コスト発生のリスクも伴い、IT管理体制の見直しやセキュリティ投資が必要となる可能性が高い。",
       "category": "Corporate",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/c70dqk2vjv8o?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "How Trump and the oil markets move in sync: a tango in five charts",
+      "summary_2lines": "トランプ大統領の発言が原油価格に大きな影響を与えてきたが、最近は市場が彼の rhetoric に対して懐疑的になっている。イラン攻撃開始後、原油価格は大幅に上昇し、不確実性の中で変動を続けている。",
+      "why_it_matters": "トランプ氏の言動が地政学的リスクや投資家の心理に直接影響し、原油市場の価格変動を通じて世界経済に波及リスクを与えているため。原油価格は経済インフレや成長に直結し、政治的緊張による市場の過剰反応が企業や消費者にも影響を及ぼすからである。",
+      "market_impact": "原油価格の急騰によりエネルギー関連コストが上昇し、インフレ圧力が強まる。投資家はトランプ氏の発言の真意を見極めようと懐疑的になり、市場の変動性が増加。企業の資源調達コストや利益率に影響が及び、株式市場や為替市場にも波及リスクが広がっている。",
+      "category": "Markets",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Private credit's cracks open door for Wall Street banks' comeback: 'The tug of war is just starting'",
+      "summary_2lines": "規制緩和と金利低下により、ウォール街の銀行がプライベートクレジット市場でシェア奪還を狙う動きを強めている。プライベートクレジットは高い負債リスクや投資家の流動性需要増加で逆風に直面している。",
+      "why_it_matters": "過去10年で急成長したプライベートクレジットが金融市場の大きな資金供給源となったが、銀行の規制緩和と利率低下で競争環境が変わってきている。これにより金融機関の資金供給構造やレバレッジドバイアウトの資金調達手法が変化し、信用リスクの評価や市場参加者の戦略にも影響を及ぼすため重要である。",
+      "market_impact": "銀行が改めて大型のレバレッジドローン取引に参入し、プライベートクレジットから資金シェアを奪還する動きが増える。規制緩和は資金調達コスト低減を促し、各セクターでの貸出競争激化も見込まれる。プライベートクレジットの信用問題が深刻化すればデフォルト増加が懸念され、市場の流動性や投資家心理に悪影響を与える可能性が高い。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/27/wall-street-banks-private-credit-market-share-leveraged-loans.html"
+    },
+    {
+      "title": "'Ripple of fear' over Iran war hits consumer confidence",
+      "summary_2lines": "イラン戦争を巡る不安が英国の消費者信頼感を低下させ、大型購入の意欲減退と貯蓄志向の高まりをもたらしている。小売売上も減少傾向にあり、今後の家計支出の鈍化が懸念される。",
+      "why_it_matters": "イランをめぐる地政学的リスクがエネルギー価格を大幅に押し上げ、英国経済の脆弱性が浮き彫りに。消費者心理の悪化は経済成長の下振れ圧力となり、特に家計の支出減少と物価上昇のダブルパンチが景気回復を難しくしているため重要である。",
+      "market_impact": "消費者信頼感の低下と小売売上の減少は短期的に企業の業績にマイナス影響を及ぼし、特に耐久消費財や非店舗販売に対する需要が減退。エネルギー関連コスト上昇がインフレ圧力を強化し、生活費増加により消費者支出のさらなる縮小が予想されるため、経済全体の成長鈍化および国内景気の落ち込みが懸念される。",
+      "category": "Economy",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c8957kqqdg4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Why one hedge fund veteran is urging investors to 'prepare for the worst'",
-      "summary_2lines": "ヘッジファンドのベテラン、アンドリュー・ビア氏は市場の予測能力が機能しておらず、投資家に最悪の事態に備えるよう警告している。地政学的リスクと経済リスクが積み重なり、市場のボラティリティが異常に高まっている。",
-      "why_it_matters": "世界的な地政学的緊張と複数の経済リスクが絡み合う中、伝統的な市場分析や予測モデルでは今後の動向を見極めることが困難になっている。投資家が適切にリスクヘッジを行い、資産の保全を図ることがこれまで以上に重要となっているため、今回の警告は重要な意味を持つ。",
-      "market_impact": "市場では急激な価格変動が続き、金、銀、ビットコイン、原油といった資産の価格が大きく動いている。これにより投資家のポートフォリオ調整が難しくなり、プライベートクレジットや保険会社のポートフォリオにも波及リスクが懸念される。従って、守りの投資（例：マネージド・フューチャーズETF）への需要が増加し、リスク分散やヘッジ戦略の導入が加速する可能性が高い。",
+      "summary_2lines": "ヘッジファンドのベテラン、アンドリュー・ビア氏は地政学的緊張と多重リスクが市場の予測機能を損ない、投資家は最悪の事態に備えるべきだと警鐘を鳴らす。特に不安定な市場環境では、リスク管理として保護的な投資戦略が必要とされている。",
+      "why_it_matters": "現在の市場は過去に例を見ないほど多くの地政学的・経済的リスクに直面しており、通常の予測モデルが通用しない状況にある。これにより投資環境が極めて不安定化し、資産運用の戦略見直しやリスク管理の徹底が求められている。経済の不確実性が増す中で、投資家の心理や資金フローに影響を与え、広範囲にわたる市場の変動性を生み出している。",
+      "market_impact": "株式市場などの主要市場は大きな変動を伴い、投資家のリスク回避志向が高まることで安全資産（ゴールドやシルバー）や代替資産（ビットコイン、管理型先物ETF）への資金流入が増加する可能性がある。さらに、プライベートクレジットや保険会社のポートフォリオにまで影響が及ぶ恐れがあるため、信用リスクの拡大や流動性リスクが懸念される。結果として、従来の投資戦略が通用しにくくなり、ポートフォリオの多様化と保護的ヘッジ手段の導入が急務となっている。",
       "category": "Markets",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/03/27/iran-to-economic-risks-markets-ability-to-forecast-world-in-question.html"
@@ -51,77 +51,76 @@
     "Tech": [],
     "Markets": [
       {
-        "title": "Asda boss rejects profiteering claims as petrol price tops 150p",
-        "summary_2lines": "Asdaの代表は、石油価格上昇に伴う小売店の利益搾取の疑惑を否定。ガソリン価格は2年ぶりに150ペンスを超え、燃料コストが家計に大きな負担となっている。",
-        "why_it_matters": "燃料価格の高騰は中東情勢の緊迫化に起因し、消費者の生活費を押し上げるため経済全体に波及効果を持つ。政府と小売業者間の責任論争も激化しており、燃料供給や価格政策への関心が高まっている。",
-        "market_impact": "燃料価格上昇は消費者の支出抑制や運輸コスト増加を通じて広範な経済に影響し、Asdaの利益率低下や小売業界全体の圧力を示す。政府の監視強化もあり、燃料販売業者の料金設定と供給体制が注目される。",
+        "title": "How Trump and the oil markets move in sync: a tango in five charts",
+        "summary_2lines": "トランプ大統領の発言が原油価格に大きな影響を与えてきたが、最近は市場が彼の rhetoric に対して懐疑的になっている。イラン攻撃開始後、原油価格は大幅に上昇し、不確実性の中で変動を続けている。",
+        "why_it_matters": "トランプ氏の言動が地政学的リスクや投資家の心理に直接影響し、原油市場の価格変動を通じて世界経済に波及リスクを与えているため。原油価格は経済インフレや成長に直結し、政治的緊張による市場の過剰反応が企業や消費者にも影響を及ぼすからである。",
+        "market_impact": "原油価格の急騰によりエネルギー関連コストが上昇し、インフレ圧力が強まる。投資家はトランプ氏の発言の真意を見極めようと懐疑的になり、市場の変動性が増加。企業の資源調達コストや利益率に影響が及び、株式市場や為替市場にも波及リスクが広がっている。",
         "category": "Markets",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Former SEC Chair Jay Clayton says regulators would scrutinize trading ahead of Trump post",
-        "summary_2lines": "元SEC議長のジェイ・クレイトン氏は、トランプ大統領の市場影響発言前の先物取引急増を規制当局が調査すると指摘。取引の透明性や法整備の必要性も強調した。",
-        "why_it_matters": "大統領の発言前に異常な取引が行われたことでインサイダー取引や市場操作の可能性が懸念され、金融市場の公正性や信頼維持の観点から規制強化や監視体制の見直しが求められている。",
-        "market_impact": "市場では情報優位を持つ者による取引が疑われるため、監視強化や法的整備が進めば市場の透明性が向上し、公正な価格形成が促進される一方、取引活動やボラティリティに短期的な影響も出る可能性がある。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/25/former-sec-chair-jay-clayton-says-regulators-would-scrutinize-trading-ahead-of-trump-post.html"
-      },
-      {
-        "title": "Private credit's cracks open door for Wall Street banks' comeback: 'The tug of war is just starting'",
-        "summary_2lines": "銀行規制緩和とプライベートクレジットファンドの貸付問題により、ウォール街の銀行が私的金融市場でのシェア回復を狙っている。バランスが変わりつつあり、銀行とプライベートクレジットとの競争が激化している段階だ。",
-        "why_it_matters": "過去10年でプライベートクレジットがレバレッジドバイアウトの資金調達を主導してきたが、近年の高金利や規制、借り手の返済負担増加に伴い問題が顕在化。これに対し銀行規制緩和が進み、伝統的な銀行が再びリスクを取って市場奪回を目指すという金融市場の構造変化が表面化しているため重要。",
-        "market_impact": "銀行の資金供給競争が再び激化し、融資条件や金利に影響を与える可能性がある。プライベートクレジットの信用リスク増大が金融市場全体の資金調達環境に波及しうる一方、銀行の規制緩和で大型案件の取り扱いも増加し、企業のレバレッジドバイアウトや大型M&Aの資金調達環境が変化する見込み。投資家の流動性要求やデフォルトリスクも注視すべきポイント。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/27/wall-street-banks-private-credit-market-share-leveraged-loans.html"
+        "url": "https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "The research firm whose AI paper knocked the whole stock market is out with another big call",
-        "summary_2lines": "Citrini Research warns that persistently high oil prices, driven by ongoing geopolitical tensions, could trigger a stock market slowdown despite potential Fed rate cuts. The firm highlights that energy costs act like a growth tax, weakening consumers and corporate earnings.",
-        "why_it_matters": "このニュースは、従来の利下げ期待による株価反発シナリオに疑問を投げかけ、エネルギー価格という外部ショックが経済成長や市場の先行きに重大な影響を与える可能性を示している点で重要。投資家や政策決定者がリスク管理や経済見通しの見直しを迫られる背景となる。",
-        "market_impact": "高止まりする原油価格は消費者の購買力を削ぎ、企業の収益圧迫要因となるため、株式市場は苦戦を強いられる見込み。さらに、利下げが景気後退の結果としての対応になるため、株価の持続的な上昇は期待しにくい。地政学リスクの継続は市場のボラティリティも高める可能性がある。",
+        "summary_2lines": "Citrini Researchが原油高による景気減速で株価がさらに下落すると警告。地政学的リスクが油価高を維持し、利下げがあっても株価反発は限定的と予測している。",
+        "why_it_matters": "原油価格の高止まりが消費者の購買力と企業収益を圧迫し、景気減速を引き起こす可能性があるため。多くの投資家が利下げで株価回復を期待する中、この見解は従来の強気シナリオに異議を唱えている。",
+        "market_impact": "継続する高エネルギーコストが経済活動を鈍化させ、企業業績悪化や消費減退を通じて株式市場を圧迫。地政学的緊張が解消されても消費者が弱含むため株価上昇は限定され、金利据え置きや利下げも市場の下支えには繋がりにくい可能性が高い。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/25/the-firm-whose-ai-paper-knocked-the-whole-market-is-out-with-another-big-call.html"
       },
       {
+        "title": "Private credit's cracks open door for Wall Street banks' comeback: 'The tug of war is just starting'",
+        "summary_2lines": "規制緩和と金利低下により、ウォール街の銀行がプライベートクレジット市場でシェア奪還を狙う動きを強めている。プライベートクレジットは高い負債リスクや投資家の流動性需要増加で逆風に直面している。",
+        "why_it_matters": "過去10年で急成長したプライベートクレジットが金融市場の大きな資金供給源となったが、銀行の規制緩和と利率低下で競争環境が変わってきている。これにより金融機関の資金供給構造やレバレッジドバイアウトの資金調達手法が変化し、信用リスクの評価や市場参加者の戦略にも影響を及ぼすため重要である。",
+        "market_impact": "銀行が改めて大型のレバレッジドローン取引に参入し、プライベートクレジットから資金シェアを奪還する動きが増える。規制緩和は資金調達コスト低減を促し、各セクターでの貸出競争激化も見込まれる。プライベートクレジットの信用問題が深刻化すればデフォルト増加が懸念され、市場の流動性や投資家心理に悪影響を与える可能性が高い。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/27/wall-street-banks-private-credit-market-share-leveraged-loans.html"
+      },
+      {
+        "title": "Asda boss rejects profiteering claims as petrol price tops 150p",
+        "summary_2lines": "英大手小売業者Asdaの責任者は、燃料価格の急騰を受けた小売業者の利益追求の批判を否定した。ガソリン価格は約2年ぶりに1リットルあたり150ペンスを超え、原油紛争が影響している。",
+        "why_it_matters": "燃料価格の高騰は消費者の生活コストを押し上げ、経済全体にインフレ圧力をかけるため重要である。政府と小売業者間の責任論は政策対応に影響を与え、消費者信頼にも波及効果がある。また、中東情勢と国際原油価格の動向が長期的な燃料価格変動に大きく関係する。",
+        "market_impact": "燃料価格上昇は消費者のガソリン需要に影響を与えつつも、Asdaのような燃料小売業者の利益率は圧迫されている。高価格は運送・物流コストの上昇を招き、広範なサプライチェーンに波及する可能性がある。政府の監視強化は小売業者の価格設定行動に制約を与え得る。原油市場では中東情勢への警戒感が高まり、価格変動の不確実性が増している。",
+        "category": "Markets",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "As stocks and bonds fall, and oil hits $100, a futures trade that boomed in 2022 may again be a winner",
+        "summary_2lines": "2022年の株式や債券の下落局面で強みを発揮したマネージド・フューチャーズ戦略が、現在の地政学リスクとインフレ不安の高まりにより再び注目されている。主要資産運用会社も参入し、投資家の分散投資手段として存在感を高めている。",
+        "why_it_matters": "米国とイランの紛争や1970年代型のスタグフレーション懸念が、株式・債券市場に大きな圧力をかけている中で、従来の資産クラスとは異なるトレンドを捉えるマネージド・フューチャーズ戦略が注目されている。これにより伝統的な資産運用が難しい環境下でのリスク分散とリターン獲得の新たな可能性が示されている。",
+        "market_impact": "マネージド・フューチャーズETFへの資金流入が増加し、業界全体の運用資産は拡大傾向にある。ブラックロックやフィデリティなど大手も参入しており、これにより投資家の選択肢が広がる一方で、同戦略の複雑性と避けられない変動リスクも認識され始めている。全体として、ポートフォリオの多様化戦略としての重要性が高まり、今後市場環境の変動に対する耐性強化に寄与する可能性がある。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/28/market-correction-futures-hedging-strategies.html"
+      },
+      {
         "title": "Why one hedge fund veteran is urging investors to 'prepare for the worst'",
-        "summary_2lines": "ヘッジファンドのベテラン、アンドリュー・ビア氏は市場の予測能力が機能しておらず、投資家に最悪の事態に備えるよう警告している。地政学的リスクと経済リスクが積み重なり、市場のボラティリティが異常に高まっている。",
-        "why_it_matters": "世界的な地政学的緊張と複数の経済リスクが絡み合う中、伝統的な市場分析や予測モデルでは今後の動向を見極めることが困難になっている。投資家が適切にリスクヘッジを行い、資産の保全を図ることがこれまで以上に重要となっているため、今回の警告は重要な意味を持つ。",
-        "market_impact": "市場では急激な価格変動が続き、金、銀、ビットコイン、原油といった資産の価格が大きく動いている。これにより投資家のポートフォリオ調整が難しくなり、プライベートクレジットや保険会社のポートフォリオにも波及リスクが懸念される。従って、守りの投資（例：マネージド・フューチャーズETF）への需要が増加し、リスク分散やヘッジ戦略の導入が加速する可能性が高い。",
+        "summary_2lines": "ヘッジファンドのベテラン、アンドリュー・ビア氏は地政学的緊張と多重リスクが市場の予測機能を損ない、投資家は最悪の事態に備えるべきだと警鐘を鳴らす。特に不安定な市場環境では、リスク管理として保護的な投資戦略が必要とされている。",
+        "why_it_matters": "現在の市場は過去に例を見ないほど多くの地政学的・経済的リスクに直面しており、通常の予測モデルが通用しない状況にある。これにより投資環境が極めて不安定化し、資産運用の戦略見直しやリスク管理の徹底が求められている。経済の不確実性が増す中で、投資家の心理や資金フローに影響を与え、広範囲にわたる市場の変動性を生み出している。",
+        "market_impact": "株式市場などの主要市場は大きな変動を伴い、投資家のリスク回避志向が高まることで安全資産（ゴールドやシルバー）や代替資産（ビットコイン、管理型先物ETF）への資金流入が増加する可能性がある。さらに、プライベートクレジットや保険会社のポートフォリオにまで影響が及ぶ恐れがあるため、信用リスクの拡大や流動性リスクが懸念される。結果として、従来の投資戦略が通用しにくくなり、ポートフォリオの多様化と保護的ヘッジ手段の導入が急務となっている。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/27/iran-to-economic-risks-markets-ability-to-forecast-world-in-question.html"
       }
     ],
-    "Geopolitics": [
-      {
-        "title": "How the Hormuz closure could affect food, medicines and smartphones",
-        "summary_2lines": "ホルムズ海峡の閉鎖により、石油・ガスだけでなく世界の肥料、ヘリウムなどの重要資源の供給が大幅に減少。これにより、食料、医療用MRI、スマートフォンなどの価格が上昇する懸念が高まっている。 ",
-        "why_it_matters": "ホルムズ海峡は多くの石油・ガスをはじめ、世界の肥料や半導体製造に不可欠なヘリウムなどが通過する戦略的な海峡である。紛争による閉鎖はこれら必需品の供給不足を招き、農業生産や医療機器、先端技術製品の製造に直接的打撃を与えるため、食料安全保障やグローバル経済の安定に深刻な影響を及ぼす可能性がある。",
-        "market_impact": "肥料不足は種まきシーズンに農作物の収穫減少を起こし、小麦や野菜の価格が4～5%上昇、特にザンビアやスリランカなど一部国で食品価格高騰が懸念される。ヘリウム供給の停滞は半導体製造コストやMRIの運用コストを押し上げ、スマートフォンや医療分野の価格高騰・供給遅延をもたらす可能性が高い。ロシアの肥料増産が供給不足緩和に期待されるが、短期的には市場の混乱が続く見込み。",
-        "category": "Geopolitics",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c4gjxv5g19no?at_medium=RSS&at_campaign=rss"
-      }
-    ],
+    "Geopolitics": [],
     "Economy": [
       {
         "title": "'Ripple of fear' over Iran war hits consumer confidence",
-        "summary_2lines": "イラン戦争の影響で英国の消費者信頼感が低下し、大型消費や支出意欲が減退している。エネルギー価格の上昇も家計の負担を増やし、不透明感が広がっている。",
-        "why_it_matters": "消費者信頼感の低下は個人消費の縮小を示唆し、英国経済の成長見通しに影響を及ぼす。エネルギー価格の高騰と地政学リスクの増大が家計負担を押し上げ、景気の弱気転換リスクが高まっているため重要である。",
-        "market_impact": "小売業では売上減少が続き、特に大型商品や非店頭販売に悪影響。エネルギー価格高騰は消費者の可処分所得を圧迫し、節約志向を強化。全般的に実質支出が落ち込み、経済成長鈍化や株式市場の不安定化が予想される。",
+        "summary_2lines": "イラン戦争を巡る不安が英国の消費者信頼感を低下させ、大型購入の意欲減退と貯蓄志向の高まりをもたらしている。小売売上も減少傾向にあり、今後の家計支出の鈍化が懸念される。",
+        "why_it_matters": "イランをめぐる地政学的リスクがエネルギー価格を大幅に押し上げ、英国経済の脆弱性が浮き彫りに。消費者心理の悪化は経済成長の下振れ圧力となり、特に家計の支出減少と物価上昇のダブルパンチが景気回復を難しくしているため重要である。",
+        "market_impact": "消費者信頼感の低下と小売売上の減少は短期的に企業の業績にマイナス影響を及ぼし、特に耐久消費財や非店舗販売に対する需要が減退。エネルギー関連コスト上昇がインフレ圧力を強化し、生活費増加により消費者支出のさらなる縮小が予想されるため、経済全体の成長鈍化および国内景気の落ち込みが懸念される。",
         "category": "Economy",
         "source": "BBC Business",
         "url": "https://www.bbc.com/news/articles/c8957kqqdg4o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Sen. Warren rips Federal Reserve chair pick Kevin Warsh: 'You have learned nothing from your failures'",
-        "summary_2lines": "上院議員エリザベス・ウォーレンはFRB議長候補ケビン・ウォーシュを厳しく批判し、彼の過去の金融危機対応の失敗から何も学んでいないと非難した。ウォーシュの指名は議会内の対立や連邦調査の影響で承認が停滞している。",
-        "why_it_matters": "FRB議長の人事は米国の金融政策や経済全体に大きな影響を及ぼす重要な決定であり、ウォーレンの批判はトランプ政権下でのウォール街優先の政策を象徴している。金融危機の教訓を踏まえた規制強化が求められる中、議長人事の停滞は政策決定の不透明性や市場の不安定要因となりうる。",
-        "market_impact": "FRB議長の不透明な指名プロセスと対立は、金融市場の不確実性を高める。特にウォール街規制の緩和懸念や金融システムの安定性に対する懸念から、銀行株や金融商品への影響が考えられる。加えて、金利政策の方向性が不透明になり、経済全体の成長見通しにもマイナス影響を及ぼす可能性がある。",
+        "summary_2lines": "上院議員エリザベス・ウォーレンは、ケビン・ウォーシュ連邦準備制度理事会（FRB）議長候補に対し、過去の金融危機対応の失敗を理由に厳しく批判し、トランプ政権の意向に屈する懸念を示した。ホワイトハウスとFRB間の政治的対立が深まる中、ウォーシュの指名は議会で混迷している。",
+        "why_it_matters": "FRBの議長は米国金融政策の舵取り役であり、景気・雇用・インフレに直接影響を与えるため、指名の政治的対立は市場の不透明感と政策の一貫性に大きなリスクをもたらす。特に2008年の金融危機対応に関する過去の評価が今回の議論の焦点となり、金融規制や監督政策に影響を与える。",
+        "market_impact": "ウォーシュ議長就任の可能性と政治的対立により、FRBの金融政策決定に不確実性が高まり、金融市場では短期的な波乱を引き起こす恐れがある。強硬に緩和的政策を要求するトランプ政権の圧力が継続されれば、利下げ期待の変動や長期的な金融安定への懸念が高まる可能性がある。",
         "category": "Economy",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/26/federal-reserve-kevin-walsh-elizabeth-warren-trump.html"
@@ -129,22 +128,22 @@
     ],
     "Corporate": [
       {
-        "title": "Lloyds bank reveals IT glitch affected almost half a million customers",
-        "summary_2lines": "ロイズ銀行のシステム障害により約45万人の顧客が他人の取引内容や個人情報を閲覧する事態が発生。銀行は一部顧客に約13.9万ポンドの補償金を支払い、原因はソフトウェアの欠陥と説明している。",
-        "why_it_matters": "今回の事件は、デジタル化が進む現代銀行業務における利便性と技術的リスクのトレードオフを象徴している。顧客の個人情報保護とシステムの安全性確保が求められる中で、銀行と規制当局の透明性と対応力が試される事態となった。",
-        "market_impact": "ロイズ銀行の信頼性低下につながり顧客離れやブランドイメージの悪化を招く恐れがある。金融規制強化の動きが加速し、ITガバナンスへの投資増加や運用コストの上昇が予想される。業界全体でオンラインバンキングのシステム堅牢化が急務となり、市場全体に緊張感が走る可能性がある。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c70dqk2vjv8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Just Eat and Autotrader among firms investigated in fake reviews probe",
-        "summary_2lines": "英国の競争当局CMAは、Just EatやAutotraderなど5社を対象に偽レビューや誤解を招くオンライン評価の調査を開始。消費者保護の観点からレビューの信頼性確保を目的としている。",
-        "why_it_matters": "オンラインレビューは消費者の購買判断に大きな影響を持つが、偽レビューや操作された評価は消費者の信頼を損ない、公正な市場競争を阻害するため。今回の調査は、新たに付与されたCMAの罰金権限を活用し、公正な消費者情報流通の確保を目指す重要な動きである。",
-        "market_impact": "対象企業はブランドイメージの毀損や売上影響を受ける可能性があり、今後はレビュー管理・透明性強化への対応が必須に。消費者の信頼向上に繋がれば、オンライン取引全体の活性化を促す一方、基準違反には罰金が科されるリスクも高まるため市場の透明性と規律が強化されると見られる。",
+        "summary_2lines": "英国競争市場庁（CMA）がJust EatやAutotraderなど5社を対象に、偽レビューに関する消費者法違反の疑いで調査を開始。各社は調査に協力し、レビューの透明性向上に努めている。",
+        "why_it_matters": "オンラインレビューは消費者の購買意思決定に大きな影響を与えるが、偽レビューの存在は消費者信頼を損ね、健全な市場競争を阻害する。CMAの調査は、デジタル消費者保護強化やフェアトレード促進の観点から重要で、市場の透明性改善を目指す動きの一環となっている。",
+        "market_impact": "調査対象企業のブランドイメージ低下や消費者信頼喪失のリスクが高まる可能性がある。CMAの新たな罰則権限により、違反が認定されれば罰金や事業運営への制約が発生しうる。消費者が真実の情報を求める動きは、レビュー関連のプラットフォームやオンラインサービスの規制強化を促し、市場全体に透明化のプレッシャーを与えるだろう。",
         "category": "Corporate",
         "source": "BBC Business",
         "url": "https://www.bbc.com/news/articles/cj37eeyz0epo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Lloyds bank reveals IT glitch affected almost half a million customers",
+        "summary_2lines": "Lloyds銀行のソフトウェア障害により約44万8千人の顧客情報が誤って他人に表示される問題が発生した。銀行は一部顧客に約13万9千ポンドの補償を行い、規制当局とも協力を進めている。",
+        "why_it_matters": "現代のデジタルバンキングの利便性は高い一方で、システムの予期せぬエラーが顧客のプライバシー侵害や信用リスクを招く可能性があるため、金融機関のIT管理体制と透明性確保の重要性が改めて浮き彫りになった。",
+        "market_impact": "顧客信頼の低下によりLloyds銀行のブランドイメージや顧客獲得に悪影響が生じる恐れがある。規制強化や追加コスト発生のリスクも伴い、IT管理体制の見直しやセキュリティ投資が必要となる可能性が高い。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c70dqk2vjv8o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
