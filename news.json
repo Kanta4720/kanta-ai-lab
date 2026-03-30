@@ -1,150 +1,151 @@
 {
-  "generated_at_jst": "2026-03-30 07:18",
+  "generated_at_jst": "2026-03-31 07:23",
   "todays_brief": [
     {
-      "title": "How Trump and the oil markets move in sync: a tango in five charts",
-      "summary_2lines": "トランプ大統領の発言がイランへの攻撃開始以降の原油価格の変動に大きく影響を与えてきたが、最近は市場の反応が鈍化してきている。投資家は価格を左右するイベントリスクを不確実性として慎重に見極めている。",
-      "why_it_matters": "原油価格は世界経済に広範な影響を及ぼす重要な指標であり、トランプ大統領の言動が地政学リスクを反映して市場を動かしてきた。だが、発言と現実の乖離が大きくなり、投資家の疑心暗鬼が増すことで市場の予測精度や価格形成プロセスに影響を及ぼしている点が注目される。",
-      "market_impact": "原油価格はイラン情勢やトランプ発言に連動して大きく変動し、原油関連企業やエネルギー市場のボラティリティが増加。投資家の警戒感からリスクプレミアムが高まり、エネルギーコストの上昇が企業収益や消費動向に悪影響を及ぼす可能性が高い。また、今後の政策発言の信頼性が低下することで、短期的な市場の過剰反応や混乱も続く恐れがある。",
-      "category": "Markets",
+      "title": "Oil rises and Asia shares slide as Iran war enters fifth week",
+      "summary_2lines": "イラン戦争の長期化で原油価格が急騰し、アジアの株式市場が大幅下落した。ホルムズ海峡の物流停滞によりエネルギー市場の不安が高まっている。",
+      "why_it_matters": "世界のエネルギー供給の約5分の1が通過する重要なホルムズ海峡での軍事的緊張が高まっており、原油価格の上昇はインフレ圧力を強める。また、食料品価格上昇の懸念も広がっており、グローバル経済の安定に重大なリスクをもたらしている。",
+      "market_impact": "原油価格は3%以上急騰し、ブレント原油は約113ドルで推移。アジア株式市場では日本の日経225が2.8%、韓国のコスピが約3%下落。エネルギー・食料品価格上昇による消費抑制が経済成長を鈍化させ、世界的な経済減速リスクが増大している。輸送路の閉塞リスクも長期的な供給不足を招く可能性があり、さらに価格高騰が続く見通し。",
+      "category": "Geopolitics",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The research firm whose AI paper knocked the whole stock market is out with another big call",
-      "summary_2lines": "Citrini Research warns that persistently high oil prices and geopolitical tensions could slow economic growth and push equities lower despite the Fed’s potential rate cuts. This view challenges bullish expectations that rate cuts alone will support the stock market.",
-      "why_it_matters": "高エネルギー価格と地政学的リスクが消費者の購買力と企業収益に悪影響を及ぼし、金融政策の余地が限られる中で市場の不透明感が強まっている。特に、金利据え置きや緩和が株価の回復を保証しない可能性が示唆され、投資家や政策当局が慎重になるべき状況を示している。",
-      "market_impact": "エネルギー価格の高止まりによる成長減速リスクが強まり、消費者支出の抑制と企業収益の圧迫が予想される。また、FRBが金利を維持または引き下げるとしても、それは景気悪化の結果であり市場の下落圧力は続く可能性が高い。結果として株式市場は一時的な反発があっても全体的には弱含みで推移し、エネルギー関連銘柄や景気敏感株の動向が注目される。",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/25/the-firm-whose-ai-paper-knocked-the-whole-market-is-out-with-another-big-call.html"
+      "title": "What was the 1970s oil crisis, and are we heading for something worse?",
+      "summary_2lines": "1970年代の石油危機は中東の政策決定による原油禁輸が原因で世界経済に大打撃を与えた。現在の米イスラエル対イランの紛争に伴うホルムズ海峡閉鎖は、当時を上回るエネルギー危機の可能性を指摘されている。",
+      "why_it_matters": "世界のエネルギー供給の大部分を支えるホルムズ海峡の閉鎖は、石油・天然ガス価格の急騰や供給不足を引き起こし、経済のインフレ圧力や不安定化をもたらす恐れがある。特に過去の危機同様に社会的混乱や経済成長鈍化を招く可能性があり、国際的な経済安全保障と地政学リスクの深刻化を示している。",
+      "market_impact": "石油供給の減少は世界的な原油価格の高騰をもたらし、エネルギーコスト上昇を通じて企業のコスト増加、消費者の購買力低下を引き起こす。主要輸入国でのインフレ加速、景気後退リスクが増大し、特に輸送・製造業の収益圧迫や金融市場のボラティリティ拡大を招く可能性が高い。加えて、各国のエネルギー政策や軍事的対応強化の動きが市場に影響を与えると予想される。",
+      "category": "Geopolitics",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "As stocks and bonds fall, and oil hits $100, a futures trade that boomed in 2022 may again be a winner",
-      "summary_2lines": "2022年に優れたパフォーマンスを示したマネージド・フューチャーズ戦略が、2026年の株式や債券が低迷する環境下で再注目されている。ETFを通じて、より多くの投資家がこの戦略にアクセス可能になっている。",
-      "why_it_matters": "現在の地政学リスク（米国・イラン戦争）や1970年代型のスタグフレーション懸念により、伝統的な株式・債券市場が圧力を受ける中、リスク分散と収益源の多様化が求められている。マネージド・フューチャーズは市場の大きなトレンドをとらえることで、こうした難しい市場環境に対応可能な戦略として注目されている。",
-      "market_impact": "マネージド・フューチャーズETFの資産残高増加や、大手資産運用会社（ブラックロック、インベスコ、フィデリティ）が参入し、流動性と透明性のある形で普及が加速。これにより投資家のポートフォリオの多様化が進み、市場のボラティリティへの耐性向上や新たな資金流入が期待される。一方で、複雑な商品特性ゆえの理解不足や運用期間中の一時的なパフォーマンスの落ち込みに対する投資家の耐性が課題となる。",
-      "category": "Markets",
+      "title": "Powell sees inflation outlook in check, no need to hike rates because of oil shock",
+      "summary_2lines": "連邦準備制度理事会のパウエル議長は、エネルギー価格上昇によるインフレ圧力は一時的と考え、利上げの必要はないと表明した。市場はこれを受けて2023年の利上げ期待を大幅に後退させた。",
+      "why_it_matters": "パウエル議長の発言は、エネルギーショックによる短期的なインフレ懸念が金融政策の方向性に影響しないことを示し、将来的な金利政策の安定性と経済成長の支援を示唆している。これは、インフレ鈍化への自信と追加利上げ回避による市場の安心感を醸成する重要な指標となる。",
+      "market_impact": "声明後、金融市場は金利の急激な引き上げを織り込むのをやめ、国債のインフレ連動利回り（ブレークイーブン率）が低下した。これにより債券市場が安定し、株式市場も不透明感の低減を期待。企業や消費者の借入コストの急上昇リスクが軽減され、経済全体の安定化に寄与する見込みだ。",
+      "category": "Economy",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/28/market-correction-futures-hedging-strategies.html"
+      "url": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html"
     },
     {
-      "title": "Why one hedge fund veteran is urging investors to 'prepare for the worst'",
-      "summary_2lines": "ヘッジファンドベテランのAndrew Beer氏は、現在の市場が異常に変動し、予測が困難な状態にあるため、投資家は最悪の事態に備えるべきだと警告している。地政学リスクや経済リスクが積み重なり、不透明な相場環境が続く見込みである。",
-      "why_it_matters": "世界の地政学的緊張や複数の経済リスクが同時に存在する中で、マーケットの予測力が大きく低下している。これにより投資家は過去の正常相場のやり方では対応できず、リスク管理や資産防衛の重要性が高まっているため、市場関係者だけでなく一般投資家にも警鐘となる内容である。",
-      "market_impact": "株式・債券だけでなく、金・銀・ビットコイン・原油など幅広い資産が急激な価格変動を見せており、ポートフォリオ調整が難航。金融システム内の信用リスクや保険会社ポートフォリオなど未確認のストレス増加も懸念され、全体として市場のボラティリティ上昇と分散投資の重要性が一層増す可能性がある。",
-      "category": "Markets",
+      "title": "Watch Fed Chair Jerome Powell speak live to an economics class at Harvard",
+      "summary_2lines": "FRB議長パウエルがハーバード大学の経済学クラスで講演し、インフレ懸念はあるものの景気は堅調と発言。彼の任期は5月に終了予定だが、後任の承認遅れにより延長の可能性もある。",
+      "why_it_matters": "パウエル議長の発言は今後の金融政策の方向性を示唆し、特に利上げの一時停止観測が市場の注目を集めている。後任人事の遅れはFRBのリーダーシップの不確実性を高める要因となっている。",
+      "market_impact": "パウエル氏の慎重なスタンスは金利据え置き期待を強め、株式市場の安定化に寄与。一方、後任の承認問題が長引けば政策決定の不透明感が高まり、市場のボラティリティ増加要因となる可能性がある。",
+      "category": "Economy",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/27/iran-to-economic-risks-markets-ability-to-forecast-world-in-question.html"
+      "url": "https://www.cnbc.com/2026/03/30/watch-fed-chair-jerome-powell-speak-live-to-an-economics-class-at-harvard.html"
     },
     {
-      "title": "Private credit's cracks open door for Wall Street banks' comeback: 'The tug of war is just starting'",
-      "summary_2lines": "プライベートクレジット市場の課題と規制緩和により、ウォール街の銀行が貸出シェアを取り戻しつつある。今後も銀行とプライベートクレジットの競争が激化しそうだ。",
-      "why_it_matters": "プライベートクレジットはここ10年でレバレッジドバイアウトの主要な資金調達手段として急拡大してきたが、金利上昇や規制強化の影響で貸出姿勢が厳しくなり、デフォルトリスクが上昇している。一方、銀行側も規制緩和が進み、再び競争力を取り戻す可能性が高まっているため、資金調達構造や融資市場の勢力図に重要な変化が生じることが予想される。",
-      "market_impact": "銀行による大口レバレッジドローン市場への復帰で、プライベートクレジットファンドの市場シェアが縮小する可能性がある。これに伴い貸出条件や資金コストの変動、リスク管理の見直しが行われるため、企業の資金調達環境が変化し、業界ごとに融資動向に影響が及ぶ。また、融資競争激化は借り手側により良い条件をもたらす一方、金融機関の信用リスク管理の重要性が増す。",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/27/wall-street-banks-private-credit-market-share-leveraged-loans.html"
+      "title": "Tech CEOs suddenly love blaming AI for mass job cuts. Why?",
+      "summary_2lines": "多くのテック大手がAI技術の進展を理由に大規模な人員削減を実施している。AIの導入により少人数で高効率な業務遂行が可能となり、コスト削減と技術投資を両立しようとしている。",
+      "why_it_matters": "AIの進展が企業の人員配置と経営戦略に大きな変化をもたらしているため、労働市場や産業構造に影響が及ぶ。経営者がAIを理由に人員削減を正当化する動きは、従来のコスト削減や効率化の説明からの転換を示し、今後の労働環境や雇用の不安定化を示唆している。",
+      "market_impact": "テック企業の大量リストラは、特にソフトウェア開発者やエンジニアといった高付加価値職種に影響を与え、これらの職種の需要と供給バランスに変化をもたらす。また、AIへの巨額投資（約6500億ドル）が企業の収益構造と株価に波及し、中長期的には生産性向上に寄与する可能性が高いが、短期的には雇用不安と市場の動揺を誘発している。",
+      "category": "Tech",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "categories": {
-    "Tech": [],
+    "Tech": [
+      {
+        "title": "Tech CEOs suddenly love blaming AI for mass job cuts. Why?",
+        "summary_2lines": "多くのテック大手がAI技術の進展を理由に大規模な人員削減を実施している。AIの導入により少人数で高効率な業務遂行が可能となり、コスト削減と技術投資を両立しようとしている。",
+        "why_it_matters": "AIの進展が企業の人員配置と経営戦略に大きな変化をもたらしているため、労働市場や産業構造に影響が及ぶ。経営者がAIを理由に人員削減を正当化する動きは、従来のコスト削減や効率化の説明からの転換を示し、今後の労働環境や雇用の不安定化を示唆している。",
+        "market_impact": "テック企業の大量リストラは、特にソフトウェア開発者やエンジニアといった高付加価値職種に影響を与え、これらの職種の需要と供給バランスに変化をもたらす。また、AIへの巨額投資（約6500億ドル）が企業の収益構造と株価に波及し、中長期的には生産性向上に寄与する可能性が高いが、短期的には雇用不安と市場の動揺を誘発している。",
+        "category": "Tech",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss"
+      }
+    ],
     "Markets": [
       {
-        "title": "How Trump and the oil markets move in sync: a tango in five charts",
-        "summary_2lines": "トランプ大統領の発言がイランへの攻撃開始以降の原油価格の変動に大きく影響を与えてきたが、最近は市場の反応が鈍化してきている。投資家は価格を左右するイベントリスクを不確実性として慎重に見極めている。",
-        "why_it_matters": "原油価格は世界経済に広範な影響を及ぼす重要な指標であり、トランプ大統領の言動が地政学リスクを反映して市場を動かしてきた。だが、発言と現実の乖離が大きくなり、投資家の疑心暗鬼が増すことで市場の予測精度や価格形成プロセスに影響を及ぼしている点が注目される。",
-        "market_impact": "原油価格はイラン情勢やトランプ発言に連動して大きく変動し、原油関連企業やエネルギー市場のボラティリティが増加。投資家の警戒感からリスクプレミアムが高まり、エネルギーコストの上昇が企業収益や消費動向に悪影響を及ぼす可能性が高い。また、今後の政策発言の信頼性が低下することで、短期的な市場の過剰反応や混乱も続く恐れがある。",
-        "category": "Markets",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Why one hedge fund veteran is urging investors to 'prepare for the worst'",
-        "summary_2lines": "ヘッジファンドベテランのAndrew Beer氏は、現在の市場が異常に変動し、予測が困難な状態にあるため、投資家は最悪の事態に備えるべきだと警告している。地政学リスクや経済リスクが積み重なり、不透明な相場環境が続く見込みである。",
-        "why_it_matters": "世界の地政学的緊張や複数の経済リスクが同時に存在する中で、マーケットの予測力が大きく低下している。これにより投資家は過去の正常相場のやり方では対応できず、リスク管理や資産防衛の重要性が高まっているため、市場関係者だけでなく一般投資家にも警鐘となる内容である。",
-        "market_impact": "株式・債券だけでなく、金・銀・ビットコイン・原油など幅広い資産が急激な価格変動を見せており、ポートフォリオ調整が難航。金融システム内の信用リスクや保険会社ポートフォリオなど未確認のストレス増加も懸念され、全体として市場のボラティリティ上昇と分散投資の重要性が一層増す可能性がある。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/27/iran-to-economic-risks-markets-ability-to-forecast-world-in-question.html"
-      },
-      {
-        "title": "Private credit's cracks open door for Wall Street banks' comeback: 'The tug of war is just starting'",
-        "summary_2lines": "プライベートクレジット市場の課題と規制緩和により、ウォール街の銀行が貸出シェアを取り戻しつつある。今後も銀行とプライベートクレジットの競争が激化しそうだ。",
-        "why_it_matters": "プライベートクレジットはここ10年でレバレッジドバイアウトの主要な資金調達手段として急拡大してきたが、金利上昇や規制強化の影響で貸出姿勢が厳しくなり、デフォルトリスクが上昇している。一方、銀行側も規制緩和が進み、再び競争力を取り戻す可能性が高まっているため、資金調達構造や融資市場の勢力図に重要な変化が生じることが予想される。",
-        "market_impact": "銀行による大口レバレッジドローン市場への復帰で、プライベートクレジットファンドの市場シェアが縮小する可能性がある。これに伴い貸出条件や資金コストの変動、リスク管理の見直しが行われるため、企業の資金調達環境が変化し、業界ごとに融資動向に影響が及ぶ。また、融資競争激化は借り手側により良い条件をもたらす一方、金融機関の信用リスク管理の重要性が増す。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/27/wall-street-banks-private-credit-market-share-leveraged-loans.html"
-      },
-      {
-        "title": "The research firm whose AI paper knocked the whole stock market is out with another big call",
-        "summary_2lines": "Citrini Research warns that persistently high oil prices and geopolitical tensions could slow economic growth and push equities lower despite the Fed’s potential rate cuts. This view challenges bullish expectations that rate cuts alone will support the stock market.",
-        "why_it_matters": "高エネルギー価格と地政学的リスクが消費者の購買力と企業収益に悪影響を及ぼし、金融政策の余地が限られる中で市場の不透明感が強まっている。特に、金利据え置きや緩和が株価の回復を保証しない可能性が示唆され、投資家や政策当局が慎重になるべき状況を示している。",
-        "market_impact": "エネルギー価格の高止まりによる成長減速リスクが強まり、消費者支出の抑制と企業収益の圧迫が予想される。また、FRBが金利を維持または引き下げるとしても、それは景気悪化の結果であり市場の下落圧力は続く可能性が高い。結果として株式市場は一時的な反発があっても全体的には弱含みで推移し、エネルギー関連銘柄や景気敏感株の動向が注目される。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/25/the-firm-whose-ai-paper-knocked-the-whole-market-is-out-with-another-big-call.html"
-      },
-      {
         "title": "As stocks and bonds fall, and oil hits $100, a futures trade that boomed in 2022 may again be a winner",
-        "summary_2lines": "2022年に優れたパフォーマンスを示したマネージド・フューチャーズ戦略が、2026年の株式や債券が低迷する環境下で再注目されている。ETFを通じて、より多くの投資家がこの戦略にアクセス可能になっている。",
-        "why_it_matters": "現在の地政学リスク（米国・イラン戦争）や1970年代型のスタグフレーション懸念により、伝統的な株式・債券市場が圧力を受ける中、リスク分散と収益源の多様化が求められている。マネージド・フューチャーズは市場の大きなトレンドをとらえることで、こうした難しい市場環境に対応可能な戦略として注目されている。",
-        "market_impact": "マネージド・フューチャーズETFの資産残高増加や、大手資産運用会社（ブラックロック、インベスコ、フィデリティ）が参入し、流動性と透明性のある形で普及が加速。これにより投資家のポートフォリオの多様化が進み、市場のボラティリティへの耐性向上や新たな資金流入が期待される。一方で、複雑な商品特性ゆえの理解不足や運用期間中の一時的なパフォーマンスの落ち込みに対する投資家の耐性が課題となる。",
+        "summary_2lines": "2022年に大きく利益を上げたマネージド・フューチャーズ戦略が、2026年の株式・債券の下落や地政学リスクの高まりに伴い再注目されている。ETFとしてのアクセス拡大も進み、主要資産運用会社が参入している。",
+        "why_it_matters": "米国とイラン間の紛争や1970年代型スタグフレーションのリスクによって従来の株式・債券投資が圧迫される中、システマティックに複数資産の先物取引を行うマネージド・フューチャーズ戦略が、市場の不確実性やボラティリティを利用して安定的なリターンを目指せる点が注目されている。投資家のポートフォリオ多様化策としての価値が高まっているため重要だ。",
+        "market_impact": "株式・債券市場が不調に陥る局面でマネージド・フューチャーズ戦略が相対的に好パフォーマンスを示すことで、これを組み込むETFの資産流入増加が期待される。主要資産運用会社の新規参入により商品数も増え、リテール投資家の裾野拡大や市場全体のリスク分散効果につながる可能性がある。一方、戦略の複雑性から長期的視点での運用理解が求められる。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/28/market-correction-futures-hedging-strategies.html"
+      },
+      {
+        "title": "Bill Ackman says it’s one of the best times in a long time to buy quality stocks",
+        "summary_2lines": "投資家ビル・アックマンは現在の市場混乱が高品質株を割安に購入できる絶好の機会だと述べ、特に米国の住宅大手ファニーメイとフレディマックを注目銘柄として挙げた。彼はマクロ経済リスクを超えて長期的なリターンを狙うべきと強調している。",
+        "why_it_matters": "エネルギー価格高騰やインフレ、FRBの政策動向による市場の不透明感が強まる中、著名なヘッジファンドマネジャーが質の高い企業の割安さを指摘し、市場心理にポジティブな影響を与えうる。加えて、Pershing SquareのNYSE上場申請は投資機会の多様化と市場構造の変化を示唆している。",
+        "market_impact": "アックマンの発言は割安感のある大型優良株に対する買い意欲を刺激し、一部セクターの押し目買いが活発化する可能性がある。特に住宅関連金融大手の株価上昇が期待される一方、地政学的リスクや経済の不確実性は依然として市場のボラティリティを高める要因となるだろう。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/30/bill-ackman-says-its-one-of-the-best-times-in-a-long-time-to-buy-quality-stocks.html"
       }
     ],
-    "Geopolitics": [],
+    "Geopolitics": [
+      {
+        "title": "Oil rises and Asia shares slide as Iran war enters fifth week",
+        "summary_2lines": "イラン戦争の長期化で原油価格が急騰し、アジアの株式市場が大幅下落した。ホルムズ海峡の物流停滞によりエネルギー市場の不安が高まっている。",
+        "why_it_matters": "世界のエネルギー供給の約5分の1が通過する重要なホルムズ海峡での軍事的緊張が高まっており、原油価格の上昇はインフレ圧力を強める。また、食料品価格上昇の懸念も広がっており、グローバル経済の安定に重大なリスクをもたらしている。",
+        "market_impact": "原油価格は3%以上急騰し、ブレント原油は約113ドルで推移。アジア株式市場では日本の日経225が2.8%、韓国のコスピが約3%下落。エネルギー・食料品価格上昇による消費抑制が経済成長を鈍化させ、世界的な経済減速リスクが増大している。輸送路の閉塞リスクも長期的な供給不足を招く可能性があり、さらに価格高騰が続く見通し。",
+        "category": "Geopolitics",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What was the 1970s oil crisis, and are we heading for something worse?",
+        "summary_2lines": "1970年代の石油危機は中東の政策決定による原油禁輸が原因で世界経済に大打撃を与えた。現在の米イスラエル対イランの紛争に伴うホルムズ海峡閉鎖は、当時を上回るエネルギー危機の可能性を指摘されている。",
+        "why_it_matters": "世界のエネルギー供給の大部分を支えるホルムズ海峡の閉鎖は、石油・天然ガス価格の急騰や供給不足を引き起こし、経済のインフレ圧力や不安定化をもたらす恐れがある。特に過去の危機同様に社会的混乱や経済成長鈍化を招く可能性があり、国際的な経済安全保障と地政学リスクの深刻化を示している。",
+        "market_impact": "石油供給の減少は世界的な原油価格の高騰をもたらし、エネルギーコスト上昇を通じて企業のコスト増加、消費者の購買力低下を引き起こす。主要輸入国でのインフレ加速、景気後退リスクが増大し、特に輸送・製造業の収益圧迫や金融市場のボラティリティ拡大を招く可能性が高い。加えて、各国のエネルギー政策や軍事的対応強化の動きが市場に影響を与えると予想される。",
+        "category": "Geopolitics",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&at_campaign=rss"
+      }
+    ],
     "Economy": [
       {
-        "title": "Sen. Warren rips Federal Reserve chair pick Kevin Warsh: 'You have learned nothing from your failures'",
-        "summary_2lines": "上院議員エリザベス・ウォーレンは、連邦準備制度理事であったケビン・ウォルシュのFRB議長指名に強く反対し、過去の金融危機への対応の失敗を批判した。彼女は彼がトランプ大統領の金融業界寄りの政策の追認者になると警告している。",
-        "why_it_matters": "FRB議長はアメリカ経済政策の中心人物であり、その選任は市場の安心感や政策の方向性に大きな影響を与える。ウォルシュ氏の過去の行動に対する懸念は、金融規制や金融安定性への影響が懸念されており、政治的対立も絡む重要な人事問題となっている。",
-        "market_impact": "ウォルシュ氏の議長就任が実現すると、金融規制緩和や金融業界寄りの政策加速が予想され、市場のリスク許容度や銀行業界の行動に影響を与える可能性がある。一方、指名が遅れたり否決されたりすればFRBの政策決定に混乱が生じる可能性があるため、金融市場に不確実性が高まる可能性がある。",
+        "title": "Watch Fed Chair Jerome Powell speak live to an economics class at Harvard",
+        "summary_2lines": "FRB議長パウエルがハーバード大学の経済学クラスで講演し、インフレ懸念はあるものの景気は堅調と発言。彼の任期は5月に終了予定だが、後任の承認遅れにより延長の可能性もある。",
+        "why_it_matters": "パウエル議長の発言は今後の金融政策の方向性を示唆し、特に利上げの一時停止観測が市場の注目を集めている。後任人事の遅れはFRBのリーダーシップの不確実性を高める要因となっている。",
+        "market_impact": "パウエル氏の慎重なスタンスは金利据え置き期待を強め、株式市場の安定化に寄与。一方、後任の承認問題が長引けば政策決定の不透明感が高まり、市場のボラティリティ増加要因となる可能性がある。",
         "category": "Economy",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/26/federal-reserve-kevin-walsh-elizabeth-warren-trump.html"
+        "url": "https://www.cnbc.com/2026/03/30/watch-fed-chair-jerome-powell-speak-live-to-an-economics-class-at-harvard.html"
       },
       {
-        "title": "Cut taxes on energy bills before giving bailouts, Badenoch says",
-        "summary_2lines": "保守党のケミ・バデノック氏は、エネルギー料金への緊急支援の前に税金を引き下げるべきだと主張。エネルギー価格の高騰に対応する政府支援は増税という代償を伴うと警告している。",
-        "why_it_matters": "イランによるホルムズ海峡封鎖で原油・ガスの卸売価格が急騰し、エネルギー料金の上昇が懸念されている。英国政府の支援策が増税や財政制約と直結するため、エネルギー政策と国民負担のあり方が議論されている点が重要だ。",
-        "market_impact": "税引き下げの検討と北海油ガス増産促進の呼びかけはエネルギー関連企業の収益構造に影響。また、政府支援の限定化は消費者支出に制約を加え、インフレや金利動向にも波及効果が予想される。再生可能エネルギーの資金調達にも影響が及ぶ可能性がある。",
+        "title": "How will car finance compensation payments work?",
+        "summary_2lines": "FCAは車のファイナンス契約の誤販売に対し、被害者に平均£829の補償を支払う方針を示した。約1,200万件が対象で、補償総額は約91億ポンドにのぼる見込み。",
+        "why_it_matters": "車のファイナンス契約における不当な利率設定やディーラーへの不透明な手数料支払いが問題視され、消費者保護の観点から大規模な補償スキームが設けられることで、業界の不正慣行是正と消費者信頼回復を目的としている。",
+        "market_impact": "金融機関や自動車ディーラーは多額の補償費用および管理コスト負担を強いられ、利益率に圧迫がかかる可能性がある。一方で消費者に資金が還元されることで、消費者信用市場の透明性向上や健全化が期待される。補償への法的な異議申し立てによる遅延リスクも存在。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c1d941vw172o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Asda boss rejects profiteering claims as petrol price tops 150p",
-        "summary_2lines": "Asdaの幹部は、原油価格の高騰に伴う燃料価格上昇を自社の利益確保のための値上げではないと否定した。原油価格の地政学的リスクが続く中、英国のガソリン価格は150pを超え、家計負担が増している。",
-        "why_it_matters": "国際情勢の緊張が燃料価格に直結し、消費者の生活費に大きな影響を及ぼしている。政府が燃料小売業者に対する監視強化を表明し、燃料価格に対する社会的関心が高まる中、価格上昇の要因と責任所在が議論されていることが重要な背景だ。",
-        "market_impact": "燃料価格の上昇は小売業者の利益圧迫や消費者の支出抑制を促し、経済活動全体に負の影響を及ぼす可能性がある。政府の規制強化が小売業者の運営に影響を及ぼす一方、燃料需要の増加に伴う供給問題も企業のコストとサービス提供に影響を与えている。",
+        "title": "Powell sees inflation outlook in check, no need to hike rates because of oil shock",
+        "summary_2lines": "連邦準備制度理事会のパウエル議長は、エネルギー価格上昇によるインフレ圧力は一時的と考え、利上げの必要はないと表明した。市場はこれを受けて2023年の利上げ期待を大幅に後退させた。",
+        "why_it_matters": "パウエル議長の発言は、エネルギーショックによる短期的なインフレ懸念が金融政策の方向性に影響しないことを示し、将来的な金利政策の安定性と経済成長の支援を示唆している。これは、インフレ鈍化への自信と追加利上げ回避による市場の安心感を醸成する重要な指標となる。",
+        "market_impact": "声明後、金融市場は金利の急激な引き上げを織り込むのをやめ、国債のインフレ連動利回り（ブレークイーブン率）が低下した。これにより債券市場が安定し、株式市場も不透明感の低減を期待。企業や消費者の借入コストの急上昇リスクが軽減され、経済全体の安定化に寄与する見込みだ。",
+        "category": "Economy",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html"
+      },
+      {
+        "title": "Fed Governor Miran still backs cuts, says interest rates could be 'about a point' lower this year",
+        "summary_2lines": "連邦準備制度理事のミラン氏は、エネルギー価格の急騰を一時的要因と見なし、今年中に政策金利を約1ポイント引き下げるべきだと主張した。現状のインフレ期待は安定しており、早急な利上げは必要ないとしている。",
+        "why_it_matters": "ミラン氏はFRB内のハト派の意見を代表しており、物価上昇の一時的要因を除外して金融緩和を提唱している。これはインフレ抑制と経済成長促進のバランスを取る上で重要な視点であり、市場の金利見通しにも影響を与える可能性がある。",
+        "market_impact": "ミラン氏の発言は、年内の利下げ期待を後押しし、債券市場での長期金利低下や株式市場の上昇圧力となる可能性がある。一方で、エネルギー価格の高騰が続く場合はインフレ懸念が再燃し得るため、市場のボラティリティが高まるリスクもある。",
+        "category": "Economy",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/30/fed-governor-miran-still-backs-cuts-says-interest-rates-could-be-about-a-point-lower-this-year.html"
+      },
+      {
+        "title": "Millions of drivers mis-sold car finance to receive average £829 in compensation",
+        "summary_2lines": "英国の規制当局FCAは、誤って販売された自動車ローンの契約者約1,210万人に平均829ポンドの補償を提案。対応費用は総額約91億ポンドにのぼる見込み。",
+        "why_it_matters": "多くのドライバーがカルローンの過剰金利や不正な手数料設定の被害を受けており、公正な補償は消費者保護の観点で重要。また、過去の販売慣行の問題を是正し、今後のモーターファイナンス市場の健全な運営に寄与するための重要な措置である。",
+        "market_impact": "金融機関や自動車販売業者に対して多額の補償負担が生じるため収益圧迫の可能性がある。業界団体は補償範囲の狭さを批判する一方、消費者団体は不足を指摘しており、今後の法的紛争や規制強化リスクが増大。これにより自動車ファイナンス商品の販売手法や価格設定に変化が起きる可能性が高い。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss"
       }
     ],
-    "Corporate": [
-      {
-        "title": "Agent begged Epstein to have sex with model, emails show",
-        "summary_2lines": "米モデルエージェントのラムジー・エルクホリーがジェフリー・エプスタインに若いモデルとの性行為を強く促すメールを送っていたことが、米司法省の公開ファイルから明らかになった。エプスタインはこれらの人脈を悪用し、多数の女性や少女に対する性的虐待を行っていた可能性がある。",
-        "why_it_matters": "エプスタイン事件はアメリカ国内外で大規模な性的虐待ネットワークの存在を示しており、被害者数は1000人にのぼる可能性がある。本ニュースは、国際的なファッション業界やモデル業界がこの犯罪ネットワークにどのように絡んでいたのか、さらに深く裏付けるもので、社会的な信頼・倫理問題として重大な意義を持つ。",
-        "market_impact": "直接の市場影響は限定的だが、ファッション・モデル業界の企業、特にビクトリアズ・シークレットの元オーナーおよび関連ブランドにはブランドイメージの毀損や法的リスクが生じる可能性がある。消費者の信頼低下は売上減や投資家の懸念を呼び、市場評価に波及するリスクがある。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cm2kn7nj00ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Just Eat and Autotrader among firms investigated in fake reviews probe",
-        "summary_2lines": "英国の競争市場庁(CMA)が食品宅配のJust Eatや自動車情報サイトAutotraderを含む5社を偽レビュー調査の対象にした。レビューの信頼性が消費者保護の観点から問われている。",
-        "why_it_matters": "偽レビューは消費者の信頼を損ね、誤った購買判断を招くため、消費者保護と公正な市場環境維持に重要。CMAの新たな罰金権限発動で厳格な規制強化の兆しがあり、業界全体に影響を与える可能性がある。",
-        "market_impact": "調査対象企業はブランドイメージと顧客信頼に打撃を受ける可能性がある。また、審査強化によるレビュー運用の見直しや透明性向上コストが増加する見込み。消費者はより信頼できる情報を得られ、健全な競争環境が促進される。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cj37eeyz0epo?at_medium=RSS&at_campaign=rss"
-      }
-    ]
+    "Corporate": []
   }
 }
