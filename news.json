@@ -1,151 +1,152 @@
 {
-  "generated_at_jst": "2026-03-31 07:23",
+  "generated_at_jst": "2026-04-01 07:23",
   "todays_brief": [
     {
-      "title": "Oil rises and Asia shares slide as Iran war enters fifth week",
-      "summary_2lines": "イラン戦争の長期化で原油価格が急騰し、アジアの株式市場が大幅下落した。ホルムズ海峡の物流停滞によりエネルギー市場の不安が高まっている。",
-      "why_it_matters": "世界のエネルギー供給の約5分の1が通過する重要なホルムズ海峡での軍事的緊張が高まっており、原油価格の上昇はインフレ圧力を強める。また、食料品価格上昇の懸念も広がっており、グローバル経済の安定に重大なリスクをもたらしている。",
-      "market_impact": "原油価格は3%以上急騰し、ブレント原油は約113ドルで推移。アジア株式市場では日本の日経225が2.8%、韓国のコスピが約3%下落。エネルギー・食料品価格上昇による消費抑制が経済成長を鈍化させ、世界的な経済減速リスクが増大している。輸送路の閉塞リスクも長期的な供給不足を招く可能性があり、さらに価格高騰が続く見通し。",
+      "title": "Tech giant Oracle makes 'significant' job cuts",
+      "summary_2lines": "OracleがAI投資拡大に伴い、業績不問の大規模な人員削減を実施。約1万人が影響を受け、AI活用で少人数での業務効率化を目指している。",
+      "why_it_matters": "AI技術の発展と業務効率化の流れを受け、大手テック企業が大規模リストラに踏み切る事例が増えている。Oracleの巨額AI投資と人員削減は、テック業界の労働環境や経営戦略の新たな潮流を示す。",
+      "market_impact": "Oracleの人員削減はコスト削減と生産性向上を目指す一方、従業員や顧客の信頼低下リスクもある。AI分野への巨額投資は同業他社に競争圧力をかけ、クラウド・ソフトウェア市場の競争環境を激化させる可能性が高い。",
+      "category": "Corporate",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Oil nears highest price since start of Iran war",
+      "summary_2lines": "イランと米イスラエル間の戦争を背景に、原油価格が1バレル119ドルと戦争開始以来の高値に迫った。これにより、世界各国で燃料価格の急騰やエネルギー使用の調整が進んでいる。",
+      "why_it_matters": "イランのホルムズ海峡封鎖により原油供給が制限され、原油価格の上昇が燃料価格やエネルギーコストの増加を引き起こしている。これは消費者や企業のコスト負担増、航空などの運輸業界への影響を通じて世界経済に広範な波及効果をもたらすため重要である。",
+      "market_impact": "原油価格高騰によるガソリンやディーゼル価格の上昇が消費者負担を増やし、エネルギー関連コストが企業の経営を圧迫。航空業界では燃料費高騰を受け運賃引き上げやフライト削減が相次ぐ一方、ヘッジ取引により一部企業は価格転嫁を先送りしている。エネルギー需給の不安定化に伴う国際貿易や景気に悪影響が懸念される。",
       "category": "Geopolitics",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c17vrd0pj95o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "What was the 1970s oil crisis, and are we heading for something worse?",
-      "summary_2lines": "1970年代の石油危機は中東の政策決定による原油禁輸が原因で世界経済に大打撃を与えた。現在の米イスラエル対イランの紛争に伴うホルムズ海峡閉鎖は、当時を上回るエネルギー危機の可能性を指摘されている。",
-      "why_it_matters": "世界のエネルギー供給の大部分を支えるホルムズ海峡の閉鎖は、石油・天然ガス価格の急騰や供給不足を引き起こし、経済のインフレ圧力や不安定化をもたらす恐れがある。特に過去の危機同様に社会的混乱や経済成長鈍化を招く可能性があり、国際的な経済安全保障と地政学リスクの深刻化を示している。",
-      "market_impact": "石油供給の減少は世界的な原油価格の高騰をもたらし、エネルギーコスト上昇を通じて企業のコスト増加、消費者の購買力低下を引き起こす。主要輸入国でのインフレ加速、景気後退リスクが増大し、特に輸送・製造業の収益圧迫や金融市場のボラティリティ拡大を招く可能性が高い。加えて、各国のエネルギー政策や軍事的対応強化の動きが市場に影響を与えると予想される。",
-      "category": "Geopolitics",
+      "title": "US petrol price tops $4 for first time since 2022",
+      "summary_2lines": "米国のガソリン価格が約4年ぶりに1ガロンあたり4ドルを超えた。イランを巡る中東情勢の緊張が原油価格を押し上げているのが主な原因である。",
+      "why_it_matters": "ガソリン価格の上昇は一般消費者の生活コストを押し上げるだけでなく、輸送コストや食品価格へも波及し、消費者の支出抑制や経済成長の鈍化を招く恐れがある。また、中東情勢の長期化はエネルギー市場の不安定化要因となりうるため、世界経済全体に広範な影響を及ぼす可能性がある。",
+      "market_impact": "ガソリンとディーゼル価格の急騰は消費者の可処分所得を圧迫し、消費支出の減少を通じて小売やサービス業など幅広い産業に悪影響を及ぼす可能性が高い。さらに、物流コストの上昇は企業のコスト増加につながり、インフレ圧力を強める。これにより、金融政策のスタンスや政策対応にも影響が及ぶ恐れがある。",
+      "category": "Economy",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/cn8d47vzz13o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Powell sees inflation outlook in check, no need to hike rates because of oil shock",
-      "summary_2lines": "連邦準備制度理事会のパウエル議長は、エネルギー価格上昇によるインフレ圧力は一時的と考え、利上げの必要はないと表明した。市場はこれを受けて2023年の利上げ期待を大幅に後退させた。",
-      "why_it_matters": "パウエル議長の発言は、エネルギーショックによる短期的なインフレ懸念が金融政策の方向性に影響しないことを示し、将来的な金利政策の安定性と経済成長の支援を示唆している。これは、インフレ鈍化への自信と追加利上げ回避による市場の安心感を醸成する重要な指標となる。",
-      "market_impact": "声明後、金融市場は金利の急激な引き上げを織り込むのをやめ、国債のインフレ連動利回り（ブレークイーブン率）が低下した。これにより債券市場が安定し、株式市場も不透明感の低減を期待。企業や消費者の借入コストの急上昇リスクが軽減され、経済全体の安定化に寄与する見込みだ。",
+      "title": "Housing market to soften amid Iran war fallout, Nationwide says",
+      "summary_2lines": "英国の住宅市場はイラン戦争の影響でエネルギー価格と住宅ローン金利が上昇し、軟化するとNationwideが予測。3月の住宅価格は0.9%上昇したが、先行きは不透明だ。",
+      "why_it_matters": "イラン戦争によるエネルギー価格の急騰がインフレ圧力を強め、英国中央銀行の利上げ期待を高めたことで住宅ローン金利が上昇。住宅購入者の負担増加や消費者心理悪化を招き、住宅市場の動向が経済全体の健康状態を示す重要な指標となっている。",
+      "market_impact": "住宅ローン金利の上昇により住宅購入費用が増大し、特に初めての住宅購入者の参入障壁が高まる。住宅価格の伸びが鈍化し、住宅市場活動は減速が予想される。これにより建設関連産業や消費活動にも波及効果が生じ、経済成長に対する下押し圧力となる可能性がある。",
       "category": "Economy",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html"
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/ckgwe7k49d7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch Fed Chair Jerome Powell speak live to an economics class at Harvard",
-      "summary_2lines": "FRB議長パウエルがハーバード大学の経済学クラスで講演し、インフレ懸念はあるものの景気は堅調と発言。彼の任期は5月に終了予定だが、後任の承認遅れにより延長の可能性もある。",
-      "why_it_matters": "パウエル議長の発言は今後の金融政策の方向性を示唆し、特に利上げの一時停止観測が市場の注目を集めている。後任人事の遅れはFRBのリーダーシップの不確実性を高める要因となっている。",
-      "market_impact": "パウエル氏の慎重なスタンスは金利据え置き期待を強め、株式市場の安定化に寄与。一方、後任の承認問題が長引けば政策決定の不透明感が高まり、市場のボラティリティ増加要因となる可能性がある。",
-      "category": "Economy",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/30/watch-fed-chair-jerome-powell-speak-live-to-an-economics-class-at-harvard.html"
-    },
-    {
-      "title": "Tech CEOs suddenly love blaming AI for mass job cuts. Why?",
-      "summary_2lines": "多くのテック大手がAI技術の進展を理由に大規模な人員削減を実施している。AIの導入により少人数で高効率な業務遂行が可能となり、コスト削減と技術投資を両立しようとしている。",
-      "why_it_matters": "AIの進展が企業の人員配置と経営戦略に大きな変化をもたらしているため、労働市場や産業構造に影響が及ぶ。経営者がAIを理由に人員削減を正当化する動きは、従来のコスト削減や効率化の説明からの転換を示し、今後の労働環境や雇用の不安定化を示唆している。",
-      "market_impact": "テック企業の大量リストラは、特にソフトウェア開発者やエンジニアといった高付加価値職種に影響を与え、これらの職種の需要と供給バランスに変化をもたらす。また、AIへの巨額投資（約6500億ドル）が企業の収益構造と株価に波及し、中長期的には生産性向上に寄与する可能性が高いが、短期的には雇用不安と市場の動揺を誘発している。",
+      "title": "Huawei's cloud computing revenue dropped in 2025 as Chinese AI lagged U.S. rivals",
+      "summary_2lines": "2025年、ファーウェイの外部顧客向けクラウド収益は3.5%減少し、AIチップ開発で米国企業に遅れをとった。一方、全体売上は緩やかに増加し、競合のバイトダンスやアリババがクラウド市場で台頭している。",
+      "why_it_matters": "ファーウェイのクラウド事業減速は中国のAI・IT産業が直面する技術制限と米中競争の厳しさを反映している。米国の先端チップ輸出規制と中国政府の技術自立方針が、企業競争力および市場構造に大きな影響を与えているため、グローバルなテクノロジー市場の勢力図変化を示す指標となる。",
+      "market_impact": "ファーウェイのクラウド成長鈍化に対し、バイトダンスやアリババが先端AI技術と設備へのアクセスを強化し市場シェアを拡大中で、国内クラウド市場の競争激化が進む。また、ファーウェイの大規模な研究開発投資や通信、車載ソリューションの堅調な推移は今後の成長余地を示すが、外部制約が収益成長の足かせとなる可能性が高い。中国経済の成長鈍化や消費低迷も全体環境に影響を与えている。",
       "category": "Tech",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss"
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/31/huawei-annual-report-2025-cloud-computing-revenue.html"
     }
   ],
   "categories": {
     "Tech": [
       {
-        "title": "Tech CEOs suddenly love blaming AI for mass job cuts. Why?",
-        "summary_2lines": "多くのテック大手がAI技術の進展を理由に大規模な人員削減を実施している。AIの導入により少人数で高効率な業務遂行が可能となり、コスト削減と技術投資を両立しようとしている。",
-        "why_it_matters": "AIの進展が企業の人員配置と経営戦略に大きな変化をもたらしているため、労働市場や産業構造に影響が及ぶ。経営者がAIを理由に人員削減を正当化する動きは、従来のコスト削減や効率化の説明からの転換を示し、今後の労働環境や雇用の不安定化を示唆している。",
-        "market_impact": "テック企業の大量リストラは、特にソフトウェア開発者やエンジニアといった高付加価値職種に影響を与え、これらの職種の需要と供給バランスに変化をもたらす。また、AIへの巨額投資（約6500億ドル）が企業の収益構造と株価に波及し、中長期的には生産性向上に寄与する可能性が高いが、短期的には雇用不安と市場の動揺を誘発している。",
+        "title": "Huawei's cloud computing revenue dropped in 2025 as Chinese AI lagged U.S. rivals",
+        "summary_2lines": "2025年、ファーウェイの外部顧客向けクラウド収益は3.5%減少し、AIチップ開発で米国企業に遅れをとった。一方、全体売上は緩やかに増加し、競合のバイトダンスやアリババがクラウド市場で台頭している。",
+        "why_it_matters": "ファーウェイのクラウド事業減速は中国のAI・IT産業が直面する技術制限と米中競争の厳しさを反映している。米国の先端チップ輸出規制と中国政府の技術自立方針が、企業競争力および市場構造に大きな影響を与えているため、グローバルなテクノロジー市場の勢力図変化を示す指標となる。",
+        "market_impact": "ファーウェイのクラウド成長鈍化に対し、バイトダンスやアリババが先端AI技術と設備へのアクセスを強化し市場シェアを拡大中で、国内クラウド市場の競争激化が進む。また、ファーウェイの大規模な研究開発投資や通信、車載ソリューションの堅調な推移は今後の成長余地を示すが、外部制約が収益成長の足かせとなる可能性が高い。中国経済の成長鈍化や消費低迷も全体環境に影響を与えている。",
         "category": "Tech",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/31/huawei-annual-report-2025-cloud-computing-revenue.html"
       }
     ],
     "Markets": [
       {
-        "title": "As stocks and bonds fall, and oil hits $100, a futures trade that boomed in 2022 may again be a winner",
-        "summary_2lines": "2022年に大きく利益を上げたマネージド・フューチャーズ戦略が、2026年の株式・債券の下落や地政学リスクの高まりに伴い再注目されている。ETFとしてのアクセス拡大も進み、主要資産運用会社が参入している。",
-        "why_it_matters": "米国とイラン間の紛争や1970年代型スタグフレーションのリスクによって従来の株式・債券投資が圧迫される中、システマティックに複数資産の先物取引を行うマネージド・フューチャーズ戦略が、市場の不確実性やボラティリティを利用して安定的なリターンを目指せる点が注目されている。投資家のポートフォリオ多様化策としての価値が高まっているため重要だ。",
-        "market_impact": "株式・債券市場が不調に陥る局面でマネージド・フューチャーズ戦略が相対的に好パフォーマンスを示すことで、これを組み込むETFの資産流入増加が期待される。主要資産運用会社の新規参入により商品数も増え、リテール投資家の裾野拡大や市場全体のリスク分散効果につながる可能性がある。一方、戦略の複雑性から長期的視点での運用理解が求められる。",
+        "title": "Warren Buffett says he sold Apple too soon and would buy more of it, though not in this market",
+        "summary_2lines": "ウォーレン・バフェットはアップル株を売り過ぎたと認め、下落局面であればさらに買い増しを検討すると述べた。しかし、現状の市場環境では買い増ししないと表明した。",
+        "why_it_matters": "バフェットは世界で最も有名かつ影響力のある投資家の一人であり、彼のアップル株に対するスタンスは市場や投資家の心理に大きな影響を与える。アップルはバークシャー・ハサウェイの最大保有銘柄であり、彼の発言がテクノロジー株の評価に示唆を与えるため重要である。",
+        "market_impact": "バフェットがアップル株を今後の割安な局面で買い増しを示唆したことで、中長期的には同銘柄への投資意欲を後押しする可能性がある。ただし現在が好機とは考えていないため、短期的には市場全体の不安定さを反映してアップル株のさらなる調整も予想される。加えて、ナスダックやダウの調整局面が続く中、投資家のリスク回避姿勢は強まる可能性がある。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/28/market-correction-futures-hedging-strategies.html"
+        "url": "https://www.cnbc.com/2026/03/31/warren-buffett-says-he-sold-apple-too-soon-and-would-buy-more-of-it-though-not-in-this-market-.html"
       },
       {
-        "title": "Bill Ackman says it’s one of the best times in a long time to buy quality stocks",
-        "summary_2lines": "投資家ビル・アックマンは現在の市場混乱が高品質株を割安に購入できる絶好の機会だと述べ、特に米国の住宅大手ファニーメイとフレディマックを注目銘柄として挙げた。彼はマクロ経済リスクを超えて長期的なリターンを狙うべきと強調している。",
-        "why_it_matters": "エネルギー価格高騰やインフレ、FRBの政策動向による市場の不透明感が強まる中、著名なヘッジファンドマネジャーが質の高い企業の割安さを指摘し、市場心理にポジティブな影響を与えうる。加えて、Pershing SquareのNYSE上場申請は投資機会の多様化と市場構造の変化を示唆している。",
-        "market_impact": "アックマンの発言は割安感のある大型優良株に対する買い意欲を刺激し、一部セクターの押し目買いが活発化する可能性がある。特に住宅関連金融大手の株価上昇が期待される一方、地政学的リスクや経済の不確実性は依然として市場のボラティリティを高める要因となるだろう。",
+        "title": "Warren Buffett says he's still making calls on investments at Berkshire, flags 'tiny' new buy",
+        "summary_2lines": "ウォーレン・バフェットはCEOを退いた後もバークシャー・ハサウェイの投資判断に積極的に関与し、最近小規模な新規投資を行ったと明かした。バークシャーは巨額のキャッシュを国債に投資し、現在の市場変動を過去の大暴落と比べ控えめに評価している。",
+        "why_it_matters": "バフェットは投資界で極めて影響力のある人物であり、彼の投資動向や市場評価は多くの投資家にとって重要な指標となる。また、CEO交代後もバフェットが直接投資に関与していることはバークシャーの経営と投資戦略の一貫性を示し、市場に安心感を与える。",
+        "market_impact": "バフェットの小規模な新規購入は市場全体に大きな直接影響はないものの、バークシャーの巨額のキャッシュを国債に振り向ける動きは安全資産への需要を示唆し、短期国債市場の流動性や金利にも影響を及ぼす可能性がある。また、バフェットの控えめな市場評価は投資家の過剰反応を抑える効果も期待される。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/30/bill-ackman-says-its-one-of-the-best-times-in-a-long-time-to-buy-quality-stocks.html"
+        "url": "https://www.cnbc.com/2026/03/31/warren-buffett-says-hes-still-making-calls-on-investments-at-berkshire-flags-tiny-new-buy.html"
       }
     ],
     "Geopolitics": [
       {
-        "title": "Oil rises and Asia shares slide as Iran war enters fifth week",
-        "summary_2lines": "イラン戦争の長期化で原油価格が急騰し、アジアの株式市場が大幅下落した。ホルムズ海峡の物流停滞によりエネルギー市場の不安が高まっている。",
-        "why_it_matters": "世界のエネルギー供給の約5分の1が通過する重要なホルムズ海峡での軍事的緊張が高まっており、原油価格の上昇はインフレ圧力を強める。また、食料品価格上昇の懸念も広がっており、グローバル経済の安定に重大なリスクをもたらしている。",
-        "market_impact": "原油価格は3%以上急騰し、ブレント原油は約113ドルで推移。アジア株式市場では日本の日経225が2.8%、韓国のコスピが約3%下落。エネルギー・食料品価格上昇による消費抑制が経済成長を鈍化させ、世界的な経済減速リスクが増大している。輸送路の閉塞リスクも長期的な供給不足を招く可能性があり、さらに価格高騰が続く見通し。",
+        "title": "Oil nears highest price since start of Iran war",
+        "summary_2lines": "イランと米イスラエル間の戦争を背景に、原油価格が1バレル119ドルと戦争開始以来の高値に迫った。これにより、世界各国で燃料価格の急騰やエネルギー使用の調整が進んでいる。",
+        "why_it_matters": "イランのホルムズ海峡封鎖により原油供給が制限され、原油価格の上昇が燃料価格やエネルギーコストの増加を引き起こしている。これは消費者や企業のコスト負担増、航空などの運輸業界への影響を通じて世界経済に広範な波及効果をもたらすため重要である。",
+        "market_impact": "原油価格高騰によるガソリンやディーゼル価格の上昇が消費者負担を増やし、エネルギー関連コストが企業の経営を圧迫。航空業界では燃料費高騰を受け運賃引き上げやフライト削減が相次ぐ一方、ヘッジ取引により一部企業は価格転嫁を先送りしている。エネルギー需給の不安定化に伴う国際貿易や景気に悪影響が懸念される。",
         "category": "Geopolitics",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c17vrd0pj95o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "What was the 1970s oil crisis, and are we heading for something worse?",
-        "summary_2lines": "1970年代の石油危機は中東の政策決定による原油禁輸が原因で世界経済に大打撃を与えた。現在の米イスラエル対イランの紛争に伴うホルムズ海峡閉鎖は、当時を上回るエネルギー危機の可能性を指摘されている。",
-        "why_it_matters": "世界のエネルギー供給の大部分を支えるホルムズ海峡の閉鎖は、石油・天然ガス価格の急騰や供給不足を引き起こし、経済のインフレ圧力や不安定化をもたらす恐れがある。特に過去の危機同様に社会的混乱や経済成長鈍化を招く可能性があり、国際的な経済安全保障と地政学リスクの深刻化を示している。",
-        "market_impact": "石油供給の減少は世界的な原油価格の高騰をもたらし、エネルギーコスト上昇を通じて企業のコスト増加、消費者の購買力低下を引き起こす。主要輸入国でのインフレ加速、景気後退リスクが増大し、特に輸送・製造業の収益圧迫や金融市場のボラティリティ拡大を招く可能性が高い。加えて、各国のエネルギー政策や軍事的対応強化の動きが市場に影響を与えると予想される。",
+        "title": "Warren Buffett says Iran bomb would make nuclear disaster harder to avoid",
+        "summary_2lines": "ウォーレン・バフェット氏はイランの核兵器保有が核紛争のリスクを大幅に高めると警告。核兵器保有国の増加が世界の安全保障を複雑化させていると指摘した。",
+        "why_it_matters": "世界の核拡散は地政学的リスクを増大させ、不安定な政権が核兵器を持つことで破滅的な紛争の可能性が高まる。特にイランや北朝鮮の核保有は中東や東アジアの緊張を激化させ、国際安全保障に大きな影響を及ぼすため重要な問題である。",
+        "market_impact": "核リスクの高まりは投資家のリスク回避傾向を強め、安全資産への逃避やエネルギー市場の不安定化を招く可能性がある。防衛関連企業の株価が上昇する一方で、地域経済の停滞や貿易摩擦が拡大し、グローバル市場にもネガティブな影響が及ぶ恐れがある。",
         "category": "Geopolitics",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&at_campaign=rss"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/31/warren-buffett-says-iran-bomb-would-make-nuclear-disaster-harder-to-avoid.html"
       }
     ],
     "Economy": [
       {
-        "title": "Watch Fed Chair Jerome Powell speak live to an economics class at Harvard",
-        "summary_2lines": "FRB議長パウエルがハーバード大学の経済学クラスで講演し、インフレ懸念はあるものの景気は堅調と発言。彼の任期は5月に終了予定だが、後任の承認遅れにより延長の可能性もある。",
-        "why_it_matters": "パウエル議長の発言は今後の金融政策の方向性を示唆し、特に利上げの一時停止観測が市場の注目を集めている。後任人事の遅れはFRBのリーダーシップの不確実性を高める要因となっている。",
-        "market_impact": "パウエル氏の慎重なスタンスは金利据え置き期待を強め、株式市場の安定化に寄与。一方、後任の承認問題が長引けば政策決定の不透明感が高まり、市場のボラティリティ増加要因となる可能性がある。",
-        "category": "Economy",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/30/watch-fed-chair-jerome-powell-speak-live-to-an-economics-class-at-harvard.html"
-      },
-      {
-        "title": "How will car finance compensation payments work?",
-        "summary_2lines": "FCAは車のファイナンス契約の誤販売に対し、被害者に平均£829の補償を支払う方針を示した。約1,200万件が対象で、補償総額は約91億ポンドにのぼる見込み。",
-        "why_it_matters": "車のファイナンス契約における不当な利率設定やディーラーへの不透明な手数料支払いが問題視され、消費者保護の観点から大規模な補償スキームが設けられることで、業界の不正慣行是正と消費者信頼回復を目的としている。",
-        "market_impact": "金融機関や自動車ディーラーは多額の補償費用および管理コスト負担を強いられ、利益率に圧迫がかかる可能性がある。一方で消費者に資金が還元されることで、消費者信用市場の透明性向上や健全化が期待される。補償への法的な異議申し立てによる遅延リスクも存在。",
+        "title": "Housing market to soften amid Iran war fallout, Nationwide says",
+        "summary_2lines": "英国の住宅市場はイラン戦争の影響でエネルギー価格と住宅ローン金利が上昇し、軟化するとNationwideが予測。3月の住宅価格は0.9%上昇したが、先行きは不透明だ。",
+        "why_it_matters": "イラン戦争によるエネルギー価格の急騰がインフレ圧力を強め、英国中央銀行の利上げ期待を高めたことで住宅ローン金利が上昇。住宅購入者の負担増加や消費者心理悪化を招き、住宅市場の動向が経済全体の健康状態を示す重要な指標となっている。",
+        "market_impact": "住宅ローン金利の上昇により住宅購入費用が増大し、特に初めての住宅購入者の参入障壁が高まる。住宅価格の伸びが鈍化し、住宅市場活動は減速が予想される。これにより建設関連産業や消費活動にも波及効果が生じ、経済成長に対する下押し圧力となる可能性がある。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/ckgwe7k49d7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Powell sees inflation outlook in check, no need to hike rates because of oil shock",
-        "summary_2lines": "連邦準備制度理事会のパウエル議長は、エネルギー価格上昇によるインフレ圧力は一時的と考え、利上げの必要はないと表明した。市場はこれを受けて2023年の利上げ期待を大幅に後退させた。",
-        "why_it_matters": "パウエル議長の発言は、エネルギーショックによる短期的なインフレ懸念が金融政策の方向性に影響しないことを示し、将来的な金利政策の安定性と経済成長の支援を示唆している。これは、インフレ鈍化への自信と追加利上げ回避による市場の安心感を醸成する重要な指標となる。",
-        "market_impact": "声明後、金融市場は金利の急激な引き上げを織り込むのをやめ、国債のインフレ連動利回り（ブレークイーブン率）が低下した。これにより債券市場が安定し、株式市場も不透明感の低減を期待。企業や消費者の借入コストの急上昇リスクが軽減され、経済全体の安定化に寄与する見込みだ。",
-        "category": "Economy",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html"
-      },
-      {
-        "title": "Fed Governor Miran still backs cuts, says interest rates could be 'about a point' lower this year",
-        "summary_2lines": "連邦準備制度理事のミラン氏は、エネルギー価格の急騰を一時的要因と見なし、今年中に政策金利を約1ポイント引き下げるべきだと主張した。現状のインフレ期待は安定しており、早急な利上げは必要ないとしている。",
-        "why_it_matters": "ミラン氏はFRB内のハト派の意見を代表しており、物価上昇の一時的要因を除外して金融緩和を提唱している。これはインフレ抑制と経済成長促進のバランスを取る上で重要な視点であり、市場の金利見通しにも影響を与える可能性がある。",
-        "market_impact": "ミラン氏の発言は、年内の利下げ期待を後押しし、債券市場での長期金利低下や株式市場の上昇圧力となる可能性がある。一方で、エネルギー価格の高騰が続く場合はインフレ懸念が再燃し得るため、市場のボラティリティが高まるリスクもある。",
-        "category": "Economy",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/30/fed-governor-miran-still-backs-cuts-says-interest-rates-could-be-about-a-point-lower-this-year.html"
-      },
-      {
-        "title": "Millions of drivers mis-sold car finance to receive average £829 in compensation",
-        "summary_2lines": "英国の規制当局FCAは、誤って販売された自動車ローンの契約者約1,210万人に平均829ポンドの補償を提案。対応費用は総額約91億ポンドにのぼる見込み。",
-        "why_it_matters": "多くのドライバーがカルローンの過剰金利や不正な手数料設定の被害を受けており、公正な補償は消費者保護の観点で重要。また、過去の販売慣行の問題を是正し、今後のモーターファイナンス市場の健全な運営に寄与するための重要な措置である。",
-        "market_impact": "金融機関や自動車販売業者に対して多額の補償負担が生じるため収益圧迫の可能性がある。業界団体は補償範囲の狭さを批判する一方、消費者団体は不足を指摘しており、今後の法的紛争や規制強化リスクが増大。これにより自動車ファイナンス商品の販売手法や価格設定に変化が起きる可能性が高い。",
+        "title": "US petrol price tops $4 for first time since 2022",
+        "summary_2lines": "米国のガソリン価格が約4年ぶりに1ガロンあたり4ドルを超えた。イランを巡る中東情勢の緊張が原油価格を押し上げているのが主な原因である。",
+        "why_it_matters": "ガソリン価格の上昇は一般消費者の生活コストを押し上げるだけでなく、輸送コストや食品価格へも波及し、消費者の支出抑制や経済成長の鈍化を招く恐れがある。また、中東情勢の長期化はエネルギー市場の不安定化要因となりうるため、世界経済全体に広範な影響を及ぼす可能性がある。",
+        "market_impact": "ガソリンとディーゼル価格の急騰は消費者の可処分所得を圧迫し、消費支出の減少を通じて小売やサービス業など幅広い産業に悪影響を及ぼす可能性が高い。さらに、物流コストの上昇は企業のコスト増加につながり、インフレ圧力を強める。これにより、金融政策のスタンスや政策対応にも影響が及ぶ恐れがある。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cn8d47vzz13o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'I sent eight letters': Drivers hope for payout from car finance redress scheme",
+        "summary_2lines": "英国の自動車ローン利用者の約40%が不適切な販売による補償を受けられる可能性があり、FCAは今年中に賠償金の支払いを開始すると発表した。対象者は2007年4月から2024年11月の間にローンを組んだ人で、平均賠償額は約829ポンドと見込まれている。",
+        "why_it_matters": "過去の不透明な販売慣行により多くの消費者が過剰な金利を負担していた問題に対し、規制当局が補償スキームを設けることで消費者保護を強化し、公正な金融取引の促進や市場信頼回復につながるため重要である。また、金融機関や自動車販売業界に改善圧力がかかり、将来的なビジネス慣行にも影響を及ぼす可能性がある。",
+        "market_impact": "補償対象者数が予想より少なく確定したことで、Close BrothersやLloydsなど主要金融機関の株価は上昇している。一方で、補償金支払いに伴うコストは各金融機関の業績に一時的な負担となる可能性があり、また法的挑戦の可能性も残るため市場の不確実性も存在する。金融業界全体で補償スキームの対応コストとリスク管理が求められる局面となっている。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c20dxdy33llo?at_medium=RSS&at_campaign=rss"
       }
     ],
-    "Corporate": []
+    "Corporate": [
+      {
+        "title": "Warren Buffett teams up with NBA superstar Stephen Curry for charity lunch, reviving iconic auction",
+        "summary_2lines": "ウォーレン・バフェットがNBAスターのステフィン・カリー夫妻と協力し、チャリティーランチのオークションを再開。収益は子ども支援や弱者支援を行う2団体に寄付される。",
+        "why_it_matters": "バフェットのチャリティーランチは過去20年で5000万ドル以上を集め、慈善活動の資金調達手法として成功している。今回、著名なスポーツ選手との連携で、新たな注目と参加者増加が期待され社会貢献の拡大につながる。",
+        "market_impact": "直接的な市場や経済への影響は限定的だが、慈善活動の成功は企業や富裕層による社会的責任投資（ESG）の促進に寄与し、長期的には企業イメージや資本流動に好影響をもたらす可能性がある。",
+        "category": "Corporate",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/31/warren-buffett-teams-up-with-stephen-curry-for-charity-lunch.html"
+      },
+      {
+        "title": "Tech giant Oracle makes 'significant' job cuts",
+        "summary_2lines": "OracleがAI投資拡大に伴い、業績不問の大規模な人員削減を実施。約1万人が影響を受け、AI活用で少人数での業務効率化を目指している。",
+        "why_it_matters": "AI技術の発展と業務効率化の流れを受け、大手テック企業が大規模リストラに踏み切る事例が増えている。Oracleの巨額AI投資と人員削減は、テック業界の労働環境や経営戦略の新たな潮流を示す。",
+        "market_impact": "Oracleの人員削減はコスト削減と生産性向上を目指す一方、従業員や顧客の信頼低下リスクもある。AI分野への巨額投資は同業他社に競争圧力をかけ、クラウド・ソフトウェア市場の競争環境を激化させる可能性が高い。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss"
+      }
+    ]
   }
 }
