@@ -1,88 +1,79 @@
 {
-  "generated_at_jst": "2026-04-07 07:23",
+  "generated_at_jst": "2026-04-08 07:26",
   "todays_brief": [
     {
-      "title": "Oil prices choppy after expletive-laden Trump threat to Iran",
-      "summary_2lines": "トランプ大統領がイランに対し石油航路の封鎖解除を強く要求し、軍事的脅威を繰り返す中で、原油価格が乱高下した。イラン側も強硬姿勢を崩しておらず、石油供給の不安定化が続いている。",
-      "why_it_matters": "ホルムズ海峡は世界のエネルギー供給の約5分の1が通過する重要な航路であり、ここでの紛争や物流妨害は世界のエネルギー市場に大きな影響を与える。米イラン間の緊張が高まることでエネルギー価格の急騰や供給リスクが顕在化し、世界経済のインフレ圧力や不安定感が増すため重要な情勢となっている。",
-      "market_impact": "原油価格は110ドル台を超え、供給不安から価格の乱高下が続く見込み。エネルギー価格上昇は世界的なコストプッシュインフレを招き、エネルギー依存度の高い企業や国々の経済リスクを増大させる。OPEC+の増産も実質的な効果が薄く、短期的な価格高騰が続く可能性が高い。",
+      "title": "Oil price fluctuates ahead of Trump's Iran deal deadline",
+      "summary_2lines": "米トランプ大統領のイランとの期限接近を控え、ホルムズ海峡を巡る緊張から原油価格が変動。戦争長期化懸念や供給不安が投資家心理を揺さぶっている。",
+      "why_it_matters": "ホルムズ海峡は世界の約5分の1の石油・ガス輸送が通過する重要航路であり、米・イスラエルとイランの対立による供給混乱は国際エネルギー市場と世界経済に大きな影響を与える可能性が高いため、各国が緊張緩和や安全保障強化を急いでいる。",
+      "market_impact": "原油価格がバレルあたり110ドル前後で変動し、需給不安が先行。保険料上昇など輸送コスト増でエネルギー関連のコスト転嫁圧力がかかり、インフレ懸念も拡大。米株式市場は警戒感から軟調な動きとなり、金利上昇リスクも指摘されている。",
       "category": "Geopolitics",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c20qv0w1j1do?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "JPMorgan CEO Jamie Dimon in annual letter cites risks in geopolitics, AI and private markets",
-      "summary_2lines": "JPMorganのCEOジェイミー・ダイモンは年次書簡で、地政学的リスク、AIの影響、プライベート市場の混乱に言及し、米国の価値観再確認を訴えた。特に新たな銀行規制案に強い懸念を示した。",
-      "why_it_matters": "米国最大の銀行トップの視点は、世界経済や金融規制の動向を反映し、投資家や政策立案者に重要な示唆を与える。地政学的緊張と新興技術の発展が経済全体に大きな影響をもたらす局面で、銀行規制の合理化も金融システムの安定に向けた課題として浮き彫りになった。",
-      "market_impact": "地政学リスクの高まりは国際市場の変動性を増し、特にエネルギー価格や貿易関係に影響を与える。AIやプライベートクレジット市場の問題は、金融機関の貸出や資産評価にリスクをもたらす。新規制による資本コスト上昇はJPMorganの貸出能力を制限し、競争環境に影響を与える可能性がある。",
+      "summary_2lines": "JPMorgan CEO Jamie Dimon warns of significant risks from geopolitical conflicts, inflation, private market volatility, and flawed banking regulations in his annual letter. He calls for a renewed commitment to American values amid economic uncertainty and challenges posed by AI and private credit markets.",
+      "why_it_matters": "ディモン氏は世界最大の銀行CEOとして、米国とグローバル経済の現状を鋭く分析し、金融規制の問題点や地政学リスクの深刻さを指摘。特にウクライナ、イラン、中東情勢とAIの急速な進展を踏まえ、市場の不透明感と政策の必要性を浮き彫りにした。これは投資家や政策立案者にとって重要な視点を提供する。",
+      "market_impact": "地政学的な緊張がコモディティ価格や国際貿易に影響を与える一方、規制強化による銀行の資本拘束増加は貸出環境を引き締め、経済成長を抑制する可能性がある。また、プライベートクレジット市場の透明性不足が流動性リスクを高め、金融市場全体の不安定化リスクを増加させるとみられる。これらの要因は金融機関の収益と資本政策に直接影響を及ぼす。",
       "category": "Corporate",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/04/06/jpmorgan-ceo-jamie-dimon-annual-letter-risks.html"
     },
     {
-      "title": "Warren Buffett says Iran bomb would make nuclear disaster harder to avoid",
-      "summary_2lines": "ウォーレン・バフェット氏は、イランの核兵器保有が核拡散と世界の安全保障リスクをさらに悪化させると警告した。彼は核兵器の拡散が将来的に核兵器使用のリスクを高めると強調した。",
-      "why_it_matters": "核兵器保有国の増加は国際的な緊張や紛争リスクを高めるため、特にイランの核開発は中東の不安定化を招き、グローバルな安全保障環境に重大な懸念をもたらしている。バフェット氏の見解は、核拡散が経済・外交政策にも影響を及ぼす重要な課題であることを示している。",
-      "market_impact": "核リスクの高まりはエネルギー市場の不安定化や防衛関連企業の株価変動を引き起こす可能性がある。地政学リスクの深化は投資家のリスク回避姿勢を強め、市場のボラティリティ増大につながる恐れがある。",
-      "category": "Geopolitics",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/31/warren-buffett-says-iran-bomb-would-make-nuclear-disaster-harder-to-avoid.html"
-    },
-    {
       "title": "Visa launches new AI tools to manage the charge dispute process",
-      "summary_2lines": "VisaはAIを活用した6つの新ツールを導入し、クレジットカードのチャージ紛争処理を効率化する。これにより、加盟店・発行会社・買収会社の手続きが自動化・高度化され、コスト削減と顧客満足度向上を目指す。",
-      "why_it_matters": "クレジットカードのチャージ紛争は膨大な件数とコストを伴い、従来は手作業中心で非効率だった。AI導入により業務の自動化とプロアクティブな対応が可能となり、業界全体の運用負担軽減やトラブルの早期解決が期待されるため重要。",
-      "market_impact": "VisaのAIツール導入は決済業界における紛争処理の革新を促進し、加盟店や金融機関のコスト削減、顧客サービスの向上に寄与する。これにより競争優位性が高まり、金融テクノロジー分野のAI活用が加速する可能性がある。加えてAI関連投資の潮流に乗る形でVisaの市場評価向上も見込まれる。",
+      "summary_2lines": "VisaはAIを活用した6つの新ツールを導入し、クレジットカードのチャージディスピュート処理を効率化・自動化する。これにより、加盟店、発行会社、アクワイアラーの業務負担とコスト削減を目指す。",
+      "why_it_matters": "クレジットカードチャージの異議申し立ては複雑かつ手作業が多く、世界的に増加している課題。VisaのAI導入により、このプロセスを抜本的に改善し、関連各社の運用効率と顧客体験向上が期待される。加えて、金融業界全体で進むAI活用の流れの一環であるため、業界のDX推進における重要な一歩となる。",
+      "market_impact": "AI技術の導入により、決済関連の運用コスト削減と処理時間短縮が見込まれ、加盟店や金融機関の対顧客サービス改善に寄与する。これによりVisaの競争優位性が強化され、他の金融機関も類似のAI活用加速が予測され、業界全体の効率化と市場成長が促進される可能性が高い。",
       "category": "Tech",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/04/01/visa-ai-tools-dispute-management.html"
     },
     {
-      "title": "How China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
-      "summary_2lines": "中国ではオーストリア開発のオープンソースAIアシスタント『OpenClaw（ロブスター）』が急速に普及し、個人から大企業まで活用が進む。中国政府の後押しもあり、国内AI開発と応用が加速している。 ",
-      "why_it_matters": "中国は西側のChatGPTなどが利用できない環境で、オープンソースを活用した独自AI開発を推進している。国のトップがAI推進を支持し、技術やイノベーションの導入が爆発的に進むことで世界のテクノロジー競争における立ち位置が変わる可能性があるため重要だ。 ",
-      "market_impact": "個人から大手IT企業までAI導入が加速し、従来の業務効率化や新サービス創出が進む。中国のAI技術自主開発を後押しするため、海外のAI競合企業が中国市場でのシェア獲得が難しくなる。一方で、AI活用による投資や電子商取引の動向にも影響を与え、新たなビジネスモデルや産業競争力強化に直結する。 ",
-      "category": "Tech",
+      "title": "Music giant Universal gets $64bn takeover offer",
+      "summary_2lines": "投資会社パーシング・スクエアがユニバーサル・ミュージック・グループの買収提案を640億ドルで行った。ユニバーサルは業界最大手でありながら株価が伸び悩んでおり、米国上場を目指す動きも注目されている。",
+      "why_it_matters": "ユニバーサル・ミュージックは世界最大の音楽企業であり、その買収提案は音楽業界の今後の成長戦略や市場構造を左右する可能性がある。AIによる深刻な著作権問題やストリーミング収益の課題を抱える中、業界の競争環境や収益モデル改革が求められている状況に変化が生じるため重要だ。",
+      "market_impact": "買収提案によりユニバーサルの株価は一時30%近く急騰し、市場の注目を集めた。もし実現すれば米国市場への再上場を通じて資金調達が活発化し、AI技術によるコンテンツ保護や新規収益源の開拓に資金が振り向けられる可能性がある。加えて、ストリーミングやソーシャルメディアとの収益分配問題が再検証される契機となりうる。",
+      "category": "Markets",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Warren Buffett says Iran bomb would make nuclear disaster harder to avoid",
+      "summary_2lines": "ウォーレン・バフェットは、イランが核兵器を保有すれば核紛争のリスクがさらに高まると警告。核保有国の増加が世界の安全保障環境を大きく悪化させていると指摘した。",
+      "why_it_matters": "核兵器拡散は国際的な緊張を激化させるため、世界の安全保障と安定にとって重大な課題である。特にイランや北朝鮮といった不安定要素の存在は、地域紛争や大規模紛争のリスクを増大させ、国際社会の対応が求められている。",
+      "market_impact": "地政学リスクの高まりはエネルギー市場の不安定化や防衛関連株の株価上昇を招く可能性がある。また、投資家のリスク回避傾向が強まることで株式市場の変動性が増すことも懸念される。一方で、核抑止力強化の動きに関連する企業への注目も高まるだろう。",
+      "category": "Geopolitics",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/31/warren-buffett-says-iran-bomb-would-make-nuclear-disaster-harder-to-avoid.html"
     }
   ],
   "categories": {
     "Tech": [
       {
         "title": "Visa launches new AI tools to manage the charge dispute process",
-        "summary_2lines": "VisaはAIを活用した6つの新ツールを導入し、クレジットカードのチャージ紛争処理を効率化する。これにより、加盟店・発行会社・買収会社の手続きが自動化・高度化され、コスト削減と顧客満足度向上を目指す。",
-        "why_it_matters": "クレジットカードのチャージ紛争は膨大な件数とコストを伴い、従来は手作業中心で非効率だった。AI導入により業務の自動化とプロアクティブな対応が可能となり、業界全体の運用負担軽減やトラブルの早期解決が期待されるため重要。",
-        "market_impact": "VisaのAIツール導入は決済業界における紛争処理の革新を促進し、加盟店や金融機関のコスト削減、顧客サービスの向上に寄与する。これにより競争優位性が高まり、金融テクノロジー分野のAI活用が加速する可能性がある。加えてAI関連投資の潮流に乗る形でVisaの市場評価向上も見込まれる。",
+        "summary_2lines": "VisaはAIを活用した6つの新ツールを導入し、クレジットカードのチャージディスピュート処理を効率化・自動化する。これにより、加盟店、発行会社、アクワイアラーの業務負担とコスト削減を目指す。",
+        "why_it_matters": "クレジットカードチャージの異議申し立ては複雑かつ手作業が多く、世界的に増加している課題。VisaのAI導入により、このプロセスを抜本的に改善し、関連各社の運用効率と顧客体験向上が期待される。加えて、金融業界全体で進むAI活用の流れの一環であるため、業界のDX推進における重要な一歩となる。",
+        "market_impact": "AI技術の導入により、決済関連の運用コスト削減と処理時間短縮が見込まれ、加盟店や金融機関の対顧客サービス改善に寄与する。これによりVisaの競争優位性が強化され、他の金融機関も類似のAI活用加速が予測され、業界全体の効率化と市場成長が促進される可能性が高い。",
         "category": "Tech",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/01/visa-ai-tools-dispute-management.html"
-      },
-      {
-        "title": "How China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
-        "summary_2lines": "中国ではオーストリア開発のオープンソースAIアシスタント『OpenClaw（ロブスター）』が急速に普及し、個人から大企業まで活用が進む。中国政府の後押しもあり、国内AI開発と応用が加速している。 ",
-        "why_it_matters": "中国は西側のChatGPTなどが利用できない環境で、オープンソースを活用した独自AI開発を推進している。国のトップがAI推進を支持し、技術やイノベーションの導入が爆発的に進むことで世界のテクノロジー競争における立ち位置が変わる可能性があるため重要だ。 ",
-        "market_impact": "個人から大手IT企業までAI導入が加速し、従来の業務効率化や新サービス創出が進む。中国のAI技術自主開発を後押しするため、海外のAI競合企業が中国市場でのシェア獲得が難しくなる。一方で、AI活用による投資や電子商取引の動向にも影響を与え、新たなビジネスモデルや産業競争力強化に直結する。 ",
-        "category": "Tech",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Markets": [
       {
-        "title": "Offbeat Wall Street research firm says it sent an analyst to Strait of Hormuz. Here's what they learned",
-        "summary_2lines": "Citrini Researchはホルムズ海峡の現地視察を行い、航行は完全封鎖ではなく部分的な断絶とする報告を発表した。イランが選択的に通航を許可しており、従来の見方と異なるリスク評価を示している。",
-        "why_it_matters": "ホルムズ海峡は世界の石油輸送の生命線であり、緊張状態による航行停止は世界のエネルギー市場に大きな影響を与える。現地視察に基づくリアルタイムの情報提供は、衛星画像やAISデータに頼る従来の見解よりも詳細な実態把握を促し、市場参加者のリスク評価や戦略に影響を与える可能性があるため重要となる。",
-        "market_impact": "現地情報によると通行量は約50％まで回復すると予測され、石油供給の完全停止リスクは限定的だが、部分的な混乱は長期的なリスクプレミアムを油価に付加すると見られる。これにより、短期的な価格変動は減少し、2026年末までの先物契約が相対的に注目されることで、長期投資・ヘッジ戦略の見直しが進む可能性がある。",
+        "title": "Music giant Universal gets $64bn takeover offer",
+        "summary_2lines": "投資会社パーシング・スクエアがユニバーサル・ミュージック・グループの買収提案を640億ドルで行った。ユニバーサルは業界最大手でありながら株価が伸び悩んでおり、米国上場を目指す動きも注目されている。",
+        "why_it_matters": "ユニバーサル・ミュージックは世界最大の音楽企業であり、その買収提案は音楽業界の今後の成長戦略や市場構造を左右する可能性がある。AIによる深刻な著作権問題やストリーミング収益の課題を抱える中、業界の競争環境や収益モデル改革が求められている状況に変化が生じるため重要だ。",
+        "market_impact": "買収提案によりユニバーサルの株価は一時30%近く急騰し、市場の注目を集めた。もし実現すれば米国市場への再上場を通じて資金調達が活発化し、AI技術によるコンテンツ保護や新規収益源の開拓に資金が振り向けられる可能性がある。加えて、ストリーミングやソーシャルメディアとの収益分配問題が再検証される契機となりうる。",
         "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/06/wall-street-firm-sends-analyst-to-the-strait-of-hormuz-heres-what-they-found-out.html"
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Blue Owl caps private credit funds redemptions at 5% after steep request levels",
-        "summary_2lines": "Blue Owlは私募クレジットファンドの高い償還申請に対応し、2つのファンドで申請を5％に制限した。AI関連ソフトウェア業界の不確実性が償還増加の主因となっている。",
-        "why_it_matters": "AI技術の普及に伴うソフトウェア企業の市場変動が私募クレジットファンドの投資家心理に影響を与え、資金の流出リスクを高めている。これはプライベートクレジット市場全体の安定性を左右する重要なシグナルである。",
-        "market_impact": "Blue Owlの償還制限措置は資金流出の急激な拡大を抑え、市場の混乱を緩和する役割を持つが、業界全体でAI関連リスクに対する懸念が強まることで、他の私募ファンドも類似した対応を迫られる可能性がある。これにより、投資家のリスク評価や資金配分に変化が生じ、私募クレジット市場の流動性と価格形成に影響を与えうる。",
+        "summary_2lines": "Blue Owlは、AI関連の市場懸念を背景に私募クレジットファンドで高い換金申請が相次ぎ、2つのファンドで換金申請を5％に制限した。特にテクノロジー志向のOTICファンドで申請率が40.7％に達したが、申請は抑制された。",
+        "why_it_matters": "AIの普及によるソフトウェア業界の不透明感が私募クレジット市場に波及し、特にソフトウェア関連への投資比率が高いBDCが注目を浴びている。この動きは投資家のリスク認識の高まりを示し、流動性制限を実施することでファンドの安定性と投資家の利益保護を図っている点が重要である。",
+        "market_impact": "Blue Owlのような大手私募クレジットファンドでの換金制限は、投資家心理の冷え込みと流動性リスクの顕在化を示し、BDCセクター全体の信用コスト上昇や資金調達環境の悪化を招く可能性がある。短期的にはテクノロジー関連企業への融資条件が厳しくなる一方、経験豊富な貸し手には有利な投資機会となる側面もある。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/02/blue-owl-private-credit-funds-redemptions-requests.html"
@@ -90,19 +81,37 @@
     ],
     "Geopolitics": [
       {
-        "title": "Oil prices choppy after expletive-laden Trump threat to Iran",
-        "summary_2lines": "トランプ大統領がイランに対し石油航路の封鎖解除を強く要求し、軍事的脅威を繰り返す中で、原油価格が乱高下した。イラン側も強硬姿勢を崩しておらず、石油供給の不安定化が続いている。",
-        "why_it_matters": "ホルムズ海峡は世界のエネルギー供給の約5分の1が通過する重要な航路であり、ここでの紛争や物流妨害は世界のエネルギー市場に大きな影響を与える。米イラン間の緊張が高まることでエネルギー価格の急騰や供給リスクが顕在化し、世界経済のインフレ圧力や不安定感が増すため重要な情勢となっている。",
-        "market_impact": "原油価格は110ドル台を超え、供給不安から価格の乱高下が続く見込み。エネルギー価格上昇は世界的なコストプッシュインフレを招き、エネルギー依存度の高い企業や国々の経済リスクを増大させる。OPEC+の増産も実質的な効果が薄く、短期的な価格高騰が続く可能性が高い。",
+        "title": "Oil price fluctuates ahead of Trump's Iran deal deadline",
+        "summary_2lines": "米トランプ大統領のイランとの期限接近を控え、ホルムズ海峡を巡る緊張から原油価格が変動。戦争長期化懸念や供給不安が投資家心理を揺さぶっている。",
+        "why_it_matters": "ホルムズ海峡は世界の約5分の1の石油・ガス輸送が通過する重要航路であり、米・イスラエルとイランの対立による供給混乱は国際エネルギー市場と世界経済に大きな影響を与える可能性が高いため、各国が緊張緩和や安全保障強化を急いでいる。",
+        "market_impact": "原油価格がバレルあたり110ドル前後で変動し、需給不安が先行。保険料上昇など輸送コスト増でエネルギー関連のコスト転嫁圧力がかかり、インフレ懸念も拡大。米株式市場は警戒感から軟調な動きとなり、金利上昇リスクも指摘されている。",
         "category": "Geopolitics",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c20qv0w1j1do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Airlines cut flights and hike fares as fuel prices surge",
+        "summary_2lines": "中東情勢の悪化を受けてジェット燃料価格が急騰し、多くの航空会社が便数削減や運賃値上げを実施。旅客にとっては運賃高騰や欠航増加が予想されている。",
+        "why_it_matters": "ジェット燃料価格は航空業界のコストの大部分を占めており、中東地域が主要供給地であるため、地域紛争は世界の航空運航に直接影響を与える。これにより航空会社の運営効率が悪化し、消費者や経済全体に波及効果が生じる背景がある。",
+        "market_impact": "航空会社は燃料コスト増を反映し運賃を引き上げ、利用者数減少や収益圧迫を避けるために便数削減を進めている。特に中東やアジアの航空会社、及び中東依存度の高い経済圏で影響が顕著。長期化すれば航空業界の利益率悪化や運航ネットワークの縮小、消費者の旅行コスト上昇、市場全体のボラティリティ増大が予測される。",
+        "category": "Geopolitics",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c87w4x0n3j0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Offbeat Wall Street research firm says it sent an analyst to Strait of Hormuz. Here's what they learned",
+        "summary_2lines": "リサーチ会社Citrini Researchはホルムズ海峡の現地に調査員を派遣し、航行は完全閉鎖ではなく部分的な制限であると報告した。船舶の動きはAISデータより多く、紛争の影響は長期化しリスクプレミアムが持続すると見ている。",
+        "why_it_matters": "ホルムズ海峡は世界の石油輸送において極めて重要な通過点であり、イランと米国間の緊張が供給リスクを高めている。現地の実態調査は市場が依存する公開データの不透明性を浮き彫りにし、紛争の影響評価や価格形成に新たな視点を提供する。",
+        "market_impact": "石油供給リスクの長期化を示唆することで、原油先物の長期契約への関心が高まる可能性がある。部分的な航行継続は供給ショックの全容を修正し、短期的な過度のパニック売買を抑制。一方で、永久的なリスクプレミアムの存在がエネルギー市場のボラティリティを増加させる恐れがある。",
+        "category": "Geopolitics",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/06/wall-street-firm-sends-analyst-to-the-strait-of-hormuz-heres-what-they-found-out.html"
       },
       {
         "title": "Warren Buffett says Iran bomb would make nuclear disaster harder to avoid",
-        "summary_2lines": "ウォーレン・バフェット氏は、イランの核兵器保有が核拡散と世界の安全保障リスクをさらに悪化させると警告した。彼は核兵器の拡散が将来的に核兵器使用のリスクを高めると強調した。",
-        "why_it_matters": "核兵器保有国の増加は国際的な緊張や紛争リスクを高めるため、特にイランの核開発は中東の不安定化を招き、グローバルな安全保障環境に重大な懸念をもたらしている。バフェット氏の見解は、核拡散が経済・外交政策にも影響を及ぼす重要な課題であることを示している。",
-        "market_impact": "核リスクの高まりはエネルギー市場の不安定化や防衛関連企業の株価変動を引き起こす可能性がある。地政学リスクの深化は投資家のリスク回避姿勢を強め、市場のボラティリティ増大につながる恐れがある。",
+        "summary_2lines": "ウォーレン・バフェットは、イランが核兵器を保有すれば核紛争のリスクがさらに高まると警告。核保有国の増加が世界の安全保障環境を大きく悪化させていると指摘した。",
+        "why_it_matters": "核兵器拡散は国際的な緊張を激化させるため、世界の安全保障と安定にとって重大な課題である。特にイランや北朝鮮といった不安定要素の存在は、地域紛争や大規模紛争のリスクを増大させ、国際社会の対応が求められている。",
+        "market_impact": "地政学リスクの高まりはエネルギー市場の不安定化や防衛関連株の株価上昇を招く可能性がある。また、投資家のリスク回避傾向が強まることで株式市場の変動性が増すことも懸念される。一方で、核抑止力強化の動きに関連する企業への注目も高まるだろう。",
         "category": "Geopolitics",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/03/31/warren-buffett-says-iran-bomb-would-make-nuclear-disaster-harder-to-avoid.html"
@@ -110,39 +119,30 @@
     ],
     "Economy": [
       {
-        "title": "Benefits and pensions rise as two-child cap ends",
-        "summary_2lines": "三人以上の子どもを持つ家庭のための二人子ども上限の廃止により、年平均約4,100ポンドの補助増加が実施された。これに加え、ユニバーサルクレジットや障害者手当、年金なども引き上げられた。",
-        "why_it_matters": "この政策変更は、長年続いた福利厚生の抑制を緩和し、子育て世帯の生活負担を軽減する狙いがある。経済的に困難な家庭の支援強化は生活水準の向上につながり、社会的安定や消費拡大の可能性を秘めている。また、所得税の閾値凍結による「隠れ増税」の影響も併せて考慮すべき重要な社会経済的変化である。",
-        "market_impact": "所得が増加する多子世帯の消費余力が高まる一方で、障害者手当の新規申請者への減額は負の影響を与える可能性がある。更に所得税閾値凍結により中間層の税負担増加が見込まれ、消費行動や企業の人件費に間接的な影響を及ぼす。これらは小売業、福祉関連サービス、地方自治体財政に影響を及ぼしうるため、企業や市場は消費動向の変化に注視が必要だ。",
+        "title": "Price of first class stamp rises to £1.80",
+        "summary_2lines": "英国のファーストクラス郵便切手価格が£1.80に10ペンス値上げされた。配送遅延問題や顧客・業界からの批判が高まる中での値上げである。",
+        "why_it_matters": "郵便料金の値上げは消費者や企業のコスト増加を招く一方、Royal Mailは利用者減少や配送遅延などの経営課題に直面している。特に価格上昇にもかかわらず目標配達率を大きく下回っていることから、サービス品質と価格設定のバランスが問われている。",
+        "market_impact": "郵便料金上昇により、主に中小事業者やオンライン小売業者の物流コストが増加し、商品の価格転嫁やサービス低下のリスクがある。加えて、Royal Mailの信用低下が続くと顧客離れが進み、収益基盤の悪化に繋がる可能性がある。燃料費上昇による料金改定もコスト増要因で、郵便業界全体の価格競争力に影響を与える。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c0mj4mkk94mo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'I jump in the sea to refresh my brain': How remote workers are boosting coastal towns",
-        "summary_2lines": "リモートワークの普及により多くの専門職が沿岸や地方の町に定住し、地元経済やコミュニティを活性化している。特にコワーキングスペースやインフラ整備がこの動きを支え、季節依存から脱却した地域経済の多様化が進む。",
-        "why_it_matters": "コロナ禍以降の働き方の変化は、都会集中型経済から地方分散型経済へのシフトを促している。地方の沿岸部がリモートワーカーの受け皿となることで、人材流出問題の解消や地域経済の持続的成長が期待されるため重要である。",
-        "market_impact": "地元の小売業や飲食業が通年での安定した取引増加を享受し、不動産市場では長期賃貸需要が拡大。コワーキングスペースなどの新たなサービス産業も成長し、ICTインフラ投資や政府の地域振興施策と連動しつつ沿岸地域の経済多角化を促進する。",
+        "title": "Plan 2 student loan interest rates capped at 6% in England",
+        "summary_2lines": "イングランドのプラン2学生ローンと大学院ローンの金利が2026-27年度から6%に上限設定される。これはイラン戦争に伴うインフレ上昇から卒業生を保護するための措置である。",
+        "why_it_matters": "プラン2ローンの金利はインフレ率（RPI）＋最大3%で設定されており、高所得者の借金残高が急激に増加するリスクがあった。今回の上限設定は、世界情勢の不透明さが国内経済や個人負担に及ぼす悪影響を緩和し、学生ローン制度の不公平感への応急的対応として重要である。",
+        "market_impact": "学生ローンの返済負担が抑制されることで、若年層の消費維持や家計安定に寄与する可能性がある一方、大学・教育関連機関の財務や貸付制度の持続性に対する懸念も続く。政府の借入費用や財政負担への影響も注視され、長期的な制度改革が求められている。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/ce3dqw12vgyo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/crr1e5zqdyko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Corporate": [
       {
-        "title": "Pepsi withdraws as UK festival sponsor after Kanye West backlash",
-        "summary_2lines": "PepsiはKanye West（Ye）の反ユダヤ主義発言を受け、ロンドンのWireless Festivalのメインスポンサーを辞退した。Diageoも支援を撤回し、芸能界・企業・政治からの非難が相次いでいる。",
-        "why_it_matters": "芸能イベントのスポンサー撤退は企業が倫理的な社会的責任を重視し、差別的発言に対して明確なスタンスを示す動きの一例である。反ユダヤ主義問題は国際的に敏感な政治・社会問題であり、企業のブランドイメージや社会的信頼を左右するため重要な文脈となっている。",
-        "market_impact": "PepsiやDiageoなど大手スポンサーの撤退はマーケティング戦略に影響を与え、同種イベントのスポンサーシップ契約の見直しを促す可能性がある。反ユダヤ的発言によるブランドリスクが顕著に表面化し、企業のCSR（企業の社会的責任）対応が強化される動きが進むだろう。フェス市場にも波及効果が懸念される。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "JPMorgan CEO Jamie Dimon in annual letter cites risks in geopolitics, AI and private markets",
-        "summary_2lines": "JPMorganのCEOジェイミー・ダイモンは年次書簡で、地政学的リスク、AIの影響、プライベート市場の混乱に言及し、米国の価値観再確認を訴えた。特に新たな銀行規制案に強い懸念を示した。",
-        "why_it_matters": "米国最大の銀行トップの視点は、世界経済や金融規制の動向を反映し、投資家や政策立案者に重要な示唆を与える。地政学的緊張と新興技術の発展が経済全体に大きな影響をもたらす局面で、銀行規制の合理化も金融システムの安定に向けた課題として浮き彫りになった。",
-        "market_impact": "地政学リスクの高まりは国際市場の変動性を増し、特にエネルギー価格や貿易関係に影響を与える。AIやプライベートクレジット市場の問題は、金融機関の貸出や資産評価にリスクをもたらす。新規制による資本コスト上昇はJPMorganの貸出能力を制限し、競争環境に影響を与える可能性がある。",
+        "summary_2lines": "JPMorgan CEO Jamie Dimon warns of significant risks from geopolitical conflicts, inflation, private market volatility, and flawed banking regulations in his annual letter. He calls for a renewed commitment to American values amid economic uncertainty and challenges posed by AI and private credit markets.",
+        "why_it_matters": "ディモン氏は世界最大の銀行CEOとして、米国とグローバル経済の現状を鋭く分析し、金融規制の問題点や地政学リスクの深刻さを指摘。特にウクライナ、イラン、中東情勢とAIの急速な進展を踏まえ、市場の不透明感と政策の必要性を浮き彫りにした。これは投資家や政策立案者にとって重要な視点を提供する。",
+        "market_impact": "地政学的な緊張がコモディティ価格や国際貿易に影響を与える一方、規制強化による銀行の資本拘束増加は貸出環境を引き締め、経済成長を抑制する可能性がある。また、プライベートクレジット市場の透明性不足が流動性リスクを高め、金融市場全体の不安定化リスクを増加させるとみられる。これらの要因は金融機関の収益と資本政策に直接影響を及ぼす。",
         "category": "Corporate",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/06/jpmorgan-ceo-jamie-dimon-annual-letter-risks.html"
