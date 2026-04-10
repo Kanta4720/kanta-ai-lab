@@ -1,142 +1,151 @@
 {
-  "generated_at_jst": "2026-04-10 07:30",
+  "generated_at_jst": "2026-04-11 07:24",
   "todays_brief": [
     {
-      "title": "JPMorgan CEO Jamie Dimon in annual letter cites risks in geopolitics, AI and private markets",
-      "summary_2lines": "JPMorganのCEOジェイミー・ダイモンは、地政学的リスク、AIの影響、プライベートマーケットの混乱、そして過剰な金融規制を懸念し、米国の基本的価値への再コミットを呼びかけた。特にウクライナ、イラン、中東の紛争と中国との緊張が最大のリスクと指摘している。",
-      "why_it_matters": "ダイモンは世界最大の銀行のトップとして、金融市場や経済に直接影響を与える地政学的および規制環境のリスクを警告している。彼の発言は米国の金融規制政策見直しや世界的な経済秩序の変化を示唆しており、投資家や政策立案者が直面する不確実性を示しているため重要である。",
-      "market_impact": "地政学的緊張の高まりは資源価格やグローバルサプライチェーンに影響を与え、特に金融機関には資本要件の増加や規制強化による貸出体制の制約が生じている。プライベートクレジット市場の透明性不足による資金引き揚げリスクも市場全体の流動性と信用供与に影響を与える可能性があり、投資環境の不透明感を増している。",
-      "category": "Finance",
+      "title": "Soaring pump prices drive US inflation to highest level in almost two years",
+      "summary_2lines": "米国のインフレ率が昨年以降で最高の3.3%に達した。イラン情勢に伴うホルムズ海峡の封鎖で原油価格が急騰し、ガソリン価格が21.2%上昇したことが主因。",
+      "why_it_matters": "エネルギー価格の高騰は物価全体に波及し、生活コストの増加や消費マインドの悪化を招く。特に中間選挙を控えた米国内で経済政策や地政学リスクの影響が政治的焦点となる重要な局面。",
+      "market_impact": "石油・ガス関連企業には短期的な利益拡大が期待されるが、消費支出減少やコスト上昇圧力が小売や運輸業を圧迫。長期化すれば企業の利幅縮小や景気減速リスクが増大し、金融市場の不安定化につながる可能性がある。",
+      "category": "Economy",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Alibaba leads $290 million investment for building a new kind of AI model as LLM limits emerge",
+      "summary_2lines": "Alibabaが2億9000万ドルを出資し、テキスト中心の大規模言語モデルでは限界のあるAI動画生成などに特化した「ワールドモデル」開発を推進。物理世界とデジタル世界を融合させる新たなAI技術として注目されている。",
+      "why_it_matters": "従来の大規模言語モデル（LLM）はテキストに特化しており、物理的な現実世界の複雑さを十分に再現できない限界が顕在化。AIの高度化や応用範囲拡大の鍵として、マルチモーダルなデータを用いるワールドモデル開発が次世代AI技術の重要課題となっているため、Alibabaの先行投資は戦略的な意味を持つ。",
+      "market_impact": "AI動画生成やロボット制御、3Dモデリングといった領域の技術革新が加速し、中国のAIスタートアップ勢力の競争力向上に寄与。Alibabaや投資先企業の技術優位性が強化され、関連市場（自動運転、ロボット、デジタルコンテンツ生成など）で新たなビジネス機会創出や産業構造の変化を促す可能性が高い。",
+      "category": "Tech",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/06/jpmorgan-ceo-jamie-dimon-annual-letter-risks.html"
+      "url": "https://www.cnbc.com/2026/04/10/alibaba-cloud-invests-world-model-ai-shengshu-vidu.html"
+    },
+    {
+      "title": "Behind China's 'active efforts' for an Iran ceasefire: Business trumps politics",
+      "summary_2lines": "中国はイランとロシアとの関係を背景にイラン停戦の仲介的役割を果たしたと報じられているが、主な目的は自国の輸出重視の経済利益の保護にある。エネルギー価格高騰による中国経済への影響を懸念し、地域の安定を促している。",
+      "why_it_matters": "中東情勢の緊迫化は世界経済、とくにエネルギー市場に大きな影響を与え、中国のような輸出依存型かつエネルギー輸入大国にとっては安定確保が喫緊の課題。中国の外交的動きは米国抜きの新たな国際関与の兆候で、地政学的にも重要な転換点となる可能性がある。",
+      "market_impact": "イラン情勢の緩和は原油供給の安定化につながるためエネルギー価格の過度な上昇を抑制する効果が期待される。だが、短期的には原油価格高止まりと中国国内のガソリン価格上昇が製造業のコスト圧迫要因となり、輸出競争力にマイナス影響を与える可能性もある。",
+      "category": "Geopolitics",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/10/china-iran-ceasefire-role-energy-economy-strategy.html"
     },
     {
       "title": "Fed officials still foresee rate cut this year, despite war impacts, minutes show",
-      "summary_2lines": "FRBは、イラン紛争や関税の影響を受けつつも今年利下げを想定しているが、情勢を注視しつつ慎重に対応する方針を示した。3月会合では政策金利は据え置かれ、経済の減速懸念と労働市場の脆弱性が指摘された。",
-      "why_it_matters": "FRBの金利政策は米国経済の方向性を決定づける重要な指標であり、地政学的リスクやインフレ圧力が複雑に絡む中での慎重な利下げ見通しは、今後の金融政策や経済成長に大きな影響を与える。特に労働市場の不均衡やエネルギー価格の動向が景気とインフレに与える影響を踏まえた対応は、世界経済や金融市場の安定にも関わる。",
-      "market_impact": "短期的には、FRBが利下げを見込むことで株式市場には一定の下支え効果が期待されるが、地政学リスクによるエネルギー価格上昇やインフレ継続懸念は金融市場の変動性を高める。加えて、米国の経済成長鈍化や労働市場の弱さは企業収益や消費活動にネガティブな影響を及ぼし、中長期的なリスクシナリオが強まる可能性がある。",
+      "summary_2lines": "3月の連邦公開市場委員会議事録によると、FRB関係者は戦争や関税の不確実性がある中でも、今年利下げを見込んでいる。エネルギー価格の上昇や労働市場の影響を注視しつつ、当面は政策金利据え置きを決定した。",
+      "why_it_matters": "米FRBの金融政策は世界経済と市場に大きな影響を与える。中東の地政学的リスクやインフレ圧力の高まりを背景に、今後の金利動向が不透明なため、投資家や企業は政策の行方を注目している。利下げ期待の維持は景気後退懸念と緩和的な金融環境への期待を反映している。",
+      "market_impact": "戦争によるエネルギー価格の上昇が消費者購買力を圧迫し、経済成長を鈍化させる可能性があるため、FRBは利下げの余地を残している。これにより金融市場は短期的に安心感が生まれ、市場金利の低下や株価の上昇材料となる一方、インフレ持続のリスクも警戒される。企業の資金調達コストと消費者支出の動向が注目される。",
       "category": "Economy",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/04/08/fed-officials-still-foresee-rate-cut-this-year-despite-war-impacts-minutes-show.html"
     },
     {
-      "title": "Ships remain cautious approaching Strait of Hormuz amid fragile ceasefire",
-      "summary_2lines": "イランと米国の停戦合意後もホルムズ海峡の船舶通行は依然として制限され、航行リスクや安全性への不安が続いている。世界のエネルギー価格とサプライチェーンに大きな波紋を広げている。",
-      "why_it_matters": "ホルムズ海峡は世界のエネルギー輸送や重要化学品の供給に不可欠な海上ルートであり、ここでの紛争や航路閉鎖は世界経済やエネルギー市場に直結する重大事である。停戦合意にもかかわらず航行リスクが残ることで、国際物流の不確実性とエネルギー需給の緊張が続いている点で重要である。",
-      "market_impact": "航行制限による物流遅延や船舶減少でエネルギー価格の高騰圧力が再燃し、マイクロチップや医薬品など幅広い産業のサプライチェーンが混乱する恐れがある。船舶保険料の上昇や関連企業のリスク管理コスト増加も見込まれ、短期的には海運業界の収益や市場心理にネガティブな影響を与え続けるだろう。",
-      "category": "Geopolitics",
+      "title": "EU airline industry warns of fuel shortages if Strait of Hormuz stays closed",
+      "summary_2lines": "欧州の空港業界団体は、ホルムズ海峡が閉鎖されたままだと3週間以内にジェット燃料が不足すると警告。燃料価格高騰と供給不安が夏の旅行シーズンの航空運行に深刻な影響を及ぼす可能性がある。",
+      "why_it_matters": "ホルムズ海峡はペルシャ湾産のジェット燃料輸入の主要ルートであり、欧州の航空燃料の約半分を占めている。供給停止は航空業界だけでなく経済全体に大打撃を与え、地域経済や雇用にも波及効果をもたらすため、欧州のエネルギー安定確保と輸送網維持にとって極めて重要な問題である。",
+      "market_impact": "ジェット燃料価格が過去最高水準に達し、多くの航空会社が運航削減や料金上昇に踏み切っている。特に小規模空港の経済的存続が脅かされ、観光業・地域経済への悪影響や雇用喪失のリスクが高まる。EUによる共同購入や規制緩和、持続可能な航空燃料(SAF)推進の動きが加速する見込みである。",
+      "category": "Economy",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Petrol and diesel prices rise again as concerns grow over ceasefire",
-      "summary_2lines": "原油価格は米・イランの停戦に関する不安から再び上昇し、イギリスのガソリン・ディーゼル価格も続伸している。ホルムズ海峡の閉鎖継続懸念が燃料価格の高止まりを後押しする状況だ。",
-      "why_it_matters": "原油はガソリンやディーゼルの主要原料であり、戦争リスクが供給不安と価格高騰につながっている。ホルムズ海峡は世界のエネルギー供給の要であり、その閉鎖が長引けば世界経済の燃料コスト増大とインフレ加速を引き起こす可能性があるため、消費者・企業のコスト負担が増大する懸念が強まっている。",
-      "market_impact": "エネルギー価格の上昇により、車利用者の燃料費負担が増し、消費支出の圧迫要因となる。原油価格の不安定化はグローバル株式市場の動揺を招き、特にエネルギー輸入国のインフレ懸念を強めている。投資家のリスク回避姿勢が強まり、一部市場では利益確定売りが優勢となったが、米国株は停戦協議期待で反発している。長期化すれば企業収益にもマイナス影響が続く可能性が高い。",
-      "category": "Markets",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
-      "summary_2lines": "OpenAIは英国内の大規模AIデータセンター計画「Stargate UK」をエネルギーコストの高さと規制面の懸念から一時停止した。政府はAI強化の投資を推進してきたが、今回の発表はその戦略に影響を与える可能性がある。",
-      "why_it_matters": "英国はAI開発の分野でグローバルリーダーを目指し、多額の投資を呼び込んできた。OpenAIのパートナーシップ停止は、高コストなエネルギー環境と規制の不透明さが先端技術企業の投資判断に大きく影響することを示しており、英国がAI技術強化で直面する課題を浮き彫りにしている。",
-      "market_impact": "OpenAIの計画停止は、英国のAI関連インフラ投資の減速を招く恐れがあり、国内AI産業の成長にブレーキをかける可能性がある。エネルギー価格や規制リスクの高さは国内外の投資家の慎重姿勢につながり、関連分野の雇用創出や経済活性化の期待にも影響を与えることが懸念される。",
-      "category": "Tech",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/clyd032ej70o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "categories": {
     "Tech": [
       {
-        "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
-        "summary_2lines": "OpenAIは英国内の大規模AIデータセンター計画「Stargate UK」をエネルギーコストの高さと規制面の懸念から一時停止した。政府はAI強化の投資を推進してきたが、今回の発表はその戦略に影響を与える可能性がある。",
-        "why_it_matters": "英国はAI開発の分野でグローバルリーダーを目指し、多額の投資を呼び込んできた。OpenAIのパートナーシップ停止は、高コストなエネルギー環境と規制の不透明さが先端技術企業の投資判断に大きく影響することを示しており、英国がAI技術強化で直面する課題を浮き彫りにしている。",
-        "market_impact": "OpenAIの計画停止は、英国のAI関連インフラ投資の減速を招く恐れがあり、国内AI産業の成長にブレーキをかける可能性がある。エネルギー価格や規制リスクの高さは国内外の投資家の慎重姿勢につながり、関連分野の雇用創出や経済活性化の期待にも影響を与えることが懸念される。",
+        "title": "Alibaba leads $290 million investment for building a new kind of AI model as LLM limits emerge",
+        "summary_2lines": "Alibabaが2億9000万ドルを出資し、テキスト中心の大規模言語モデルでは限界のあるAI動画生成などに特化した「ワールドモデル」開発を推進。物理世界とデジタル世界を融合させる新たなAI技術として注目されている。",
+        "why_it_matters": "従来の大規模言語モデル（LLM）はテキストに特化しており、物理的な現実世界の複雑さを十分に再現できない限界が顕在化。AIの高度化や応用範囲拡大の鍵として、マルチモーダルなデータを用いるワールドモデル開発が次世代AI技術の重要課題となっているため、Alibabaの先行投資は戦略的な意味を持つ。",
+        "market_impact": "AI動画生成やロボット制御、3Dモデリングといった領域の技術革新が加速し、中国のAIスタートアップ勢力の競争力向上に寄与。Alibabaや投資先企業の技術優位性が強化され、関連市場（自動運転、ロボット、デジタルコンテンツ生成など）で新たなビジネス機会創出や産業構造の変化を促す可能性が高い。",
         "category": "Tech",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/clyd032ej70o?at_medium=RSS&at_campaign=rss"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/10/alibaba-cloud-invests-world-model-ai-shengshu-vidu.html"
       }
     ],
     "Markets": [
       {
-        "title": "Blue Owl caps private credit funds redemptions at 5% after steep request levels",
-        "summary_2lines": "Blue OwlはAI関連のソフトウェア業界への懸念から、プライベートクレジットファンドでの大量の償還請求を受け、償還額を5%に制限した。特に技術特化ファンドOTICでは最大40.7%の償還請求があったが、一部のみ対応している。",
-        "why_it_matters": "近年のAIの進展がソフトウェア業界の構造変化を引き起こし、プライベートクレジット市場のリスク認識を高めている。Blue Owlのように大規模な資産運用会社が償還制限に踏み切ったことは、投資家心理や資金流動性に重要な影響を及ぼし、業界全体の資金調整圧力を示す指標となる。",
-        "market_impact": "資金流出抑制によりBlue Owlは運用資産の急激な減少を防ぎつつも、投資家の信頼感悪化や業界内での資金回収競争が激化。AI関連リスクに対する警戒感が強まれば、ソフトウェア関連資産の評価軟化や信用コスト増加につながり、プライベートクレジット市場の状況悪化を招く可能性がある。",
+        "title": "Michael Burry says he's still betting against Palantir after Trump post boosts stock",
+        "summary_2lines": "著名投資家マイケル・バリーはパランティア株の下落を見込み、長期のプットオプションを保有し続けている。ドナルド・トランプ元大統領の支持投稿で株価が一時上昇したものの、バリーは同社の実質価値は株価の半分以下と評価している。",
+        "why_it_matters": "バリーは長期的にパランティアの過大評価を指摘し、著名な投資家の強気・弱気両方の意見が激しく対立する中で同社の株価が動いている。トランプ元大統領の発言が市場に短期的な影響を与えつつも、根本的な企業価値に対する懐疑的な見方が依然強いことを示しているため、投資家心理やテック株の評価のバロメーターとなる。",
+        "market_impact": "トランプ氏の支援表明でパランティア株は短期的に押し上げられたものの、バリーのプットオプション保有は市場の一部で引き続き弱気見通しを示し、特にAI関連や政府関連のテクノロジー株のボラティリティを高めている。これにより、投資家のリスク管理やポジション調整が活発化し、市場全体の動揺を招く可能性がある。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/02/blue-owl-private-credit-funds-redemptions-requests.html"
+        "url": "https://www.cnbc.com/2026/04/10/michael-burry-says-hes-still-betting-against-palantir-after-trump-post-boosts-stock.html"
       },
       {
-        "title": "Petrol and diesel prices rise again as concerns grow over ceasefire",
-        "summary_2lines": "原油価格は米・イランの停戦に関する不安から再び上昇し、イギリスのガソリン・ディーゼル価格も続伸している。ホルムズ海峡の閉鎖継続懸念が燃料価格の高止まりを後押しする状況だ。",
-        "why_it_matters": "原油はガソリンやディーゼルの主要原料であり、戦争リスクが供給不安と価格高騰につながっている。ホルムズ海峡は世界のエネルギー供給の要であり、その閉鎖が長引けば世界経済の燃料コスト増大とインフレ加速を引き起こす可能性があるため、消費者・企業のコスト負担が増大する懸念が強まっている。",
-        "market_impact": "エネルギー価格の上昇により、車利用者の燃料費負担が増し、消費支出の圧迫要因となる。原油価格の不安定化はグローバル株式市場の動揺を招き、特にエネルギー輸入国のインフレ懸念を強めている。投資家のリスク回避姿勢が強まり、一部市場では利益確定売りが優勢となったが、米国株は停戦協議期待で反発している。長期化すれば企業収益にもマイナス影響が続く可能性が高い。",
+        "title": "BlackRock rips page from hedge fund playbook, applies it to exchange-traded funds",
+        "summary_2lines": "BlackRockはヘッジファンドの長短戦略をETFに応用し、株式と債券の相関が崩れた環境での分散投資効果を高めようとしている。これにより、投資家は市場方向性に依存しない新たなリターン源を得られる。",
+        "why_it_matters": "従来の60-40ポートフォリオの基本原則が近年の市場変動や地政学リスクで機能しにくくなっており、投資家の分散ニーズが多様化している。BlackRockの取り組みは、ヘッジファンドの手法をより流動性が高く取引しやすいETFに融合させることで、投資家に新しい分散手段を提供しようとしている点で重要である。",
+        "market_impact": "投資家のリスク分散志向の強まりにより、流動性の高い代替資産クラスのETF需要が増加する可能性がある。BlackRockの成功により、他資産運用会社も類似の戦略をETFに導入し、投資商品の多様化が加速、市場におけるヘッジファンド戦略の普及とETFの浸透が進むと考えられる。",
         "category": "Markets",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/10/blackrock-rips-page-from-hedge-fund-playbook-applies-it-to-etfs.html"
       }
     ],
     "Geopolitics": [
       {
-        "title": "Ships remain cautious approaching Strait of Hormuz amid fragile ceasefire",
-        "summary_2lines": "イランと米国の停戦合意後もホルムズ海峡の船舶通行は依然として制限され、航行リスクや安全性への不安が続いている。世界のエネルギー価格とサプライチェーンに大きな波紋を広げている。",
-        "why_it_matters": "ホルムズ海峡は世界のエネルギー輸送や重要化学品の供給に不可欠な海上ルートであり、ここでの紛争や航路閉鎖は世界経済やエネルギー市場に直結する重大事である。停戦合意にもかかわらず航行リスクが残ることで、国際物流の不確実性とエネルギー需給の緊張が続いている点で重要である。",
-        "market_impact": "航行制限による物流遅延や船舶減少でエネルギー価格の高騰圧力が再燃し、マイクロチップや医薬品など幅広い産業のサプライチェーンが混乱する恐れがある。船舶保険料の上昇や関連企業のリスク管理コスト増加も見込まれ、短期的には海運業界の収益や市場心理にネガティブな影響を与え続けるだろう。",
+        "title": "Behind China's 'active efforts' for an Iran ceasefire: Business trumps politics",
+        "summary_2lines": "中国はイランとロシアとの関係を背景にイラン停戦の仲介的役割を果たしたと報じられているが、主な目的は自国の輸出重視の経済利益の保護にある。エネルギー価格高騰による中国経済への影響を懸念し、地域の安定を促している。",
+        "why_it_matters": "中東情勢の緊迫化は世界経済、とくにエネルギー市場に大きな影響を与え、中国のような輸出依存型かつエネルギー輸入大国にとっては安定確保が喫緊の課題。中国の外交的動きは米国抜きの新たな国際関与の兆候で、地政学的にも重要な転換点となる可能性がある。",
+        "market_impact": "イラン情勢の緩和は原油供給の安定化につながるためエネルギー価格の過度な上昇を抑制する効果が期待される。だが、短期的には原油価格高止まりと中国国内のガソリン価格上昇が製造業のコスト圧迫要因となり、輸出競争力にマイナス影響を与える可能性もある。",
+        "category": "Geopolitics",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/10/china-iran-ceasefire-role-energy-economy-strategy.html"
+      },
+      {
+        "title": "Tankers urged not to pay toll to Iran for use of strait",
+        "summary_2lines": "イランがホルムズ海峡の通航に対し通行料を要求する意向を示すが、タンカー業界は支払いを拒否し安全確保がされるまで通航を控えるよう求めている。紛争継続により海峡の通行が大幅に減少し、世界の石油・ガス供給に深刻な影響が出ている。",
+        "why_it_matters": "ホルムズ海峡は世界の石油輸送の要所であり、イランによる通行料徴収や軍事的統制は国際法上の自由通航を脅かす可能性がある。紛争と不透明な運用は供給網の混乱を招き、エネルギー価格の世界的な動揺を引き起こすリスクが高まっているため重要である。",
+        "market_impact": "この海峡の実質的な封鎖とイランの通行料要求は原油供給不足の懸念を強め、原油価格の上昇圧力となる。油運搬タンカー各社は経営リスクを負い、主要石油関連企業の精製・流通活動にも悪影響を与える。さらに、燃料高騰は電気・食料・医療コストにも波及し、世界経済全体にマイナス影響を及ぼす可能性がある。",
         "category": "Geopolitics",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Offbeat Wall Street research firm says it sent an analyst to Strait of Hormuz. Here's what they learned",
-        "summary_2lines": "調査会社Citrini Researchは、ホルムズ海峡にアナリストを派遣し、船舶の通行は完全遮断ではなく一部通過が継続していると報告した。船舶の一部はAISを消しており、通行量は公式データより多い可能性がある。",
-        "why_it_matters": "ホルムズ海峡は世界石油輸送の要衝であり、米イラン間の緊張による同海峡閉鎖リスクが原油市場に大きな影響を及ぼしている。Citriniの現地観察は、流通が完全閉塞ではなく部分的であることを示し、原油供給懸念の現状認識に変化をもたらす可能性がある。",
-        "market_impact": "原油供給の部分的な維持は、極端な価格上昇を抑制するが、不透明感と長期的なリスクプレミアムは依然として存在。これにより、投資家は短期よりも長期物の原油先物に注目し、原油市場のボラティリティとヘッジ戦略に影響を与える可能性がある。",
-        "category": "Geopolitics",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/06/wall-street-firm-sends-analyst-to-the-strait-of-hormuz-heres-what-they-found-out.html"
-      },
-      {
-        "title": "Ray Dalio: Trump-Xi meeting to focus on trade, capital flows",
-        "summary_2lines": "ヘッジファンド創業者レイ・ダリオは、トランプ大統領と習近平国家主席の次回会談が貿易や資本の流れに焦点を当て、両国関係の緊張緩和に寄与すると楽観視。ダリオは両首脳の共感と協力姿勢が投資や市場にも好影響をもたらすと述べた。",
-        "why_it_matters": "米中は世界最大の経済大国であり、両国間の貿易摩擦や政治的緊張はグローバル経済に甚大な影響を及ぼす。トランプ・習近平会談が円滑に進み、両国が貿易と資本の流れに関して合意を形成できれば、不透明感の払拭と経済安定化が期待されるため重要となる。",
-        "market_impact": "交渉が順調に進めば、特に米中間の貿易摩擦の緩和による企業収益改善や資本流入の活発化が見込まれ、株式市場の安定・上昇につながる可能性がある。一方で、ダリオが指摘する中東情勢の緊迫や世界経済の不確実性も市場心理に影響を与え続けるため注意が必要。",
-        "category": "Geopolitics",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/08/ray-dalio-trump-xi-meeting-to-focus-on-trade-capital-flows.html"
+        "url": "https://www.bbc.com/news/articles/c3dl0gdvvveo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Economy": [
       {
-        "title": "UK farmers warn Iran ceasefire too late to stop higher food costs",
-        "summary_2lines": "イランの紛争による燃料と肥料価格の高騰で、英国の農業コストが急増している。農家は既にコスト増が確定しており、食料価格のさらなる上昇を懸念している。",
-        "why_it_matters": "イラン周辺の戦争が世界の燃料・肥料供給に直結し、英国を含む農業生産に大きな打撃を与えている。特に英農家は、ウクライナ紛争後のコスト増加の影響がまだ抜け切らない中で、新たな価格上昇に耐えられず、食料インフレを加速させるリスクが高い。",
-        "market_impact": "英国の農家は肥料コストが40％、赤色軽油が100％上昇するなどコスト圧迫が深刻で、利益率が著しく低下。生産コスト増は食料価格転嫁を余儀なくされ、消費者物価上昇を招き、農業関連企業の収益圧迫やサプライチェーン全体に波及懸念がある。特に食料品インフレは年内に9％以上に達する見込みで、消費者の購買力低下や食品市場の不安定化につながる。",
+        "title": "Soaring pump prices drive US inflation to highest level in almost two years",
+        "summary_2lines": "米国のインフレ率が昨年以降で最高の3.3%に達した。イラン情勢に伴うホルムズ海峡の封鎖で原油価格が急騰し、ガソリン価格が21.2%上昇したことが主因。",
+        "why_it_matters": "エネルギー価格の高騰は物価全体に波及し、生活コストの増加や消費マインドの悪化を招く。特に中間選挙を控えた米国内で経済政策や地政学リスクの影響が政治的焦点となる重要な局面。",
+        "market_impact": "石油・ガス関連企業には短期的な利益拡大が期待されるが、消費支出減少やコスト上昇圧力が小売や運輸業を圧迫。長期化すれば企業の利幅縮小や景気減速リスクが増大し、金融市場の不安定化につながる可能性がある。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c0q98w57k25o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Fed officials still foresee rate cut this year, despite war impacts, minutes show",
-        "summary_2lines": "FRBは、イラン紛争や関税の影響を受けつつも今年利下げを想定しているが、情勢を注視しつつ慎重に対応する方針を示した。3月会合では政策金利は据え置かれ、経済の減速懸念と労働市場の脆弱性が指摘された。",
-        "why_it_matters": "FRBの金利政策は米国経済の方向性を決定づける重要な指標であり、地政学的リスクやインフレ圧力が複雑に絡む中での慎重な利下げ見通しは、今後の金融政策や経済成長に大きな影響を与える。特に労働市場の不均衡やエネルギー価格の動向が景気とインフレに与える影響を踏まえた対応は、世界経済や金融市場の安定にも関わる。",
-        "market_impact": "短期的には、FRBが利下げを見込むことで株式市場には一定の下支え効果が期待されるが、地政学リスクによるエネルギー価格上昇やインフレ継続懸念は金融市場の変動性を高める。加えて、米国の経済成長鈍化や労働市場の弱さは企業収益や消費活動にネガティブな影響を及ぼし、中長期的なリスクシナリオが強まる可能性がある。",
+        "summary_2lines": "3月の連邦公開市場委員会議事録によると、FRB関係者は戦争や関税の不確実性がある中でも、今年利下げを見込んでいる。エネルギー価格の上昇や労働市場の影響を注視しつつ、当面は政策金利据え置きを決定した。",
+        "why_it_matters": "米FRBの金融政策は世界経済と市場に大きな影響を与える。中東の地政学的リスクやインフレ圧力の高まりを背景に、今後の金利動向が不透明なため、投資家や企業は政策の行方を注目している。利下げ期待の維持は景気後退懸念と緩和的な金融環境への期待を反映している。",
+        "market_impact": "戦争によるエネルギー価格の上昇が消費者購買力を圧迫し、経済成長を鈍化させる可能性があるため、FRBは利下げの余地を残している。これにより金融市場は短期的に安心感が生まれ、市場金利の低下や株価の上昇材料となる一方、インフレ持続のリスクも警戒される。企業の資金調達コストと消費者支出の動向が注目される。",
         "category": "Economy",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/08/fed-officials-still-foresee-rate-cut-this-year-despite-war-impacts-minutes-show.html"
+      },
+      {
+        "title": "EU airline industry warns of fuel shortages if Strait of Hormuz stays closed",
+        "summary_2lines": "欧州の空港業界団体は、ホルムズ海峡が閉鎖されたままだと3週間以内にジェット燃料が不足すると警告。燃料価格高騰と供給不安が夏の旅行シーズンの航空運行に深刻な影響を及ぼす可能性がある。",
+        "why_it_matters": "ホルムズ海峡はペルシャ湾産のジェット燃料輸入の主要ルートであり、欧州の航空燃料の約半分を占めている。供給停止は航空業界だけでなく経済全体に大打撃を与え、地域経済や雇用にも波及効果をもたらすため、欧州のエネルギー安定確保と輸送網維持にとって極めて重要な問題である。",
+        "market_impact": "ジェット燃料価格が過去最高水準に達し、多くの航空会社が運航削減や料金上昇に踏み切っている。特に小規模空港の経済的存続が脅かされ、観光業・地域経済への悪影響や雇用喪失のリスクが高まる。EUによる共同購入や規制緩和、持続可能な航空燃料(SAF)推進の動きが加速する見込みである。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Corporate": [
       {
-        "title": "Jo Malone hopes 'sense will prevail' in lawsuit over her name",
-        "summary_2lines": "ジョー・マローンは自身の名前を巡るエスティローダーとザラに対する訴訟について、「理性が勝つことを望む」と述べた。エスティローダーは彼女がブランド売却時に同名の商業利用を禁じる契約に違反したとして損害賠償を求めている。",
-        "why_it_matters": "この訴訟は、個人の名前やブランド権の使用に関する知的財産権の法的境界を問うものであり、ブランド価値の保護とクリエイターとしての個人の権利のバランスが注目される。特に高級ブランドと大衆ブランドの戦略的競合および市場コラボレーションのあり方に影響を与える可能性がある。",
-        "market_impact": "エスティローダーにとってはブランドのラグジュアリー性維持が重要であり、同名使用により消費者のブランドイメージが希釈されるリスクがある。一方ザラやジョー・マローン自身の新ブランドへの影響も無視できず、訴訟の行方によっては業界のブランド管理や契約慣行に影響を及ぼす可能性がある。",
+        "title": "Dolce & Gabbana co-founder steps down as chair",
+        "summary_2lines": "Dolce & Gabbanaの共同創業者ステファノ・ガッバーナが会長職を辞任し、弟アルフォンソ・ドルチェが後任に就いた。同社は約4億5千万ユーロの負債を抱え、財務再建のため外部支援を模索している。",
+        "why_it_matters": "世界的ラグジュアリーブランドのリーダー交代は企業の方向性や財務戦略に大きな影響を与え、特に高額負債と厳しい市場環境の中で経営再建が求められている背景がある。中国市場の減速やラグジュアリー業界全体の消費落ち込みも深刻な影響を与えている。",
+        "market_impact": "ブランドイメージはクリエイティブ面で維持されつつも、経営面の不安から投資家や取引先の警戒感が高まる可能性がある。負債圧縮や資本政策の見直しにより、少数株主の参入や戦略的パートナーシップが現実的な選択肢となり、イタリアを代表するファッション企業の今後の競争力維持に直結する動きと見られる。",
         "category": "Corporate",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c7471n0lm2vo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c77m3p8182no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Great at gaming? US air traffic control wants you to apply",
+        "summary_2lines": "米連邦航空局（FAA）が人手不足の空港管制官の採用にゲーム経験者を積極的に募集するキャンペーンを展開。ゲームで培ったスキルが空港管制業務に役立つとし、給与やキャリアの魅力を強調している。",
+        "why_it_matters": "空港管制は航空安全を支える重要な職種だが、慢性的な人手不足が深刻化。将来的な退職者増加も見込まれ、若年層・多様な人材を取り込む新手法が求められている。ゲーム経験者をターゲットにした採用戦略は、専門性と迅速な判断力が求められる職務とマッチすると期待される。",
+        "market_impact": "人手不足の緩和により空港運営の安全性と効率が向上し、航空業界全体の信頼回復につながる可能性。ゲーム関連産業と公共サービス分野の結びつきが深まることで、新たな人材活用モデルの形成や関連企業の注目度上昇も見込まれる。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/ce84rvx0e6do?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
