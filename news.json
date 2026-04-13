@@ -1,126 +1,125 @@
 {
-  "generated_at_jst": "2026-04-13 07:21",
+  "generated_at_jst": "2026-04-14 07:34",
   "todays_brief": [
     {
-      "title": "EU airline industry warns of fuel shortages if Strait of Hormuz stays closed",
-      "summary_2lines": "EUの航空燃料供給がホルムズ海峡閉鎖により3週間以内に不足の恐れ。特に小規模空港が影響を受け、航空運航や地域経済に深刻な打撃が予想される。",
-      "why_it_matters": "ホルムズ海峡は世界の航空燃料の重要供給経路であり、ここが閉鎖されることでEU全体のジェット燃料需要に大幅な供給不足が生じる。これにより観光シーズン前の航空業界が混乱し、雇用や地域経済活動に悪影響が及ぶ可能性が高い。",
-      "market_impact": "ジェット燃料価格が過去最高水準に達し、燃料不足を懸念した航空会社が運航便数削減や料金引き上げを実施。小規模空港の経営悪化や地域経済の縮小につながり、EU経済全体の航空関連収益と雇用に打撃をもたらす。持続可能航空燃料(SAF)への転換促進も要請されている。",
+      "title": "Oil jumps back above $100 after US-Iran peace talks fail",
+      "summary_2lines": "米イラン間の和平交渉失敗を受け、トランプ大統領がホルムズ海峡のイラン港の封鎖を指示。原油価格は再び1バレル100ドル台に上昇した。",
+      "why_it_matters": "ホルムズ海峡は世界のエネルギー輸送の約5分の1が通る重要な物流ルートであり、封鎖は世界的なエネルギー供給不安と価格上昇を招く。これが続けば、エネルギーだけでなく多様な原材料の供給にも深刻な影響を及ぼし、世界経済を不安定化させる恐れがあるため重要である。",
+      "market_impact": "原油の供給不安から価格は急騰し、石油関連企業や燃料コストに依存する産業のコスト増加を招く。消費者レベルではガソリンやディーゼル価格の上昇が予想され、インフレ圧力が高まる可能性がある。また、中国をはじめとした主要輸入国のエネルギー調達に影響し、地政学的リスクが増大することで世界市場のボラティリティが高まる見込み。封鎖の進展次第ではさらなる価格高騰と経済的混乱も起こり得る。",
       "category": "Geopolitics",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Tankers urged not to pay toll to Iran for use of strait",
-      "summary_2lines": "イランはホルムズ海峡通過のタンカーに対し通行料の支払いを要求し、安全通航が保証されない状態が続いている。タンカー業界団体は支払いを拒否し、安全な航行再開を強く求めている。",
-      "why_it_matters": "ホルムズ海峡は世界の原油・ガス輸送の重要ルートであり、イランの通行料要求や軍事的緊張により海峡の自由通航が阻害されると、国際的なエネルギー供給の安定に直接的なリスクが及ぶ。国際法上の自由航行の原則が問われ、地政学的緊張が増大しているため、世界経済に広範な影響が生じる可能性がある。",
-      "market_impact": "タンカーの航行制限により世界の石油・ガス供給が減少し、原油価格および燃料コストの上昇圧力が強まる。これにより、エネルギー関連市場のボラティリティが増し、燃料・電力価格の高騰が食品や医薬品の輸送コストにも波及し、インフレ加速のリスクが高まる。また企業活動や消費者マインドにも悪影響を及ぼす可能性がある。",
+      "title": "What is a naval blockade and how would it work in Strait of Hormuz?",
+      "summary_2lines": "米国がホルムズ海峡に対する海上封鎖を開始し、イランの港湾を対象に海上交通を制限した。イランは封鎖に対抗し海峡の封鎖を試みており、緊張状態が続いている。",
+      "why_it_matters": "ホルムズ海峡は世界の原油輸送の重要な海路であり、ここでの封鎖はエネルギー供給に直結するため国際的な安全保障や経済に大きな影響を及ぼす。米イラン間の軍事的緊張の高まりが中東だけでなく世界市場を不安定化させるリスクを孕んでいる。",
+      "market_impact": "この封鎖により原油供給が制約される懸念から国際エネルギー市場で原油価格が急騰する可能性が高い。輸送コストの上昇や供給不安定による経済活動への波及効果も予想され、エネルギー関連企業や中東と関係する貿易・物流分野に直接的な影響が及ぶ。",
       "category": "Geopolitics",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c3dl0gdvvveo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Alibaba leads $290 million investment for building a new kind of AI model as LLM limits emerge",
-      "summary_2lines": "Alibabaがリーダーとなり、AIの新領域『ワールドモデル』を構築するために2億9000万ドルを投資。言語モデルの限界を超え、動画や物理現実を基盤にしたAI開発を加速させる。",
-      "why_it_matters": "従来の大規模言語モデル（LLM）はテキスト中心で現実世界の理解に限界があるため、AIは視覚や触覚などマルチモーダル情報を活用しリアルな環境認識が可能な『ワールドモデル』へと進化が必要。Alibabaの大規模投資は、AIの次世代技術開発競争が中国企業でも活発化していることを示している。",
-      "market_impact": "今回の投資により、AI市場はテキストベース中心から映像や物理世界に根ざしたモデルへのシフトが加速。Alibabaは関連スタートアップへの積極的支援で動画生成・ロボティクス領域の技術革新を促進し、中国のAI競争力強化や業界全体の多様化に繋がる見込み。また、競合のByteDanceやKuaishouなども同様の技術開発競争が激化し、AI動画生成市場が拡大することが予想される。",
-      "category": "Tech",
+      "title": "Behind China's 'active efforts' for an Iran ceasefire: Business trumps politics",
+      "summary_2lines": "中国はイランとサウジアラビア間の停戦に向けた外交調停を促進しているが、直接介入は否定。中国経済の輸出依存とエネルギー安定確保のために中東情勢の安定を強く望んでいる。",
+      "why_it_matters": "中国は中東での影響力拡大と同時に、世界的な貿易とエネルギー供給の安定を追求している。特にイラン周辺の情勢悪化は中国の輸出主導経済やエネルギー安全保障に直結するため、中国が外交面で慎重かつ積極的に動く背景となっている。",
+      "market_impact": "中東停戦により原油供給が安定すれば、エネルギー価格の急騰抑制につながり、中国の製造業コスト増加圧力が軽減。逆に情勢長期化やエスカレートは、中国の輸出経済や世界市場にマイナス影響を与えうる。原油供給不安は工場マージン圧迫や物価上昇、消費者負担増にも直結する。",
+      "category": "Geopolitics",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/10/alibaba-cloud-invests-world-model-ai-shengshu-vidu.html"
+      "url": "https://www.cnbc.com/2026/04/10/china-iran-ceasefire-role-energy-economy-strategy.html"
+    },
+    {
+      "title": "Goldman Sachs tops estimates on record equities trading",
+      "summary_2lines": "Goldman Sachsの第1四半期決算は、株式取引と投資銀行収益の好調により予想を上回った。特に株式取引収益は過去最高を記録したが、固定収入部門は低調で貸倒引当金も増加した。",
+      "why_it_matters": "Goldman Sachsは金融市場における大手プレーヤーであり、その業績は市場環境の変化や地政学リスクを反映する指標となる。特にイラン紛争の影響など今後のマーケットボラティリティや資本市場取引の動向を占う上で重要な発表である。",
+      "market_impact": "株式取引の好調が同社の収益を牽引し市場の活発さを示す一方、固定収入部門の低迷や貸倒引当金の増加は経済やクレジットリスクの潜在的な懸念を示す。地政学的リスクの継続が今後のIPOや合併・買収活動に影響を与える可能性があり、投資家は警戒を強めるだろう。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/13/goldman-sachs-gs-earnings-1q-2026.html"
     },
     {
       "title": "BlackRock rips page from hedge fund playbook, applies it to exchange-traded funds",
-      "summary_2lines": "BlackRockはヘッジファンドのマーケットニュートラルやロングショート戦略をETFに応用し、液体オルタナティブETFで多様化効果を提供している。これにより、従来の60-40株債ポートフォリオの弱点を補完しようとしている。",
-      "why_it_matters": "コロナ後の市場環境で株と債券の相関関係が崩れ、従来のポートフォリオ多様化戦略が通用しなくなったため、投資家は従来の株債以外の分散先を求めている。BlackRockの新戦略はこのニーズに応え、リスク管理と収益安定化の新手法を示す重要な試みである。",
-      "market_impact": "液体オルタナティブETFの成長は、ETF市場の多様化を促進し、投資家の資金が伝統的な株式・債券から流出・分散する可能性がある。BlackRockの戦略成功は他社への波及効果を生み、ヘッジファンドの運用手法がより一般市場に広がることでマーケット構造の変化をもたらす可能性が高い。",
+      "summary_2lines": "BlackRockはヘッジファンドのロングショート戦略を活用したリキッドオルタナティブETFを展開し、従来の株式・債券の逆相関が崩れた環境での分散投資を提供している。これにより、従来の60-40ポートフォリオの弱点を補完し、新たな投資需要に応えている。",
+      "why_it_matters": "伝統的な株式と債券の相関関係が近年崩れ、従来のポートフォリオ分散効果が低下している中で、BlackRockはヘッジファンドの戦略をETFsに適用し、より市場中立的で多様なリターン源を追求する新たな運用手法を提示。これにより投資家は従来のリスク分散に加え、相関関係に依存しない分散効果を得られる可能性が高まる。",
+      "market_impact": "この戦略導入によりリキッドオルタナティブETF市場が拡大し、従来の株式や債券ETFから資金シフトが進む可能性がある。さらに、集中化が進む大型テック株依存のリスクを低減し、資産運用の多様化と安定化を促進。投資家のポートフォリオ構築方針にも影響を与え、ETF市場の構造変化の一因となることが予想される。",
       "category": "Markets",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/04/10/blackrock-rips-page-from-hedge-fund-playbook-applies-it-to-etfs.html"
-    },
-    {
-      "title": "Michael Burry says he's still betting against Palantir after Trump post boosts stock",
-      "summary_2lines": "Michael Burry continues to hold bearish put options against Palantir despite a stock boost following a public endorsement by Donald Trump. He also increased his bearish position on Nvidia, maintaining a negative outlook on these tech stocks.",
-      "why_it_matters": "Michael Burry is a high-profile investor known for correctly betting against overvalued assets, and his sustained bearish bets on Palantir highlight ongoing skepticism about the company’s valuation despite political support and military contracts. This tension reflects broader concerns about AI and tech stock valuations amid volatile market sentiment.",
-      "market_impact": "Burry's public stance may influence investor sentiment by reinforcing caution around Palantir and Nvidia, potentially contributing to selling pressure. Trump's endorsement gave Palantir a short-term boost, but the stock remains vulnerable as fundamental doubts persist, possibly increasing volatility in related tech and defense sectors.",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/10/michael-burry-says-hes-still-betting-against-palantir-after-trump-post-boosts-stock.html"
     }
   ],
   "categories": {
-    "Tech": [
-      {
-        "title": "Alibaba leads $290 million investment for building a new kind of AI model as LLM limits emerge",
-        "summary_2lines": "Alibabaがリーダーとなり、AIの新領域『ワールドモデル』を構築するために2億9000万ドルを投資。言語モデルの限界を超え、動画や物理現実を基盤にしたAI開発を加速させる。",
-        "why_it_matters": "従来の大規模言語モデル（LLM）はテキスト中心で現実世界の理解に限界があるため、AIは視覚や触覚などマルチモーダル情報を活用しリアルな環境認識が可能な『ワールドモデル』へと進化が必要。Alibabaの大規模投資は、AIの次世代技術開発競争が中国企業でも活発化していることを示している。",
-        "market_impact": "今回の投資により、AI市場はテキストベース中心から映像や物理世界に根ざしたモデルへのシフトが加速。Alibabaは関連スタートアップへの積極的支援で動画生成・ロボティクス領域の技術革新を促進し、中国のAI競争力強化や業界全体の多様化に繋がる見込み。また、競合のByteDanceやKuaishouなども同様の技術開発競争が激化し、AI動画生成市場が拡大することが予想される。",
-        "category": "Tech",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/10/alibaba-cloud-invests-world-model-ai-shengshu-vidu.html"
-      }
-    ],
+    "Tech": [],
     "Markets": [
       {
-        "title": "Michael Burry says he's still betting against Palantir after Trump post boosts stock",
-        "summary_2lines": "Michael Burry continues to hold bearish put options against Palantir despite a stock boost following a public endorsement by Donald Trump. He also increased his bearish position on Nvidia, maintaining a negative outlook on these tech stocks.",
-        "why_it_matters": "Michael Burry is a high-profile investor known for correctly betting against overvalued assets, and his sustained bearish bets on Palantir highlight ongoing skepticism about the company’s valuation despite political support and military contracts. This tension reflects broader concerns about AI and tech stock valuations amid volatile market sentiment.",
-        "market_impact": "Burry's public stance may influence investor sentiment by reinforcing caution around Palantir and Nvidia, potentially contributing to selling pressure. Trump's endorsement gave Palantir a short-term boost, but the stock remains vulnerable as fundamental doubts persist, possibly increasing volatility in related tech and defense sectors.",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/10/michael-burry-says-hes-still-betting-against-palantir-after-trump-post-boosts-stock.html"
-      },
-      {
         "title": "BlackRock rips page from hedge fund playbook, applies it to exchange-traded funds",
-        "summary_2lines": "BlackRockはヘッジファンドのマーケットニュートラルやロングショート戦略をETFに応用し、液体オルタナティブETFで多様化効果を提供している。これにより、従来の60-40株債ポートフォリオの弱点を補完しようとしている。",
-        "why_it_matters": "コロナ後の市場環境で株と債券の相関関係が崩れ、従来のポートフォリオ多様化戦略が通用しなくなったため、投資家は従来の株債以外の分散先を求めている。BlackRockの新戦略はこのニーズに応え、リスク管理と収益安定化の新手法を示す重要な試みである。",
-        "market_impact": "液体オルタナティブETFの成長は、ETF市場の多様化を促進し、投資家の資金が伝統的な株式・債券から流出・分散する可能性がある。BlackRockの戦略成功は他社への波及効果を生み、ヘッジファンドの運用手法がより一般市場に広がることでマーケット構造の変化をもたらす可能性が高い。",
+        "summary_2lines": "BlackRockはヘッジファンドのロングショート戦略を活用したリキッドオルタナティブETFを展開し、従来の株式・債券の逆相関が崩れた環境での分散投資を提供している。これにより、従来の60-40ポートフォリオの弱点を補完し、新たな投資需要に応えている。",
+        "why_it_matters": "伝統的な株式と債券の相関関係が近年崩れ、従来のポートフォリオ分散効果が低下している中で、BlackRockはヘッジファンドの戦略をETFsに適用し、より市場中立的で多様なリターン源を追求する新たな運用手法を提示。これにより投資家は従来のリスク分散に加え、相関関係に依存しない分散効果を得られる可能性が高まる。",
+        "market_impact": "この戦略導入によりリキッドオルタナティブETF市場が拡大し、従来の株式や債券ETFから資金シフトが進む可能性がある。さらに、集中化が進む大型テック株依存のリスクを低減し、資産運用の多様化と安定化を促進。投資家のポートフォリオ構築方針にも影響を与え、ETF市場の構造変化の一因となることが予想される。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/10/blackrock-rips-page-from-hedge-fund-playbook-applies-it-to-etfs.html"
       },
       {
+        "title": "Michael Burry says he's still betting against Palantir after Trump post boosts stock",
+        "summary_2lines": "著名投資家マイケル・バリーはトランプ氏の支持で株価が一時上昇したパランティアに対して、依然として強気の売りポジション（プットオプション）を維持している。彼は同様にAI関連株のエヌビディアにも弱気姿勢を強めている。",
+        "why_it_matters": "マイケル・バリーのような著名な逆張り投資家がAI業界で注目される企業に強気の売りを継続することは、市場参加者に警戒感をもたらす。トランプ氏の支持発言による短期的な株価上昇と長期的な企業価値に対する見方のギャップは、市場の不確実性を反映している。",
+        "market_impact": "パランティア株はトランプ発言で一時上昇したものの週次で13.7%下落し、年間でも約28%の下落となっている。バリーの売りポジションは株価の下落圧力を示唆し、関連するAI銘柄やソフトウェア株全体に投資家の慎重姿勢が波及する可能性がある。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/10/michael-burry-says-hes-still-betting-against-palantir-after-trump-post-boosts-stock.html"
+      },
+      {
         "title": "How bond market's private credit crisis fears are playing out in fixed-income ETFs",
-        "summary_2lines": "プライベートクレジット市場の流動性問題や投資家の換金要求が高まる中、関連ETFは限定的なエクスポージャーでリスクを管理している。SEC承認のプライベートクレジットETFは一定の制限を設けつつ投資家により安全なアクセスを提供している。",
-        "why_it_matters": "プライベートクレジットは高利回りを求める投資家に人気だが、流動性が低く換金制限もあるため市場でのリスクが顕在化している。ETFを通じてプライベートクレジットに投資する動きは増えているが、その構造や制限を理解しないと市場全体の不安定化や投資家の損失につながる恐れがあるため重要である。",
-        "market_impact": "プライベートクレジット関連のETFは直接投資と間接投資でリスクを分散しつつも、一部銘柄の大幅下落や割引取引が見られる。投資家の換金需要が高まれば、割引率拡大や流動性低下につながり、ひいてはプライベートクレジット市場全体の信用不安に波及する可能性がある。また、ETFは日次流動性提供を可能にする一方で投資家は割引を受け入れる覚悟が必要となるため、市場構造の変化を示している。",
+        "summary_2lines": "民間信用市場のリスクが固定収益系ETFに波及し、流動性の課題が浮き彫りに。ETFは直接的な私的信用投資比率を制限しつつ、投資家の資金引き揚げ圧力に直面している。",
+        "why_it_matters": "私的信用市場は成長しているが流動性が低く透明性にも課題があり、従来の債券市場とは異なるリスクが存在する。これがETF市場にも影響を及ぼし、投資家保護や資金の安定運用が重要課題となっているため、金融市場の健全性と投資家の信頼維持に直結する重要な問題である。",
+        "market_impact": "私的信用を組み入れたETFは流動性リスクや資産価値の割引が生じ、特定ETFは年初来で大幅に下落。資産の一部が私的信用関連銘柄に依存するファンドは市場の不安定化を招きやすく、資金引き出し制限や割引で投資家リスクをコントロールする動きが強まる。結果として、債券市場全体の投資スタイルや価格形成、資金流動性に影響を及ぼし、管理運用側にはリスクマネジメント強化の圧力がかかっている。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/11/bond-market-private-credit-crisis-fixed-income-etfs.html"
       },
       {
-        "title": "Faisal Islam: Why the government is relaxed about Chinese car imports",
-        "summary_2lines": "英国で中国製車の販売が急増し、2026年には新車の15%を占める。一方、政府は中国投資を歓迎しつつ、貿易歪みの監視も強めている。",
-        "why_it_matters": "英国の自動車産業は生産が半減する中で、価格競争力や消費者ニーズの変化により中国製EVの輸入が拡大。これが国内産業の将来を左右し、国家安全保障や産業政策のモデルチェンジを迫る重要課題となっている。",
-        "market_impact": "輸入中国車の増加は消費者に多様な選択肢を提供し、中古車市場やディーラー網の成長を促進。だが国内メーカーは価格競争や政策転換の影響で経営環境が厳しくなり、保護主義的な規制強化の議論も活発化。英国経済の製造業基盤や貿易政策の再検討を促す要因となる。",
+        "title": "Goldman Sachs tops estimates on record equities trading",
+        "summary_2lines": "Goldman Sachsの第1四半期決算は、株式取引と投資銀行収益の好調により予想を上回った。特に株式取引収益は過去最高を記録したが、固定収入部門は低調で貸倒引当金も増加した。",
+        "why_it_matters": "Goldman Sachsは金融市場における大手プレーヤーであり、その業績は市場環境の変化や地政学リスクを反映する指標となる。特にイラン紛争の影響など今後のマーケットボラティリティや資本市場取引の動向を占う上で重要な発表である。",
+        "market_impact": "株式取引の好調が同社の収益を牽引し市場の活発さを示す一方、固定収入部門の低迷や貸倒引当金の増加は経済やクレジットリスクの潜在的な懸念を示す。地政学的リスクの継続が今後のIPOや合併・買収活動に影響を与える可能性があり、投資家は警戒を強めるだろう。",
         "category": "Markets",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cnv82v3n6yqo?at_medium=RSS&at_campaign=rss"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/13/goldman-sachs-gs-earnings-1q-2026.html"
       }
     ],
     "Geopolitics": [
       {
-        "title": "EU airline industry warns of fuel shortages if Strait of Hormuz stays closed",
-        "summary_2lines": "EUの航空燃料供給がホルムズ海峡閉鎖により3週間以内に不足の恐れ。特に小規模空港が影響を受け、航空運航や地域経済に深刻な打撃が予想される。",
-        "why_it_matters": "ホルムズ海峡は世界の航空燃料の重要供給経路であり、ここが閉鎖されることでEU全体のジェット燃料需要に大幅な供給不足が生じる。これにより観光シーズン前の航空業界が混乱し、雇用や地域経済活動に悪影響が及ぶ可能性が高い。",
-        "market_impact": "ジェット燃料価格が過去最高水準に達し、燃料不足を懸念した航空会社が運航便数削減や料金引き上げを実施。小規模空港の経営悪化や地域経済の縮小につながり、EU経済全体の航空関連収益と雇用に打撃をもたらす。持続可能航空燃料(SAF)への転換促進も要請されている。",
+        "title": "Oil jumps back above $100 after US-Iran peace talks fail",
+        "summary_2lines": "米イラン間の和平交渉失敗を受け、トランプ大統領がホルムズ海峡のイラン港の封鎖を指示。原油価格は再び1バレル100ドル台に上昇した。",
+        "why_it_matters": "ホルムズ海峡は世界のエネルギー輸送の約5分の1が通る重要な物流ルートであり、封鎖は世界的なエネルギー供給不安と価格上昇を招く。これが続けば、エネルギーだけでなく多様な原材料の供給にも深刻な影響を及ぼし、世界経済を不安定化させる恐れがあるため重要である。",
+        "market_impact": "原油の供給不安から価格は急騰し、石油関連企業や燃料コストに依存する産業のコスト増加を招く。消費者レベルではガソリンやディーゼル価格の上昇が予想され、インフレ圧力が高まる可能性がある。また、中国をはじめとした主要輸入国のエネルギー調達に影響し、地政学的リスクが増大することで世界市場のボラティリティが高まる見込み。封鎖の進展次第ではさらなる価格高騰と経済的混乱も起こり得る。",
         "category": "Geopolitics",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Tankers urged not to pay toll to Iran for use of strait",
-        "summary_2lines": "イランはホルムズ海峡通過のタンカーに対し通行料の支払いを要求し、安全通航が保証されない状態が続いている。タンカー業界団体は支払いを拒否し、安全な航行再開を強く求めている。",
-        "why_it_matters": "ホルムズ海峡は世界の原油・ガス輸送の重要ルートであり、イランの通行料要求や軍事的緊張により海峡の自由通航が阻害されると、国際的なエネルギー供給の安定に直接的なリスクが及ぶ。国際法上の自由航行の原則が問われ、地政学的緊張が増大しているため、世界経済に広範な影響が生じる可能性がある。",
-        "market_impact": "タンカーの航行制限により世界の石油・ガス供給が減少し、原油価格および燃料コストの上昇圧力が強まる。これにより、エネルギー関連市場のボラティリティが増し、燃料・電力価格の高騰が食品や医薬品の輸送コストにも波及し、インフレ加速のリスクが高まる。また企業活動や消費者マインドにも悪影響を及ぼす可能性がある。",
+        "title": "What is a naval blockade and how would it work in Strait of Hormuz?",
+        "summary_2lines": "米国がホルムズ海峡に対する海上封鎖を開始し、イランの港湾を対象に海上交通を制限した。イランは封鎖に対抗し海峡の封鎖を試みており、緊張状態が続いている。",
+        "why_it_matters": "ホルムズ海峡は世界の原油輸送の重要な海路であり、ここでの封鎖はエネルギー供給に直結するため国際的な安全保障や経済に大きな影響を及ぼす。米イラン間の軍事的緊張の高まりが中東だけでなく世界市場を不安定化させるリスクを孕んでいる。",
+        "market_impact": "この封鎖により原油供給が制約される懸念から国際エネルギー市場で原油価格が急騰する可能性が高い。輸送コストの上昇や供給不安定による経済活動への波及効果も予想され、エネルギー関連企業や中東と関係する貿易・物流分野に直接的な影響が及ぶ。",
         "category": "Geopolitics",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c3dl0gdvvveo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How many ships are crossing the Strait of Hormuz?",
+        "summary_2lines": "米軍がイラン港への海上封鎖を実施した後も、ホルムズ海峡を通過する船舶はあり、イラン関連の船舶が多く含まれている。封鎖により海峡の航行ルートや安全性に懸念が強まり、緊張が高まっている。",
+        "why_it_matters": "ホルムズ海峡は世界有数の重要な石油輸送ルートであり、米イラン間の軍事的対立がこの海峡の航行に影響を及ぼすことで、国際的なエネルギー供給の安全保障や取引の安定性が脅かされる可能性がある。海峡の封鎖や安全リスクの増大はエネルギー価格の急騰やサプライチェーンの混乱を引き起こす。",
+        "market_impact": "海峡を通る原油やガス輸送に不安定要因が増すことで、国際石油市場での価格変動が加速し、エネルギー関連企業の収益に直接影響する。さらに、船舶の航路変更や待機による物流遅延は貿易コストの上昇を招き、グローバルサプライチェーン全体に負の影響を及ぼす可能性がある。船舶保険料の高騰や航行リスク増大も懸念材料。",
+        "category": "Geopolitics",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Behind China's 'active efforts' for an Iran ceasefire: Business trumps politics",
-        "summary_2lines": "中国はイランとの停戦調停に関与したと報じられているが、直接的な仲介は否定している。主な狙いは戦争による世界経済の減速リスクと自国輸出産業の保護にある。",
-        "why_it_matters": "中国は経済成長の約3分の1を輸出に依存しており、中東の紛争拡大が世界貿易やエネルギー供給に悪影響を及ぼすことを強く警戒している。特にホルムズ海峡を通じた原油供給の安定は中国経済維持に不可欠で、外交的影響力の拡大と経済安全保障を同時に追求していることが背景にある。",
-        "market_impact": "中東情勢の緊迫化は世界の原油価格を押し上げ、エネルギーコスト増加が中国の製造業収益を圧迫。これにより中国の輸出競争力に悪影響が出る可能性が高い。停戦による情勢安定は原油価格の急騰を抑え、中国経済のリスク緩和につながるため、市場の不確実性低下が期待される。",
+        "summary_2lines": "中国はイランとサウジアラビア間の停戦に向けた外交調停を促進しているが、直接介入は否定。中国経済の輸出依存とエネルギー安定確保のために中東情勢の安定を強く望んでいる。",
+        "why_it_matters": "中国は中東での影響力拡大と同時に、世界的な貿易とエネルギー供給の安定を追求している。特にイラン周辺の情勢悪化は中国の輸出主導経済やエネルギー安全保障に直結するため、中国が外交面で慎重かつ積極的に動く背景となっている。",
+        "market_impact": "中東停戦により原油供給が安定すれば、エネルギー価格の急騰抑制につながり、中国の製造業コスト増加圧力が軽減。逆に情勢長期化やエスカレートは、中国の輸出経済や世界市場にマイナス影響を与えうる。原油供給不安は工場マージン圧迫や物価上昇、消費者負担増にも直結する。",
         "category": "Geopolitics",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/10/china-iran-ceasefire-role-energy-economy-strategy.html"
@@ -128,24 +127,24 @@
     ],
     "Economy": [
       {
-        "title": "British Steel 'needs nationalising by the summer'",
-        "summary_2lines": "British Steelは政府が管理するなか、中国の所有者との合意がなければ夏までに国有化が必要とされている。地元経済や労働者の将来に不安が続くなか、政府は事業の安定化を目指している。",
-        "why_it_matters": "英国の主要製造業である製鉄業は、国家安全保障や地域経済に直結しており、所有権の不確定が長引くことで雇用不安や投資停滞を招いている。コロナ後のサプライチェーンの見直しや地政学リスクの高まりで、国内製造業の安定確保は政府の重要課題となっているためだ。",
-        "market_impact": "政府の国有化が進めば、投資環境や経営戦略が大きく変わり、企業の収益性に影響を与える可能性が高い。短期的には政府負担の増加や製鉄業界の再編、長期的には英国鉄鋼産業の競争力維持に繋がるが、不確実性も続くため投資家の慎重姿勢が続く見込み。",
+        "title": "US home buyers 'frozen' as sales slump over Iran war fears",
+        "summary_2lines": "米国の住宅販売はイラン情勢に伴う住宅ローン金利上昇の影響で3月に9カ月ぶりの低水準に落ち込み、購入意欲が冷え込んでいる。消費者心理の悪化やエネルギー価格上昇への懸念も市場低迷に拍車をかけている。",
+        "why_it_matters": "イラン情勢による地政学的リスクが金融政策や市場金利に影響し、米国の住宅市場に深刻な打撃を与えている。住宅は経済の基幹分野であり、ここでの需要減退は経済成長鈍化や雇用不安定化につながる可能性があるため注視が必要だ。",
+        "market_impact": "住宅ローン金利の上昇は住宅購入のコストを押し上げ、販売件数減少による住宅関連企業の業績悪化や不動産価格上昇を招いている。住宅市場停滞は消費者信頼感の低下をもたらし、さらに広範な消費活動や雇用市場にも悪影響を及ぼす恐れがある。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cddq5zqvvejo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cn08ep6d5ndo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Corporate": [
       {
-        "title": "Tice £91,000 tax row is 'minor administrative error', party claims",
-        "summary_2lines": "Reform UK副党首リチャード・タイスの所有する不動産会社が9万1千ポンドの税金未払い問題を『軽微な行政手続き上のミス』と説明。一方、野党労働党は同問題を重大なスキャンダルと非難し調査を求めている。",
-        "why_it_matters": "政治家の税務問題は政治倫理と信頼性に直結し、世論や選挙に影響を与える可能性がある。また、タックスヘイブンを利用した税回避問題は国全体の税収や公平感にも影響を及ぼすため重要視されている。",
-        "market_impact": "今回の問題は直接的な市場影響は限定的だが、政治的混乱が続けば政策の不透明感や規制強化の懸念が生じ、特に不動産や金融分野に影響が波及する可能性がある。税務コンプライアンス強化の動きも強まるだろう。",
+        "title": "EasyJet passengers describe EU border 'nightmare'",
+        "summary_2lines": "EUの新しいデジタル入出国管理システム（EES）の導入により、多くのEasyJet乗客が長時間の国境検査待機でフライトに遅れ、多額の追加費用を負担した。空港や航空業界はオペレーションの混乱を訴え、柔軟な運用を求めている。",
+        "why_it_matters": "EUは国境管理の強化を通じて安全性向上を目指す一方で、新システムの稼働が混乱を招き、利用者の負担増と業界への影響が表面化している。特にコロナ以降の旅行需要回復期における運用遅延は航空業界全体の信頼性に影響し、観光・経済活動にも波及するため重要な課題である。",
+        "market_impact": "遅延や乗客のキャンセル・支払増加はEasyJetなど航空会社の顧客満足度低下や追加コストを招き、業績にマイナス圧力がかかる可能性が高い。加えてEU圏の空港運営にも負荷拡大が懸念され、夏季の旅行ピークに向けた運用改善の必要性が投資判断にも影響しうる。また、国際観光・旅行関連企業の収益不安定化も示唆される。",
         "category": "Corporate",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c8x7yj99jrwo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cn897e8280do?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
