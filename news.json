@@ -1,151 +1,151 @@
 {
-  "generated_at_jst": "2026-04-14 07:34",
+  "generated_at_jst": "2026-04-15 07:35",
   "todays_brief": [
     {
-      "title": "Oil jumps back above $100 after US-Iran peace talks fail",
-      "summary_2lines": "米イラン間の和平交渉失敗を受け、トランプ大統領がホルムズ海峡のイラン港の封鎖を指示。原油価格は再び1バレル100ドル台に上昇した。",
-      "why_it_matters": "ホルムズ海峡は世界のエネルギー輸送の約5分の1が通る重要な物流ルートであり、封鎖は世界的なエネルギー供給不安と価格上昇を招く。これが続けば、エネルギーだけでなく多様な原材料の供給にも深刻な影響を及ぼし、世界経済を不安定化させる恐れがあるため重要である。",
-      "market_impact": "原油の供給不安から価格は急騰し、石油関連企業や燃料コストに依存する産業のコスト増加を招く。消費者レベルではガソリンやディーゼル価格の上昇が予想され、インフレ圧力が高まる可能性がある。また、中国をはじめとした主要輸入国のエネルギー調達に影響し、地政学的リスクが増大することで世界市場のボラティリティが高まる見込み。封鎖の進展次第ではさらなる価格高騰と経済的混乱も起こり得る。",
-      "category": "Geopolitics",
+      "title": "Amazon to spend $11bn on satellite firm in growing Starlink rivalry",
+      "summary_2lines": "Amazon is acquiring Globalstar for $11.57bn to accelerate its satellite internet project, Amazon Leo, aiming to compete with SpaceX's Starlink. The acquisition includes Globalstar's existing satellites and infrastructure, with plans to launch thousands more by 2028.",
+      "why_it_matters": "This deal marks Amazon's significant push into the competitive satellite internet market dominated by Starlink, reflecting growing industry interest in space-based connectivity as the demand for global and robust internet services rises. The entry and expansion of tech giants in this sector could reshape telecommunications and create new service paradigms.",
+      "market_impact": "Amazon's investment could intensify competition in satellite internet services, potentially driving innovation and lowering prices for consumers. It also strengthens Amazon's position in the emerging space economy, likely impacting investors in both Amazon and satellite communication companies. The move may pressure Starlink and encourage other entrants like Blue Origin to accelerate their projects, affecting satellite manufacturing, launch services, and related industries.",
+      "category": "Tech",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/clyjjr7kzj2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "What is a naval blockade and how would it work in Strait of Hormuz?",
-      "summary_2lines": "米国がホルムズ海峡に対する海上封鎖を開始し、イランの港湾を対象に海上交通を制限した。イランは封鎖に対抗し海峡の封鎖を試みており、緊張状態が続いている。",
-      "why_it_matters": "ホルムズ海峡は世界の原油輸送の重要な海路であり、ここでの封鎖はエネルギー供給に直結するため国際的な安全保障や経済に大きな影響を及ぼす。米イラン間の軍事的緊張の高まりが中東だけでなく世界市場を不安定化させるリスクを孕んでいる。",
-      "market_impact": "この封鎖により原油供給が制約される懸念から国際エネルギー市場で原油価格が急騰する可能性が高い。輸送コストの上昇や供給不安定による経済活動への波及効果も予想され、エネルギー関連企業や中東と関係する貿易・物流分野に直接的な影響が及ぶ。",
+      "title": "Jamie Dimon says Anthropic's Mythos reveals 'a lot more vulnerabilities' for cyberattacks",
+      "summary_2lines": "JPMorgan CEO Jamie Dimon highlighted that Anthropic's AI model Mythos reveals numerous new cybersecurity vulnerabilities, increasing risks for financial institutions. While AI can eventually help defense, it currently empowers bad actors with advanced hacking tools.",
+      "why_it_matters": "AI is a double-edged sword; firms gain productivity but face escalating cyber threats as sophisticated AI uncovers vulnerabilities and aids attackers. Given the interconnected financial ecosystem, increased risks could propagate systemic vulnerabilities affecting global markets.",
+      "market_impact": "Heightened cybersecurity risks may drive banks and corporations to increase investments in AI-driven security measures and traditional cyber hygiene, potentially raising operational costs. Banks' stock prices could be sensitive to cyberattack incidents or regulatory responses sparked by AI-enabled threats.",
+      "category": "Tech",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/14/jamie-dimon-anthropic-mythos-vulnerabilities-cyber-attacks.html"
+    },
+    {
+      "title": "Global recession is inevitable if Strait of Hormuz stays shut, says Citadel's Ken Griffin",
+      "summary_2lines": "シタデルのケン・グリフィンCEOは、ホルムズ海峡が長期間封鎖されれば世界経済は必ずリセッションに陥ると警告した。原油価格の高騰により、世界は代替燃料への大規模なシフトを余儀なくされる見通しだ。",
+      "why_it_matters": "ホルムズ海峡は世界の石油輸送量の大部分が通過する重要な海峡であり、その封鎖はエネルギー供給の深刻な混乱をもたらす。これにより原油価格が高騰し、特にアジアを中心とした世界経済にリセッション圧力がかかるため、経済全体の安定性に大きなリスクとなる。",
+      "market_impact": "原油価格の約100ドルの高水準維持は企業コストや消費者物価の上昇を招き、広範な経済活動の抑制要因となる。投資家の楽観的心理は戦争長期化のリスクを織り込んでおらず、地政学的緊張の拡大は市場のボラティリティを高める。さらに、代替エネルギー分野への資金流入と技術開発の加速が期待される。",
       "category": "Geopolitics",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/14/citadels-ken-griffin-global-recession-inevitable-if-strait-of-hormuz-stays-shut.html"
+    },
+    {
+      "title": "UK faces biggest hit to growth from Iran war of major economies, IMF says",
+      "summary_2lines": "IMFはイラン戦争によるエネルギーショックで、英経済成長率の下方修正を最大幅で行い、2024年成長率を0.8％と予測。インフレも高止まりし、英国経済に大きな影響を与える見込み。",
+      "why_it_matters": "イラン戦争によるエネルギー価格高騰が英国の経済成長に最も深刻な打撃を与えるとIMFが警告。英国はエネルギーの純輸入国であり、欧州内でもインフレ率が高く、政策対応の難しさや世界経済の不確実性を示す指標となっている。",
+      "market_impact": "英国の成長減速と高インフレは国内消費の低迷を招き、企業収益や投資に悪影響。エネルギーコスト上昇が続くことで企業経営や家計負担が増大し、中央銀行の金融政策にも慎重姿勢が求められる。政府の補助策には制約が多く、経済回復は2025年以降になる可能性が高い。",
+      "category": "Economy",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Behind China's 'active efforts' for an Iran ceasefire: Business trumps politics",
-      "summary_2lines": "中国はイランとサウジアラビア間の停戦に向けた外交調停を促進しているが、直接介入は否定。中国経済の輸出依存とエネルギー安定確保のために中東情勢の安定を強く望んでいる。",
-      "why_it_matters": "中国は中東での影響力拡大と同時に、世界的な貿易とエネルギー供給の安定を追求している。特にイラン周辺の情勢悪化は中国の輸出主導経済やエネルギー安全保障に直結するため、中国が外交面で慎重かつ積極的に動く背景となっている。",
-      "market_impact": "中東停戦により原油供給が安定すれば、エネルギー価格の急騰抑制につながり、中国の製造業コスト増加圧力が軽減。逆に情勢長期化やエスカレートは、中国の輸出経済や世界市場にマイナス影響を与えうる。原油供給不安は工場マージン圧迫や物価上昇、消費者負担増にも直結する。",
-      "category": "Geopolitics",
+      "title": "Treasury Secretary Bessent backs rate cuts but says he understands if the Fed wants to wait",
+      "summary_2lines": "財務長官スコット・ベゼントはインフレが緩和すると信じており、利下げを支持しているが、イラン戦争の影響が明確になるまでFRBの慎重な姿勢も理解すると述べた。最近のデータはコアインフレが比較的安定していることを示している。",
+      "why_it_matters": "インフレ抑制と経済成長の両立を目指すFRBの政策決定に影響を与える重要な発言であり、特に地政学的リスク（イラン戦争）による不確実性を考慮した慎重な金融政策への理解を示している。これにより今後の金利動向や市場期待が変化する可能性がある。",
+      "market_impact": "インフレ圧力の緩和期待で債券利回りは低下しており、利下げ期待が強まれば株式市場に好影響を与える可能性が高い。一方でイラン情勢の不透明さがリスク要因として残り、エネルギー価格の変動や供給不安が市場のボラティリティを高める可能性がある。",
+      "category": "Economy",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/10/china-iran-ceasefire-role-energy-economy-strategy.html"
-    },
-    {
-      "title": "Goldman Sachs tops estimates on record equities trading",
-      "summary_2lines": "Goldman Sachsの第1四半期決算は、株式取引と投資銀行収益の好調により予想を上回った。特に株式取引収益は過去最高を記録したが、固定収入部門は低調で貸倒引当金も増加した。",
-      "why_it_matters": "Goldman Sachsは金融市場における大手プレーヤーであり、その業績は市場環境の変化や地政学リスクを反映する指標となる。特にイラン紛争の影響など今後のマーケットボラティリティや資本市場取引の動向を占う上で重要な発表である。",
-      "market_impact": "株式取引の好調が同社の収益を牽引し市場の活発さを示す一方、固定収入部門の低迷や貸倒引当金の増加は経済やクレジットリスクの潜在的な懸念を示す。地政学的リスクの継続が今後のIPOや合併・買収活動に影響を与える可能性があり、投資家は警戒を強めるだろう。",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/13/goldman-sachs-gs-earnings-1q-2026.html"
-    },
-    {
-      "title": "BlackRock rips page from hedge fund playbook, applies it to exchange-traded funds",
-      "summary_2lines": "BlackRockはヘッジファンドのロングショート戦略を活用したリキッドオルタナティブETFを展開し、従来の株式・債券の逆相関が崩れた環境での分散投資を提供している。これにより、従来の60-40ポートフォリオの弱点を補完し、新たな投資需要に応えている。",
-      "why_it_matters": "伝統的な株式と債券の相関関係が近年崩れ、従来のポートフォリオ分散効果が低下している中で、BlackRockはヘッジファンドの戦略をETFsに適用し、より市場中立的で多様なリターン源を追求する新たな運用手法を提示。これにより投資家は従来のリスク分散に加え、相関関係に依存しない分散効果を得られる可能性が高まる。",
-      "market_impact": "この戦略導入によりリキッドオルタナティブETF市場が拡大し、従来の株式や債券ETFから資金シフトが進む可能性がある。さらに、集中化が進む大型テック株依存のリスクを低減し、資産運用の多様化と安定化を促進。投資家のポートフォリオ構築方針にも影響を与え、ETF市場の構造変化の一因となることが予想される。",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/10/blackrock-rips-page-from-hedge-fund-playbook-applies-it-to-etfs.html"
+      "url": "https://www.cnbc.com/2026/04/14/treasury-secretary-bessent-now-says-its-ok-for-the-fed-to-wait-to-lower-rates-amid-oil-surge.html"
     }
   ],
   "categories": {
-    "Tech": [],
+    "Tech": [
+      {
+        "title": "Amazon to spend $11bn on satellite firm in growing Starlink rivalry",
+        "summary_2lines": "Amazon is acquiring Globalstar for $11.57bn to accelerate its satellite internet project, Amazon Leo, aiming to compete with SpaceX's Starlink. The acquisition includes Globalstar's existing satellites and infrastructure, with plans to launch thousands more by 2028.",
+        "why_it_matters": "This deal marks Amazon's significant push into the competitive satellite internet market dominated by Starlink, reflecting growing industry interest in space-based connectivity as the demand for global and robust internet services rises. The entry and expansion of tech giants in this sector could reshape telecommunications and create new service paradigms.",
+        "market_impact": "Amazon's investment could intensify competition in satellite internet services, potentially driving innovation and lowering prices for consumers. It also strengthens Amazon's position in the emerging space economy, likely impacting investors in both Amazon and satellite communication companies. The move may pressure Starlink and encourage other entrants like Blue Origin to accelerate their projects, affecting satellite manufacturing, launch services, and related industries.",
+        "category": "Tech",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/clyjjr7kzj2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Jamie Dimon says Anthropic's Mythos reveals 'a lot more vulnerabilities' for cyberattacks",
+        "summary_2lines": "JPMorgan CEO Jamie Dimon highlighted that Anthropic's AI model Mythos reveals numerous new cybersecurity vulnerabilities, increasing risks for financial institutions. While AI can eventually help defense, it currently empowers bad actors with advanced hacking tools.",
+        "why_it_matters": "AI is a double-edged sword; firms gain productivity but face escalating cyber threats as sophisticated AI uncovers vulnerabilities and aids attackers. Given the interconnected financial ecosystem, increased risks could propagate systemic vulnerabilities affecting global markets.",
+        "market_impact": "Heightened cybersecurity risks may drive banks and corporations to increase investments in AI-driven security measures and traditional cyber hygiene, potentially raising operational costs. Banks' stock prices could be sensitive to cyberattack incidents or regulatory responses sparked by AI-enabled threats.",
+        "category": "Tech",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/14/jamie-dimon-anthropic-mythos-vulnerabilities-cyber-attacks.html"
+      },
+      {
+        "title": "Households could get free electricity for doing washing on sunny weekends",
+        "summary_2lines": "英国では、晴れた週末に過剰供給される再生可能エネルギーを活用し、洗濯機などの家電使用を促進することで家庭に無料または割安な電力を提供する新たなインセンティブ制度が導入される。スマートメーター所有の家庭が対象で、電力会社は顧客に対して消費促進を呼びかけ還元を行う。",
+        "why_it_matters": "近年、再生可能エネルギーの増加に伴い電力の過剰供給が頻発しており、需給バランス調整が課題となっている。新制度は余剰電力の有効活用と電力網安定化を促進し、再エネの効率的利用とカーボンフリー推進に寄与する重要な一歩となる。",
+        "market_impact": "電力会社は電力需要の平準化が進み運用コスト削減が期待できるほか、顧客向けインセンティブ競争が激化する可能性がある。再生可能エネルギー設備の効率的活用により発電事業者の収益向上も見込まれ、電気自動車など関連機器の利用も拡大し、スマート家電市場やエネルギーマネジメントサービスの成長に寄与する可能性が高い。",
+        "category": "Tech",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c9d44ld97dyo?at_medium=RSS&at_campaign=rss"
+      }
+    ],
     "Markets": [
       {
-        "title": "BlackRock rips page from hedge fund playbook, applies it to exchange-traded funds",
-        "summary_2lines": "BlackRockはヘッジファンドのロングショート戦略を活用したリキッドオルタナティブETFを展開し、従来の株式・債券の逆相関が崩れた環境での分散投資を提供している。これにより、従来の60-40ポートフォリオの弱点を補完し、新たな投資需要に応えている。",
-        "why_it_matters": "伝統的な株式と債券の相関関係が近年崩れ、従来のポートフォリオ分散効果が低下している中で、BlackRockはヘッジファンドの戦略をETFsに適用し、より市場中立的で多様なリターン源を追求する新たな運用手法を提示。これにより投資家は従来のリスク分散に加え、相関関係に依存しない分散効果を得られる可能性が高まる。",
-        "market_impact": "この戦略導入によりリキッドオルタナティブETF市場が拡大し、従来の株式や債券ETFから資金シフトが進む可能性がある。さらに、集中化が進む大型テック株依存のリスクを低減し、資産運用の多様化と安定化を促進。投資家のポートフォリオ構築方針にも影響を与え、ETF市場の構造変化の一因となることが予想される。",
+        "title": "Prediction markets will grow to $1 trillion by 2030, Bernstein estimates",
+        "summary_2lines": "予測市場の取引量が2026年に前年比370％増の2,400億ドルに達し、2030年までに1兆ドルに拡大するとBernsteinが予測。KalshiやPolymarketが市場を牽引し、連邦規制の明確化と暗号資産連携が成長を後押ししている。",
+        "why_it_matters": "予測市場は経済や政治、スポーツのイベントリスクを直接取引できる革新的市場であり、連邦規制の整備が進むことで法的安定性が高まり、機関投資家や法人の参加が増加すると見込まれる。これは金融市場の新たな資産クラス形成に貢献し、従来の金融商品では得にくいリスクヘッジや投資機会を提供する。",
+        "market_impact": "Kalshiが米国予測市場の90%以上を占め、取引量は1年前の約30倍に拡大。スポーツ関連契約から経済や政治関連契約への多様化が進み、企業や保険会社によるイベントリスクのヘッジ需要も増加。取引プラットフォームの拡大と規制環境の改善により、RobinhoodやDraftKingsなど新規参入企業も影響力を強め、予測市場全体の流動性と規模が飛躍的に成長する見込み。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/10/blackrock-rips-page-from-hedge-fund-playbook-applies-it-to-etfs.html"
+        "url": "https://www.cnbc.com/2026/04/14/prediction-markets-will-grow-to-1-trillion-by-2030-bernstein-says.html"
       },
       {
-        "title": "Michael Burry says he's still betting against Palantir after Trump post boosts stock",
-        "summary_2lines": "著名投資家マイケル・バリーはトランプ氏の支持で株価が一時上昇したパランティアに対して、依然として強気の売りポジション（プットオプション）を維持している。彼は同様にAI関連株のエヌビディアにも弱気姿勢を強めている。",
-        "why_it_matters": "マイケル・バリーのような著名な逆張り投資家がAI業界で注目される企業に強気の売りを継続することは、市場参加者に警戒感をもたらす。トランプ氏の支持発言による短期的な株価上昇と長期的な企業価値に対する見方のギャップは、市場の不確実性を反映している。",
-        "market_impact": "パランティア株はトランプ発言で一時上昇したものの週次で13.7%下落し、年間でも約28%の下落となっている。バリーの売りポジションは株価の下落圧力を示唆し、関連するAI銘柄やソフトウェア株全体に投資家の慎重姿勢が波及する可能性がある。",
+        "title": "David Einhorn signals caution as his hedge fund Greenlight prioritizes capital protection",
+        "summary_2lines": "ヘッジファンド運用者デビッド・アインホーンは、地政学的楽観で市場が反発する中でも資本保護に重点を置き、潜在的な下振れリスクを警戒している。彼のファンドGreenlightは2024年第1四半期に6.5％のリターンを上げつつも、低いエクスポージャーを維持している。",
+        "why_it_matters": "市場は地政学リスクの緩和期待で反発しているが、下振れリスクが十分に織り込まれていない可能性が高い。アインホーンの慎重な姿勢は、多くの投資家が短期的な回復を追い求める中でバランスの重要性を示し、投資戦略のリスク管理の重要性を再認識させる。",
+        "market_impact": "Greenlightが低いリスクエクスポージャーを堅持しつつ一部ポジションを調整していることは、資本保全を重視する投資家の動向を反映。市場全体のボラティリティが増加する可能性があり、特に地政学リスクが再燃した場合に大きな調整が起こるかもしれない。金やエネルギー関連銘柄への賭けも注目される。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/10/michael-burry-says-hes-still-betting-against-palantir-after-trump-post-boosts-stock.html"
-      },
-      {
-        "title": "How bond market's private credit crisis fears are playing out in fixed-income ETFs",
-        "summary_2lines": "民間信用市場のリスクが固定収益系ETFに波及し、流動性の課題が浮き彫りに。ETFは直接的な私的信用投資比率を制限しつつ、投資家の資金引き揚げ圧力に直面している。",
-        "why_it_matters": "私的信用市場は成長しているが流動性が低く透明性にも課題があり、従来の債券市場とは異なるリスクが存在する。これがETF市場にも影響を及ぼし、投資家保護や資金の安定運用が重要課題となっているため、金融市場の健全性と投資家の信頼維持に直結する重要な問題である。",
-        "market_impact": "私的信用を組み入れたETFは流動性リスクや資産価値の割引が生じ、特定ETFは年初来で大幅に下落。資産の一部が私的信用関連銘柄に依存するファンドは市場の不安定化を招きやすく、資金引き出し制限や割引で投資家リスクをコントロールする動きが強まる。結果として、債券市場全体の投資スタイルや価格形成、資金流動性に影響を及ぼし、管理運用側にはリスクマネジメント強化の圧力がかかっている。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/11/bond-market-private-credit-crisis-fixed-income-etfs.html"
-      },
-      {
-        "title": "Goldman Sachs tops estimates on record equities trading",
-        "summary_2lines": "Goldman Sachsの第1四半期決算は、株式取引と投資銀行収益の好調により予想を上回った。特に株式取引収益は過去最高を記録したが、固定収入部門は低調で貸倒引当金も増加した。",
-        "why_it_matters": "Goldman Sachsは金融市場における大手プレーヤーであり、その業績は市場環境の変化や地政学リスクを反映する指標となる。特にイラン紛争の影響など今後のマーケットボラティリティや資本市場取引の動向を占う上で重要な発表である。",
-        "market_impact": "株式取引の好調が同社の収益を牽引し市場の活発さを示す一方、固定収入部門の低迷や貸倒引当金の増加は経済やクレジットリスクの潜在的な懸念を示す。地政学的リスクの継続が今後のIPOや合併・買収活動に影響を与える可能性があり、投資家は警戒を強めるだろう。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/13/goldman-sachs-gs-earnings-1q-2026.html"
+        "url": "https://www.cnbc.com/2026/04/14/david-einhorn-signals-caution-as-his-hedge-fund-greenlight-prioritizes-capital-protection.html"
       }
     ],
     "Geopolitics": [
       {
-        "title": "Oil jumps back above $100 after US-Iran peace talks fail",
-        "summary_2lines": "米イラン間の和平交渉失敗を受け、トランプ大統領がホルムズ海峡のイラン港の封鎖を指示。原油価格は再び1バレル100ドル台に上昇した。",
-        "why_it_matters": "ホルムズ海峡は世界のエネルギー輸送の約5分の1が通る重要な物流ルートであり、封鎖は世界的なエネルギー供給不安と価格上昇を招く。これが続けば、エネルギーだけでなく多様な原材料の供給にも深刻な影響を及ぼし、世界経済を不安定化させる恐れがあるため重要である。",
-        "market_impact": "原油の供給不安から価格は急騰し、石油関連企業や燃料コストに依存する産業のコスト増加を招く。消費者レベルではガソリンやディーゼル価格の上昇が予想され、インフレ圧力が高まる可能性がある。また、中国をはじめとした主要輸入国のエネルギー調達に影響し、地政学的リスクが増大することで世界市場のボラティリティが高まる見込み。封鎖の進展次第ではさらなる価格高騰と経済的混乱も起こり得る。",
-        "category": "Geopolitics",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "What is a naval blockade and how would it work in Strait of Hormuz?",
-        "summary_2lines": "米国がホルムズ海峡に対する海上封鎖を開始し、イランの港湾を対象に海上交通を制限した。イランは封鎖に対抗し海峡の封鎖を試みており、緊張状態が続いている。",
-        "why_it_matters": "ホルムズ海峡は世界の原油輸送の重要な海路であり、ここでの封鎖はエネルギー供給に直結するため国際的な安全保障や経済に大きな影響を及ぼす。米イラン間の軍事的緊張の高まりが中東だけでなく世界市場を不安定化させるリスクを孕んでいる。",
-        "market_impact": "この封鎖により原油供給が制約される懸念から国際エネルギー市場で原油価格が急騰する可能性が高い。輸送コストの上昇や供給不安定による経済活動への波及効果も予想され、エネルギー関連企業や中東と関係する貿易・物流分野に直接的な影響が及ぶ。",
-        "category": "Geopolitics",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "How many ships are crossing the Strait of Hormuz?",
-        "summary_2lines": "米軍がイラン港への海上封鎖を実施した後も、ホルムズ海峡を通過する船舶はあり、イラン関連の船舶が多く含まれている。封鎖により海峡の航行ルートや安全性に懸念が強まり、緊張が高まっている。",
-        "why_it_matters": "ホルムズ海峡は世界有数の重要な石油輸送ルートであり、米イラン間の軍事的対立がこの海峡の航行に影響を及ぼすことで、国際的なエネルギー供給の安全保障や取引の安定性が脅かされる可能性がある。海峡の封鎖や安全リスクの増大はエネルギー価格の急騰やサプライチェーンの混乱を引き起こす。",
-        "market_impact": "海峡を通る原油やガス輸送に不安定要因が増すことで、国際石油市場での価格変動が加速し、エネルギー関連企業の収益に直接影響する。さらに、船舶の航路変更や待機による物流遅延は貿易コストの上昇を招き、グローバルサプライチェーン全体に負の影響を及ぼす可能性がある。船舶保険料の高騰や航行リスク増大も懸念材料。",
-        "category": "Geopolitics",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Behind China's 'active efforts' for an Iran ceasefire: Business trumps politics",
-        "summary_2lines": "中国はイランとサウジアラビア間の停戦に向けた外交調停を促進しているが、直接介入は否定。中国経済の輸出依存とエネルギー安定確保のために中東情勢の安定を強く望んでいる。",
-        "why_it_matters": "中国は中東での影響力拡大と同時に、世界的な貿易とエネルギー供給の安定を追求している。特にイラン周辺の情勢悪化は中国の輸出主導経済やエネルギー安全保障に直結するため、中国が外交面で慎重かつ積極的に動く背景となっている。",
-        "market_impact": "中東停戦により原油供給が安定すれば、エネルギー価格の急騰抑制につながり、中国の製造業コスト増加圧力が軽減。逆に情勢長期化やエスカレートは、中国の輸出経済や世界市場にマイナス影響を与えうる。原油供給不安は工場マージン圧迫や物価上昇、消費者負担増にも直結する。",
+        "title": "Global recession is inevitable if Strait of Hormuz stays shut, says Citadel's Ken Griffin",
+        "summary_2lines": "シタデルのケン・グリフィンCEOは、ホルムズ海峡が長期間封鎖されれば世界経済は必ずリセッションに陥ると警告した。原油価格の高騰により、世界は代替燃料への大規模なシフトを余儀なくされる見通しだ。",
+        "why_it_matters": "ホルムズ海峡は世界の石油輸送量の大部分が通過する重要な海峡であり、その封鎖はエネルギー供給の深刻な混乱をもたらす。これにより原油価格が高騰し、特にアジアを中心とした世界経済にリセッション圧力がかかるため、経済全体の安定性に大きなリスクとなる。",
+        "market_impact": "原油価格の約100ドルの高水準維持は企業コストや消費者物価の上昇を招き、広範な経済活動の抑制要因となる。投資家の楽観的心理は戦争長期化のリスクを織り込んでおらず、地政学的緊張の拡大は市場のボラティリティを高める。さらに、代替エネルギー分野への資金流入と技術開発の加速が期待される。",
         "category": "Geopolitics",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/10/china-iran-ceasefire-role-energy-economy-strategy.html"
+        "url": "https://www.cnbc.com/2026/04/14/citadels-ken-griffin-global-recession-inevitable-if-strait-of-hormuz-stays-shut.html"
+      },
+      {
+        "title": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
+        "summary_2lines": "米財務長官ベセントはイランとの戦争による短期的な経済的痛みは、長期的な安全保障のために価値があると述べた。IMFは中東戦争によって世界経済がリセッションに陥る可能性を警告している。",
+        "why_it_matters": "イランの核開発と中東紛争は世界的な安全保障リスクを高める一方、エネルギー価格や国際経済にも重大な影響を与えている。特に石油価格高騰はインフレを加速させ、各国の経済政策にも影響を及ぼすため、このニュースは国際社会の安定と市場の展望を理解する上で重要である。",
+        "market_impact": "エネルギー価格の上昇によりインフレ圧力が強まり、中央銀行は金利引き上げを余儀なくされる可能性が高い。特に石油価格が$110〜$125の水準に達すると、世界経済成長が鈍化し、リセッションのリスクが増大する。これにより株式市場の不透明感が増し、エネルギー関連企業には追い風となる一方、消費者支出や企業活動は抑制される懸念がある。",
+        "category": "Geopolitics",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Economy": [
       {
-        "title": "US home buyers 'frozen' as sales slump over Iran war fears",
-        "summary_2lines": "米国の住宅販売はイラン情勢に伴う住宅ローン金利上昇の影響で3月に9カ月ぶりの低水準に落ち込み、購入意欲が冷え込んでいる。消費者心理の悪化やエネルギー価格上昇への懸念も市場低迷に拍車をかけている。",
-        "why_it_matters": "イラン情勢による地政学的リスクが金融政策や市場金利に影響し、米国の住宅市場に深刻な打撃を与えている。住宅は経済の基幹分野であり、ここでの需要減退は経済成長鈍化や雇用不安定化につながる可能性があるため注視が必要だ。",
-        "market_impact": "住宅ローン金利の上昇は住宅購入のコストを押し上げ、販売件数減少による住宅関連企業の業績悪化や不動産価格上昇を招いている。住宅市場停滞は消費者信頼感の低下をもたらし、さらに広範な消費活動や雇用市場にも悪影響を及ぼす恐れがある。",
+        "title": "Fuel prices stop rising after 43 days of increases, RAC says",
+        "summary_2lines": "燃料価格は43日連続の上昇の後に上昇が止まり、今後数週間で価格が下がる可能性がある。価格は依然として戦争前より高く、特にディーゼルの値上がりが顕著だ。",
+        "why_it_matters": "中東の地政学的緊張が原油供給に影響を及ぼし、世界的な燃料価格の高騰を招いている。生活コスト増加の一因である燃料価格の動向は、消費者や企業の経済活動に直接影響し、今後の政策や市場動向にも影響を与えるため重要である。",
+        "market_impact": "燃料価格の一時的な上昇停止は、輸送コストの高騰を一服させる可能性があるが、依然として高水準の価格は消費者の生活コスト圧迫や企業の生産コスト増につながる。競争の少ない地域では価格が下がりにくく、市場の価格形成に不透明さも残るため、監視強化や価格競争の促進が今後の課題となる。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cn08ep6d5ndo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c98kk1lrkzno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Treasury Secretary Bessent backs rate cuts but says he understands if the Fed wants to wait",
+        "summary_2lines": "財務長官スコット・ベゼントはインフレが緩和すると信じており、利下げを支持しているが、イラン戦争の影響が明確になるまでFRBの慎重な姿勢も理解すると述べた。最近のデータはコアインフレが比較的安定していることを示している。",
+        "why_it_matters": "インフレ抑制と経済成長の両立を目指すFRBの政策決定に影響を与える重要な発言であり、特に地政学的リスク（イラン戦争）による不確実性を考慮した慎重な金融政策への理解を示している。これにより今後の金利動向や市場期待が変化する可能性がある。",
+        "market_impact": "インフレ圧力の緩和期待で債券利回りは低下しており、利下げ期待が強まれば株式市場に好影響を与える可能性が高い。一方でイラン情勢の不透明さがリスク要因として残り、エネルギー価格の変動や供給不安が市場のボラティリティを高める可能性がある。",
+        "category": "Economy",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/14/treasury-secretary-bessent-now-says-its-ok-for-the-fed-to-wait-to-lower-rates-amid-oil-surge.html"
+      },
+      {
+        "title": "UK faces biggest hit to growth from Iran war of major economies, IMF says",
+        "summary_2lines": "IMFはイラン戦争によるエネルギーショックで、英経済成長率の下方修正を最大幅で行い、2024年成長率を0.8％と予測。インフレも高止まりし、英国経済に大きな影響を与える見込み。",
+        "why_it_matters": "イラン戦争によるエネルギー価格高騰が英国の経済成長に最も深刻な打撃を与えるとIMFが警告。英国はエネルギーの純輸入国であり、欧州内でもインフレ率が高く、政策対応の難しさや世界経済の不確実性を示す指標となっている。",
+        "market_impact": "英国の成長減速と高インフレは国内消費の低迷を招き、企業収益や投資に悪影響。エネルギーコスト上昇が続くことで企業経営や家計負担が増大し、中央銀行の金融政策にも慎重姿勢が求められる。政府の補助策には制約が多く、経済回復は2025年以降になる可能性が高い。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&at_campaign=rss"
       }
     ],
-    "Corporate": [
-      {
-        "title": "EasyJet passengers describe EU border 'nightmare'",
-        "summary_2lines": "EUの新しいデジタル入出国管理システム（EES）の導入により、多くのEasyJet乗客が長時間の国境検査待機でフライトに遅れ、多額の追加費用を負担した。空港や航空業界はオペレーションの混乱を訴え、柔軟な運用を求めている。",
-        "why_it_matters": "EUは国境管理の強化を通じて安全性向上を目指す一方で、新システムの稼働が混乱を招き、利用者の負担増と業界への影響が表面化している。特にコロナ以降の旅行需要回復期における運用遅延は航空業界全体の信頼性に影響し、観光・経済活動にも波及するため重要な課題である。",
-        "market_impact": "遅延や乗客のキャンセル・支払増加はEasyJetなど航空会社の顧客満足度低下や追加コストを招き、業績にマイナス圧力がかかる可能性が高い。加えてEU圏の空港運営にも負荷拡大が懸念され、夏季の旅行ピークに向けた運用改善の必要性が投資判断にも影響しうる。また、国際観光・旅行関連企業の収益不安定化も示唆される。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cn897e8280do?at_medium=RSS&at_campaign=rss"
-      }
-    ]
+    "Corporate": []
   }
 }
