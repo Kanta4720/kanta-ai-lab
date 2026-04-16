@@ -1,151 +1,150 @@
 {
-  "generated_at_jst": "2026-04-16 07:32",
+  "generated_at_jst": "2026-04-17 07:29",
   "todays_brief": [
     {
       "title": "Morgan Stanley tops estimates as trading revenue exceeds expectations by nearly $1 billion",
-      "summary_2lines": "Morgan Stanleyは2024年第1四半期決算で予想を上回る利益と収益を達成し、特にトレーディング収益が約10億ドル予想超過した。成長分野は株式および債券トレーディング、投資銀行とウェルスマネジメントで収益が顕著に増加した。",
-      "why_it_matters": "Morgan Stanleyが市場の変動や地政学的リスクを乗り越え、特に固定収入トレーディングでライバルのGoldman Sachsを上回る強さを示したことは、金融業界における競争力と経営手腕の評価に直結する。加えて、投資管理部門の苦戦から業界全体の収益多様化の重要性も示された。",
-      "market_impact": "好決算を受けてMorgan Stanley株は時間外で3%上昇し、市場の信頼回復と金融セクターのポジティブな評価につながる。トレーディング部門の強さは投資家の資金流入を促し、競合のGoldman Sachsには逆風となる可能性がある。さらに、ウェルスマネジメントや投資銀行の収益拡大は米国金融サービス業の回復および拡大を示す指標となる。",
+      "summary_2lines": "Morgan Stanleyの2024年第1四半期決算は市場予想を上回り、特にトレーディング収益が約10億ドル増加した。利益は前年同期比29%増の55.7億ドルに達し、株価は時間外で3%上昇した。",
+      "why_it_matters": "金融市場の不安定な状況下で、Morgan Stanleyが強力なトレーディング収益と多角的なビジネス展開により収益を伸ばし、競合のGoldman Sachsを固定収入取引で上回った点は投資家心理と業界内競争状況に大きな示唆を与える。",
+      "market_impact": "トレーディングや投資銀行収益の好調はMorgan Stanleyの株価上昇を牽引し、同社の市場シェア拡大につながる。特にエネルギー等の資源市場のボラティリティを活用したトレーディング収益増加は他金融機関にも圧力をかけ、業界全体の収益構造に影響を与える可能性が高い。",
       "category": "Markets",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/04/15/morgan-stanley-ms-earnings-1q-2026.html"
     },
     {
+      "title": "Europe has 'maybe six weeks of jet fuel left', energy boss warns",
+      "summary_2lines": "IEAのトップが、イランによるホルムズ海峡の封鎖によりヨーロッパのジェット燃料在庫が約6週間分しかなく、供給不足とフライトキャンセルの可能性を警告した。EUは米国やナイジェリアからの輸入で代替を図るが、必要量の半分以上の補充が困難で、夏季に供給不足が現れる恐れがある。",
+      "why_it_matters": "ヨーロッパは中東からのジェット燃料輸入に大きく依存しており、地政学リスクによる輸送路の閉鎖は航空業界に深刻な供給問題を引き起こす可能性がある。これにより移動制限、航空便の運休、経済活動の停滞が懸念されるため、エネルギー安全保障の観点から極めて重要な問題となっている。",
+      "market_impact": "ジェット燃料価格が急騰し、航空会社の燃料コストが増加することで運賃上昇や利益圧迫が予想される。特に欧州の主要空港での燃料不足が発生すればフライトキャンセルが相次ぎ、観光やビジネス渡航に悪影響を与える。また、燃料供給の不安定さは石油製品市場のボラティリティを高め、関連企業の収益や投資環境にも影響を及ぼす可能性がある。",
+      "category": "Geopolitics",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/czjw2kz0l22o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Regulators are reportedly zeroing in on suspicious trades ahead of market-moving Trump post",
-      "summary_2lines": "米商品先物取引委員会（CFTC）が、トランプ大統領のイラン攻撃中止発表直前に行われた異常な原油先物取引を調査中。市場が予測できない情報を利用した可能性が浮上している。",
-      "why_it_matters": "重要な市場発表前に不自然な取引が確認されたことは、インサイダー取引や市場操作の疑いを呼び、市場の公正性と透明性が問われる。米政府当局の調査により、市場参加者の信頼維持と規制強化の必要性が浮き彫りになった。",
-      "market_impact": "疑惑の取引による突発的な先物価格変動は投資家の混乱を招き、一時的に株価や原油価格が大きく動いた。調査結果次第では規制強化、取引ルールの見直しが行われ、市場の透明性と安定性が改善される可能性がある。",
+      "summary_2lines": "米商品先物取引委員会（CFTC）がトランプ大統領の市場影響力のある発言直前に発生した異常な原油先物取引を調査中。取引プラットフォーム各社に関連記録の提出を求めている。",
+      "why_it_matters": "不自然な取引が大統領の公表前に行われた可能性は、インサイダー取引や非公表重要情報の漏洩といった市場の公平性や透明性を損なう深刻な疑念を生む。金融規制機関が迅速かつ厳格に調査を進めることは、市場の信頼維持に不可欠である。",
+      "market_impact": "もし内部情報の不正利用が明らかになれば、関連取引規制の強化や罰則の厳格化を招き、先物市場を含む金融市場全体の取引慣行に影響が及ぶ。投資家の警戒感から短期的な市場変動も想定され、取引プラットフォームの監視体制強化にも繋がる可能性がある。",
       "category": "Markets",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/04/15/regulators-reportedly-zeroing-in-on-suspicious-trades-ahead-of-trump-post.html"
     },
     {
-      "title": "Chinese robotaxi companies forge ahead with UAE expansion despite Iran war",
-      "summary_2lines": "中国の複数のロボタクシー企業がイラン戦争の影響を受けつつも中東市場、特にUAEでの事業展開を積極的に進めている。DidiをはじめWeRide、Pony.ai、BaiduのApollo Goがドバイやアブダビで試験運行や商用サービスを展開中である。",
-      "why_it_matters": "中東は中国の自動運転技術の海外進出の重要な拠点になっており、地域の地政学的リスクが存在する中での積極展開は、中国企業のグローバル戦略と技術主導の経済外交の深化を示す。これにより、世界的な自動運転市場の競争激化と技術標準の形成に影響を与える可能性がある。",
-      "market_impact": "中国ロボタクシー企業の中東市場参入は、新興市場での商用サービス拡大に繋がり、関連技術開発や投資の活性化を促す。また、競合する米国企業（例：Waymo）との地域やグローバルでの技術競争が一層激化する見込みであり、各社の市場シェア獲得や提携戦略にも大きな影響を与えるだろう。",
-      "category": "Tech",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/15/china-robotaxi-didi-weride-baidu-dubai-uae-expansion.html"
-    },
-    {
-      "title": "Bank boss tells BBC he won't rush interest rate rises",
-      "summary_2lines": "イングランド銀行総裁アンドリュー・ベイリーは、エネルギー価格の大幅上昇による影響を踏まえつつも、金利の引き上げを急がず慎重に判断する意向を示した。国際通貨基金（IMF）も中東紛争後の金利急騰を警戒している。",
-      "why_it_matters": "エネルギー価格の高騰が物価上昇と経済成長抑制の双方に影響しうる中、中央銀行の金利政策の判断は重要な経済運営の鍵となる。過度な利上げは景気悪化を招きかねず、慎重な対応が求められている。また、中東の地政学的リスクが世界経済に波及しているため、金融政策の行方は国内外の経済安定に大きな影響を与える。",
-      "market_impact": "ベイリー総裁の慎重姿勢は市場に一定の安定感をもたらすが、エネルギー価格上昇の継続や紛争の長期化が懸念材料となる。英国の金利据え置きまたは緩やかな引き上げは住宅ローンや企業の借入コストに影響し、消費や投資行動を左右する。加えて、銀行システムの安定が強調されたことは金融市場の信頼維持に寄与する見通し。",
+      "title": "UK prepares for food shortages in worst case scenario as Iran war continues",
+      "summary_2lines": "英国政府はイラン戦争の悪化に伴い、ホルムズ海峡閉鎖やCO2供給問題による食料不足を最悪事態として想定し準備を進めている。食材価格の高騰も懸念され、企業は供給リスクより価格上昇に注目している。",
+      "why_it_matters": "ホルムズ海峡は世界のエネルギー供給にとって重要な海上ルートであり、戦争による閉鎖は石油・ガス・肥料価格を押し上げる。CO2不足は食肉処理や保存に影響し、肥料コスト上昇は作物生産の減少に繋がり、英国の食料供給安全保障に深刻なリスクをもたらす可能性がある。",
+      "market_impact": "原油及び肥料価格の高騰により農業コストが増加し、食品価格の上昇圧力が強まる。小売業は供給網の混乱を管理しつつ価格転嫁を迫られ、消費者インフレが加速。生産設備再稼働などの対策が取られるも、経済全体の不確実性とコスト上昇は国内外の企業収益に悪影響を与える恐れがある。",
       "category": "Economy",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cn5330l73y2o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/cpvxp4xnrwdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Bank of America tops estimates as CEO Brian Moynihan says consumer banking is 'healthy'",
-      "summary_2lines": "Bank of Americaは2024年第1四半期に予想を上回る収益と利益を報告し、EPSは過去20年で最高水準となった。特に株式取引と投資銀行部門が好調で、消費者や企業の信用状況も良好とCEOが述べた。",
-      "why_it_matters": "米国最大級の銀行の好調な決算は、金融業界の健全性や経済全体の消費・貸出状況の良好さを示す重要な指標。特に金利上昇環境下での純金利収入増や信用損失の低下は、景気の安定性と銀行のリスク管理の健全さを示しているため注目される。",
-      "market_impact": "銀行の強い業績は金融株への投資家の信頼感を高め、米国株式市場全体のセンチメント改善に寄与する可能性がある。加えて、純金利収入の上方修正は今後の収益見通しの強化につながり、銀行の貸出拡大や設備投資促進を後押しする。一方、固定収入部門の弱さには注意が必要だが、全体としては好調なトレンドが市場にポジティブな影響を及ぼすとみられる。",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/15/bank-of-america-bac-earnings-q1-2026.html"
+      "title": "UK economy grew faster than expected in February ahead of Iran war",
+      "summary_2lines": "英国経済は2月に予想以上の0.5%成長を記録し、1月の成長率も0.1%に上方修正された。だが、イランとの戦争開始後、エネルギー価格の高騰が続き、IMFは今年の成長見通しを大幅に下方修正した。",
+      "why_it_matters": "2月の好調な経済成長はエネルギー価格ショックや地政学リスクが顕在化する前の状況であり、今回の戦争勃発はインフレ圧力と金融政策に影響を与え、今後の成長に対して重大なリスクとなっている。IMFや各専門家が予測を下方修正していることから、世界経済の先行き不透明感と英国経済の脆弱さが浮き彫りになった。",
+      "market_impact": "エネルギー価格の高騰がインフレを刺激し、金利が据え置きや上昇に転じる可能性が高まったため、住宅ローン金利の上昇や融資の引き締めが進行。消費や投資の抑制、サービス業や製造業へのコスト増加など企業収益の悪化リスクもある。短期的な成長好調は持続しにくく、景気後退リスクと合わせ市場の不安定化が懸念されている。",
+      "category": "Economy",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cz0e23r0993o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "categories": {
-    "Tech": [
-      {
-        "title": "Social media leaders called to Downing Street over children's safety",
-        "summary_2lines": "英国首相とテクノロジー担当大臣がMetaやTikTokなどのSNS大手経営陣を招集し、子どものオンライン安全対策について議論。政府は16歳未満のSNS利用禁止を含む規制強化を検討中だが、議会ではまだ議論が続いている。",
-        "why_it_matters": "子どものオンライン安全は政府・社会の重要課題であり、SNS企業の責任追及や規制強化の動きが世界的に広がる中、英国でも具体的対策の検討が進行中。特にSNS使用が青少年のメンタルヘルスに与える影響や親の懸念が強いため、政策決定は社会的影響が大きい。",
-        "market_impact": "規制強化の可能性によりSNSプラットフォームの運営方針や収益モデルに変更圧力が高まる。広告収入の減少やユーザー離れのリスクが企業にとって重大で、投資家の評価や株価変動にもつながる可能性がある。特に若年層向けの機能制限は事業戦略に直接影響を与える。",
-        "category": "Tech",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/crl11ynjyn1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Chinese robotaxi companies forge ahead with UAE expansion despite Iran war",
-        "summary_2lines": "中国の複数のロボタクシー企業がイラン戦争の影響を受けつつも中東市場、特にUAEでの事業展開を積極的に進めている。DidiをはじめWeRide、Pony.ai、BaiduのApollo Goがドバイやアブダビで試験運行や商用サービスを展開中である。",
-        "why_it_matters": "中東は中国の自動運転技術の海外進出の重要な拠点になっており、地域の地政学的リスクが存在する中での積極展開は、中国企業のグローバル戦略と技術主導の経済外交の深化を示す。これにより、世界的な自動運転市場の競争激化と技術標準の形成に影響を与える可能性がある。",
-        "market_impact": "中国ロボタクシー企業の中東市場参入は、新興市場での商用サービス拡大に繋がり、関連技術開発や投資の活性化を促す。また、競合する米国企業（例：Waymo）との地域やグローバルでの技術競争が一層激化する見込みであり、各社の市場シェア獲得や提携戦略にも大きな影響を与えるだろう。",
-        "category": "Tech",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/15/china-robotaxi-didi-weride-baidu-dubai-uae-expansion.html"
-      }
-    ],
+    "Tech": [],
     "Markets": [
       {
         "title": "Morgan Stanley tops estimates as trading revenue exceeds expectations by nearly $1 billion",
-        "summary_2lines": "Morgan Stanleyは2024年第1四半期決算で予想を上回る利益と収益を達成し、特にトレーディング収益が約10億ドル予想超過した。成長分野は株式および債券トレーディング、投資銀行とウェルスマネジメントで収益が顕著に増加した。",
-        "why_it_matters": "Morgan Stanleyが市場の変動や地政学的リスクを乗り越え、特に固定収入トレーディングでライバルのGoldman Sachsを上回る強さを示したことは、金融業界における競争力と経営手腕の評価に直結する。加えて、投資管理部門の苦戦から業界全体の収益多様化の重要性も示された。",
-        "market_impact": "好決算を受けてMorgan Stanley株は時間外で3%上昇し、市場の信頼回復と金融セクターのポジティブな評価につながる。トレーディング部門の強さは投資家の資金流入を促し、競合のGoldman Sachsには逆風となる可能性がある。さらに、ウェルスマネジメントや投資銀行の収益拡大は米国金融サービス業の回復および拡大を示す指標となる。",
+        "summary_2lines": "Morgan Stanleyの2024年第1四半期決算は市場予想を上回り、特にトレーディング収益が約10億ドル増加した。利益は前年同期比29%増の55.7億ドルに達し、株価は時間外で3%上昇した。",
+        "why_it_matters": "金融市場の不安定な状況下で、Morgan Stanleyが強力なトレーディング収益と多角的なビジネス展開により収益を伸ばし、競合のGoldman Sachsを固定収入取引で上回った点は投資家心理と業界内競争状況に大きな示唆を与える。",
+        "market_impact": "トレーディングや投資銀行収益の好調はMorgan Stanleyの株価上昇を牽引し、同社の市場シェア拡大につながる。特にエネルギー等の資源市場のボラティリティを活用したトレーディング収益増加は他金融機関にも圧力をかけ、業界全体の収益構造に影響を与える可能性が高い。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/15/morgan-stanley-ms-earnings-1q-2026.html"
       },
       {
+        "title": "Retail traders pile into Allbirds after odd AI pivot. History shows it won't end well",
+        "summary_2lines": "AllbirdsがAI分野への急なピボットを発表し、個人投資家が殺到して株価が急騰。しかし過去の事例から、このようなバズワードを利用した急騰は長続きしない傾向がある。",
+        "why_it_matters": "最近の株式市場では、個人投資家が『AI』などのホットワードに反応して波乱を起こしやすい。これが過去の『.com』や『ブロックチェーン』のバブルに似たパターンであり、投資リスクを過小評価しやすい環境が続いていることを示すため重要である。",
+        "market_impact": "Allbirdsの株価はAIピボットの発表で一時800%以上も急騰し、個人投資家の投資熱が高まったが、その後20%以上下落しモメンタムは冷めた。こうした投機的動きは市場のボラティリティを高め、実体経済や企業の基礎的価値とは乖離した価格形成をもたらす可能性がある。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/16/retail-traders-pile-into-allbirds-after-odd-ai-pivot-history-shows-it-wont-end-well.html"
+      },
+      {
         "title": "Goldman Sachs bond traders stumbled as Wall Street rivals thrived: 'A fire is being lit under' them",
-        "summary_2lines": "ゴールドマンサックスの債券トレーディング部門が第1四半期に競合他社に大きく遅れをとり、固定収益部門の収益が10％減少して市場予想を大幅に下回った。一方、競合のJPモルガン、モルガンスタンレー、シティグループは著しい収益増を記録した。",
-        "why_it_matters": "ゴールドマンサックスは従来、混乱期に強みを発揮する固定収益トレーディングでウォール街のトップとしての地位を築いてきたため、今回の著しい業績低迷は同社のトレーディング力や市場環境への対応力に疑問符を投げかける。金融市場の変化や金利予想の転換によってポジション取りが裏目に出たことも影響しており、同社の今後の戦略修正と市場対応が注目される。",
-        "market_impact": "ゴールドマンサックスの固定収益部門の不調は株価下落を招き、同社の市場での評価に影響を及ぼした。一方で、競合他社の好調な収益は市場シェアの移動や投資家の資金配分に変化をもたらす可能性がある。また、金利先行き等の市場予測変動が金融機関のトレーディング戦略に大きなリスクを与えることを示し、業界全体のリスク管理やポジショニングの見直しを促す契機となる。",
+        "summary_2lines": "ゴールドマン・サックスの固定収益部門は2024年第1四半期で大幅に期待を下回る成績を記録し、ライバル他社が好調だった中で大きく遅れを取った。主因は金利関連トレードの誤算にあり、同社の伝統的な強みであるはずの債券トレーディングが苦戦した。",
+        "why_it_matters": "ゴールドマンは固定収益トレーディングで長年ウォール街のリーダーとして評価されており、今回の大幅な成績悪化は同社の競争力低下を示唆している。米国の金融政策の不透明さを受けた市場環境の急変に対応しきれなかったことも、金融機関のリスク管理と戦略の見直しを促す重要な示唆となる。",
+        "market_impact": "ゴールドマンの固定収益部門の不調は投資家の同社株価に一定の短期的な下押し圧力をかけ、同時に競合のJPMorganやMorgan Stanleyなどが強化する固定収益部門の存在感が高まる。金融市場全体では不確実な金利動向がトレーディング戦略のリスクを増加させており、他金融機関の収益構造にも警戒感をもたらす可能性がある。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/15/goldman-sachs-bond-traders-wall-street-rivals.html"
       },
       {
         "title": "Regulators are reportedly zeroing in on suspicious trades ahead of market-moving Trump post",
-        "summary_2lines": "米商品先物取引委員会（CFTC）が、トランプ大統領のイラン攻撃中止発表直前に行われた異常な原油先物取引を調査中。市場が予測できない情報を利用した可能性が浮上している。",
-        "why_it_matters": "重要な市場発表前に不自然な取引が確認されたことは、インサイダー取引や市場操作の疑いを呼び、市場の公正性と透明性が問われる。米政府当局の調査により、市場参加者の信頼維持と規制強化の必要性が浮き彫りになった。",
-        "market_impact": "疑惑の取引による突発的な先物価格変動は投資家の混乱を招き、一時的に株価や原油価格が大きく動いた。調査結果次第では規制強化、取引ルールの見直しが行われ、市場の透明性と安定性が改善される可能性がある。",
+        "summary_2lines": "米商品先物取引委員会（CFTC）がトランプ大統領の市場影響力のある発言直前に発生した異常な原油先物取引を調査中。取引プラットフォーム各社に関連記録の提出を求めている。",
+        "why_it_matters": "不自然な取引が大統領の公表前に行われた可能性は、インサイダー取引や非公表重要情報の漏洩といった市場の公平性や透明性を損なう深刻な疑念を生む。金融規制機関が迅速かつ厳格に調査を進めることは、市場の信頼維持に不可欠である。",
+        "market_impact": "もし内部情報の不正利用が明らかになれば、関連取引規制の強化や罰則の厳格化を招き、先物市場を含む金融市場全体の取引慣行に影響が及ぶ。投資家の警戒感から短期的な市場変動も想定され、取引プラットフォームの監視体制強化にも繋がる可能性がある。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/15/regulators-reportedly-zeroing-in-on-suspicious-trades-ahead-of-trump-post.html"
-      },
-      {
-        "title": "Trump threatens to fire Fed chair Powell if he doesn't leave in May",
-        "summary_2lines": "トランプ大統領は、任期満了後も退任しない連邦準備制度理事会（FRB）議長パウエル氏を解任すると脅迫。後任候補のウォーシュ氏の承認も上院議員ティリス氏の反対で宙ぶらりんの状況が続いている。",
-        "why_it_matters": "FRB議長の解任は前例がなく、独立性が重視される中央銀行の運営に政治的圧力がかかる可能性を示唆。さらに議長交代を巡る政治的対立と調整の難航が、金融政策の予見可能性や信用に影響を与えかねない。",
-        "market_impact": "議長解任発言を受けて米株式市場やドルが売り込まれ、不安定さを増大。FRBの政策運営不透明感が投資家心理を冷やし、短期的には市場のボラティリティ拡大や金利見通しの不透明化が懸念される。",
-        "category": "Markets",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Bank of America tops estimates as CEO Brian Moynihan says consumer banking is 'healthy'",
-        "summary_2lines": "Bank of Americaは2024年第1四半期に予想を上回る収益と利益を報告し、EPSは過去20年で最高水準となった。特に株式取引と投資銀行部門が好調で、消費者や企業の信用状況も良好とCEOが述べた。",
-        "why_it_matters": "米国最大級の銀行の好調な決算は、金融業界の健全性や経済全体の消費・貸出状況の良好さを示す重要な指標。特に金利上昇環境下での純金利収入増や信用損失の低下は、景気の安定性と銀行のリスク管理の健全さを示しているため注目される。",
-        "market_impact": "銀行の強い業績は金融株への投資家の信頼感を高め、米国株式市場全体のセンチメント改善に寄与する可能性がある。加えて、純金利収入の上方修正は今後の収益見通しの強化につながり、銀行の貸出拡大や設備投資促進を後押しする。一方、固定収入部門の弱さには注意が必要だが、全体としては好調なトレンドが市場にポジティブな影響を及ぼすとみられる。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/15/bank-of-america-bac-earnings-q1-2026.html"
       }
     ],
     "Geopolitics": [
       {
-        "title": "US war on Iran was a 'mistake', says Reeves",
-        "summary_2lines": "英国財務相レイチェル・リーブスは、米国がイランとの外交交渉を打ち切り軍事衝突に踏み切ったことを「誤り」と批判。紛争がもたらす経済的影響を懸念し、外交的解決の重要性を強調した。",
-        "why_it_matters": "米イラン紛争は原油供給の重要な海峡であるホルムズ海峡の安全保障に直結し、エネルギー価格の高騰や世界経済の不安定化を招いている。IMFは本紛争が世界的な景気後退を引き起こす可能性を警告しており、特に英国経済に深刻な影響を及ぼす恐れがあるため、国際社会の対応が注目されている。",
-        "market_impact": "エネルギー価格の急騰により企業のコスト構造が悪化し、消費者物価の上昇やインフレ圧力が強まっている。特に英国のようなガス輸入依存国では経済成長率の予測が下方修正され、投資心理の悪化や市場のボラティリティ拡大が懸念される。軍事衝突長期化の場合、サプライチェーン障害や国際貿易への影響も加速する可能性がある。",
+        "title": "Europe has 'maybe six weeks of jet fuel left', energy boss warns",
+        "summary_2lines": "IEAのトップが、イランによるホルムズ海峡の封鎖によりヨーロッパのジェット燃料在庫が約6週間分しかなく、供給不足とフライトキャンセルの可能性を警告した。EUは米国やナイジェリアからの輸入で代替を図るが、必要量の半分以上の補充が困難で、夏季に供給不足が現れる恐れがある。",
+        "why_it_matters": "ヨーロッパは中東からのジェット燃料輸入に大きく依存しており、地政学リスクによる輸送路の閉鎖は航空業界に深刻な供給問題を引き起こす可能性がある。これにより移動制限、航空便の運休、経済活動の停滞が懸念されるため、エネルギー安全保障の観点から極めて重要な問題となっている。",
+        "market_impact": "ジェット燃料価格が急騰し、航空会社の燃料コストが増加することで運賃上昇や利益圧迫が予想される。特に欧州の主要空港での燃料不足が発生すればフライトキャンセルが相次ぎ、観光やビジネス渡航に悪影響を与える。また、燃料供給の不安定さは石油製品市場のボラティリティを高め、関連企業の収益や投資環境にも影響を及ぼす可能性がある。",
         "category": "Geopolitics",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cr5110n2l3mo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/czjw2kz0l22o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Economy": [
       {
-        "title": "Bank boss tells BBC he won't rush interest rate rises",
-        "summary_2lines": "イングランド銀行総裁アンドリュー・ベイリーは、エネルギー価格の大幅上昇による影響を踏まえつつも、金利の引き上げを急がず慎重に判断する意向を示した。国際通貨基金（IMF）も中東紛争後の金利急騰を警戒している。",
-        "why_it_matters": "エネルギー価格の高騰が物価上昇と経済成長抑制の双方に影響しうる中、中央銀行の金利政策の判断は重要な経済運営の鍵となる。過度な利上げは景気悪化を招きかねず、慎重な対応が求められている。また、中東の地政学的リスクが世界経済に波及しているため、金融政策の行方は国内外の経済安定に大きな影響を与える。",
-        "market_impact": "ベイリー総裁の慎重姿勢は市場に一定の安定感をもたらすが、エネルギー価格上昇の継続や紛争の長期化が懸念材料となる。英国の金利据え置きまたは緩やかな引き上げは住宅ローンや企業の借入コストに影響し、消費や投資行動を左右する。加えて、銀行システムの安定が強調されたことは金融市場の信頼維持に寄与する見通し。",
+        "title": "UK economy grew faster than expected in February ahead of Iran war",
+        "summary_2lines": "英国経済は2月に予想以上の0.5%成長を記録し、1月の成長率も0.1%に上方修正された。だが、イランとの戦争開始後、エネルギー価格の高騰が続き、IMFは今年の成長見通しを大幅に下方修正した。",
+        "why_it_matters": "2月の好調な経済成長はエネルギー価格ショックや地政学リスクが顕在化する前の状況であり、今回の戦争勃発はインフレ圧力と金融政策に影響を与え、今後の成長に対して重大なリスクとなっている。IMFや各専門家が予測を下方修正していることから、世界経済の先行き不透明感と英国経済の脆弱さが浮き彫りになった。",
+        "market_impact": "エネルギー価格の高騰がインフレを刺激し、金利が据え置きや上昇に転じる可能性が高まったため、住宅ローン金利の上昇や融資の引き締めが進行。消費や投資の抑制、サービス業や製造業へのコスト増加など企業収益の悪化リスクもある。短期的な成長好調は持続しにくく、景気後退リスクと合わせ市場の不安定化が懸念されている。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cn5330l73y2o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cz0e23r0993o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "No issues with UK fuel supply, says Reeves",
+        "summary_2lines": "英国の財務相ラチェル・リーブスは、燃料供給に問題はないとしつつ、北海の石油・ガス開発や電気・ガス価格連動の見直しを発表予定と語った。IMFはエネルギー危機対策を呼びかける一方、英国経済は2月に予想以上の成長を見せている。",
+        "why_it_matters": "中東の紛争により世界的なエネルギー価格が高騰する中、英国が燃料供給の安定を強調しつつ、北海資源の活用と電気料金制度の改革を進める方針を示したことは、エネルギー政策の転換を示唆している。これにより企業や消費者の負担軽減が期待され、経済の安定性にも影響するため重要である。",
+        "market_impact": "短期的には燃料供給の安定発言で市場の過剰な不安は和らぐ可能性があるが、電気とガス価格の連動解消や北海資源の開発拡大はエネルギーセクターの構造変化を促す。特にエネルギー価格の安定化が進めば企業のコスト負担軽減につながり、経済成長の持続に寄与すると予想される。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c5y97jjnqzyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "UK prepares for food shortages in worst case scenario as Iran war continues",
+        "summary_2lines": "英国政府はイラン戦争の悪化に伴い、ホルムズ海峡閉鎖やCO2供給問題による食料不足を最悪事態として想定し準備を進めている。食材価格の高騰も懸念され、企業は供給リスクより価格上昇に注目している。",
+        "why_it_matters": "ホルムズ海峡は世界のエネルギー供給にとって重要な海上ルートであり、戦争による閉鎖は石油・ガス・肥料価格を押し上げる。CO2不足は食肉処理や保存に影響し、肥料コスト上昇は作物生産の減少に繋がり、英国の食料供給安全保障に深刻なリスクをもたらす可能性がある。",
+        "market_impact": "原油及び肥料価格の高騰により農業コストが増加し、食品価格の上昇圧力が強まる。小売業は供給網の混乱を管理しつつ価格転嫁を迫られ、消費者インフレが加速。生産設備再稼働などの対策が取られるも、経済全体の不確実性とコスト上昇は国内外の企業収益に悪影響を与える恐れがある。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cpvxp4xnrwdo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Corporate": [
       {
-        "title": "AA and BSM ordered to refund learner drivers for hidden fees",
-        "summary_2lines": "AAとBSMの運転教習所がオンライン予約時に隠れた手数料を開示せず、8万人超の学習者に76万ポンドの返金を命じられた。AAは420万ポンドの罰金も科され、透明な価格表示の重要性が改めて示された。",
-        "why_it_matters": "不当な追加料金表示（ドリッププライシング）は消費者を誤導し、不透明な価格体系は消費者の信頼を損なう。今回の措置は競争監視機関が強化された権限を駆使し、オンライン取引の価格透明性を確保する先例となった。",
-        "market_impact": "オンライン販売の透明化を促進し、消費者保護強化によって市場全体の競争環境改善が期待される。特に教育・サービス業界は価格表示手法の見直しを迫られ、法令順守コスト増加やブランドイメージの影響が生じる可能性がある。",
+        "title": "Netflix co-founder Reed Hastings to step down as chairman",
+        "summary_2lines": "Netflixの共同創業者リード・ヘイスティングスが6月に会長職を退任し、慈善活動に注力する意向を示した。第1四半期の売上は16％増加したが、株価は約8％下落した。",
+        "why_it_matters": "ヘイスティングスはNetflixを郵便DVDレンタルから世界的な映像配信企業へと成長させた重要人物であり、彼の退任は企業の経営体制や戦略の転換点となる。競争激化の中、新たな成長分野への注力を迫られているNetflixの将来に影響を与えるため重要だ。",
+        "market_impact": "ヘイスティングスの退任で経営の安定感に不安が生じる一方、第1四半期の好調な業績（価格改定や広告収入増加が寄与）は企業の収益力強化を示す。ただし、株価下落は市場が競争激化や経営体制の変化を警戒していることを意味し、短期的な株価変動の要因となる可能性が高い。",
         "category": "Corporate",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c07000dzg9do?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cvglzn9e82eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Bank of America tops estimates as CEO Brian Moynihan says consumer banking is 'healthy'",
+        "summary_2lines": "Bank of Americaは2024年第1四半期決算で予想を上回る収益と利益を達成し、特に株式トレーディングや投資銀行部門が好調だった。CEOのBrian Moynihanは消費者銀行業務の健全性を強調し、貸出の質も改善していると述べた。",
+        "why_it_matters": "Bank of Americaは米国第二位の大手銀行であり、その決算は金融セクター全体の健康状態を示す指標となる。特に金利上昇環境下での純利息収入の伸びや貸出の質の改善は、経済の安定性や個人消費の持続性を示唆し、金融市場のリスク評価に影響を与えるため重要である。",
+        "market_impact": "株式トレーディングと投資銀行の好調により、Bank of Americaの収益性が向上し、銀行株全般の投資魅力が高まる可能性がある。純利息収入の上方修正ガイダンスは金融株の買い材料となり得る一方、固定収入部門の予想未達は一定の注意点となる。消費者信用の健全性維持は金融システムの安全性につながり、経済全体の信用リスク低減に寄与する見込みである。",
+        "category": "Corporate",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/15/bank-of-america-bac-earnings-q1-2026.html"
       }
     ]
   }
