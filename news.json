@@ -1,124 +1,115 @@
 {
-  "generated_at_jst": "2026-04-20 07:22",
+  "generated_at_jst": "2026-04-21 07:32",
   "todays_brief": [
     {
       "title": "AI startup Cursor in talks to raise $2 billion funding round at valuation of over $50 billion",
-      "summary_2lines": "AIスタートアップのCursorは、500億ドル超の評価額で20億ドルの資金調達を計画している。Andreessen Horowitzが主導し、NvidiaやThrive Capitalも参加予定。",
-      "why_it_matters": "急速に拡大するAIコーディングエージェント市場において、Cursorの大型調達はベンチャーキャピタルの関心の高さと、AIによるソフトウェア開発自動化技術の重要性を示している。これにより競合のGoogleやOpenAIを含む業界全体の競争と技術革新が加速する可能性がある。",
-      "market_impact": "Cursorの大型資金調達はAIスタートアップへの投資熱をさらに高め、関連企業の評価額や資金調達環境に好影響を与えるだろう。ソフトウェア開発コスト削減や効率化の期待からIT業界全体の生産性向上にも寄与し、長期的には技術普及と経済成長の一助となる可能性がある。",
+      "summary_2lines": "AIスタートアップのCursorは、500億ドル超の評価額で20億ドルの資金調達を検討中。Andreessen HorowitzやNvidiaらが参加予定で、AIコーディングエージェント分野での成長を加速させる。",
+      "why_it_matters": "AIを活用したソフトウェア開発支援技術が注目を集める中、Cursorの大型資金調達は、その分野に対する投資家の強い期待と技術革新の加速を示している。特に競合がGoogleやOpenAIなど大手企業であることから、AIコーディング市場の競争激化と市場拡大の潮流を反映している。",
+      "market_impact": "巨額の資金調達によりCursorは研究開発やサービス展開を加速でき、AIコーディングツール市場の競争環境が激化する。既存投資家だけでなく新規投資家の参入も見込まれ、関連技術企業の株価上昇やAI分野のベンチャー投資が活性化する可能性が高い。",
       "category": "Tech",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/04/19/cursor-ai-2-billion-funding-round.html"
     },
     {
-      "title": "Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire",
-      "summary_2lines": "イランがホルムズ海峡が停戦期間中は「完全に開放」されると宣言し、原油価格が急落した。これにより世界のエネルギー供給不安が一部緩和された。",
-      "why_it_matters": "ホルムズ海峡は世界の原油と液化天然ガスの約5分の1が通過する戦略的な海上交通路である。戦争による閉鎖は世界のエネルギー市場に大きな混乱をもたらし、石油価格を急騰させたため、この開放宣言は供給安定化への期待を高め市場に影響を与えた。",
-      "market_impact": "原油先物価格が一時9ドル以上下落し、エネルギーコストの高騰が抑制される兆しが見えた。株価にも好影響が表れ、米国のS&P500や欧州主要株価指数が上昇した。一方、海運業界は依然として安全保障上のリスクを警戒しており、取引の完全回復には慎重な姿勢が求められている。燃料価格の高止まりが緩和の兆しを見せるが、原油供給の不確実性は依然残るため市場の動向に注目が必要。",
-      "category": "Markets",
+      "title": "Apple names new chief executive to replace Tim Cook",
+      "summary_2lines": "Appleはティム・クックCEOの後任に、ハードウェアエンジニアリングの責任者ジョン・ターナスを9月1日付で任命した。クックは取締役会長に就任し引き続き会社に関与する。",
+      "why_it_matters": "クックは2011年からAppleを率い、同社を世界価値4兆ドルの巨大企業に成長させたが、一方で新たな革新的製品の開発停滞が指摘されていた。ターナスは製品開発とハードウェアに豊富な経験があり、Appleの次世代の製品革新を牽引する期待がかかる。",
+      "market_impact": "ターナスのCEO就任により、Appleは新型折りたたみスマホやウェアラブル端末など新規製品の開発に注力すると予想され、投資家の期待が高まる可能性がある。クックの安定した経営からの変革が企業成長の次の段階につながるか、市場の注目が集まる。",
+      "category": "Corporate",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Here are 3 forces that drove a remarkable, record-setting week on Wall Street",
-      "summary_2lines": "米国市場はイランとの和平期待や銀行業績の好調、ソフトウェア株の反発を背景にS&P500が過去最高値を更新した。ナスダックは13連勝と1992年以来の史上最長の連勝記録を樹立した。",
-      "why_it_matters": "イラン・米国間の緊張緩和により地政学的リスクが後退し、市場心理が改善したことが急速な株価回復を促した。加えて、銀行の堅調な業績は消費者の強さを示し、弱含んでいたソフトウェア株の反発はテクノロジーセクター全体への好影響を与えたため、投資家のリスク選好を押し上げている。",
-      "market_impact": "地政学リスクの後退による株価上昇は幅広い銘柄に波及し、特に戦争関連で圧迫されていた住宅関連やソフトウェア株に資金流入が加速。大手銀行の消費者支出拡大も好感され金融株の堅調を支えた。これにより短期的に市場全体のセンチメント改善と資産ローテーションが進み、さらに政策金利の引き下げ期待も投資環境を後押ししている。",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/18/the-3-forces-that-drove-a-remarkable-record-setting-week-on-wall-street.html"
-    },
-    {
-      "title": "Mortgage rates show signs of falling after Iran war peak",
-      "summary_2lines": "イラン紛争の影響で急上昇していた住宅ローン金利が、停戦の期待から下落傾向を示し始めている。大手貸出業者は新規契約の金利を引き下げ、初めての住宅購入者にとって一部で安堵をもたらしている。",
-      "why_it_matters": "住宅ローン金利は個人の住宅購入力に直結し、生活費や経済活動全般に大きな影響を及ぼすため、イラン紛争による金利急騰は多くの初めての購入者を圧迫していた。紛争終結の兆しで金利が落ち着くことは、住宅市場の安定化や消費者マインド回復に寄与する重要な指標である。",
-      "market_impact": "金利低下を受けて、借入コストの上昇に耐えていた住宅需要が徐々に戻り始める可能性がある。金融機関は金利引き下げで新規顧客獲得を図り、不動産市場の活性化に繋がる。だが中東情勢の不透明さは市場のボラティリティを維持し、借り手は金利変動に備えた財務準備が必要なままである。",
-      "category": "Economy",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Finance ministers and bankers raise serious concerns about Mythos AI model",
-      "summary_2lines": "財務大臣や銀行家らが、Anthropic社の新たなAIモデル「Claude Mythos」が金融システムのサイバーセキュリティに重大な脆弱性をもたらす可能性を懸念。モデルは多くの主要OSの弱点を特定できるが、さらなる検証が必要とされている。",
-      "why_it_matters": "Claude Mythosは金融インフラの安全性を脅かす可能性があり、国際金融機関や大手銀行が対応を急いでいる。AIの進化によりサイバーセキュリティの脅威が高度化し、金融市場の安定維持に新たな課題を突きつけているため、適切な監視と対策が不可欠となっている。",
-      "market_impact": "金融機関は新たなサイバーリスクを抱えることになり、防御体制の強化やシステム改修コストが増加する可能性が高い。信用リスクの増大や市場混乱を防ぐためにAIモデルの検証と規制強化が求められ、関連するサイバーセキュリティ企業の需要増加や株価動向にも影響を及ぼす可能性がある。",
+      "title": "Blue Origin rocket grounded after satellite 'mishap'",
+      "summary_2lines": "Blue Originの新型ロケットNew Glennがエンジンの推力不足により衛星を予定軌道に投入できず、FAAが事故調査を指示したため打ち上げが停止された。これによりAST SpaceMobileの株価は6%以上下落した。",
+      "why_it_matters": "宇宙産業は通信衛星の大量打ち上げによるグローバルなインターネット接続強化が進む中、この事故は商業用大型ロケットの信頼性と開発競争に影響を与える。Blue OriginはAmazon創業者のベゾス氏の企業であり、SpaceXのStarlinkに対抗するプロジェクトを推進しているため、今回の失敗は業界パフォーマンスや今後の技術進展に注目される。",
+      "market_impact": "AST SpaceMobileの株価が6%以上急落したほか、Blue Originのロケット打ち上げ停止により衛星通信市場や関連サプライチェーンに短期的な不安が広がる可能性がある。Amazonの衛星事業拡大計画にも遅延リスクが生じ、競合するSpaceXの市場優位性が相対的に強まる見込みで、投資家の警戒感が増す状況となっている。",
       "category": "Tech",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "AST SpaceMobile shares drop after its satellite is placed in wrong orbit by Bezos' Blue Origin",
+      "summary_2lines": "AST SpaceMobileの衛星がBlue Originのロケットで予定より低い軌道に投入され、衛星を喪失。これに伴い同社の株価は5％超下落した。",
+      "why_it_matters": "AST SpaceMobileは低軌道衛星ネットワーク構築を急いでおり、今回の衛星損失は目標達成の遅れに直結する可能性が高い。加えて、Blue Originのロケット成功が同社の今後の事業進展に不可欠であり、両社の関係性と事業リスクが注目される。",
+      "market_impact": "株価は即時に下落したものの、保険で損失はある程度カバーされる見込み。アナリストは目標達成の困難さを指摘しつつも、技術面での経験蓄積を評価。今後の打ち上げ遅延やBlue Originの成功への依存度が高く、投資家心理に不安要素が残る状況と分析される。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/20/ast-falls-after-bezos-blue-origin-places-satellite-in-wrong-orbit.html"
+    },
+    {
+      "title": "If a violent downturn strikes the market, new ETF strategies may be vulnerable. Here's why",
+      "summary_2lines": "新しい複雑なデリバティブを用いたETF戦略は、急激な市場下落時に流動性リスクが高まる可能性がある。投資家は透明性や流動性の状況を注意深く精査すべきだと専門家が警鐘を鳴らしている。",
+      "why_it_matters": "ETFは資産運用の主流商品として急速に拡大しているが、複雑な資産を組み入れた新型ETFは従来以上に流動性リスクや透明性の問題を抱える。市場が大幅な下落局面に入った際、これらのETFの価格形成や資金の引き出しが滞る懸念があり、投資家保護の観点からも重要な課題となっている。",
+      "market_impact": "急激な市場悪化時にこれらの複雑なETFが急速に売られると、流動性が不足し価格の乖離や混乱を招く恐れがある。特にプライベートクレジットやエクイティ連動ノートを含むETFは信用リスクも高いため、金融市場全体の安定性に波及する可能性がある。投資家の慎重な対応と発行者の適切なリスク管理体制が求められるだろう。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/17/violent-downturns-could-test-new-etf-strategies-warns-mfs-investment.html"
     }
   ],
   "categories": {
     "Tech": [
       {
-        "title": "Tinder and Zoom offer 'proof of humanity' eye-scans to combat AI",
-        "summary_2lines": "TinderとZoomは、AIによる偽アカウントやディープフェイク対策として、虹彩スキャンによる「人間証明」機能を導入する。ユーザーはWorld IDを使って自分が人間であることを認証できるようになる。",
-        "why_it_matters": "近年、AI技術の進化で偽プロフィールや音声・映像のなりすましが増加し、詐欺やセキュリティリスクが深刻化している。信頼できる人間認証の仕組みはオンラインサービスの安全性確保とユーザー保護に不可欠となっている。",
-        "market_impact": "TinderやZoomなど主要プラットフォームで信頼性を高めることで、詐欺被害や悪質ユーザーの排除が期待される。これによりユーザーの安心感が向上し、サービス利用の活性化や企業のブランド価値向上に繋がると見られる。また、世界ID技術を提供するWorld（旧Worldcoin）にとっても事業拡大の追い風となる可能性が高い。",
-        "category": "Tech",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cp9vppem4evo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "AI startup Cursor in talks to raise $2 billion funding round at valuation of over $50 billion",
-        "summary_2lines": "AIスタートアップのCursorは、500億ドル超の評価額で20億ドルの資金調達を計画している。Andreessen Horowitzが主導し、NvidiaやThrive Capitalも参加予定。",
-        "why_it_matters": "急速に拡大するAIコーディングエージェント市場において、Cursorの大型調達はベンチャーキャピタルの関心の高さと、AIによるソフトウェア開発自動化技術の重要性を示している。これにより競合のGoogleやOpenAIを含む業界全体の競争と技術革新が加速する可能性がある。",
-        "market_impact": "Cursorの大型資金調達はAIスタートアップへの投資熱をさらに高め、関連企業の評価額や資金調達環境に好影響を与えるだろう。ソフトウェア開発コスト削減や効率化の期待からIT業界全体の生産性向上にも寄与し、長期的には技術普及と経済成長の一助となる可能性がある。",
+        "summary_2lines": "AIスタートアップのCursorは、500億ドル超の評価額で20億ドルの資金調達を検討中。Andreessen HorowitzやNvidiaらが参加予定で、AIコーディングエージェント分野での成長を加速させる。",
+        "why_it_matters": "AIを活用したソフトウェア開発支援技術が注目を集める中、Cursorの大型資金調達は、その分野に対する投資家の強い期待と技術革新の加速を示している。特に競合がGoogleやOpenAIなど大手企業であることから、AIコーディング市場の競争激化と市場拡大の潮流を反映している。",
+        "market_impact": "巨額の資金調達によりCursorは研究開発やサービス展開を加速でき、AIコーディングツール市場の競争環境が激化する。既存投資家だけでなく新規投資家の参入も見込まれ、関連技術企業の株価上昇やAI分野のベンチャー投資が活性化する可能性が高い。",
         "category": "Tech",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/19/cursor-ai-2-billion-funding-round.html"
       },
       {
-        "title": "Finance ministers and bankers raise serious concerns about Mythos AI model",
-        "summary_2lines": "財務大臣や銀行家らが、Anthropic社の新たなAIモデル「Claude Mythos」が金融システムのサイバーセキュリティに重大な脆弱性をもたらす可能性を懸念。モデルは多くの主要OSの弱点を特定できるが、さらなる検証が必要とされている。",
-        "why_it_matters": "Claude Mythosは金融インフラの安全性を脅かす可能性があり、国際金融機関や大手銀行が対応を急いでいる。AIの進化によりサイバーセキュリティの脅威が高度化し、金融市場の安定維持に新たな課題を突きつけているため、適切な監視と対策が不可欠となっている。",
-        "market_impact": "金融機関は新たなサイバーリスクを抱えることになり、防御体制の強化やシステム改修コストが増加する可能性が高い。信用リスクの増大や市場混乱を防ぐためにAIモデルの検証と規制強化が求められ、関連するサイバーセキュリティ企業の需要増加や株価動向にも影響を及ぼす可能性がある。",
+        "title": "Blue Origin rocket grounded after satellite 'mishap'",
+        "summary_2lines": "Blue Originの新型ロケットNew Glennがエンジンの推力不足により衛星を予定軌道に投入できず、FAAが事故調査を指示したため打ち上げが停止された。これによりAST SpaceMobileの株価は6%以上下落した。",
+        "why_it_matters": "宇宙産業は通信衛星の大量打ち上げによるグローバルなインターネット接続強化が進む中、この事故は商業用大型ロケットの信頼性と開発競争に影響を与える。Blue OriginはAmazon創業者のベゾス氏の企業であり、SpaceXのStarlinkに対抗するプロジェクトを推進しているため、今回の失敗は業界パフォーマンスや今後の技術進展に注目される。",
+        "market_impact": "AST SpaceMobileの株価が6%以上急落したほか、Blue Originのロケット打ち上げ停止により衛星通信市場や関連サプライチェーンに短期的な不安が広がる可能性がある。Amazonの衛星事業拡大計画にも遅延リスクが生じ、競合するSpaceXの市場優位性が相対的に強まる見込みで、投資家の警戒感が増す状況となっている。",
         "category": "Tech",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Markets": [
       {
-        "title": "Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire",
-        "summary_2lines": "イランがホルムズ海峡が停戦期間中は「完全に開放」されると宣言し、原油価格が急落した。これにより世界のエネルギー供給不安が一部緩和された。",
-        "why_it_matters": "ホルムズ海峡は世界の原油と液化天然ガスの約5分の1が通過する戦略的な海上交通路である。戦争による閉鎖は世界のエネルギー市場に大きな混乱をもたらし、石油価格を急騰させたため、この開放宣言は供給安定化への期待を高め市場に影響を与えた。",
-        "market_impact": "原油先物価格が一時9ドル以上下落し、エネルギーコストの高騰が抑制される兆しが見えた。株価にも好影響が表れ、米国のS&P500や欧州主要株価指数が上昇した。一方、海運業界は依然として安全保障上のリスクを警戒しており、取引の完全回復には慎重な姿勢が求められている。燃料価格の高止まりが緩和の兆しを見せるが、原油供給の不確実性は依然残るため市場の動向に注目が必要。",
-        "category": "Markets",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Here are 3 forces that drove a remarkable, record-setting week on Wall Street",
-        "summary_2lines": "米国市場はイランとの和平期待や銀行業績の好調、ソフトウェア株の反発を背景にS&P500が過去最高値を更新した。ナスダックは13連勝と1992年以来の史上最長の連勝記録を樹立した。",
-        "why_it_matters": "イラン・米国間の緊張緩和により地政学的リスクが後退し、市場心理が改善したことが急速な株価回復を促した。加えて、銀行の堅調な業績は消費者の強さを示し、弱含んでいたソフトウェア株の反発はテクノロジーセクター全体への好影響を与えたため、投資家のリスク選好を押し上げている。",
-        "market_impact": "地政学リスクの後退による株価上昇は幅広い銘柄に波及し、特に戦争関連で圧迫されていた住宅関連やソフトウェア株に資金流入が加速。大手銀行の消費者支出拡大も好感され金融株の堅調を支えた。これにより短期的に市場全体のセンチメント改善と資産ローテーションが進み、さらに政策金利の引き下げ期待も投資環境を後押ししている。",
+        "summary_2lines": "米国株式市場はイランとの和平期待により、S&P500が7,100超え、ナスダックは13営業日連続上昇の記録を達成。ソフトウェア株や銀行決算も好調で市場が急回復した週だった。",
+        "why_it_matters": "長期間の米イラン対立を背景に市場は大きく揺れていたが、和平交渉の進展が投資家心理を回復させ、不安定な情勢にもかかわらず株式市場が史上最高値を更新。これは地政学的リスクの緩和が株価に与える大きな影響を示し、今後の金融政策やセクター別の動向に重要な示唆を与える。",
+        "market_impact": "和平合意期待によるリスクオフの終了が市場を押し上げ、テクノロジー株（特にソフトウェア）が顕著に回復。銀行セクターの好調な決算が消費耐性の強さを示し、経済基盤の健全さを裏付けた。これにより投資家はこれまで敬遠していた分野への資金シフトを開始し、今後の企業業績や金利政策に好影響を及ぼす可能性が高い。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/18/the-3-forces-that-drove-a-remarkable-record-setting-week-on-wall-street.html"
       },
       {
+        "title": "The insider trading suspicions looming over Trump's presidency",
+        "summary_2lines": "トランプ大統領の重要発言の直前に、特定の市場で異常な取引が多数確認され、不正インサイダー取引の疑いが浮上している。特に原油や株式市場で大きな利益を得た可能性がある事例が複数ある。",
+        "why_it_matters": "インサイダー取引は金融市場の公平性と信頼性を著しく損なう重大な不正行為であるため、この疑惑は米国の政治と金融市場の透明性、法規制の強化に対する関心を高める。大統領の発言が市場に与える影響の大きさから、情報の取扱いや監視体制の改善が求められる。",
+        "market_impact": "原油先物や株式市場で事前に大きな取引が集中し、その後の価格変動を利用して巨額の利益が発生。これにより市場の価格形成メカニズムが歪み、一般投資家の信頼が低下。規制当局が調査や法的措置を強化すれば、市場参加者の行動や取引慣行に影響を及ぼす可能性が高い。",
+        "category": "Markets",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Software stock dogs have joined market rally. There's a classic investing lesson in the rebound",
-        "summary_2lines": "サイバーセキュリティやエンタープライズソフトウェア株はAI関連の懸念で2026年に大幅下落したが、直近の相場反発により回復傾向を見せている。著名投資家やアナリストも底打ちの可能性を指摘し、押し目買いの好機とされている。",
-        "why_it_matters": "テクノロジー業界、特にソフトウェア・サイバーセキュリティ株はAIへの過剰な懸念で大きく値を下げたものの、企業のファンダメンタルは依然健全であり、業界回復の兆しが見える。これは市場全体の資金流動性の変化や投資家の心理を反映しており、AIがもたらす競争と機会の両面を理解する上で重要である。",
-        "market_impact": "ソフトウェア株とサイバーセキュリティ関連ETFが短期の下落から反発し、投資家のポジション見直しや資金流入が促進されている。特にMicrosoftやPalo Alto Networksなど大手銘柄の株価回復が顕著で、市場全体のテクノロジーセクターにも好影響を与える可能性がある。一方で、慎重姿勢も残っており過度な買い戻しは限定的と予想される。",
+        "summary_2lines": "サイバーセキュリティとエンタープライズソフト株は2026年に苦戦していたが、最近の市場ラリーで反発した。AI関連の懸念で売られていたものの、バーやアナリストは買い場として注目している。",
+        "why_it_matters": "AIが企業向けソフトウェアやセキュリティ業界に与える影響を巡り市場心理が大きく揺れていた中、安値からの反発は投資家にとって重要な転換点となる。これはテクノロジー分野における資金繰りや投資戦略の見直しにつながり、業績堅調な銘柄を狙った魅力的な投資機会を示している。",
+        "market_impact": "一時的な売り圧力からの反発により、MicrosoftやPalo Alto Networks、CrowdStrikeなど主要銘柄の株価が回復傾向を示し、サイバーセキュリティETFも週単位で10%前後の上昇。これが持続すれば、ソフトウェア株への資金流入が増加し、AI関連競争環境の中でのM&Aも活発化する可能性がある。一方で投資家はまだ慎重な姿勢を崩しておらず、急激な上昇は限定的との見方も強い。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/19/software-tech-stocks-market-rally-microsoft.html"
       },
       {
-        "title": "Retail traders pile into Allbirds after odd AI pivot. History shows it won't end well",
-        "summary_2lines": "AllbirdsがAIに特化した新ブランドへ急転換を発表し、小口投資家の買いが殺到して株価は一時800％超上昇したが、その後急落し、不安定さを露呈した。過去の類似ケース同様、AIバズワードを利用した短期的な投機的買いに過ぎない可能性が高い。",
-        "why_it_matters": "AI関連銘柄への過剰な期待と投機は、バブルの再来を示唆しており、これが市場リスクを見えにくくするため注意が必要。小口投資家の動向が市場の過熱や急激な値動きを招き、投資家心理や流動性に直結する現象として重要である。",
-        "market_impact": "Allbirdsの株価急騰は一時的な時価総額増加をもたらしたが、その後の急落により投資家の損失や市場の不安定化につながった。AIバズワードを巡る過度な期待で、類似銘柄への連鎖的な投機買いが加速し、短期的には市場全体のボラティリティが高まる可能性がある。",
+        "title": "AST SpaceMobile shares drop after its satellite is placed in wrong orbit by Bezos' Blue Origin",
+        "summary_2lines": "AST SpaceMobileの衛星がBlue Originのロケットで予定より低い軌道に投入され、衛星を喪失。これに伴い同社の株価は5％超下落した。",
+        "why_it_matters": "AST SpaceMobileは低軌道衛星ネットワーク構築を急いでおり、今回の衛星損失は目標達成の遅れに直結する可能性が高い。加えて、Blue Originのロケット成功が同社の今後の事業進展に不可欠であり、両社の関係性と事業リスクが注目される。",
+        "market_impact": "株価は即時に下落したものの、保険で損失はある程度カバーされる見込み。アナリストは目標達成の困難さを指摘しつつも、技術面での経験蓄積を評価。今後の打ち上げ遅延やBlue Originの成功への依存度が高く、投資家心理に不安要素が残る状況と分析される。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/16/retail-traders-pile-into-allbirds-after-odd-ai-pivot-history-shows-it-wont-end-well.html"
+        "url": "https://www.cnbc.com/2026/04/20/ast-falls-after-bezos-blue-origin-places-satellite-in-wrong-orbit.html"
       },
       {
         "title": "If a violent downturn strikes the market, new ETF strategies may be vulnerable. Here's why",
-        "summary_2lines": "新しい複雑なデリバティブを利用するETFは、極端な市場下落時に流動性リスクや透明性の欠如で脆弱になる可能性がある。投資家はポートフォリオの内容やリスク管理体制を十分に確認する必要がある。",
-        "why_it_matters": "ETFは多くの投資家が利用する金融商品であり、その革新的な商品設計は流動性不足や価格乖離のリスクを伴う。市場の激しい変動時にこれらのリスクが顕在化すれば、投資家の資産価値や市場の安定性に重大な影響を及ぼすため、事前のリスク把握と適切な資産運用が不可欠となる。",
-        "market_impact": "極端な市場下落時には複雑なデリバティブを含むETFの取引価格が純資産価値から乖離しやすく、流動性不足によって売買が困難になる可能性が高い。これにより投資家の損失拡大や資金の流動性低下が発生し、信頼性低下やETF市場全体のリスク感受性が上昇する恐れがある。特に、プライベートクレジットや株式連動型ノートを組み入れたETFは今後の市場ショックで注視すべきだ。",
+        "summary_2lines": "新しい複雑なデリバティブを用いたETF戦略は、急激な市場下落時に流動性リスクが高まる可能性がある。投資家は透明性や流動性の状況を注意深く精査すべきだと専門家が警鐘を鳴らしている。",
+        "why_it_matters": "ETFは資産運用の主流商品として急速に拡大しているが、複雑な資産を組み入れた新型ETFは従来以上に流動性リスクや透明性の問題を抱える。市場が大幅な下落局面に入った際、これらのETFの価格形成や資金の引き出しが滞る懸念があり、投資家保護の観点からも重要な課題となっている。",
+        "market_impact": "急激な市場悪化時にこれらの複雑なETFが急速に売られると、流動性が不足し価格の乖離や混乱を招く恐れがある。特にプライベートクレジットやエクイティ連動ノートを含むETFは信用リスクも高いため、金融市場全体の安定性に波及する可能性がある。投資家の慎重な対応と発行者の適切なリスク管理体制が求められるだろう。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/17/violent-downturns-could-test-new-etf-strategies-warns-mfs-investment.html"
@@ -127,24 +118,34 @@
     "Geopolitics": [],
     "Economy": [
       {
-        "title": "'I'm the lucky one' - more than one in three young men live with their parents",
-        "summary_2lines": "2025年、英国の若年男性の35%が親と同居しており、2000年の26%から増加している。高騰する家賃や住宅価格が若者の独立を難しくしている。",
-        "why_it_matters": "若者の親との同居率増加は、住宅市場の圧迫や生活費の高騰を反映し、世代間の経済的不平等や将来の消費動向に影響を与える重要な社会問題。生活費上昇が家計を圧迫し、若者の経済的自立を妨げている現状を示している。",
-        "market_impact": "住宅需要構造の変化に伴い、賃貸市場や住宅建設業界への影響が懸念される。若者の消費能力低下は小売業やサービス業の売上減少を招き、経済全般の活力低下につながる。また、貯蓄の増加傾向は金融商品への投資動向にも影響を与える可能性がある。",
+        "title": "Trump tariff refunds begin but consumers likely to miss out",
+        "summary_2lines": "米最高裁が無効としたトランプ政権の関税について、米税関が約1600億ドルの返金処理を開始した。だが、関税のコストを消費者に転嫁された個人は補償を受けられない見込みだ。",
+        "why_it_matters": "トランプ政権による大規模な関税措置は、米国の貿易政策と製造業に大きな影響を及ぼした。最高裁の判断により企業が返金を受けられるが、価格上昇を負担した消費者は対象外で、関税の経済的影響の公平性や将来の政策の方向性が問われている。",
+        "market_impact": "約330,000の輸入業者が返金対象となり資金繰りが改善する可能性があるが、申請に遅延やエラーも報告されている。小規模企業は返金による一時的な安心感があるものの、新たな関税の懸念が市場心理に影響。消費者への補償がないため消費マインド回復には限界があり、今後の関税政策が企業経営や消費動向に左右される。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Mortgage rates show signs of falling after Iran war peak",
-        "summary_2lines": "イラン紛争の影響で急上昇していた住宅ローン金利が、停戦の期待から下落傾向を示し始めている。大手貸出業者は新規契約の金利を引き下げ、初めての住宅購入者にとって一部で安堵をもたらしている。",
-        "why_it_matters": "住宅ローン金利は個人の住宅購入力に直結し、生活費や経済活動全般に大きな影響を及ぼすため、イラン紛争による金利急騰は多くの初めての購入者を圧迫していた。紛争終結の兆しで金利が落ち着くことは、住宅市場の安定化や消費者マインド回復に寄与する重要な指標である。",
-        "market_impact": "金利低下を受けて、借入コストの上昇に耐えていた住宅需要が徐々に戻り始める可能性がある。金融機関は金利引き下げで新規顧客獲得を図り、不動産市場の活性化に繋がる。だが中東情勢の不透明さは市場のボラティリティを維持し、借り手は金利変動に備えた財務準備が必要なままである。",
-        "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c7vqgge5g8lo?at_medium=RSS&at_campaign=rss"
       }
     ],
-    "Corporate": []
+    "Corporate": [
+      {
+        "title": "Apple names new chief executive to replace Tim Cook",
+        "summary_2lines": "Appleはティム・クックCEOの後任に、ハードウェアエンジニアリングの責任者ジョン・ターナスを9月1日付で任命した。クックは取締役会長に就任し引き続き会社に関与する。",
+        "why_it_matters": "クックは2011年からAppleを率い、同社を世界価値4兆ドルの巨大企業に成長させたが、一方で新たな革新的製品の開発停滞が指摘されていた。ターナスは製品開発とハードウェアに豊富な経験があり、Appleの次世代の製品革新を牽引する期待がかかる。",
+        "market_impact": "ターナスのCEO就任により、Appleは新型折りたたみスマホやウェアラブル端末など新規製品の開発に注力すると予想され、投資家の期待が高まる可能性がある。クックの安定した経営からの変革が企業成長の次の段階につながるか、市場の注目が集まる。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Another flight leaves passengers behind due to border delays",
+        "summary_2lines": "欧州の新デジタル入出国管理システムEES導入により、ミラノベルガモ空港などでパスポート審査が遅延し、ライアンエアーなどの便から乗客が多数取り残された。非EU市民のバイオメトリクス登録義務化が原因で混乱が続いている。",
+        "why_it_matters": "EUは入管セキュリティ強化を目的にEESを導入したが、新システムは技術的な問題から運用初期に混乱を招いている。これにより利用者のフライト遅延や放置が発生し、旅行者の信頼低下や航空業界のサービス問題に波及する恐れがあるため注目されている。",
+        "market_impact": "航空会社は乗客のフライト脱落による顧客満足度の低下や賠償対応コストが増加し、イメージ悪化で顧客離れのリスクが高まる。空港運営側も入国審査対応に人員増強や手続き改善が求められ、欧州の観光産業や関連サービスにも悪影響が出る可能性がある。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cvg3xzxpv32o?at_medium=RSS&at_campaign=rss"
+      }
+    ]
   }
 }
