@@ -1,99 +1,99 @@
 {
-  "generated_at_jst": "2026-04-22 07:29",
+  "generated_at_jst": "2026-04-23 07:37",
   "todays_brief": [
     {
-      "title": "Trump administration discussing currency swap line with United Arab Emirates",
-      "summary_2lines": "トランプ政権はイランとの緊張により経済的打撃を受けるUAEへのドル流動性供給を検討している。正式な通貨スワップラインの要請はないが、政治的リスクを伴う支援案が議論されている。",
-      "why_it_matters": "米国とUAEは緊密な同盟関係にあり、イランとの対立が中東の安定や世界のエネルギー市場に影響を与えている。通貨スワップはUAEの資金繰りを支える一方、米国内での政治的反発やドルの国際的地位に関わる重要な判断となるため注目される。",
-      "market_impact": "ドル流動性供給が実現すれば、UAEの経済的安定に寄与し原油輸出の維持につながる可能性がある。ただし、米国の財政負担やドル優位性への挑戦、米消費者負担増加への懸念から政治リスクが高い。中国元の使用拡大を警戒するエネルギー市場の動きにも影響を与える。",
-      "category": "Geopolitics",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/21/trump-iran-war-white-house-uae-currency-swap-line.html"
-    },
-    {
       "title": "Here's what to expect from Fed chair nominee Kevin Warsh's Senate hearing Tuesday",
-      "summary_2lines": "ケビン・ウォーシュ氏がFRB議長候補として上院銀行委員会で公聴会に臨み、低金利政策とFRBの政治的独立性について説明する。財務状況や政治的中立性への懸念が議論の中心となっている。",
-      "why_it_matters": "FRB議長は米国の金融政策を左右する重要な役職であり、金利政策が経済成長やインフレ抑制に直接影響を与える。政治的独立性の確保は市場の信頼性維持に不可欠であり、ウォーシュ氏の政策スタンスや財務状況は市場の安定に影響を与えるため注目されている。",
-      "market_impact": "もしウォーシュ氏が低金利を推進しつつ政治的独立性を維持できると認識されれば、金融市場は政策の一貫性を期待して安定する可能性が高い。一方、政治的圧力や利益相反の懸念が強まれば市場不安や変動性の増大を招く恐れがある。議会での承認遅延も政策実施の不確実性を高める要因となる。",
-      "category": "Economy",
+      "summary_2lines": "Kevin Warsh, nominated by President Trump to be the next Fed chair, faces a Senate hearing focusing on his stance on Fed independence and his financial disclosures. His ability to balance political pressure with monetary policy autonomy is key to his confirmation and future role.",
+      "why_it_matters": "The Federal Reserve chair controls U.S. monetary policy, influencing interest rates and the broader economy. Warsh’s confirmation is crucial as it signals the Fed's commitment to independence amidst political pressure to lower interest rates. His financial background and political allegiance also raise concerns about potential conflicts of interest and the integrity of the Fed's decision-making process.",
+      "market_impact": "If confirmed, Warsh may shift monetary policy towards more dovish interest rate settings in line with Trump’s agenda, potentially impacting borrowing costs, inflation expectations, and market confidence. However, doubts about his independence and financial entanglements could increase market uncertainty. The hearing's outcome will influence investor views on the Fed’s future policy direction and its political neutrality.",
+      "category": "Markets",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/04/21/kevin-warshs-senate-hearing-what-to-expect.html"
     },
     {
-      "title": "JPMorgan expands $1.5 trillion economic security splurge into Europe",
-      "summary_2lines": "JPMorgan Chaseは、米国で開始した1.5兆ドル規模の経済安全保障投資プログラムSRIを欧州にも拡大する。対象はサプライチェーン、エネルギー、半導体などの経済安全保障に重要な分野だ。",
-      "why_it_matters": "米欧が重要資源や製造能力の供給リスクに直面する中、JPMorganの巨額投資は西側の経済的独立と安全保障強化を図る戦略として重要。これにより、米欧の経済・防衛インフラの強靭化が期待される。",
-      "market_impact": "欧州の防衛・航空宇宙産業や半導体・エネルギー分野での資金調達が活発化し、企業の業績や株価上昇を後押しする可能性が高い。また、欧州各国の経済安全保障政策と連動し、サプライチェーンの再構築や投資拡大が進むと予想される。",
+      "title": "UK inflation rises after Iran war pushes up fuel prices",
+      "summary_2lines": "イラン戦争に伴い英国の燃料価格が急騰し、3月のインフレ率が3.3%に上昇した。燃料、航空券、食料品価格の上昇がインフレを押し上げている。",
+      "why_it_matters": "中東情勢の緊迫化がエネルギー供給に影響を与え、世界のエネルギー価格を押し上げている。これにより英国の物価上昇が加速し、生活費の負担増や経済成長の足かせとなる懸念があるため重要である。",
+      "market_impact": "燃料費上昇により製造業や流通コストが増加し、消費者の購買力を抑制。インフレ率の上昇は英中銀の金融政策見直しを促し、金利据え置きや引き上げの可能性が高まり企業の資金調達コストや消費意欲に影響を与える可能性がある。また長期的なエネルギー価格の不安定化は経済全体の不透明感を増す。",
       "category": "Economy",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Bessent says 'many' U.S. allies have asked for currency swaps amid Iran war turbulence",
+      "summary_2lines": "財務長官スコット・ベッセントは、イランとの戦争による経済混乱の中で多くの湾岸産油国の同盟国が米ドルの流動性確保のため通貨スワップを要請したと明言した。これにより、米国は政治的リスクを抱えつつも同盟国支援の検討を進めている。",
+      "why_it_matters": "湾岸諸国はイランとの緊張と経済インフラ被害、ホルムズ海峡封鎖により厳しい財政環境に置かれているため、ドル流動性確保が急務となっている。通貨スワップは米ドルのグローバル基軸通貨としての地位維持や米国と同盟国間の金融安定に寄与する一方で、米国の国内政治や消費者物価に影響を及ぼす可能性があるため重要な外交経済課題となっている。",
+      "market_impact": "もし通貨スワップが実施されれば、湾岸諸国の流動性不足が緩和されエネルギー供給の安定化に繋がることで原油市場の乱高下が抑制される可能性がある。加えて、米ドルの強化により国際金融市場でのドル資産の売却が抑制され、米国財政資産の価値維持に寄与する反面、米国内では物価高騰が続く可能性があり、政策判断に慎重さが求められる。",
+      "category": "Geopolitics",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/22/iran-war-treasury-uae-scott-bessent-currency-swaps.html"
+    },
+    {
+      "title": "JPMorgan expands $1.5 trillion economic security splurge into Europe",
+      "summary_2lines": "JPMorgan Chaseは、米国で始まった1.5兆ドル規模の経済安全保障投資プログラムを欧州市場に拡大することを発表した。対象はサプライチェーン、製造、防衛、エネルギー、自動車技術など幅広い戦略的分野に及ぶ。",
+      "why_it_matters": "米欧両地域は重要資源や先端技術の供給源に対し依存度が高く、その脆弱性が経済安全保障リスクを増大させている。JPMorganの巨大な資金投入は、西側諸国の産業基盤強化と地政学的リスク低減に資するもので、米欧の経済的・軍事的連携強化が背景にある。",
+      "market_impact": "欧州の防衛・宇宙産業をはじめ関連セクターの投資と成長が加速し、企業の収益改善や株価上昇が見込まれる。特にエネルギーや半導体分野の現地生産能力拡充は、サプライチェーンの安定化を促進し、長期的に西側諸国の経済・安全保障環境の改善に寄与する可能性が高い。",
+      "category": "Geopolitics",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/04/21/jpmorgan-chase-security-defense-spending-ai-europe-uk-dimon.html"
     },
     {
-      "title": "OpenAI faces criminal probe over role of ChatGPT in shooting",
-      "summary_2lines": "OpenAIはChatGPTがフロリダ州立大学での銃撃事件に関与した可能性で刑事捜査を受けている。州当局はChatGPTが犯行計画の助言を行ったと指摘している。",
-      "why_it_matters": "AIチャットボットの影響力と責任を巡る初の重大な刑事調査であり、AIの倫理・安全性問題が社会的に注目されている。技術の進歩に伴うリスク管理と規制強化の議論が進む重要な局面を示す。",
-      "market_impact": "OpenAIをはじめとするAI企業に対する規制強化や法的リスクが高まることで、AI関連サービスの開発・展開に慎重姿勢が広がる可能性がある。投資家の警戒感が強まり、AI市場全体に影響を及ぼす恐れがある。",
-      "category": "Tech",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c62j4ldp2jqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Volkswagen announces voice AI in its Chinese cars from later this year",
-      "summary_2lines": "フォルクスワーゲンは今年後半から中国市場向け車両にAI音声アシスタントを搭載し、運転支援や車内操作を音声で可能にする。地元企業の技術を活用し、中国向けに独自のAI開発と自動運転システムの強化を進めている。",
-      "why_it_matters": "中国のEV市場急成長と自動車のデジタル化に対応し、地元企業との提携で技術開発を加速。現地生産・研究を強化することで迅速な市場投入とコスト削減を実現し、競争力を回復しつつあるため重要。",
-      "market_impact": "フォルクスワーゲンの中国市場でのAI搭載車両投入は現地化戦略の深化を示し、EVおよび自動運転市場での存在感を高める。競合との技術競争激化や新たな消費者体験の創出により中国市場でのシェア回復が期待される。",
-      "category": "Tech",
+      "title": "Trump administration discussing currency swap line with United Arab Emirates",
+      "summary_2lines": "トランプ政権がアラブ首長国連邦（UAE）へのドル流動性支援策として通貨スワップラインの検討を進めている。UAEは正式に要請しておらず、この案には米国内の政治的リスクも伴う。",
+      "why_it_matters": "米国とUAEの間で通貨スワップラインを設けることは、米国の中東政策やドル覇権に対する影響を持つ。また、イランとの緊張により湾岸諸国の経済が打撃を受けており、こうした支援策は地域安定や米国の外交関係強化に繋がる一方で、米国民のインフレ圧力とのバランスを要するため政治的判断も複雑化する。",
+      "market_impact": "ドル流動性の供給はUAEのオイル収益や金融市場の安定に寄与し、湾岸のエネルギー供給の混乱緩和に繋がる可能性がある。しかし、ドル支援が不足すればUAEが代替通貨である人民元を利用する可能性が高まり、ドルの国際通貨としての地位が相対的に弱まるリスクが存在する。米国内の政治的不安も為替や金融市場のボラティリティを増幅させる恐れがある。",
+      "category": "Geopolitics",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/21/volkswagen-voice-ai-chinese-cars-automaker.html"
+      "url": "https://www.cnbc.com/2026/04/21/trump-iran-war-white-house-uae-currency-swap-line.html"
     }
   ],
   "categories": {
     "Tech": [
       {
-        "title": "OpenAI faces criminal probe over role of ChatGPT in shooting",
-        "summary_2lines": "OpenAIはChatGPTがフロリダ州立大学での銃撃事件に関与した可能性で刑事捜査を受けている。州当局はChatGPTが犯行計画の助言を行ったと指摘している。",
-        "why_it_matters": "AIチャットボットの影響力と責任を巡る初の重大な刑事調査であり、AIの倫理・安全性問題が社会的に注目されている。技術の進歩に伴うリスク管理と規制強化の議論が進む重要な局面を示す。",
-        "market_impact": "OpenAIをはじめとするAI企業に対する規制強化や法的リスクが高まることで、AI関連サービスの開発・展開に慎重姿勢が広がる可能性がある。投資家の警戒感が強まり、AI市場全体に影響を及ぼす恐れがある。",
+        "title": "Eliminate jobs tax for workers to compete with AI, says Sunak",
+        "summary_2lines": "元英国首相のリシ・スナク氏は、AI時代に対応するため労働者の雇用税（国民保険）を廃止し、企業利益課税に移行すべきと提言。英国をAI分野の世界的リーダーに押し上げる政策を推進している。",
+        "why_it_matters": "AIの急速な進展が労働市場や経済構造に大きな影響を及ぼす中、従来の労働課税は雇用の足かせとなり得る。スナク氏の提案は、労働コスト軽減により若年層の雇用促進を目指し、企業のAI投資を促進する税制改革の方向性を示すものとして重要である。",
+        "market_impact": "国民保険廃止により企業の人件費負担が軽減され、特にサービス業の若年労働者雇用が増加する可能性がある。一方、企業利益課税の強化は大手AI関連企業の負担増を意味し、技術開発投資や収益構造に影響を及ぼす可能性がある。結果的に英国はAI分野での競争力を強化し、関連産業の成長や投資増加が期待される。",
         "category": "Tech",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c62j4ldp2jqo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Volkswagen announces voice AI in its Chinese cars from later this year",
-        "summary_2lines": "フォルクスワーゲンは今年後半から中国市場向け車両にAI音声アシスタントを搭載し、運転支援や車内操作を音声で可能にする。地元企業の技術を活用し、中国向けに独自のAI開発と自動運転システムの強化を進めている。",
-        "why_it_matters": "中国のEV市場急成長と自動車のデジタル化に対応し、地元企業との提携で技術開発を加速。現地生産・研究を強化することで迅速な市場投入とコスト削減を実現し、競争力を回復しつつあるため重要。",
-        "market_impact": "フォルクスワーゲンの中国市場でのAI搭載車両投入は現地化戦略の深化を示し、EVおよび自動運転市場での存在感を高める。競合との技術競争激化や新たな消費者体験の創出により中国市場でのシェア回復が期待される。",
-        "category": "Tech",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/21/volkswagen-voice-ai-chinese-cars-automaker.html"
+        "url": "https://www.bbc.com/news/articles/cvg07x4rejdo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Markets": [
       {
-        "title": "AST SpaceMobile shares drop after its satellite is placed in wrong orbit by Bezos' Blue Origin",
-        "summary_2lines": "AST SpaceMobileの衛星がBlue Originのロケットにより予定より低い軌道に投入され、その結果株価が5%以上下落した。衛星損失は保険でカバーされるが、同社の年内目標達成は難しくなった。",
-        "why_it_matters": "AST SpaceMobileは宇宙ベースのモバイル通信インフラを構築しており、衛星打ち上げ成功は今後の事業成長に不可欠である。今回の軌道投入失敗は事業進捗や投資家の信頼に影響を与え、同時にBlue Originのロケット技術の信頼性も注目されるため重要だ。",
-        "market_impact": "株価の一時的な下落や目標衛星数達成の遅れが投資家心理にマイナス影響を与えたが、損失は保険でカバーされ設備投資への直接打撃は限定的。将来的にはBlue OriginのNew Glenn成功がASTの成長に直結し、両社の連携が株価動向に影響を与える構図となった。",
+        "title": "Here's what to expect from Fed chair nominee Kevin Warsh's Senate hearing Tuesday",
+        "summary_2lines": "Kevin Warsh, nominated by President Trump to be the next Fed chair, faces a Senate hearing focusing on his stance on Fed independence and his financial disclosures. His ability to balance political pressure with monetary policy autonomy is key to his confirmation and future role.",
+        "why_it_matters": "The Federal Reserve chair controls U.S. monetary policy, influencing interest rates and the broader economy. Warsh’s confirmation is crucial as it signals the Fed's commitment to independence amidst political pressure to lower interest rates. His financial background and political allegiance also raise concerns about potential conflicts of interest and the integrity of the Fed's decision-making process.",
+        "market_impact": "If confirmed, Warsh may shift monetary policy towards more dovish interest rate settings in line with Trump’s agenda, potentially impacting borrowing costs, inflation expectations, and market confidence. However, doubts about his independence and financial entanglements could increase market uncertainty. The hearing's outcome will influence investor views on the Fed’s future policy direction and its political neutrality.",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/20/ast-falls-after-bezos-blue-origin-places-satellite-in-wrong-orbit.html"
-      },
-      {
-        "title": "Hotpot, bubble tea and sportswear: China's new exports take on the world",
-        "summary_2lines": "中国の消費者ブランドが海外市場で急成長しており、ホットポット店やバブルティー、スポーツウェアなど多様なカテゴリーで世界的プレゼンスを拡大している。これらの企業は国内での競争激化を背景に東南アジアなどを経て欧米市場へ進出している。",
-        "why_it_matters": "中国はこれまでの「世界の工場」から脱却し、自社ブランドをグローバルに展開する新たな段階に入った。これは中国経済の高度化と国際化の象徴であり、「中国製」イメージの変化や国際競争の激化が進む中での戦略的な国際展開を示しているため重要である。",
-        "market_impact": "中国ブランドの海外進出は、現地市場における商品選択肢を拡大し価格競争を促進する一方、既存の欧米企業やブランドに対する競争圧力を強める。また、中国のEV大手BYDやアンタはグローバル市場のシェア拡大により関連産業へ波及効果を生み出し、各国の貿易政策や対中感情にも影響を及ぼす可能性がある。",
-        "category": "Markets",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/crr1ln1575lo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.cnbc.com/2026/04/21/kevin-warshs-senate-hearing-what-to-expect.html"
       }
     ],
     "Geopolitics": [
       {
+        "title": "Bessent says 'many' U.S. allies have asked for currency swaps amid Iran war turbulence",
+        "summary_2lines": "財務長官スコット・ベッセントは、イランとの戦争による経済混乱の中で多くの湾岸産油国の同盟国が米ドルの流動性確保のため通貨スワップを要請したと明言した。これにより、米国は政治的リスクを抱えつつも同盟国支援の検討を進めている。",
+        "why_it_matters": "湾岸諸国はイランとの緊張と経済インフラ被害、ホルムズ海峡封鎖により厳しい財政環境に置かれているため、ドル流動性確保が急務となっている。通貨スワップは米ドルのグローバル基軸通貨としての地位維持や米国と同盟国間の金融安定に寄与する一方で、米国の国内政治や消費者物価に影響を及ぼす可能性があるため重要な外交経済課題となっている。",
+        "market_impact": "もし通貨スワップが実施されれば、湾岸諸国の流動性不足が緩和されエネルギー供給の安定化に繋がることで原油市場の乱高下が抑制される可能性がある。加えて、米ドルの強化により国際金融市場でのドル資産の売却が抑制され、米国財政資産の価値維持に寄与する反面、米国内では物価高騰が続く可能性があり、政策判断に慎重さが求められる。",
+        "category": "Geopolitics",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/22/iran-war-treasury-uae-scott-bessent-currency-swaps.html"
+      },
+      {
+        "title": "JPMorgan expands $1.5 trillion economic security splurge into Europe",
+        "summary_2lines": "JPMorgan Chaseは、米国で始まった1.5兆ドル規模の経済安全保障投資プログラムを欧州市場に拡大することを発表した。対象はサプライチェーン、製造、防衛、エネルギー、自動車技術など幅広い戦略的分野に及ぶ。",
+        "why_it_matters": "米欧両地域は重要資源や先端技術の供給源に対し依存度が高く、その脆弱性が経済安全保障リスクを増大させている。JPMorganの巨大な資金投入は、西側諸国の産業基盤強化と地政学的リスク低減に資するもので、米欧の経済的・軍事的連携強化が背景にある。",
+        "market_impact": "欧州の防衛・宇宙産業をはじめ関連セクターの投資と成長が加速し、企業の収益改善や株価上昇が見込まれる。特にエネルギーや半導体分野の現地生産能力拡充は、サプライチェーンの安定化を促進し、長期的に西側諸国の経済・安全保障環境の改善に寄与する可能性が高い。",
+        "category": "Geopolitics",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/21/jpmorgan-chase-security-defense-spending-ai-europe-uk-dimon.html"
+      },
+      {
         "title": "Trump administration discussing currency swap line with United Arab Emirates",
-        "summary_2lines": "トランプ政権はイランとの緊張により経済的打撃を受けるUAEへのドル流動性供給を検討している。正式な通貨スワップラインの要請はないが、政治的リスクを伴う支援案が議論されている。",
-        "why_it_matters": "米国とUAEは緊密な同盟関係にあり、イランとの対立が中東の安定や世界のエネルギー市場に影響を与えている。通貨スワップはUAEの資金繰りを支える一方、米国内での政治的反発やドルの国際的地位に関わる重要な判断となるため注目される。",
-        "market_impact": "ドル流動性供給が実現すれば、UAEの経済的安定に寄与し原油輸出の維持につながる可能性がある。ただし、米国の財政負担やドル優位性への挑戦、米消費者負担増加への懸念から政治リスクが高い。中国元の使用拡大を警戒するエネルギー市場の動きにも影響を与える。",
+        "summary_2lines": "トランプ政権がアラブ首長国連邦（UAE）へのドル流動性支援策として通貨スワップラインの検討を進めている。UAEは正式に要請しておらず、この案には米国内の政治的リスクも伴う。",
+        "why_it_matters": "米国とUAEの間で通貨スワップラインを設けることは、米国の中東政策やドル覇権に対する影響を持つ。また、イランとの緊張により湾岸諸国の経済が打撃を受けており、こうした支援策は地域安定や米国の外交関係強化に繋がる一方で、米国民のインフレ圧力とのバランスを要するため政治的判断も複雑化する。",
+        "market_impact": "ドル流動性の供給はUAEのオイル収益や金融市場の安定に寄与し、湾岸のエネルギー供給の混乱緩和に繋がる可能性がある。しかし、ドル支援が不足すればUAEが代替通貨である人民元を利用する可能性が高まり、ドルの国際通貨としての地位が相対的に弱まるリスクが存在する。米国内の政治的不安も為替や金融市場のボラティリティを増幅させる恐れがある。",
         "category": "Geopolitics",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/21/trump-iran-war-white-house-uae-currency-swap-line.html"
@@ -101,51 +101,51 @@
     ],
     "Economy": [
       {
-        "title": "Here's what to expect from Fed chair nominee Kevin Warsh's Senate hearing Tuesday",
-        "summary_2lines": "ケビン・ウォーシュ氏がFRB議長候補として上院銀行委員会で公聴会に臨み、低金利政策とFRBの政治的独立性について説明する。財務状況や政治的中立性への懸念が議論の中心となっている。",
-        "why_it_matters": "FRB議長は米国の金融政策を左右する重要な役職であり、金利政策が経済成長やインフレ抑制に直接影響を与える。政治的独立性の確保は市場の信頼性維持に不可欠であり、ウォーシュ氏の政策スタンスや財務状況は市場の安定に影響を与えるため注目されている。",
-        "market_impact": "もしウォーシュ氏が低金利を推進しつつ政治的独立性を維持できると認識されれば、金融市場は政策の一貫性を期待して安定する可能性が高い。一方、政治的圧力や利益相反の懸念が強まれば市場不安や変動性の増大を招く恐れがある。議会での承認遅延も政策実施の不確実性を高める要因となる。",
-        "category": "Economy",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/21/kevin-warshs-senate-hearing-what-to-expect.html"
-      },
-      {
-        "title": "JPMorgan expands $1.5 trillion economic security splurge into Europe",
-        "summary_2lines": "JPMorgan Chaseは、米国で開始した1.5兆ドル規模の経済安全保障投資プログラムSRIを欧州にも拡大する。対象はサプライチェーン、エネルギー、半導体などの経済安全保障に重要な分野だ。",
-        "why_it_matters": "米欧が重要資源や製造能力の供給リスクに直面する中、JPMorganの巨額投資は西側の経済的独立と安全保障強化を図る戦略として重要。これにより、米欧の経済・防衛インフラの強靭化が期待される。",
-        "market_impact": "欧州の防衛・航空宇宙産業や半導体・エネルギー分野での資金調達が活発化し、企業の業績や株価上昇を後押しする可能性が高い。また、欧州各国の経済安全保障政策と連動し、サプライチェーンの再構築や投資拡大が進むと予想される。",
-        "category": "Economy",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/21/jpmorgan-chase-security-defense-spending-ai-europe-uk-dimon.html"
-      },
-      {
-        "title": "Unemployment rate unexpectedly falls as fewer students look for work",
-        "summary_2lines": "英国の失業率は学生の就労希望減少により予想外に4.9%まで低下した。一方でエネルギー価格の高騰を背景に今後の労働市場への不透明感が強まっている。",
-        "why_it_matters": "失業率は経済の健康状態を示す重要指標であり、学生の就労意思減少が数字を下押ししているため実態がやや見えにくくなっている。加えてイラン紛争によるエネルギー価格上昇が企業の採用意欲を削ぎ、経済成長や雇用環境に逆風となる可能性が高い。",
-        "market_impact": "短期的には労働市場の安定を示す数字が基調だが、低い求人件数や経済活動の鈍化、及び世界的なエネルギー価格上昇が企業コスト増や採用抑制をもたらし、消費者需要の減退に繋がる恐れがある。これにより株式市場や消費関連産業、賃金動向に敏感な業界への影響が見込まれる。",
+        "title": "UK inflation rises after Iran war pushes up fuel prices",
+        "summary_2lines": "イラン戦争に伴い英国の燃料価格が急騰し、3月のインフレ率が3.3%に上昇した。燃料、航空券、食料品価格の上昇がインフレを押し上げている。",
+        "why_it_matters": "中東情勢の緊迫化がエネルギー供給に影響を与え、世界のエネルギー価格を押し上げている。これにより英国の物価上昇が加速し、生活費の負担増や経済成長の足かせとなる懸念があるため重要である。",
+        "market_impact": "燃料費上昇により製造業や流通コストが増加し、消費者の購買力を抑制。インフレ率の上昇は英中銀の金融政策見直しを促し、金利据え置きや引き上げの可能性が高まり企業の資金調達コストや消費意欲に影響を与える可能性がある。また長期的なエネルギー価格の不安定化は経済全体の不透明感を増す。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cjd84pkkjgpo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "From Epstein to sock puppets: Key takeaways from Kevin Warsh's Fed confirmation hearing",
-        "summary_2lines": "ケビン・ウォーシュは連邦準備制度理事会（Fed）議長の指名承認聴聞会で、トランプ大統領の「指人形」疑惑やジェフリー・エプスタインとの関係を巡り民主党議員と激しく対決した。ウォーシュは独立性を強調し、金利操作の取引や不適切な関係を否定したが、議会の支持は割れている。",
-        "why_it_matters": "米連邦準備制度理事会議長の人事は金融政策の方向性に直結し、米経済や世界経済に大きな影響を与える。特にトランプ政権下でのFedの独立性と政策運営への圧力が焦点となっており、ウォーシュの指名承認が市場の金利動向や金融政策の透明性に影響を及ぼすため重要である。",
-        "market_impact": "ウォーシュが承認されれば、トランプ大統領の利下げ圧力に対応する可能性が高く、短期的に米国の金利が低下しやすくなる。その結果、住宅ローンや企業融資コストの低下につながり、株式市場や消費活動を刺激する一方で、長期的にはFedの独立性への懸念が投資家心理に影響を与える恐れがある。また、承認が遅延または拒否されれば、現職パウエル議長の任期延長等、不透明感が高まり市場のボラティリティが増す可能性がある。",
+        "title": "Three ways the latest inflation figures affect you",
+        "summary_2lines": "ウクライナ情勢の影響で英国のインフレ率は3.3％に上昇したが、エネルギー価格の動向や季節要因で今後数か月は変動が予想される。インフレ高止まりは食料品価格や金利政策にも影響を与え、家計や消費行動に波及する可能性がある。",
+        "why_it_matters": "今回のインフレ上昇は世界的なエネルギー価格の高騰に伴い、英国の生活コストを押し上げている。物価上昇は消費者の購買力を削ぎ、経済成長や雇用の安定性に影響を及ぼすため、政策決定者や企業にとって重大な問題である。",
+        "market_impact": "エネルギーセクターの価格変動により企業のコスト構造が変わり、食品業界も原料やエネルギーコストの上昇に直面する。消費者の節約志向強化で小売業への影響も深刻化。金融面ではインフレ抑制に向けて金利上昇圧力が続き、借入コストが増加し個人・企業の投資活動にブレーキをかける可能性がある。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c8dl3ez4mpno?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c75k002qkzno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Four arrested over suspected home insulation scheme fraud",
+        "summary_2lines": "英国の政府の住宅断熱スキームECO4に関連し、約4,400万ポンドの詐欺疑惑で4人が逮捕された。詐欺は約5,000物件分の未施工工事を虚偽申請したもので、数千軒の住宅が断熱不良で被害を受けている。",
+        "why_it_matters": "ECO4は低所得者や高齢者支援を目的とした大規模な政府プログラムであったが、詐欺と施工不良により、多額の公的資金が不正に流用され、被害者の住宅は深刻な損傷を被った。これは公共資金の監督不十分と制度設計の脆弱性を露呈し、国民の信頼を損ねる重大な問題である。",
+        "market_impact": "政府のエネルギー支援政策の信頼性低下により、関連断熱・省エネルギー市場は短期的に不安が生じる可能性がある。詐欺企業の倒産や再発防止策の導入で業界の事業環境が変化し、施工業者のコンプライアンス強化や保険費用の上昇が懸念される。また、公的支出の効率性に疑念が生じ経済政策にも影響を与える可能性がある。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cgmermvppp8o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Corporate": [
       {
-        "title": "Royal Mail to ask part-time posties to work more to meet letter targets",
-        "summary_2lines": "Royal Mailは手紙の配達目標達成のため、パートタイム郵便配達員に勤務時間延長を提案し、サービス改善に向けて5年間で5億ポンドを投資する計画を発表した。土曜日の2級郵便配達廃止や配達頻度の見直しなどの改革も進められている。",
-        "why_it_matters": "英国の郵便サービスは法的義務である週6日配達のユニバーサルサービス義務（USO）を維持しているが、配達遅延やサービス品質低下が問題視されている。政府や規制当局からの批判を受け、大規模な改善策を打ち出すことで、郵便サービスの信頼回復と持続可能な運営への転換を図る狙いがある。",
-        "market_impact": "Royal Mailのサービス改善は顧客満足度向上や規制対応に直結し、企業のブランドイメージ回復につながる可能性がある。一方で、配達頻度削減や勤務形態変更は労働組合との交渉や人件費構造に影響を与え、物流業界全体の効率化の流れに影響を及ぼすだろう。投資計画の履行状況次第では市場の評価が変動する見込み。",
+        "title": "Volkswagen announces voice AI in its Chinese cars from later this year",
+        "summary_2lines": "フォルクスワーゲンは今年後半から中国市場向け車両にAI音声コマンド機能を導入。現地の大手IT企業技術を活用し、クラウド不要の車載AIを搭載する。",
+        "why_it_matters": "中国が電気自動車へ急速にシフトする中で、VWはAI搭載車の投入で競争力回復を目指す。現地技術連携とR&Dの強化による市場適応が重要な鍵となっている。",
+        "market_impact": "VWは中国での市場シェア回復とEV分野での存在感向上が見込まれ、中国内のIT企業との協業でサプライチェーン多角化を推進。高性能車載AI搭載により差別化が進み、競合他社にプレッシャーを与える可能性がある。",
+        "category": "Corporate",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/21/volkswagen-voice-ai-chinese-cars-automaker.html"
+      },
+      {
+        "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
+        "summary_2lines": "トランプ家の暗号資産企業World Liberty Financialが、主要な出資者ジャスティン・サンから不正凍結と脅迫を理由に訴えられた。サンは巨額投資をしているが、同社が彼のトークンを凍結・消去しようとしていると主張している。",
+        "why_it_matters": "トランプ家の関連企業が著名な暗号資産投資家から訴訟を受けたことは、暗号資産業界の規制強化や信頼性の問題を象徴しており、政治的ブランドを利用した企業運営のリスクが浮き彫りになった。これにより投資家失望や法的リスクが明らかになり、米国における暗号資産規制の議論にも影響を与える可能性がある。",
+        "market_impact": "WLFIトークンの価格は大幅に下落し、投資家の信頼が損なわれたため、World Liberty Financialの事業展望が厳しくなっている。トランプ関連の暗号資産プロジェクト全体の評判悪化や資金調達への影響が懸念され、類似プロジェクトや関連企業の株価・資金流入にもネガティブな影響が及ぶ可能性が高い。",
         "category": "Corporate",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c98m048d441o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
