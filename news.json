@@ -1,151 +1,150 @@
 {
-  "generated_at_jst": "2026-04-23 07:37",
+  "generated_at_jst": "2026-04-24 07:32",
   "todays_brief": [
     {
-      "title": "Here's what to expect from Fed chair nominee Kevin Warsh's Senate hearing Tuesday",
-      "summary_2lines": "Kevin Warsh, nominated by President Trump to be the next Fed chair, faces a Senate hearing focusing on his stance on Fed independence and his financial disclosures. His ability to balance political pressure with monetary policy autonomy is key to his confirmation and future role.",
-      "why_it_matters": "The Federal Reserve chair controls U.S. monetary policy, influencing interest rates and the broader economy. Warsh’s confirmation is crucial as it signals the Fed's commitment to independence amidst political pressure to lower interest rates. His financial background and political allegiance also raise concerns about potential conflicts of interest and the integrity of the Fed's decision-making process.",
-      "market_impact": "If confirmed, Warsh may shift monetary policy towards more dovish interest rate settings in line with Trump’s agenda, potentially impacting borrowing costs, inflation expectations, and market confidence. However, doubts about his independence and financial entanglements could increase market uncertainty. The hearing's outcome will influence investor views on the Fed’s future policy direction and its political neutrality.",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/21/kevin-warshs-senate-hearing-what-to-expect.html"
-    },
-    {
-      "title": "UK inflation rises after Iran war pushes up fuel prices",
-      "summary_2lines": "イラン戦争に伴い英国の燃料価格が急騰し、3月のインフレ率が3.3%に上昇した。燃料、航空券、食料品価格の上昇がインフレを押し上げている。",
-      "why_it_matters": "中東情勢の緊迫化がエネルギー供給に影響を与え、世界のエネルギー価格を押し上げている。これにより英国の物価上昇が加速し、生活費の負担増や経済成長の足かせとなる懸念があるため重要である。",
-      "market_impact": "燃料費上昇により製造業や流通コストが増加し、消費者の購買力を抑制。インフレ率の上昇は英中銀の金融政策見直しを促し、金利据え置きや引き上げの可能性が高まり企業の資金調達コストや消費意欲に影響を与える可能性がある。また長期的なエネルギー価格の不安定化は経済全体の不透明感を増す。",
-      "category": "Economy",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "Bessent says 'many' U.S. allies have asked for currency swaps amid Iran war turbulence",
-      "summary_2lines": "財務長官スコット・ベッセントは、イランとの戦争による経済混乱の中で多くの湾岸産油国の同盟国が米ドルの流動性確保のため通貨スワップを要請したと明言した。これにより、米国は政治的リスクを抱えつつも同盟国支援の検討を進めている。",
-      "why_it_matters": "湾岸諸国はイランとの緊張と経済インフラ被害、ホルムズ海峡封鎖により厳しい財政環境に置かれているため、ドル流動性確保が急務となっている。通貨スワップは米ドルのグローバル基軸通貨としての地位維持や米国と同盟国間の金融安定に寄与する一方で、米国の国内政治や消費者物価に影響を及ぼす可能性があるため重要な外交経済課題となっている。",
-      "market_impact": "もし通貨スワップが実施されれば、湾岸諸国の流動性不足が緩和されエネルギー供給の安定化に繋がることで原油市場の乱高下が抑制される可能性がある。加えて、米ドルの強化により国際金融市場でのドル資産の売却が抑制され、米国財政資産の価値維持に寄与する反面、米国内では物価高騰が続く可能性があり、政策判断に慎重さが求められる。",
+      "summary_2lines": "米財務長官ベセントは、イラン情勢の影響で湾岸諸国を中心に多くの同盟国が米ドルの通貨スワップを要請していると明言。これにより米ドル市場の安定と湾岸諸国の金融支援が目的とされる。",
+      "why_it_matters": "イランとの紛争が中東地域の経済インフラや石油輸出に重大な影響を与えており、湾岸諸国が米ドル流動性を求めることで米国との金融的結びつきが強まる。また、国内では高騰する物価と財政負担の中でこの支援が政治的論争の火種となっている。",
+      "market_impact": "米ドルの流動性維持は国際石油市場の安定に寄与し、エネルギー関連市場には安心感を与える一方、米財政へのリスク増大や国内消費者の負担増加による米国経済への影響も懸念される。政治的対立も金融政策に影響を与える可能性がある。",
       "category": "Geopolitics",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/04/22/iran-war-treasury-uae-scott-bessent-currency-swaps.html"
     },
     {
-      "title": "JPMorgan expands $1.5 trillion economic security splurge into Europe",
-      "summary_2lines": "JPMorgan Chaseは、米国で始まった1.5兆ドル規模の経済安全保障投資プログラムを欧州市場に拡大することを発表した。対象はサプライチェーン、製造、防衛、エネルギー、自動車技術など幅広い戦略的分野に及ぶ。",
-      "why_it_matters": "米欧両地域は重要資源や先端技術の供給源に対し依存度が高く、その脆弱性が経済安全保障リスクを増大させている。JPMorganの巨大な資金投入は、西側諸国の産業基盤強化と地政学的リスク低減に資するもので、米欧の経済的・軍事的連携強化が背景にある。",
-      "market_impact": "欧州の防衛・宇宙産業をはじめ関連セクターの投資と成長が加速し、企業の収益改善や株価上昇が見込まれる。特にエネルギーや半導体分野の現地生産能力拡充は、サプライチェーンの安定化を促進し、長期的に西側諸国の経済・安全保障環境の改善に寄与する可能性が高い。",
-      "category": "Geopolitics",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/21/jpmorgan-chase-security-defense-spending-ai-europe-uk-dimon.html"
+      "title": "Meta says it will cut 8,000 jobs as AI spending grows",
+      "summary_2lines": "MetaはAI関連支出を大幅に増加させる一方で、約8,000人の従業員を解雇し、業務効率化を図る。2026年にはAIが働き方を大きく変えるとCEOザッカーバーグは見込む。",
+      "why_it_matters": "Metaの大規模な人員削減は、AI技術への投資拡大と労働生産性の変化を反映している。これはテクノロジー業界がAIを軸に急速に進化し、人員構成や企業戦略に影響を与える動向の一端を示している。",
+      "market_impact": "Metaの人員削減は企業のコスト構造に影響を与え、株価や業績期待に波及する可能性がある。AI関連投資の増加は業界全体の競争加速を示唆し、労働市場や他社の人材戦略にも波及効果が見込まれる。",
+      "category": "Corporate",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump administration discussing currency swap line with United Arab Emirates",
-      "summary_2lines": "トランプ政権がアラブ首長国連邦（UAE）へのドル流動性支援策として通貨スワップラインの検討を進めている。UAEは正式に要請しておらず、この案には米国内の政治的リスクも伴う。",
-      "why_it_matters": "米国とUAEの間で通貨スワップラインを設けることは、米国の中東政策やドル覇権に対する影響を持つ。また、イランとの緊張により湾岸諸国の経済が打撃を受けており、こうした支援策は地域安定や米国の外交関係強化に繋がる一方で、米国民のインフレ圧力とのバランスを要するため政治的判断も複雑化する。",
-      "market_impact": "ドル流動性の供給はUAEのオイル収益や金融市場の安定に寄与し、湾岸のエネルギー供給の混乱緩和に繋がる可能性がある。しかし、ドル支援が不足すればUAEが代替通貨である人民元を利用する可能性が高まり、ドルの国際通貨としての地位が相対的に弱まるリスクが存在する。米国内の政治的不安も為替や金融市場のボラティリティを増幅させる恐れがある。",
+      "title": "Warner Bros shareholders approve Paramount's $111bn takeover",
+      "summary_2lines": "Warner Brosの株主がParamountによる1110億ドルの買収を承認した。現在は規制当局の承認待ちだが、メディア業界に大きな変革をもたらす可能性が高い。",
+      "why_it_matters": "ParamountによるWarner Bros買収はメディア業界の再編を象徴する大型案件であり、競争環境やクリエイターの働き方、消費者の選択肢に大きな影響を及ぼす。米欧の規制当局による審査や政治的な反発も激しく、業界と規制環境の今後を占う重要な動きだからだ。",
+      "market_impact": "本件が完了すると、ParamountはHBO Maxを含む多様なコンテンツ資産を統合し、業界トップのメディア企業へと成長する。これにより競争激化や独占懸念から規制が強化される一方、クリエイターの雇用機会減少や視聴者のコンテンツ多様性縮小のリスクもある。投資家や市場はメガ合併の長期的な収益性と規制リスクを注視する展開となる。",
+      "category": "Corporate",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Kalshi traders don't see Strait of Hormuz traffic returning to normal until July",
+      "summary_2lines": "Kalshiの予測市場では、ホルムズ海峡の正常な通航が7月まで戻らない確率が高いとされている。米国とイランの緊張継続により、エネルギー供給の不安定化が続いている。",
+      "why_it_matters": "ホルムズ海峡は世界石油輸送の重要な要衝であり、ここでの通航停止は原油価格の高騰や供給不足を招く。米イラン間の緊張および停戦延長が具体的な合意に至っておらず、エネルギー市場の不安材料となっているため、世界経済にとって重大なリスク要因となっている。",
+      "market_impact": "原油価格は100ドルを超え高騰しており、エネルギーコストの上昇が企業のコスト増加やインフレ圧力の強まりにつながる。海峡通航減少により、石油および関連商品の供給に制約が続き、中東情勢が改善しなければエネルギー市場のボラティリティが継続することが予想される。長期的には経済成長に抑制的に働く可能性がある。",
       "category": "Geopolitics",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/21/trump-iran-war-white-house-uae-currency-swap-line.html"
+      "url": "https://www.cnbc.com/2026/04/23/kalshi-bettors-see-strait-of-hormuz-traffic-normal-by-july.html"
+    },
+    {
+      "title": "UK borrowing lowest for three years but Iran war clouds outlook",
+      "summary_2lines": "英国の政府借入金額は3年間で最低水準の1320億ポンドに減少したが、イラン戦争によるエネルギー価格上昇で今後の借入増加懸念が強まっている。インフレ加速や政府のエネルギー支援策が財政に重荷をかける可能性がある。",
+      "why_it_matters": "英国の財政健全化は経済安定に不可欠だが、中東の地政学リスクがエネルギー価格を押し上げ、インフレと低成長を招くことで税収増加が抑制され、債務コストも上昇する。このため今年以降の財政赤字拡大が懸念され、政府の財政政策運営が試されている。",
+      "market_impact": "借入額抑制による国債市場の安定化が期待される一方、エネルギー価格ショックやインフレ高止まりで企業のコスト増加、生産抑制、消費減退が予想され、経済成長見通しの下方修正につながる。長期的には金利上昇に伴う政府の利払い負担増加も市場の重荷となる可能性が高い。",
+      "category": "Economy",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/ckge5291152o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "categories": {
-    "Tech": [
-      {
-        "title": "Eliminate jobs tax for workers to compete with AI, says Sunak",
-        "summary_2lines": "元英国首相のリシ・スナク氏は、AI時代に対応するため労働者の雇用税（国民保険）を廃止し、企業利益課税に移行すべきと提言。英国をAI分野の世界的リーダーに押し上げる政策を推進している。",
-        "why_it_matters": "AIの急速な進展が労働市場や経済構造に大きな影響を及ぼす中、従来の労働課税は雇用の足かせとなり得る。スナク氏の提案は、労働コスト軽減により若年層の雇用促進を目指し、企業のAI投資を促進する税制改革の方向性を示すものとして重要である。",
-        "market_impact": "国民保険廃止により企業の人件費負担が軽減され、特にサービス業の若年労働者雇用が増加する可能性がある。一方、企業利益課税の強化は大手AI関連企業の負担増を意味し、技術開発投資や収益構造に影響を及ぼす可能性がある。結果的に英国はAI分野での競争力を強化し、関連産業の成長や投資増加が期待される。",
-        "category": "Tech",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cvg07x4rejdo?at_medium=RSS&at_campaign=rss"
-      }
-    ],
+    "Tech": [],
     "Markets": [
       {
-        "title": "Here's what to expect from Fed chair nominee Kevin Warsh's Senate hearing Tuesday",
-        "summary_2lines": "Kevin Warsh, nominated by President Trump to be the next Fed chair, faces a Senate hearing focusing on his stance on Fed independence and his financial disclosures. His ability to balance political pressure with monetary policy autonomy is key to his confirmation and future role.",
-        "why_it_matters": "The Federal Reserve chair controls U.S. monetary policy, influencing interest rates and the broader economy. Warsh’s confirmation is crucial as it signals the Fed's commitment to independence amidst political pressure to lower interest rates. His financial background and political allegiance also raise concerns about potential conflicts of interest and the integrity of the Fed's decision-making process.",
-        "market_impact": "If confirmed, Warsh may shift monetary policy towards more dovish interest rate settings in line with Trump’s agenda, potentially impacting borrowing costs, inflation expectations, and market confidence. However, doubts about his independence and financial entanglements could increase market uncertainty. The hearing's outcome will influence investor views on the Fed’s future policy direction and its political neutrality.",
+        "title": "Traders are betting on big moves in Intel on earnings",
+        "summary_2lines": "トレーダーはインテルの決算発表後に株価が約9%動くと予想している。これまで決算後に株価が下がることが多かったが、今回は強気の動きが目立つ。",
+        "why_it_matters": "半導体株が市場を牽引する中、インテルは過去1年で230%以上上昇しており、決算による株価の大きな変動は投資家心理や市場の方向性に影響を与えるため注目されている。",
+        "market_impact": "決算後の株価変動次第でインテルおよび関連半導体株の投資意欲が変動し、米国株市場の半導体セクターのモメンタムに影響を与える可能性がある。オプション取引の活発化は市場のボラティリティ増加やリスク管理動向を反映している。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/21/kevin-warshs-senate-hearing-what-to-expect.html"
+        "url": "https://www.cnbc.com/2026/04/23/traders-are-betting-on-big-moves-in-intel-on-earnings.html"
+      },
+      {
+        "title": "Risky meme trading is back. A trading rule change may have lit the fuse",
+        "summary_2lines": "米SECがパターンデイトレーダー規制を撤廃し、小口投資家による短期トレードの参入障壁が低下。これによりミーム株取引が活発化し、急騰と急落を繰り返すボラティリティが高まっている。",
+        "why_it_matters": "従来の1週間あたり4回以上のデイトレードに25,000ドルの最低資金を求める規制撤廃は、小口投資家の取引機会を拡大。これによりボラティリティの高いミーム株市場への参加者が増え、市場の流動性やリスク環境が大きく変化するため、投資家心理や市場動向の理解に重要な示唆を与える。",
+        "market_impact": "取引規制の緩和によって個人投資家が短期売買を増やし、AllbirdsやAvis Budget Groupなど人気銘柄の株価が急騰した後に急落するなど、価格変動の激しさが増加。流動性が高まる一方で、投資家のリスクが増大し市場の不安定化も鮮明になる可能性がある。これに伴い金融機関のリスク管理強化や規制当局の監視強化が必要となる可能性も高い。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/23/risky-meme-trading-is-back-a-trading-rule-change-may-have-lit-the-fuse.html"
       }
     ],
     "Geopolitics": [
       {
         "title": "Bessent says 'many' U.S. allies have asked for currency swaps amid Iran war turbulence",
-        "summary_2lines": "財務長官スコット・ベッセントは、イランとの戦争による経済混乱の中で多くの湾岸産油国の同盟国が米ドルの流動性確保のため通貨スワップを要請したと明言した。これにより、米国は政治的リスクを抱えつつも同盟国支援の検討を進めている。",
-        "why_it_matters": "湾岸諸国はイランとの緊張と経済インフラ被害、ホルムズ海峡封鎖により厳しい財政環境に置かれているため、ドル流動性確保が急務となっている。通貨スワップは米ドルのグローバル基軸通貨としての地位維持や米国と同盟国間の金融安定に寄与する一方で、米国の国内政治や消費者物価に影響を及ぼす可能性があるため重要な外交経済課題となっている。",
-        "market_impact": "もし通貨スワップが実施されれば、湾岸諸国の流動性不足が緩和されエネルギー供給の安定化に繋がることで原油市場の乱高下が抑制される可能性がある。加えて、米ドルの強化により国際金融市場でのドル資産の売却が抑制され、米国財政資産の価値維持に寄与する反面、米国内では物価高騰が続く可能性があり、政策判断に慎重さが求められる。",
+        "summary_2lines": "米財務長官ベセントは、イラン情勢の影響で湾岸諸国を中心に多くの同盟国が米ドルの通貨スワップを要請していると明言。これにより米ドル市場の安定と湾岸諸国の金融支援が目的とされる。",
+        "why_it_matters": "イランとの紛争が中東地域の経済インフラや石油輸出に重大な影響を与えており、湾岸諸国が米ドル流動性を求めることで米国との金融的結びつきが強まる。また、国内では高騰する物価と財政負担の中でこの支援が政治的論争の火種となっている。",
+        "market_impact": "米ドルの流動性維持は国際石油市場の安定に寄与し、エネルギー関連市場には安心感を与える一方、米財政へのリスク増大や国内消費者の負担増加による米国経済への影響も懸念される。政治的対立も金融政策に影響を与える可能性がある。",
         "category": "Geopolitics",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/22/iran-war-treasury-uae-scott-bessent-currency-swaps.html"
       },
       {
-        "title": "JPMorgan expands $1.5 trillion economic security splurge into Europe",
-        "summary_2lines": "JPMorgan Chaseは、米国で始まった1.5兆ドル規模の経済安全保障投資プログラムを欧州市場に拡大することを発表した。対象はサプライチェーン、製造、防衛、エネルギー、自動車技術など幅広い戦略的分野に及ぶ。",
-        "why_it_matters": "米欧両地域は重要資源や先端技術の供給源に対し依存度が高く、その脆弱性が経済安全保障リスクを増大させている。JPMorganの巨大な資金投入は、西側諸国の産業基盤強化と地政学的リスク低減に資するもので、米欧の経済的・軍事的連携強化が背景にある。",
-        "market_impact": "欧州の防衛・宇宙産業をはじめ関連セクターの投資と成長が加速し、企業の収益改善や株価上昇が見込まれる。特にエネルギーや半導体分野の現地生産能力拡充は、サプライチェーンの安定化を促進し、長期的に西側諸国の経済・安全保障環境の改善に寄与する可能性が高い。",
+        "title": "Kalshi traders don't see Strait of Hormuz traffic returning to normal until July",
+        "summary_2lines": "Kalshiの予測市場では、ホルムズ海峡の正常な通航が7月まで戻らない確率が高いとされている。米国とイランの緊張継続により、エネルギー供給の不安定化が続いている。",
+        "why_it_matters": "ホルムズ海峡は世界石油輸送の重要な要衝であり、ここでの通航停止は原油価格の高騰や供給不足を招く。米イラン間の緊張および停戦延長が具体的な合意に至っておらず、エネルギー市場の不安材料となっているため、世界経済にとって重大なリスク要因となっている。",
+        "market_impact": "原油価格は100ドルを超え高騰しており、エネルギーコストの上昇が企業のコスト増加やインフレ圧力の強まりにつながる。海峡通航減少により、石油および関連商品の供給に制約が続き、中東情勢が改善しなければエネルギー市場のボラティリティが継続することが予想される。長期的には経済成長に抑制的に働く可能性がある。",
         "category": "Geopolitics",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/21/jpmorgan-chase-security-defense-spending-ai-europe-uk-dimon.html"
-      },
-      {
-        "title": "Trump administration discussing currency swap line with United Arab Emirates",
-        "summary_2lines": "トランプ政権がアラブ首長国連邦（UAE）へのドル流動性支援策として通貨スワップラインの検討を進めている。UAEは正式に要請しておらず、この案には米国内の政治的リスクも伴う。",
-        "why_it_matters": "米国とUAEの間で通貨スワップラインを設けることは、米国の中東政策やドル覇権に対する影響を持つ。また、イランとの緊張により湾岸諸国の経済が打撃を受けており、こうした支援策は地域安定や米国の外交関係強化に繋がる一方で、米国民のインフレ圧力とのバランスを要するため政治的判断も複雑化する。",
-        "market_impact": "ドル流動性の供給はUAEのオイル収益や金融市場の安定に寄与し、湾岸のエネルギー供給の混乱緩和に繋がる可能性がある。しかし、ドル支援が不足すればUAEが代替通貨である人民元を利用する可能性が高まり、ドルの国際通貨としての地位が相対的に弱まるリスクが存在する。米国内の政治的不安も為替や金融市場のボラティリティを増幅させる恐れがある。",
-        "category": "Geopolitics",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/21/trump-iran-war-white-house-uae-currency-swap-line.html"
+        "url": "https://www.cnbc.com/2026/04/23/kalshi-bettors-see-strait-of-hormuz-traffic-normal-by-july.html"
       }
     ],
     "Economy": [
       {
-        "title": "UK inflation rises after Iran war pushes up fuel prices",
-        "summary_2lines": "イラン戦争に伴い英国の燃料価格が急騰し、3月のインフレ率が3.3%に上昇した。燃料、航空券、食料品価格の上昇がインフレを押し上げている。",
-        "why_it_matters": "中東情勢の緊迫化がエネルギー供給に影響を与え、世界のエネルギー価格を押し上げている。これにより英国の物価上昇が加速し、生活費の負担増や経済成長の足かせとなる懸念があるため重要である。",
-        "market_impact": "燃料費上昇により製造業や流通コストが増加し、消費者の購買力を抑制。インフレ率の上昇は英中銀の金融政策見直しを促し、金利据え置きや引き上げの可能性が高まり企業の資金調達コストや消費意欲に影響を与える可能性がある。また長期的なエネルギー価格の不安定化は経済全体の不透明感を増す。",
+        "title": "Which airlines are cancelling flights to the UK - and what can you do?",
+        "summary_2lines": "中東情勢の影響で、複数の航空会社が英国便の運航便数を削減し、燃料費高騰により一部で運賃や手荷物料金が値上げされている。航空券購入後の価格変更は基本的に認められず、キャンセル便は限定的だが旅行計画の変更リスクがある。",
+        "why_it_matters": "中東の紛争により主要なジェット燃料供給路が閉鎖され燃料価格が急騰、航空業界全体にコスト増加圧力がかかっている。これにより消費者の旅行コストや予約の安定性が揺らぎ、夏の旅行シーズンに影響を及ぼす可能性があるため重要な問題となっている。",
+        "market_impact": "航空会社は一部便の削減や運賃引き上げで収益維持を図るが、需要減退やキャンセルリスクも高まる。特に長距離路線の運航コスト増加が顕著で、業界全体の利益圧迫や関連旅行業界、観光産業にも間接的な打撃が及ぶ可能性がある。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cr41yel6v4eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Three ways the latest inflation figures affect you",
-        "summary_2lines": "ウクライナ情勢の影響で英国のインフレ率は3.3％に上昇したが、エネルギー価格の動向や季節要因で今後数か月は変動が予想される。インフレ高止まりは食料品価格や金利政策にも影響を与え、家計や消費行動に波及する可能性がある。",
-        "why_it_matters": "今回のインフレ上昇は世界的なエネルギー価格の高騰に伴い、英国の生活コストを押し上げている。物価上昇は消費者の購買力を削ぎ、経済成長や雇用の安定性に影響を及ぼすため、政策決定者や企業にとって重大な問題である。",
-        "market_impact": "エネルギーセクターの価格変動により企業のコスト構造が変わり、食品業界も原料やエネルギーコストの上昇に直面する。消費者の節約志向強化で小売業への影響も深刻化。金融面ではインフレ抑制に向けて金利上昇圧力が続き、借入コストが増加し個人・企業の投資活動にブレーキをかける可能性がある。",
+        "title": "UK borrowing lowest for three years but Iran war clouds outlook",
+        "summary_2lines": "英国の政府借入金額は3年間で最低水準の1320億ポンドに減少したが、イラン戦争によるエネルギー価格上昇で今後の借入増加懸念が強まっている。インフレ加速や政府のエネルギー支援策が財政に重荷をかける可能性がある。",
+        "why_it_matters": "英国の財政健全化は経済安定に不可欠だが、中東の地政学リスクがエネルギー価格を押し上げ、インフレと低成長を招くことで税収増加が抑制され、債務コストも上昇する。このため今年以降の財政赤字拡大が懸念され、政府の財政政策運営が試されている。",
+        "market_impact": "借入額抑制による国債市場の安定化が期待される一方、エネルギー価格ショックやインフレ高止まりで企業のコスト増加、生産抑制、消費減退が予想され、経済成長見通しの下方修正につながる。長期的には金利上昇に伴う政府の利払い負担増加も市場の重荷となる可能性が高い。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c75k002qkzno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Four arrested over suspected home insulation scheme fraud",
-        "summary_2lines": "英国の政府の住宅断熱スキームECO4に関連し、約4,400万ポンドの詐欺疑惑で4人が逮捕された。詐欺は約5,000物件分の未施工工事を虚偽申請したもので、数千軒の住宅が断熱不良で被害を受けている。",
-        "why_it_matters": "ECO4は低所得者や高齢者支援を目的とした大規模な政府プログラムであったが、詐欺と施工不良により、多額の公的資金が不正に流用され、被害者の住宅は深刻な損傷を被った。これは公共資金の監督不十分と制度設計の脆弱性を露呈し、国民の信頼を損ねる重大な問題である。",
-        "market_impact": "政府のエネルギー支援政策の信頼性低下により、関連断熱・省エネルギー市場は短期的に不安が生じる可能性がある。詐欺企業の倒産や再発防止策の導入で業界の事業環境が変化し、施工業者のコンプライアンス強化や保険費用の上昇が懸念される。また、公的支出の効率性に疑念が生じ経済政策にも影響を与える可能性がある。",
-        "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cgmermvppp8o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/ckge5291152o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Corporate": [
       {
-        "title": "Volkswagen announces voice AI in its Chinese cars from later this year",
-        "summary_2lines": "フォルクスワーゲンは今年後半から中国市場向け車両にAI音声コマンド機能を導入。現地の大手IT企業技術を活用し、クラウド不要の車載AIを搭載する。",
-        "why_it_matters": "中国が電気自動車へ急速にシフトする中で、VWはAI搭載車の投入で競争力回復を目指す。現地技術連携とR&Dの強化による市場適応が重要な鍵となっている。",
-        "market_impact": "VWは中国での市場シェア回復とEV分野での存在感向上が見込まれ、中国内のIT企業との協業でサプライチェーン多角化を推進。高性能車載AI搭載により差別化が進み、競合他社にプレッシャーを与える可能性がある。",
-        "category": "Corporate",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/21/volkswagen-voice-ai-chinese-cars-automaker.html"
-      },
-      {
-        "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
-        "summary_2lines": "トランプ家の暗号資産企業World Liberty Financialが、主要な出資者ジャスティン・サンから不正凍結と脅迫を理由に訴えられた。サンは巨額投資をしているが、同社が彼のトークンを凍結・消去しようとしていると主張している。",
-        "why_it_matters": "トランプ家の関連企業が著名な暗号資産投資家から訴訟を受けたことは、暗号資産業界の規制強化や信頼性の問題を象徴しており、政治的ブランドを利用した企業運営のリスクが浮き彫りになった。これにより投資家失望や法的リスクが明らかになり、米国における暗号資産規制の議論にも影響を与える可能性がある。",
-        "market_impact": "WLFIトークンの価格は大幅に下落し、投資家の信頼が損なわれたため、World Liberty Financialの事業展望が厳しくなっている。トランプ関連の暗号資産プロジェクト全体の評判悪化や資金調達への影響が懸念され、類似プロジェクトや関連企業の株価・資金流入にもネガティブな影響が及ぶ可能性が高い。",
+        "title": "Meta says it will cut 8,000 jobs as AI spending grows",
+        "summary_2lines": "MetaはAI関連支出を大幅に増加させる一方で、約8,000人の従業員を解雇し、業務効率化を図る。2026年にはAIが働き方を大きく変えるとCEOザッカーバーグは見込む。",
+        "why_it_matters": "Metaの大規模な人員削減は、AI技術への投資拡大と労働生産性の変化を反映している。これはテクノロジー業界がAIを軸に急速に進化し、人員構成や企業戦略に影響を与える動向の一端を示している。",
+        "market_impact": "Metaの人員削減は企業のコスト構造に影響を与え、株価や業績期待に波及する可能性がある。AI関連投資の増加は業界全体の競争加速を示唆し、労働市場や他社の人材戦略にも波及効果が見込まれる。",
         "category": "Corporate",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Warner Bros shareholders approve Paramount's $111bn takeover",
+        "summary_2lines": "Warner Brosの株主がParamountによる1110億ドルの買収を承認した。現在は規制当局の承認待ちだが、メディア業界に大きな変革をもたらす可能性が高い。",
+        "why_it_matters": "ParamountによるWarner Bros買収はメディア業界の再編を象徴する大型案件であり、競争環境やクリエイターの働き方、消費者の選択肢に大きな影響を及ぼす。米欧の規制当局による審査や政治的な反発も激しく、業界と規制環境の今後を占う重要な動きだからだ。",
+        "market_impact": "本件が完了すると、ParamountはHBO Maxを含む多様なコンテンツ資産を統合し、業界トップのメディア企業へと成長する。これにより競争激化や独占懸念から規制が強化される一方、クリエイターの雇用機会減少や視聴者のコンテンツ多様性縮小のリスクもある。投資家や市場はメガ合併の長期的な収益性と規制リスクを注視する展開となる。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "NYC Mayor Mamdani knocked Ken Griffin in pied-a-terre tax promo. His firm calls the move 'shameful'",
+        "summary_2lines": "ニューヨーク市長マムダニ氏が富裕層の非居住者向けに5百万ドル超の不動産に課税する新たな『ピエダテル税』を提案し、ケン・グリフィン氏を公に批判した。シタデルはこれを「恥ずべき行為」と反発し、市に対する貢献を強調した。",
+        "why_it_matters": "ニューヨーク市が富裕層の非居住者に対して追加課税を検討する中、企業トップや多額の税収、雇用創出に貢献する大手金融企業が批判を受けたことは、地域の税制政策と企業誘致のバランスに大きな緊張をもたらしている。これにより地方自治体の財政強化策と経済活性化政策の間で議論が深まる局面である。",
+        "market_impact": "本件は富裕層の資産に対する課税強化が示唆されることで、金融機関や不動産市場に対して警戒感をもたらす可能性がある。大手企業の本社移転決定や投資意欲にも影響が及ぶ懸念があり、ニューヨーク市の経済成長や雇用創出プロジェクトの進展にも波及効果を及ぼす可能性が高い。",
+        "category": "Corporate",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/23/nyc-mayor-mamdani-knocked-ken-griffin-in-pied-a-terre-tax-promo-his-firm-calls-the-move-shameful.html"
+      },
+      {
+        "title": "How a pivot to hair accessories led to business success",
+        "summary_2lines": "サンフランシスコの起業家ジェニー・レニックが食べ物をテーマにした植物由来プラスチック製ヘアアクセサリーに事業転換し、売上を伸ばして成功を収めている。2023年には売上が200万ドルに達し、オンラインと卸売で安定した収益基盤を築いた。",
+        "why_it_matters": "パンデミック後の小売環境悪化で実店舗経営が困難になる中、ジェニー・レニックがニッチな市場に特化したヘアアクセサリーにピボットし、持続可能な素材を用いてトレンド性と倫理的価値を両立した商品を展開したことで、経済環境の変化への適応例として重要である。消費者が商品に価値観を反映させる傾向が強まる背景も示している。",
+        "market_impact": "小規模ブランドがデジタル販売や卸売を活用し、サステナブルで個性的な商品によって成長する事例として注目される。食品モチーフのファッションは、高価格帯ブランドから普及ブランドへと拡大し、若年層の生活スタイルや消費行動にも影響を与える可能性が高い。また、製造の外部委託（中国工場）とオンライン販売の組み合わせが中小企業の成長モデルとして示された。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c23992zv9rko?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
