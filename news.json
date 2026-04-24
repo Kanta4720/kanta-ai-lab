@@ -1,150 +1,150 @@
 {
-  "generated_at_jst": "2026-04-24 07:32",
+  "generated_at_jst": "2026-04-25 07:30",
   "todays_brief": [
     {
-      "title": "Bessent says 'many' U.S. allies have asked for currency swaps amid Iran war turbulence",
-      "summary_2lines": "米財務長官ベセントは、イラン情勢の影響で湾岸諸国を中心に多くの同盟国が米ドルの通貨スワップを要請していると明言。これにより米ドル市場の安定と湾岸諸国の金融支援が目的とされる。",
-      "why_it_matters": "イランとの紛争が中東地域の経済インフラや石油輸出に重大な影響を与えており、湾岸諸国が米ドル流動性を求めることで米国との金融的結びつきが強まる。また、国内では高騰する物価と財政負担の中でこの支援が政治的論争の火種となっている。",
-      "market_impact": "米ドルの流動性維持は国際石油市場の安定に寄与し、エネルギー関連市場には安心感を与える一方、米財政へのリスク増大や国内消費者の負担増加による米国経済への影響も懸念される。政治的対立も金融政策に影響を与える可能性がある。",
+      "title": "White House memo claims mass AI theft by Chinese firms",
+      "summary_2lines": "ホワイトハウスの内部メモで、中国企業が米国のAI技術を大量に盗用していると指摘された。米政府は米AI企業と連携し、このサイバー攻撃に対抗する方針を示した。",
+      "why_it_matters": "AI技術は国家競争力の中核であり、技術窃取は研究開発の優位性を脅かす重大な問題である。今回のメモは米中間の技術覇権争いの一端を示し、サイバーセキュリティや国際関係に影響を及ぼす可能性がある。",
+      "market_impact": "米AI企業は模倣や盗用による競争激化や研究成果の流出リスクが増大し、投資家の警戒感を招く恐れがある。一方、中国側のAI市場では模倣製品が台頭し、両国間で技術的なバリューチェーン分断や貿易制裁の可能性も高まるため、グローバルなAI市場の不安定化が懸念される。",
+      "category": "Geopolitics",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Nuclear reactor company X-energy shares surge 27% as AI drives interest in its IPO",
+      "summary_2lines": "先端型原子炉企業X-energyが27%高の株価でIPOデビューし、10億ドル以上の資金調達に成功。AIブームと電化促進により原子力産業への関心が高まっている。",
+      "why_it_matters": "X-energyの大型IPOは、先端原子力技術への期待と投資家の注目を集めている。従来の軽水炉に代わる高温ガス冷却炉の技術は、電力だけでなく化学製造など脱炭素化が困難な産業の変革も期待されるため、エネルギー転換の一端を担う重要な試みとなっている。",
+      "market_impact": "X-energyのIPO成功とパートナー企業との11GW超の受注パイプラインは、原子力発電産業への資金流入と企業価値向上に寄与し、関連株の投資熱を加速させる可能性がある。さらに発電だけでなく燃料供給やライセンスモデルによる新たな収益構造構築が、長期的な競争力と市場拡大を後押しすると見られる。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/24/nuclear-reactor-company-x-energy-begins-trading-as-ai-drives-interest-in-the-industry.html"
+    },
+    {
+      "title": "Stock markets are too high and set to fall, says Bank of England deputy",
+      "summary_2lines": "イングランド銀行の副総裁サラ・ブリーデン氏は、世界の株価が過大評価されており、近い将来に調整（下落）が避けられないと警告した。特にAI関連企業の過熱や影の銀行システムのリスクが懸念材料とされる。",
+      "why_it_matters": "中央銀行の高官がここまで踏み込んだ市場の過熱警告をするのは異例であり、グローバル経済が複数のリスク要因に同時直面している不安定な状況を反映している。投資家心理や経済成長、金融システムの安定性に重要な影響を与えるため注目される。",
+      "market_impact": "株価調整が起これば、個人消費の減少、企業の資金調達難、投資削減、雇用抑制など経済活動に悪影響が及ぶ可能性が高い。特に、AI関連銘柄のバブル懸念とプライベートクレジットの信用リスクが、米国市場およびグローバル金融システムの不透明感を増す恐れがある。",
+      "category": "Markets",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "China car giant BYD says it can thrive without US",
+      "summary_2lines": "中国のEV大手BYDは米国市場を除外しても成長可能と述べ、アジアや欧州などでの需要増に対応している。新技術のフラッシュ充電で競争力を強化し、激しい国内外の競争を勝ち抜こうとしている。",
+      "why_it_matters": "燃料価格高騰を背景にEV需要が世界的に増加する中、中国のBYDが米国市場に依存せず成長戦略を描くことは、グローバルEV産業の勢力図と地政学的な市場競争構造を変える可能性がある。特に米中間の貿易摩擦や規制リスクを回避しつつ市場拡大を図る中国企業の動向は注目を集める。",
+      "market_impact": "BYDの欧州やブラジルでの急成長が進めば、現地の自動車市場競争が激化し、従来の欧米自動車メーカーおよび日本メーカーに圧力をかける。また、急速充電技術の進展はEV普及を後押しし、グローバルな電池・充電インフラ開発にも影響を与える。地政学リスクを抱える米国市場に頼らない戦略は、リスク分散と持続的成長のモデルケースとなる可能性がある。",
+      "category": "Markets",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Bessent defends U.S. dollar swap lines as Iran war harms global finances",
+      "summary_2lines": "財務長官スコット・ベッセントはイラン戦争による世界経済の混乱を受け、米ドルスワップ協定の重要性を擁護した。米国は湾岸諸国やアジアの同盟国との通貨スワップラインを持つことで国際的な流動性を維持しようとしている。",
+      "why_it_matters": "イラン戦争が引き起こす原油供給危機や地域経済の不安定化は、国際金融市場に大きなストレスを与えている。米ドルスワップラインの拡充は、ドルの世界的な基軸通貨としての地位を強化し、取引・投資の円滑化を図る重要な金融政策手段であるため、グローバルな経済安定維持に欠かせない背景がある。",
+      "market_impact": "スワップライン拡充により湾岸諸国やアジアとのドル流動性が確保され、貿易や投資が安定しやすくなる。短期的には市場の資金繰り安心感が高まりドル資産の急激な売却等のリスク軽減に寄与する一方、政治的には国内で「外国への無用な資金援助」との反発が生じる可能性がある。インフレ懸念が強まる中、トランプ大統領の支持率と経済政策への信認にも影響を及ぼす。",
       "category": "Geopolitics",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/22/iran-war-treasury-uae-scott-bessent-currency-swaps.html"
-    },
-    {
-      "title": "Meta says it will cut 8,000 jobs as AI spending grows",
-      "summary_2lines": "MetaはAI関連支出を大幅に増加させる一方で、約8,000人の従業員を解雇し、業務効率化を図る。2026年にはAIが働き方を大きく変えるとCEOザッカーバーグは見込む。",
-      "why_it_matters": "Metaの大規模な人員削減は、AI技術への投資拡大と労働生産性の変化を反映している。これはテクノロジー業界がAIを軸に急速に進化し、人員構成や企業戦略に影響を与える動向の一端を示している。",
-      "market_impact": "Metaの人員削減は企業のコスト構造に影響を与え、株価や業績期待に波及する可能性がある。AI関連投資の増加は業界全体の競争加速を示唆し、労働市場や他社の人材戦略にも波及効果が見込まれる。",
-      "category": "Corporate",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Warner Bros shareholders approve Paramount's $111bn takeover",
-      "summary_2lines": "Warner Brosの株主がParamountによる1110億ドルの買収を承認した。現在は規制当局の承認待ちだが、メディア業界に大きな変革をもたらす可能性が高い。",
-      "why_it_matters": "ParamountによるWarner Bros買収はメディア業界の再編を象徴する大型案件であり、競争環境やクリエイターの働き方、消費者の選択肢に大きな影響を及ぼす。米欧の規制当局による審査や政治的な反発も激しく、業界と規制環境の今後を占う重要な動きだからだ。",
-      "market_impact": "本件が完了すると、ParamountはHBO Maxを含む多様なコンテンツ資産を統合し、業界トップのメディア企業へと成長する。これにより競争激化や独占懸念から規制が強化される一方、クリエイターの雇用機会減少や視聴者のコンテンツ多様性縮小のリスクもある。投資家や市場はメガ合併の長期的な収益性と規制リスクを注視する展開となる。",
-      "category": "Corporate",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Kalshi traders don't see Strait of Hormuz traffic returning to normal until July",
-      "summary_2lines": "Kalshiの予測市場では、ホルムズ海峡の正常な通航が7月まで戻らない確率が高いとされている。米国とイランの緊張継続により、エネルギー供給の不安定化が続いている。",
-      "why_it_matters": "ホルムズ海峡は世界石油輸送の重要な要衝であり、ここでの通航停止は原油価格の高騰や供給不足を招く。米イラン間の緊張および停戦延長が具体的な合意に至っておらず、エネルギー市場の不安材料となっているため、世界経済にとって重大なリスク要因となっている。",
-      "market_impact": "原油価格は100ドルを超え高騰しており、エネルギーコストの上昇が企業のコスト増加やインフレ圧力の強まりにつながる。海峡通航減少により、石油および関連商品の供給に制約が続き、中東情勢が改善しなければエネルギー市場のボラティリティが継続することが予想される。長期的には経済成長に抑制的に働く可能性がある。",
-      "category": "Geopolitics",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/23/kalshi-bettors-see-strait-of-hormuz-traffic-normal-by-july.html"
-    },
-    {
-      "title": "UK borrowing lowest for three years but Iran war clouds outlook",
-      "summary_2lines": "英国の政府借入金額は3年間で最低水準の1320億ポンドに減少したが、イラン戦争によるエネルギー価格上昇で今後の借入増加懸念が強まっている。インフレ加速や政府のエネルギー支援策が財政に重荷をかける可能性がある。",
-      "why_it_matters": "英国の財政健全化は経済安定に不可欠だが、中東の地政学リスクがエネルギー価格を押し上げ、インフレと低成長を招くことで税収増加が抑制され、債務コストも上昇する。このため今年以降の財政赤字拡大が懸念され、政府の財政政策運営が試されている。",
-      "market_impact": "借入額抑制による国債市場の安定化が期待される一方、エネルギー価格ショックやインフレ高止まりで企業のコスト増加、生産抑制、消費減退が予想され、経済成長見通しの下方修正につながる。長期的には金利上昇に伴う政府の利払い負担増加も市場の重荷となる可能性が高い。",
-      "category": "Economy",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/ckge5291152o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.cnbc.com/2026/04/24/bessent-iran-war-uae-swap-lines-gulf-asia.html"
     }
   ],
   "categories": {
     "Tech": [],
     "Markets": [
       {
-        "title": "Traders are betting on big moves in Intel on earnings",
-        "summary_2lines": "トレーダーはインテルの決算発表後に株価が約9%動くと予想している。これまで決算後に株価が下がることが多かったが、今回は強気の動きが目立つ。",
-        "why_it_matters": "半導体株が市場を牽引する中、インテルは過去1年で230%以上上昇しており、決算による株価の大きな変動は投資家心理や市場の方向性に影響を与えるため注目されている。",
-        "market_impact": "決算後の株価変動次第でインテルおよび関連半導体株の投資意欲が変動し、米国株市場の半導体セクターのモメンタムに影響を与える可能性がある。オプション取引の活発化は市場のボラティリティ増加やリスク管理動向を反映している。",
+        "title": "The aerospace and defense trade is taking investors deeper into space, and more ETFs are up for the mission",
+        "summary_2lines": "宇宙・防衛関連のETFが増え、投資家の関心が高まっている。地政学的リスクや新技術投資により、同分野の成長が期待されている。",
+        "why_it_matters": "イラン情勢など地政学リスクが高まる中、防衛および宇宙関連企業への関心が強まっている。加えて、SpaceXのIPOやAI技術進展など新たな技術革新が投資を後押しし、今後数年での政府および民間からの大規模な資金投入が見込まれている点が重要である。",
+        "market_impact": "宇宙・防衛ETFのパフォーマンス差が顕著になり、一部ETFは高騰している。伝統的な防衛株が調整する中、新興技術と関連企業への資金流入が加速。これにより、関連企業の株価上昇や市場全体でのセクター再評価が進む可能性が高い。AIや希少資源が関連分野の成長をさらに促進する見込み。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/23/traders-are-betting-on-big-moves-in-intel-on-earnings.html"
+        "url": "https://www.cnbc.com/2026/04/24/aerospace-and-defense-as-growth-drivers-for-etfs-amid-iran-war.html"
       },
       {
-        "title": "Risky meme trading is back. A trading rule change may have lit the fuse",
-        "summary_2lines": "米SECがパターンデイトレーダー規制を撤廃し、小口投資家による短期トレードの参入障壁が低下。これによりミーム株取引が活発化し、急騰と急落を繰り返すボラティリティが高まっている。",
-        "why_it_matters": "従来の1週間あたり4回以上のデイトレードに25,000ドルの最低資金を求める規制撤廃は、小口投資家の取引機会を拡大。これによりボラティリティの高いミーム株市場への参加者が増え、市場の流動性やリスク環境が大きく変化するため、投資家心理や市場動向の理解に重要な示唆を与える。",
-        "market_impact": "取引規制の緩和によって個人投資家が短期売買を増やし、AllbirdsやAvis Budget Groupなど人気銘柄の株価が急騰した後に急落するなど、価格変動の激しさが増加。流動性が高まる一方で、投資家のリスクが増大し市場の不安定化も鮮明になる可能性がある。これに伴い金融機関のリスク管理強化や規制当局の監視強化が必要となる可能性も高い。",
+        "title": "Bettors on Kalshi now see Warsh likely confirmed by mid-May after DOJ drops Powell probe",
+        "summary_2lines": "ドナルド・トランプ大統領が指名したケビン・ウォーシュのFRB議長就任が、司法省のパウエル議長に対する捜査終了により5月中旬までに確率が大幅に上昇。Kalshiなどの予測市場で承認の可能性は80%以上に達している。",
+        "why_it_matters": "FRB議長の人事は金融政策の方向性に直結し、特に市場の金利見通しや景気動向に大きな影響を与えるため重要。司法省の捜査終了が反対派議員の条件を満たし、承認手続きが円滑に進む見込みとなったことで不透明感が後退し、金融政策の安定性が期待される。",
+        "market_impact": "ウォーシュ氏の議長就任が濃厚になることで、予測市場では短期的な金融政策の継続または変更に対する期待が明確化。これにより米金利市場や株式市場でのボラティリティ低下や投資家心理の改善が見込まれ、マーケットの不確実性が軽減される可能性が高い。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/23/risky-meme-trading-is-back-a-trading-rule-change-may-have-lit-the-fuse.html"
+        "url": "https://www.cnbc.com/2026/04/24/kalshi-bettors-see-warsh-confirmed-in-may-after-doj-drops-powell-probe.html"
+      },
+      {
+        "title": "Nuclear reactor company X-energy shares surge 27% as AI drives interest in its IPO",
+        "summary_2lines": "先端型原子炉企業X-energyが27%高の株価でIPOデビューし、10億ドル以上の資金調達に成功。AIブームと電化促進により原子力産業への関心が高まっている。",
+        "why_it_matters": "X-energyの大型IPOは、先端原子力技術への期待と投資家の注目を集めている。従来の軽水炉に代わる高温ガス冷却炉の技術は、電力だけでなく化学製造など脱炭素化が困難な産業の変革も期待されるため、エネルギー転換の一端を担う重要な試みとなっている。",
+        "market_impact": "X-energyのIPO成功とパートナー企業との11GW超の受注パイプラインは、原子力発電産業への資金流入と企業価値向上に寄与し、関連株の投資熱を加速させる可能性がある。さらに発電だけでなく燃料供給やライセンスモデルによる新たな収益構造構築が、長期的な競争力と市場拡大を後押しすると見られる。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/24/nuclear-reactor-company-x-energy-begins-trading-as-ai-drives-interest-in-the-industry.html"
+      },
+      {
+        "title": "Stock markets are too high and set to fall, says Bank of England deputy",
+        "summary_2lines": "イングランド銀行の副総裁サラ・ブリーデン氏は、世界の株価が過大評価されており、近い将来に調整（下落）が避けられないと警告した。特にAI関連企業の過熱や影の銀行システムのリスクが懸念材料とされる。",
+        "why_it_matters": "中央銀行の高官がここまで踏み込んだ市場の過熱警告をするのは異例であり、グローバル経済が複数のリスク要因に同時直面している不安定な状況を反映している。投資家心理や経済成長、金融システムの安定性に重要な影響を与えるため注目される。",
+        "market_impact": "株価調整が起これば、個人消費の減少、企業の資金調達難、投資削減、雇用抑制など経済活動に悪影響が及ぶ可能性が高い。特に、AI関連銘柄のバブル懸念とプライベートクレジットの信用リスクが、米国市場およびグローバル金融システムの不透明感を増す恐れがある。",
+        "category": "Markets",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How does it affect me if share prices fall?",
+        "summary_2lines": "イギリスの中央銀行副総裁が株価の下落を予測し、市場のリスクを指摘。株価の変動は個人の年金資産や雇用にも影響を与える可能性がある。",
+        "why_it_matters": "多くの人々が直接株式投資をしていなくても、年金資産の多くが株式市場に連動しているため、株価の下落は将来の資産形成や生活設計に影響を及ぼす。また、企業の業績悪化による雇用リスクも否定できず、個人生活や経済全体に波及する重要な問題である。",
+        "market_impact": "世界経済が抱えるリスクの顕在化に伴い株価が下落すると、投資家の資産価値が減少。特に定期的に年金を通じて株式市場に投資している個人に影響が大きい。企業は収益圧迫を受けコスト削減を迫られ、結果として雇用削減へとつながる可能性がある。しかし下落局面は長期投資の買い場ともなりうるため、短期的な動揺よりも冷静な資産運用が求められる。",
+        "category": "Markets",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "China car giant BYD says it can thrive without US",
+        "summary_2lines": "中国のEV大手BYDは米国市場を除外しても成長可能と述べ、アジアや欧州などでの需要増に対応している。新技術のフラッシュ充電で競争力を強化し、激しい国内外の競争を勝ち抜こうとしている。",
+        "why_it_matters": "燃料価格高騰を背景にEV需要が世界的に増加する中、中国のBYDが米国市場に依存せず成長戦略を描くことは、グローバルEV産業の勢力図と地政学的な市場競争構造を変える可能性がある。特に米中間の貿易摩擦や規制リスクを回避しつつ市場拡大を図る中国企業の動向は注目を集める。",
+        "market_impact": "BYDの欧州やブラジルでの急成長が進めば、現地の自動車市場競争が激化し、従来の欧米自動車メーカーおよび日本メーカーに圧力をかける。また、急速充電技術の進展はEV普及を後押しし、グローバルな電池・充電インフラ開発にも影響を与える。地政学リスクを抱える米国市場に頼らない戦略は、リスク分散と持続的成長のモデルケースとなる可能性がある。",
+        "category": "Markets",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Geopolitics": [
       {
-        "title": "Bessent says 'many' U.S. allies have asked for currency swaps amid Iran war turbulence",
-        "summary_2lines": "米財務長官ベセントは、イラン情勢の影響で湾岸諸国を中心に多くの同盟国が米ドルの通貨スワップを要請していると明言。これにより米ドル市場の安定と湾岸諸国の金融支援が目的とされる。",
-        "why_it_matters": "イランとの紛争が中東地域の経済インフラや石油輸出に重大な影響を与えており、湾岸諸国が米ドル流動性を求めることで米国との金融的結びつきが強まる。また、国内では高騰する物価と財政負担の中でこの支援が政治的論争の火種となっている。",
-        "market_impact": "米ドルの流動性維持は国際石油市場の安定に寄与し、エネルギー関連市場には安心感を与える一方、米財政へのリスク増大や国内消費者の負担増加による米国経済への影響も懸念される。政治的対立も金融政策に影響を与える可能性がある。",
+        "title": "White House memo claims mass AI theft by Chinese firms",
+        "summary_2lines": "ホワイトハウスの内部メモで、中国企業が米国のAI技術を大量に盗用していると指摘された。米政府は米AI企業と連携し、このサイバー攻撃に対抗する方針を示した。",
+        "why_it_matters": "AI技術は国家競争力の中核であり、技術窃取は研究開発の優位性を脅かす重大な問題である。今回のメモは米中間の技術覇権争いの一端を示し、サイバーセキュリティや国際関係に影響を及ぼす可能性がある。",
+        "market_impact": "米AI企業は模倣や盗用による競争激化や研究成果の流出リスクが増大し、投資家の警戒感を招く恐れがある。一方、中国側のAI市場では模倣製品が台頭し、両国間で技術的なバリューチェーン分断や貿易制裁の可能性も高まるため、グローバルなAI市場の不安定化が懸念される。",
         "category": "Geopolitics",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/22/iran-war-treasury-uae-scott-bessent-currency-swaps.html"
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Kalshi traders don't see Strait of Hormuz traffic returning to normal until July",
-        "summary_2lines": "Kalshiの予測市場では、ホルムズ海峡の正常な通航が7月まで戻らない確率が高いとされている。米国とイランの緊張継続により、エネルギー供給の不安定化が続いている。",
-        "why_it_matters": "ホルムズ海峡は世界石油輸送の重要な要衝であり、ここでの通航停止は原油価格の高騰や供給不足を招く。米イラン間の緊張および停戦延長が具体的な合意に至っておらず、エネルギー市場の不安材料となっているため、世界経済にとって重大なリスク要因となっている。",
-        "market_impact": "原油価格は100ドルを超え高騰しており、エネルギーコストの上昇が企業のコスト増加やインフレ圧力の強まりにつながる。海峡通航減少により、石油および関連商品の供給に制約が続き、中東情勢が改善しなければエネルギー市場のボラティリティが継続することが予想される。長期的には経済成長に抑制的に働く可能性がある。",
+        "title": "Bessent defends U.S. dollar swap lines as Iran war harms global finances",
+        "summary_2lines": "財務長官スコット・ベッセントはイラン戦争による世界経済の混乱を受け、米ドルスワップ協定の重要性を擁護した。米国は湾岸諸国やアジアの同盟国との通貨スワップラインを持つことで国際的な流動性を維持しようとしている。",
+        "why_it_matters": "イラン戦争が引き起こす原油供給危機や地域経済の不安定化は、国際金融市場に大きなストレスを与えている。米ドルスワップラインの拡充は、ドルの世界的な基軸通貨としての地位を強化し、取引・投資の円滑化を図る重要な金融政策手段であるため、グローバルな経済安定維持に欠かせない背景がある。",
+        "market_impact": "スワップライン拡充により湾岸諸国やアジアとのドル流動性が確保され、貿易や投資が安定しやすくなる。短期的には市場の資金繰り安心感が高まりドル資産の急激な売却等のリスク軽減に寄与する一方、政治的には国内で「外国への無用な資金援助」との反発が生じる可能性がある。インフレ懸念が強まる中、トランプ大統領の支持率と経済政策への信認にも影響を及ぼす。",
         "category": "Geopolitics",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/23/kalshi-bettors-see-strait-of-hormuz-traffic-normal-by-july.html"
+        "url": "https://www.cnbc.com/2026/04/24/bessent-iran-war-uae-swap-lines-gulf-asia.html"
       }
     ],
     "Economy": [
       {
-        "title": "Which airlines are cancelling flights to the UK - and what can you do?",
-        "summary_2lines": "中東情勢の影響で、複数の航空会社が英国便の運航便数を削減し、燃料費高騰により一部で運賃や手荷物料金が値上げされている。航空券購入後の価格変更は基本的に認められず、キャンセル便は限定的だが旅行計画の変更リスクがある。",
-        "why_it_matters": "中東の紛争により主要なジェット燃料供給路が閉鎖され燃料価格が急騰、航空業界全体にコスト増加圧力がかかっている。これにより消費者の旅行コストや予約の安定性が揺らぎ、夏の旅行シーズンに影響を及ぼす可能性があるため重要な問題となっている。",
-        "market_impact": "航空会社は一部便の削減や運賃引き上げで収益維持を図るが、需要減退やキャンセルリスクも高まる。特に長距離路線の運航コスト増加が顕著で、業界全体の利益圧迫や関連旅行業界、観光産業にも間接的な打撃が及ぶ可能性がある。",
+        "title": "US justice department drops probe into Fed chairman Jerome Powell",
+        "summary_2lines": "米司法省はFRB議長ジェローム・パウエルに対する建物改修費超過に関する調査を終了し、連銀監察官による内部調査に移行。パウエルの後任としてケビン・ウォーシュの上院承認が焦点となっている。",
+        "why_it_matters": "パウエル議長はトランプ政権と金利政策を巡り対立が続いており、調査は政治的圧力の一環と見られていた。FRBの独立性が問われる中、議長交代や連銀の信頼性に関わる重要な動きとなっている。",
+        "market_impact": "司法調査の終了で短期的な不透明感は和らぐが、パウエル後任の承認問題やFRBの政策スタンスが市場の不確実性要因。政治介入懸念が減れば市場の信用は回復する可能性もあるが、中央銀行の独立性が揺らぐと金利や為替の変動リスクが高まる。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cr41yel6v4eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "UK borrowing lowest for three years but Iran war clouds outlook",
-        "summary_2lines": "英国の政府借入金額は3年間で最低水準の1320億ポンドに減少したが、イラン戦争によるエネルギー価格上昇で今後の借入増加懸念が強まっている。インフレ加速や政府のエネルギー支援策が財政に重荷をかける可能性がある。",
-        "why_it_matters": "英国の財政健全化は経済安定に不可欠だが、中東の地政学リスクがエネルギー価格を押し上げ、インフレと低成長を招くことで税収増加が抑制され、債務コストも上昇する。このため今年以降の財政赤字拡大が懸念され、政府の財政政策運営が試されている。",
-        "market_impact": "借入額抑制による国債市場の安定化が期待される一方、エネルギー価格ショックやインフレ高止まりで企業のコスト増加、生産抑制、消費減退が予想され、経済成長見通しの下方修正につながる。長期的には金利上昇に伴う政府の利払い負担増加も市場の重荷となる可能性が高い。",
-        "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/ckge5291152o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Corporate": [
       {
-        "title": "Meta says it will cut 8,000 jobs as AI spending grows",
-        "summary_2lines": "MetaはAI関連支出を大幅に増加させる一方で、約8,000人の従業員を解雇し、業務効率化を図る。2026年にはAIが働き方を大きく変えるとCEOザッカーバーグは見込む。",
-        "why_it_matters": "Metaの大規模な人員削減は、AI技術への投資拡大と労働生産性の変化を反映している。これはテクノロジー業界がAIを軸に急速に進化し、人員構成や企業戦略に影響を与える動向の一端を示している。",
-        "market_impact": "Metaの人員削減は企業のコスト構造に影響を与え、株価や業績期待に波及する可能性がある。AI関連投資の増加は業界全体の競争加速を示唆し、労働市場や他社の人材戦略にも波及効果が見込まれる。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Warner Bros shareholders approve Paramount's $111bn takeover",
-        "summary_2lines": "Warner Brosの株主がParamountによる1110億ドルの買収を承認した。現在は規制当局の承認待ちだが、メディア業界に大きな変革をもたらす可能性が高い。",
-        "why_it_matters": "ParamountによるWarner Bros買収はメディア業界の再編を象徴する大型案件であり、競争環境やクリエイターの働き方、消費者の選択肢に大きな影響を及ぼす。米欧の規制当局による審査や政治的な反発も激しく、業界と規制環境の今後を占う重要な動きだからだ。",
-        "market_impact": "本件が完了すると、ParamountはHBO Maxを含む多様なコンテンツ資産を統合し、業界トップのメディア企業へと成長する。これにより競争激化や独占懸念から規制が強化される一方、クリエイターの雇用機会減少や視聴者のコンテンツ多様性縮小のリスクもある。投資家や市場はメガ合併の長期的な収益性と規制リスクを注視する展開となる。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "NYC Mayor Mamdani knocked Ken Griffin in pied-a-terre tax promo. His firm calls the move 'shameful'",
-        "summary_2lines": "ニューヨーク市長マムダニ氏が富裕層の非居住者向けに5百万ドル超の不動産に課税する新たな『ピエダテル税』を提案し、ケン・グリフィン氏を公に批判した。シタデルはこれを「恥ずべき行為」と反発し、市に対する貢献を強調した。",
-        "why_it_matters": "ニューヨーク市が富裕層の非居住者に対して追加課税を検討する中、企業トップや多額の税収、雇用創出に貢献する大手金融企業が批判を受けたことは、地域の税制政策と企業誘致のバランスに大きな緊張をもたらしている。これにより地方自治体の財政強化策と経済活性化政策の間で議論が深まる局面である。",
-        "market_impact": "本件は富裕層の資産に対する課税強化が示唆されることで、金融機関や不動産市場に対して警戒感をもたらす可能性がある。大手企業の本社移転決定や投資意欲にも影響が及ぶ懸念があり、ニューヨーク市の経済成長や雇用創出プロジェクトの進展にも波及効果を及ぼす可能性が高い。",
+        "title": "Foreign car companies bet on technology to hang onto once-lucrative China auto market",
+        "summary_2lines": "外国自動車メーカーは技術競争力を強化し、中国市場での販売低迷を打開しようとしている。GMのキャデラックや現代自動車、フォルクスワーゲンなどが中国現地の先端技術やパートナーシップを活用し、新モデルと高度な運転支援技術を投入している。",
+        "why_it_matters": "中国は世界最大の自動車市場だが、外国メーカーの販売シェアは低下傾向にある。技術面で地元企業に追いつきながら現地調達や中国企業との協業を強化することで、海外ブランドは市場回復と競争力維持を目指す必要がある。この動きは、中国市場の重要性と先端技術の地産地消・グローバル展開に向けた戦略転換を示している。",
+        "market_impact": "外資系自動車メーカーの販売回復は容易でないが、中国の自動運転やAI技術を取り込むことで商品競争力を高め、中国市場だけでなく、アジア太平洋や中東などの新興市場への輸出拡大の布石となる。これにより、世界の自動車産業における技術潮流への影響や生産体制の再編が進む可能性がある。",
         "category": "Corporate",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/23/nyc-mayor-mamdani-knocked-ken-griffin-in-pied-a-terre-tax-promo-his-firm-calls-the-move-shameful.html"
-      },
-      {
-        "title": "How a pivot to hair accessories led to business success",
-        "summary_2lines": "サンフランシスコの起業家ジェニー・レニックが食べ物をテーマにした植物由来プラスチック製ヘアアクセサリーに事業転換し、売上を伸ばして成功を収めている。2023年には売上が200万ドルに達し、オンラインと卸売で安定した収益基盤を築いた。",
-        "why_it_matters": "パンデミック後の小売環境悪化で実店舗経営が困難になる中、ジェニー・レニックがニッチな市場に特化したヘアアクセサリーにピボットし、持続可能な素材を用いてトレンド性と倫理的価値を両立した商品を展開したことで、経済環境の変化への適応例として重要である。消費者が商品に価値観を反映させる傾向が強まる背景も示している。",
-        "market_impact": "小規模ブランドがデジタル販売や卸売を活用し、サステナブルで個性的な商品によって成長する事例として注目される。食品モチーフのファッションは、高価格帯ブランドから普及ブランドへと拡大し、若年層の生活スタイルや消費行動にも影響を与える可能性が高い。また、製造の外部委託（中国工場）とオンライン販売の組み合わせが中小企業の成長モデルとして示された。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c23992zv9rko?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.cnbc.com/2026/04/24/foreign-car-companies-use-technology-to-hang-onto-china-auto-market.html"
       }
     ]
   }
