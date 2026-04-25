@@ -1,125 +1,134 @@
 {
-  "generated_at_jst": "2026-04-25 07:30",
+  "generated_at_jst": "2026-04-26 07:23",
   "todays_brief": [
     {
       "title": "White House memo claims mass AI theft by Chinese firms",
-      "summary_2lines": "ホワイトハウスの内部メモで、中国企業が米国のAI技術を大量に盗用していると指摘された。米政府は米AI企業と連携し、このサイバー攻撃に対抗する方針を示した。",
-      "why_it_matters": "AI技術は国家競争力の中核であり、技術窃取は研究開発の優位性を脅かす重大な問題である。今回のメモは米中間の技術覇権争いの一端を示し、サイバーセキュリティや国際関係に影響を及ぼす可能性がある。",
-      "market_impact": "米AI企業は模倣や盗用による競争激化や研究成果の流出リスクが増大し、投資家の警戒感を招く恐れがある。一方、中国側のAI市場では模倣製品が台頭し、両国間で技術的なバリューチェーン分断や貿易制裁の可能性も高まるため、グローバルなAI市場の不安定化が懸念される。",
+      "summary_2lines": "ホワイトハウスは中国企業が米AI技術を大量に盗用していると内部メモで指摘し、対策強化を表明した。これに対し中国側は自国の技術開発は正当な努力の成果だと反発している。",
+      "why_it_matters": "米中間のAI技術を巡る知的財産権侵害問題は、両国の技術覇権争いの核心課題であり、先端技術の競争優位性確保や安全保障に直結している。技術盗用は米国企業の研究開発投資を無効化しうるため、政策対応は今後の国際技術競争の行方を左右する可能性がある。",
+      "market_impact": "AI関連企業は模倣や技術流出への対策強化を迫られ、開発コストやセキュリティ対策費用が増加する恐れがある。米中間の緊張激化による規制強化や制裁リスクも高まり、グローバルなAI市場の成長や投資環境に不透明感が強まるだろう。",
       "category": "Geopolitics",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Nuclear reactor company X-energy shares surge 27% as AI drives interest in its IPO",
-      "summary_2lines": "先端型原子炉企業X-energyが27%高の株価でIPOデビューし、10億ドル以上の資金調達に成功。AIブームと電化促進により原子力産業への関心が高まっている。",
-      "why_it_matters": "X-energyの大型IPOは、先端原子力技術への期待と投資家の注目を集めている。従来の軽水炉に代わる高温ガス冷却炉の技術は、電力だけでなく化学製造など脱炭素化が困難な産業の変革も期待されるため、エネルギー転換の一端を担う重要な試みとなっている。",
-      "market_impact": "X-energyのIPO成功とパートナー企業との11GW超の受注パイプラインは、原子力発電産業への資金流入と企業価値向上に寄与し、関連株の投資熱を加速させる可能性がある。さらに発電だけでなく燃料供給やライセンスモデルによる新たな収益構造構築が、長期的な競争力と市場拡大を後押しすると見られる。",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/24/nuclear-reactor-company-x-energy-begins-trading-as-ai-drives-interest-in-the-industry.html"
-    },
-    {
       "title": "Stock markets are too high and set to fall, says Bank of England deputy",
-      "summary_2lines": "イングランド銀行の副総裁サラ・ブリーデン氏は、世界の株価が過大評価されており、近い将来に調整（下落）が避けられないと警告した。特にAI関連企業の過熱や影の銀行システムのリスクが懸念材料とされる。",
-      "why_it_matters": "中央銀行の高官がここまで踏み込んだ市場の過熱警告をするのは異例であり、グローバル経済が複数のリスク要因に同時直面している不安定な状況を反映している。投資家心理や経済成長、金融システムの安定性に重要な影響を与えるため注目される。",
-      "market_impact": "株価調整が起これば、個人消費の減少、企業の資金調達難、投資削減、雇用抑制など経済活動に悪影響が及ぶ可能性が高い。特に、AI関連銘柄のバブル懸念とプライベートクレジットの信用リスクが、米国市場およびグローバル金融システムの不透明感を増す恐れがある。",
+      "summary_2lines": "イングランド銀行副総裁のサラ・ブリーデン氏が、世界の株式市場は過大評価されており、近いうちに調整が起こると警告した。特に、プライベートクレジット市場やAI関連銘柄の過熱に懸念を示している。",
+      "why_it_matters": "中央銀行の高官が公然と株式市場の下落リスクを示したのは異例であり、世界経済が複数のリスクに直面している状況を反映している。これにより投資家や政策決定者がリスク管理を改めて見直す契機となる可能性がある。",
+      "market_impact": "株価下落が起これば、家計の資産減少による消費縮小や、企業の資金調達困難による投資減退を通じて景気に悪影響を及ぼす恐れがある。特に、影の銀行業（プライベートクレジット市場）の拡大が初めての大規模な下落に耐えられるかは不透明で、銀行とは異なる信用収縮リスクが懸念される。",
       "category": "Markets",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "China car giant BYD says it can thrive without US",
-      "summary_2lines": "中国のEV大手BYDは米国市場を除外しても成長可能と述べ、アジアや欧州などでの需要増に対応している。新技術のフラッシュ充電で競争力を強化し、激しい国内外の競争を勝ち抜こうとしている。",
-      "why_it_matters": "燃料価格高騰を背景にEV需要が世界的に増加する中、中国のBYDが米国市場に依存せず成長戦略を描くことは、グローバルEV産業の勢力図と地政学的な市場競争構造を変える可能性がある。特に米中間の貿易摩擦や規制リスクを回避しつつ市場拡大を図る中国企業の動向は注目を集める。",
-      "market_impact": "BYDの欧州やブラジルでの急成長が進めば、現地の自動車市場競争が激化し、従来の欧米自動車メーカーおよび日本メーカーに圧力をかける。また、急速充電技術の進展はEV普及を後押しし、グローバルな電池・充電インフラ開発にも影響を与える。地政学リスクを抱える米国市場に頼らない戦略は、リスク分散と持続的成長のモデルケースとなる可能性がある。",
+      "title": "Nuclear reactor company X-energy shares surge 27% as AI drives interest in its IPO",
+      "summary_2lines": "先進的な原子炉開発企業X-energyがAIブームに後押しされ、時価総額が急上昇し大型IPOを成功させた。株価は初日27%上昇し、約10億ドルの資金調達に成功した。",
+      "why_it_matters": "脱炭素や電化の潮流において、原子力が再評価される中でX-energyは最新技術の小型高温ガス炉を武器に大手企業との連携を強化し、原子力発電のビジネスモデル変革を示したことが重要。AI関連の市場関心が核エネルギー分野にも波及し、今後のエネルギー産業の革新に影響を与える可能性がある。",
+      "market_impact": "IPOによる巨額資金調達によりX-energyは技術開発と設備建設を加速でき、同社のライセンスモデルと燃料供給で原子力市場の体系的変化を促す。大手顧客との受注パイプラインは業界の投資拡大を後押しし、同種の先進原子炉企業の市場参入を促進しうる。加えて、従来のSPACではなく伝統的IPOの成功は、投資家の期待変化も示唆する。",
       "category": "Markets",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss"
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/24/nuclear-reactor-company-x-energy-begins-trading-as-ai-drives-interest-in-the-industry.html"
     },
     {
       "title": "Bessent defends U.S. dollar swap lines as Iran war harms global finances",
-      "summary_2lines": "財務長官スコット・ベッセントはイラン戦争による世界経済の混乱を受け、米ドルスワップ協定の重要性を擁護した。米国は湾岸諸国やアジアの同盟国との通貨スワップラインを持つことで国際的な流動性を維持しようとしている。",
-      "why_it_matters": "イラン戦争が引き起こす原油供給危機や地域経済の不安定化は、国際金融市場に大きなストレスを与えている。米ドルスワップラインの拡充は、ドルの世界的な基軸通貨としての地位を強化し、取引・投資の円滑化を図る重要な金融政策手段であるため、グローバルな経済安定維持に欠かせない背景がある。",
-      "market_impact": "スワップライン拡充により湾岸諸国やアジアとのドル流動性が確保され、貿易や投資が安定しやすくなる。短期的には市場の資金繰り安心感が高まりドル資産の急激な売却等のリスク軽減に寄与する一方、政治的には国内で「外国への無用な資金援助」との反発が生じる可能性がある。インフレ懸念が強まる中、トランプ大統領の支持率と経済政策への信認にも影響を及ぼす。",
+      "summary_2lines": "財務長官スコット・ベセントは、イラン戦争による世界経済の混乱を受け、湾岸諸国やアジアの同盟国との米ドルスワップライン設定の重要性を擁護した。これにより米ドルの国際的な優位性と経済的防衛力が強調された。",
+      "why_it_matters": "イラン戦争が湾岸地域の石油産出国の経済に悪影響を及ぼしており、ドル流動性を確保するためのスワップラインはグローバル金融市場の安定化につながる。これにより米国はドルの国際的基軸通貨としての地位を維持しつつ、経済リスクに対処できる体制を強化しようとしている。",
+      "market_impact": "プラントでのドル流動性提供が強化されることで、国際的な金融市場の緊張緩和や資金調達環境の安定化が期待される。特に湾岸諸国やアジア市場の企業・金融機関は資金調達コストの上昇抑制効果を享受し、貿易・投資活動に好影響をもたらす可能性がある。一方で政治的リスクや米国内の反発も生じ得るため、慎重な対応が求められる。",
       "category": "Geopolitics",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/04/24/bessent-iran-war-uae-swap-lines-gulf-asia.html"
+    },
+    {
+      "title": "This little-known ETF is up over 600% amid U.S.-Iran war, a better trade than oil or energy stocks",
+      "summary_2lines": "米中東戦争による地政学的緊張で原油輸送費が急騰し、タンカー輸送関連のETF『Breakwave Tanker Shipping ETF (BWET)』が年初来600%以上上昇。エネルギー価格上昇以上の投資対象として注目を集めている。",
+      "why_it_matters": "従来の原油価格やエネルギー株に加え、エネルギー輸送インフラのコストが投資家の注目を集めている。地政学的リスクが続く中で、供給チェーンや物流の脆弱性が市場のリスク評価と資産価格に直接影響を及ぼしており、エネルギー市場の構造変化を示唆する。",
+      "market_impact": "BWETの急騰は、タンカー株や運賃先物市場への関心拡大を促し、エネルギー関連インフラへの投資ニーズを高める。これによりエネルギーセクター全体のリスクプレミアムが変動し、投資家は従来のコモディティ価格以外の収益源を模索。長期的にはエネルギー輸送と供給網の強化が進む可能性がある。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/25/crude-oil-freight-tanker-strait-hormuz-iran-war-energy-stocks.html"
     }
   ],
   "categories": {
     "Tech": [],
     "Markets": [
       {
-        "title": "The aerospace and defense trade is taking investors deeper into space, and more ETFs are up for the mission",
-        "summary_2lines": "宇宙・防衛関連のETFが増え、投資家の関心が高まっている。地政学的リスクや新技術投資により、同分野の成長が期待されている。",
-        "why_it_matters": "イラン情勢など地政学リスクが高まる中、防衛および宇宙関連企業への関心が強まっている。加えて、SpaceXのIPOやAI技術進展など新たな技術革新が投資を後押しし、今後数年での政府および民間からの大規模な資金投入が見込まれている点が重要である。",
-        "market_impact": "宇宙・防衛ETFのパフォーマンス差が顕著になり、一部ETFは高騰している。伝統的な防衛株が調整する中、新興技術と関連企業への資金流入が加速。これにより、関連企業の株価上昇や市場全体でのセクター再評価が進む可能性が高い。AIや希少資源が関連分野の成長をさらに促進する見込み。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/24/aerospace-and-defense-as-growth-drivers-for-etfs-amid-iran-war.html"
-      },
-      {
-        "title": "Bettors on Kalshi now see Warsh likely confirmed by mid-May after DOJ drops Powell probe",
-        "summary_2lines": "ドナルド・トランプ大統領が指名したケビン・ウォーシュのFRB議長就任が、司法省のパウエル議長に対する捜査終了により5月中旬までに確率が大幅に上昇。Kalshiなどの予測市場で承認の可能性は80%以上に達している。",
-        "why_it_matters": "FRB議長の人事は金融政策の方向性に直結し、特に市場の金利見通しや景気動向に大きな影響を与えるため重要。司法省の捜査終了が反対派議員の条件を満たし、承認手続きが円滑に進む見込みとなったことで不透明感が後退し、金融政策の安定性が期待される。",
-        "market_impact": "ウォーシュ氏の議長就任が濃厚になることで、予測市場では短期的な金融政策の継続または変更に対する期待が明確化。これにより米金利市場や株式市場でのボラティリティ低下や投資家心理の改善が見込まれ、マーケットの不確実性が軽減される可能性が高い。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/24/kalshi-bettors-see-warsh-confirmed-in-may-after-doj-drops-powell-probe.html"
-      },
-      {
-        "title": "Nuclear reactor company X-energy shares surge 27% as AI drives interest in its IPO",
-        "summary_2lines": "先端型原子炉企業X-energyが27%高の株価でIPOデビューし、10億ドル以上の資金調達に成功。AIブームと電化促進により原子力産業への関心が高まっている。",
-        "why_it_matters": "X-energyの大型IPOは、先端原子力技術への期待と投資家の注目を集めている。従来の軽水炉に代わる高温ガス冷却炉の技術は、電力だけでなく化学製造など脱炭素化が困難な産業の変革も期待されるため、エネルギー転換の一端を担う重要な試みとなっている。",
-        "market_impact": "X-energyのIPO成功とパートナー企業との11GW超の受注パイプラインは、原子力発電産業への資金流入と企業価値向上に寄与し、関連株の投資熱を加速させる可能性がある。さらに発電だけでなく燃料供給やライセンスモデルによる新たな収益構造構築が、長期的な競争力と市場拡大を後押しすると見られる。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/24/nuclear-reactor-company-x-energy-begins-trading-as-ai-drives-interest-in-the-industry.html"
-      },
-      {
         "title": "Stock markets are too high and set to fall, says Bank of England deputy",
-        "summary_2lines": "イングランド銀行の副総裁サラ・ブリーデン氏は、世界の株価が過大評価されており、近い将来に調整（下落）が避けられないと警告した。特にAI関連企業の過熱や影の銀行システムのリスクが懸念材料とされる。",
-        "why_it_matters": "中央銀行の高官がここまで踏み込んだ市場の過熱警告をするのは異例であり、グローバル経済が複数のリスク要因に同時直面している不安定な状況を反映している。投資家心理や経済成長、金融システムの安定性に重要な影響を与えるため注目される。",
-        "market_impact": "株価調整が起これば、個人消費の減少、企業の資金調達難、投資削減、雇用抑制など経済活動に悪影響が及ぶ可能性が高い。特に、AI関連銘柄のバブル懸念とプライベートクレジットの信用リスクが、米国市場およびグローバル金融システムの不透明感を増す恐れがある。",
+        "summary_2lines": "イングランド銀行副総裁のサラ・ブリーデン氏が、世界の株式市場は過大評価されており、近いうちに調整が起こると警告した。特に、プライベートクレジット市場やAI関連銘柄の過熱に懸念を示している。",
+        "why_it_matters": "中央銀行の高官が公然と株式市場の下落リスクを示したのは異例であり、世界経済が複数のリスクに直面している状況を反映している。これにより投資家や政策決定者がリスク管理を改めて見直す契機となる可能性がある。",
+        "market_impact": "株価下落が起これば、家計の資産減少による消費縮小や、企業の資金調達困難による投資減退を通じて景気に悪影響を及ぼす恐れがある。特に、影の銀行業（プライベートクレジット市場）の拡大が初めての大規模な下落に耐えられるかは不透明で、銀行とは異なる信用収縮リスクが懸念される。",
         "category": "Markets",
         "source": "BBC Business",
         "url": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Bettors on Kalshi now see Warsh likely confirmed by mid-May after DOJ drops Powell probe",
+        "summary_2lines": "米司法省がパウエル連邦準備制度理事会議長への捜査を終了したことで、ケビン・ウォルシュ氏のFRB議長就任が5月中に確実視されている。予測市場では5月15日までに承認される確率が86％に急上昇した。",
+        "why_it_matters": "FRB議長の人事は金融政策の方向性を決定づけるため、市場や経済への大きな影響がある。捜査終了により、一部上院議員の反対条件が解消され承認手続きが円滑化したことで、不確実性が低減した点が重要となる。",
+        "market_impact": "ウォルシュ氏の議長承認が確実となることは、FRBの政策安定性を見込んだ金融市場の安心感につながる可能性が高い。金利政策や資産買い入れの見通しに影響を及ぼし、短期的な市場変動を落ち着かせる効果が期待される。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/24/kalshi-bettors-see-warsh-confirmed-in-may-after-doj-drops-powell-probe.html"
+      },
+      {
+        "title": "This little-known ETF is up over 600% amid U.S.-Iran war, a better trade than oil or energy stocks",
+        "summary_2lines": "米中東戦争による地政学的緊張で原油輸送費が急騰し、タンカー輸送関連のETF『Breakwave Tanker Shipping ETF (BWET)』が年初来600%以上上昇。エネルギー価格上昇以上の投資対象として注目を集めている。",
+        "why_it_matters": "従来の原油価格やエネルギー株に加え、エネルギー輸送インフラのコストが投資家の注目を集めている。地政学的リスクが続く中で、供給チェーンや物流の脆弱性が市場のリスク評価と資産価格に直接影響を及ぼしており、エネルギー市場の構造変化を示唆する。",
+        "market_impact": "BWETの急騰は、タンカー株や運賃先物市場への関心拡大を促し、エネルギー関連インフラへの投資ニーズを高める。これによりエネルギーセクター全体のリスクプレミアムが変動し、投資家は従来のコモディティ価格以外の収益源を模索。長期的にはエネルギー輸送と供給網の強化が進む可能性がある。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/25/crude-oil-freight-tanker-strait-hormuz-iran-war-energy-stocks.html"
+      },
+      {
+        "title": "The aerospace and defense trade is taking investors deeper into space, and more ETFs are up for the mission",
+        "summary_2lines": "宇宙と防衛分野への投資が活発化し、新たなテーマ型ETFが登場している。地政学的緊張や新技術の進展が投資家の関心を高めている。",
+        "why_it_matters": "イラン戦争などの地政学的リスクや、宇宙探査・防衛技術の急速な進歩により、関連市場が成長分野として注目されている。加えてSpaceXのIPO期待も投資意欲を後押ししており、長期的な資金流入が見込まれる。",
+        "market_impact": "宇宙・防衛関連ETFのパフォーマンスに明暗が分かれており、特に宇宙関連ETFは大幅上昇。防衛予算増加やAI・希少資源への需要も関連企業の収益拡大を促進し、市場全体で成長機会が拡大すると予想される。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/24/aerospace-and-defense-as-growth-drivers-for-etfs-amid-iran-war.html"
+      },
+      {
+        "title": "Nuclear reactor company X-energy shares surge 27% as AI drives interest in its IPO",
+        "summary_2lines": "先進的な原子炉開発企業X-energyがAIブームに後押しされ、時価総額が急上昇し大型IPOを成功させた。株価は初日27%上昇し、約10億ドルの資金調達に成功した。",
+        "why_it_matters": "脱炭素や電化の潮流において、原子力が再評価される中でX-energyは最新技術の小型高温ガス炉を武器に大手企業との連携を強化し、原子力発電のビジネスモデル変革を示したことが重要。AI関連の市場関心が核エネルギー分野にも波及し、今後のエネルギー産業の革新に影響を与える可能性がある。",
+        "market_impact": "IPOによる巨額資金調達によりX-energyは技術開発と設備建設を加速でき、同社のライセンスモデルと燃料供給で原子力市場の体系的変化を促す。大手顧客との受注パイプラインは業界の投資拡大を後押しし、同種の先進原子炉企業の市場参入を促進しうる。加えて、従来のSPACではなく伝統的IPOの成功は、投資家の期待変化も示唆する。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/24/nuclear-reactor-company-x-energy-begins-trading-as-ai-drives-interest-in-the-industry.html"
+      },
+      {
         "title": "How does it affect me if share prices fall?",
-        "summary_2lines": "イギリスの中央銀行副総裁が株価の下落を予測し、市場のリスクを指摘。株価の変動は個人の年金資産や雇用にも影響を与える可能性がある。",
-        "why_it_matters": "多くの人々が直接株式投資をしていなくても、年金資産の多くが株式市場に連動しているため、株価の下落は将来の資産形成や生活設計に影響を及ぼす。また、企業の業績悪化による雇用リスクも否定できず、個人生活や経済全体に波及する重要な問題である。",
-        "market_impact": "世界経済が抱えるリスクの顕在化に伴い株価が下落すると、投資家の資産価値が減少。特に定期的に年金を通じて株式市場に投資している個人に影響が大きい。企業は収益圧迫を受けコスト削減を迫られ、結果として雇用削減へとつながる可能性がある。しかし下落局面は長期投資の買い場ともなりうるため、短期的な動揺よりも冷静な資産運用が求められる。",
+        "summary_2lines": "株価が下落すると、多くの人が知らないうちに影響を受ける。特に、年金資産の価値が減少し、退職時の収入や雇用の安定にも関わるため重要だ。",
+        "why_it_matters": "株式市場の動向は直接投資しない人にも影響を及ぼす。多くの人が加入している確定拠出年金の資産価値が市場に連動しており、将来の生活資金に大きな影響を与えるからだ。また、企業の株価下落はコスト削減や雇用調整につながる可能性もあり、経済全体の健全性に直結している。",
+        "market_impact": "株価の下落は年金資産の価値を減少させ、退職前の資産運用戦略に影響を及ぼす。株価の下落が長引けば企業は利益圧縮を強いられ、雇用削減などのコストカット策を講じるリスクが高まる。しかし、市場低迷は割安な株購入のチャンスにもなり、長期的には回復を見込んだ投資環境としても捉えられる。",
         "category": "Markets",
         "source": "BBC Business",
         "url": "https://www.bbc.com/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "China car giant BYD says it can thrive without US",
-        "summary_2lines": "中国のEV大手BYDは米国市場を除外しても成長可能と述べ、アジアや欧州などでの需要増に対応している。新技術のフラッシュ充電で競争力を強化し、激しい国内外の競争を勝ち抜こうとしている。",
-        "why_it_matters": "燃料価格高騰を背景にEV需要が世界的に増加する中、中国のBYDが米国市場に依存せず成長戦略を描くことは、グローバルEV産業の勢力図と地政学的な市場競争構造を変える可能性がある。特に米中間の貿易摩擦や規制リスクを回避しつつ市場拡大を図る中国企業の動向は注目を集める。",
-        "market_impact": "BYDの欧州やブラジルでの急成長が進めば、現地の自動車市場競争が激化し、従来の欧米自動車メーカーおよび日本メーカーに圧力をかける。また、急速充電技術の進展はEV普及を後押しし、グローバルな電池・充電インフラ開発にも影響を与える。地政学リスクを抱える米国市場に頼らない戦略は、リスク分散と持続的成長のモデルケースとなる可能性がある。",
-        "category": "Markets",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Geopolitics": [
       {
         "title": "White House memo claims mass AI theft by Chinese firms",
-        "summary_2lines": "ホワイトハウスの内部メモで、中国企業が米国のAI技術を大量に盗用していると指摘された。米政府は米AI企業と連携し、このサイバー攻撃に対抗する方針を示した。",
-        "why_it_matters": "AI技術は国家競争力の中核であり、技術窃取は研究開発の優位性を脅かす重大な問題である。今回のメモは米中間の技術覇権争いの一端を示し、サイバーセキュリティや国際関係に影響を及ぼす可能性がある。",
-        "market_impact": "米AI企業は模倣や盗用による競争激化や研究成果の流出リスクが増大し、投資家の警戒感を招く恐れがある。一方、中国側のAI市場では模倣製品が台頭し、両国間で技術的なバリューチェーン分断や貿易制裁の可能性も高まるため、グローバルなAI市場の不安定化が懸念される。",
+        "summary_2lines": "ホワイトハウスは中国企業が米AI技術を大量に盗用していると内部メモで指摘し、対策強化を表明した。これに対し中国側は自国の技術開発は正当な努力の成果だと反発している。",
+        "why_it_matters": "米中間のAI技術を巡る知的財産権侵害問題は、両国の技術覇権争いの核心課題であり、先端技術の競争優位性確保や安全保障に直結している。技術盗用は米国企業の研究開発投資を無効化しうるため、政策対応は今後の国際技術競争の行方を左右する可能性がある。",
+        "market_impact": "AI関連企業は模倣や技術流出への対策強化を迫られ、開発コストやセキュリティ対策費用が増加する恐れがある。米中間の緊張激化による規制強化や制裁リスクも高まり、グローバルなAI市場の成長や投資環境に不透明感が強まるだろう。",
         "category": "Geopolitics",
         "source": "BBC Business",
         "url": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "China car giant BYD says it can thrive without US",
+        "summary_2lines": "中国の自動車大手BYDは米国市場に依存せず、アジアや欧州、南米での需要拡大に注力している。最新のフラッシュ充電技術を武器に成長を続け、EV市場での存在感を急速に高めている。",
+        "why_it_matters": "地政学的な緊張や米国の規制強化を背景に、中国EVメーカーが米国市場から締め出される一方で、世界的な燃料価格高騰がEV需要を後押ししている。BYDの動向は、新興勢力の成長、競争環境の変化、サプライチェーンや技術革新の行方を示す重要な指標となる。",
+        "market_impact": "米国依存を避ける戦略により、中国EVメーカーは多地域展開を加速し、特に欧州や南米でのシェア拡大が顕著。フラッシュ充電などの技術革新で顧客獲得が進み、価格競争激化の国内市場での圧力を補う可能性がある。これにより、グローバル自動車業界の勢力図が変化し、伝統的な米欧メーカーは競争圧力に直面する。",
+        "category": "Geopolitics",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Bessent defends U.S. dollar swap lines as Iran war harms global finances",
-        "summary_2lines": "財務長官スコット・ベッセントはイラン戦争による世界経済の混乱を受け、米ドルスワップ協定の重要性を擁護した。米国は湾岸諸国やアジアの同盟国との通貨スワップラインを持つことで国際的な流動性を維持しようとしている。",
-        "why_it_matters": "イラン戦争が引き起こす原油供給危機や地域経済の不安定化は、国際金融市場に大きなストレスを与えている。米ドルスワップラインの拡充は、ドルの世界的な基軸通貨としての地位を強化し、取引・投資の円滑化を図る重要な金融政策手段であるため、グローバルな経済安定維持に欠かせない背景がある。",
-        "market_impact": "スワップライン拡充により湾岸諸国やアジアとのドル流動性が確保され、貿易や投資が安定しやすくなる。短期的には市場の資金繰り安心感が高まりドル資産の急激な売却等のリスク軽減に寄与する一方、政治的には国内で「外国への無用な資金援助」との反発が生じる可能性がある。インフレ懸念が強まる中、トランプ大統領の支持率と経済政策への信認にも影響を及ぼす。",
+        "summary_2lines": "財務長官スコット・ベセントは、イラン戦争による世界経済の混乱を受け、湾岸諸国やアジアの同盟国との米ドルスワップライン設定の重要性を擁護した。これにより米ドルの国際的な優位性と経済的防衛力が強調された。",
+        "why_it_matters": "イラン戦争が湾岸地域の石油産出国の経済に悪影響を及ぼしており、ドル流動性を確保するためのスワップラインはグローバル金融市場の安定化につながる。これにより米国はドルの国際的基軸通貨としての地位を維持しつつ、経済リスクに対処できる体制を強化しようとしている。",
+        "market_impact": "プラントでのドル流動性提供が強化されることで、国際的な金融市場の緊張緩和や資金調達環境の安定化が期待される。特に湾岸諸国やアジア市場の企業・金融機関は資金調達コストの上昇抑制効果を享受し、貿易・投資活動に好影響をもたらす可能性がある。一方で政治的リスクや米国内の反発も生じ得るため、慎重な対応が求められる。",
         "category": "Geopolitics",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/24/bessent-iran-war-uae-swap-lines-gulf-asia.html"
@@ -128,24 +137,14 @@
     "Economy": [
       {
         "title": "US justice department drops probe into Fed chairman Jerome Powell",
-        "summary_2lines": "米司法省はFRB議長ジェローム・パウエルに対する建物改修費超過に関する調査を終了し、連銀監察官による内部調査に移行。パウエルの後任としてケビン・ウォーシュの上院承認が焦点となっている。",
-        "why_it_matters": "パウエル議長はトランプ政権と金利政策を巡り対立が続いており、調査は政治的圧力の一環と見られていた。FRBの独立性が問われる中、議長交代や連銀の信頼性に関わる重要な動きとなっている。",
-        "market_impact": "司法調査の終了で短期的な不透明感は和らぐが、パウエル後任の承認問題やFRBの政策スタンスが市場の不確実性要因。政治介入懸念が減れば市場の信用は回復する可能性もあるが、中央銀行の独立性が揺らぐと金利や為替の変動リスクが高まる。",
+        "summary_2lines": "米司法省は連邦準備制度理事会（FRB）議長ジェローム・パウエルに対する建築費の捜査を打ち切り、内部調査に切り替えると発表した。トランプ前大統領は高額な改装費を非難し、パウエルの後任候補の承認に影響を及ぼしている。",
+        "why_it_matters": "FRBの独立性と信頼性は米国経済政策の根幹であり、政治的圧力による捜査や批判は市場に不確実性をもたらす。パウエル議長の任期満了に伴い、新議長承認を巡る政治的駆け引きが注目されているため、今後の金融政策の方向性が重要な焦点となっている。",
+        "market_impact": "調査中止により当面の不透明感はやや緩和されるものの、パウエル後任の承認が遅れることでFRBの政策決定プロセスが停滞する可能性がある。政治的対立が続けば金融市場のボラティリティが高まり、金利政策や経済成長見通しに影響を及ぼす可能性がある。",
         "category": "Economy",
         "source": "BBC Business",
         "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss"
       }
     ],
-    "Corporate": [
-      {
-        "title": "Foreign car companies bet on technology to hang onto once-lucrative China auto market",
-        "summary_2lines": "外国自動車メーカーは技術競争力を強化し、中国市場での販売低迷を打開しようとしている。GMのキャデラックや現代自動車、フォルクスワーゲンなどが中国現地の先端技術やパートナーシップを活用し、新モデルと高度な運転支援技術を投入している。",
-        "why_it_matters": "中国は世界最大の自動車市場だが、外国メーカーの販売シェアは低下傾向にある。技術面で地元企業に追いつきながら現地調達や中国企業との協業を強化することで、海外ブランドは市場回復と競争力維持を目指す必要がある。この動きは、中国市場の重要性と先端技術の地産地消・グローバル展開に向けた戦略転換を示している。",
-        "market_impact": "外資系自動車メーカーの販売回復は容易でないが、中国の自動運転やAI技術を取り込むことで商品競争力を高め、中国市場だけでなく、アジア太平洋や中東などの新興市場への輸出拡大の布石となる。これにより、世界の自動車産業における技術潮流への影響や生産体制の再編が進む可能性がある。",
-        "category": "Corporate",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/24/foreign-car-companies-use-technology-to-hang-onto-china-auto-market.html"
-      }
-    ]
+    "Corporate": []
   }
 }
