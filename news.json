@@ -1,151 +1,151 @@
 {
-  "generated_at_jst": "2026-04-28 07:38",
+  "generated_at_jst": "2026-04-29 07:44",
   "todays_brief": [
     {
-      "title": "This little-known ETF is up over 600% amid U.S.-Iran war, a better trade than oil or energy stocks",
-      "summary_2lines": "ブレイクウェーブ・タンカーシッピングETF（BWET）は、米・イラン紛争による海運混乱の影響で、年初来600%以上の急騰を遂げた。石油価格やエネルギー株以上に、原油輸送費に連動するこのETFが注目を集めている。",
-      "why_it_matters": "地政学的リスクが海上輸送のコストを激増させ、エネルギー市場の根底にあるインフラ供給の脆弱性を浮き彫りにした。これにより投資家は石油価格だけでなく、原油移動の物流コストに着目し、新たな投資先としてBWETのような船舶関連ETFに関心を高めている。",
-      "market_impact": "BWETの急騰はエネルギー輸送インフラの不足や供給制約を示唆し、船舶関連株や物流セクターに追い風となる。また、原油価格だけでない新たな市場要因として輸送コストへの関心が高まり、関連商品の資金流入と価格変動が激しくなる可能性がある。これによりグローバルなエネルギー供給チェーンの再構築や投資見直しが促進される。",
+      "title": "United Arab Emirates to quit oil cartel Opec",
+      "summary_2lines": "アラブ首長国連邦（UAE）が約60年ぶりにOPECおよびOPEC+を脱退し、エネルギー生産の柔軟性を高めることを目指す。これはOPECの結束に大きな打撃となり、市場の長期的な動揺を招く可能性がある。",
+      "why_it_matters": "OPECは世界の原油供給の調整役として機能し、油価安定を図ってきた。UAEの脱退は、主要メンバーの一角が自国の生産拡大を優先し、市場支配を弱める兆候であり、今後他の加盟国の追随や生産調整の見直しを促す可能性がある。これにより、エネルギー市場の構造変化や地政学的な影響も懸念されている。",
+      "market_impact": "UAEの脱退によりOPECは生産能力の約15％を失い、供給調整の実効性が低下。短期的にはイラン・中東情勢による供給不足で大幅な供給増は見込めないが、長期的にはUAEがOPEC枠外で1百万バレル/日の増産を目指し、市場での原油供給過剰や価格変動性の上昇が予想される。米国との関係強化もエネルギー政策に影響を与える可能性がある。",
       "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/25/crude-oil-freight-tanker-strait-hormuz-iran-war-energy-stocks.html"
-    },
-    {
-      "title": "This bank CEO let his AI clone handle an earnings call — now he's signing an OpenAI deal",
-      "summary_2lines": "Customers BankのCEOがAIクローンを使って決算説明会を実施し、OpenAIとの複数年提携を発表。これにより融資プロセスの大幅な自動化と短縮を目指す。",
-      "why_it_matters": "金融業界ではAI技術の導入が加速しており、Customers Bankのような中堅規模の銀行がOpenAIと協力して業務効率の革新に挑む事例は、今後の銀行業のデジタルトランスフォーメーションの先駆けとなる。大手銀行より規制が緩い中小銀行がAIをいち早く取り入れることで競争力を強化し、市場環境の変化に対応していく背景がある。",
-      "market_impact": "融資審査や口座開設などのコア業務をAIで自動化することで、業務効率が向上しコスト削減や顧客体験の向上が期待できる。これによりCustomers Bankは他の地域銀行との差別化が進み、成長加速や収益性向上につながる可能性が高い。さらにOpenAIとの共同開発による新たな金融AIソリューションの創出は、金融テクノロジー市場の競争激化やイノベーション促進にも寄与するだろう。",
-      "category": "Tech",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/27/openai-partners-with-customers-bank-in-push-to-automate-finance.html"
-    },
-    {
-      "title": "Nuclear reactor company X-energy shares surge 27% as AI drives interest in its IPO",
-      "summary_2lines": "先進的な原子炉企業X-energyがAIブームを背景にIPOを実施し、株価は初日の取引で27％急騰。1億ドル超の資金調達で、原子力産業への関心が高まっていることを示した。",
-      "why_it_matters": "気候変動対策や脱炭素化の潮流の中で、クリーンかつ安定的なエネルギー源として先進原子炉技術が注目されている。X-energyは大型上場で投資資金を集め、技術普及の加速を図ることで、エネルギー市場の構造変化を牽引し得る存在となる。",
-      "market_impact": "X-energyの大型資金調達は原子力産業への投資意欲を喚起し、AIや電化のトレンドと相まってエネルギー市場全体に活気をもたらす。ライセンスモデルと燃料供給事業の展開が競合との差別化を生み、関連するパートナー企業の事業拡大や株価上昇を期待させる。",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/24/nuclear-reactor-company-x-energy-begins-trading-as-ai-drives-interest-in-the-industry.html"
-    },
-    {
-      "title": "Bessent defends U.S. dollar swap lines as Iran war harms global finances",
-      "summary_2lines": "財務長官スコット・ベセントは、イラン戦争による金融不安を背景に、ペルシャ湾やアジアの同盟国との米ドルスワップ協定の重要性を強調。これによりドルの国際的地位と米国経済の安定を支える狙いがある。",
-      "why_it_matters": "イラン戦争が中東の油産出国経済に打撃を与え、世界の金融市場に緊張が走る中、ドル流動性確保のため米国が通貨スワップ協定を拡大しようとしている。これによりドルの基軸通貨としての地位維持と国際金融システムの安定化が図られ、グローバルな貿易と投資環境への波及効果が期待される。",
-      "market_impact": "ドルスワップライン拡充は、ドル資金供給の円滑化による海外の資金調達コスト低下や市場の流動性改善をもたらす可能性が高い。一方で、戦争の影響で中東市場のリスクが増大し、エネルギー価格やインフレ圧力が続く環境下では、米国の政治的反発や国内消費者心理の悪化を招くリスクもある。",
-      "category": "Geopolitics",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/24/bessent-iran-war-uae-swap-lines-gulf-asia.html"
-    },
-    {
-      "title": "Oil prices rise as US-Iran peace talks stall",
-      "summary_2lines": "米・イラン間の和平交渉が再度停滞し、ホルムズ海峡の閉鎖が続く中で原油価格が3%以上上昇した。世界のエネルギー供給先行きへの不透明感が強まっている。",
-      "why_it_matters": "ホルムズ海峡は世界の原油及びLNGの約5分の1が通過する重要な戦略的通路であり、紛争や交渉の停滞はエネルギー供給に重大なリスクをもたらす。これによって国際的な物価上昇や供給網の混乱が懸念され、特に生活必需品やエネルギーコストへの影響が深刻化する可能性があるため重要視されている。",
-      "market_impact": "原油価格の上昇はエネルギー関連企業の収益を押し上げる一方で、燃料や電気料金の高騰、そして幅広い製品のコスト増加を招き消費者物価を押し上げる。欧米市場は影響を慎重に見極めつつも小幅安傾向で推移し、アジア株は全体的に堅調に推移しているものの、不安定な供給環境が長引けばグローバル経済の成長を阻害するリスクが高い。",
-      "category": "Geopolitics",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Jamie Dimon warns of 'some kind of bond crisis' ahead as global debt risks build",
+      "summary_2lines": "JPMorgan ChaseのCEO Jamie Dimonは、世界的な政府債務の増加が近い将来の債券危機を引き起こす可能性を警告した。債券市場の混乱を防ぐため政策的対応が必要と訴えている。",
+      "why_it_matters": "政府債務の急増は債券市場の流動性低下や利回り急騰を招き、金融システム全体の安定性を脅かす。既に2022年の英国国債危機のような事例もあり、市場混乱が実体経済に波及するリスクが高まっているため、早期対策が求められている。",
+      "market_impact": "債券危機が現実化すると、債券利回りの急上昇や流動性不足が起き、投資家の資産売却が加速する。これにより中央銀行は緊急買い入れに動かざるを得ず、信用リスクの拡大から信用収縮や景気後退リスクも高まる可能性がある。企業の資金調達コストも上昇し、経済全体の成長が抑制されかねない。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/28/jamie-dimon-bond-crisis-global-debt-risks.html"
+    },
+    {
+      "title": "BP profits more than double as Iran war sends oil prices higher",
+      "summary_2lines": "BPの2024年第1四半期利益がイラン戦争による原油価格上昇で前年同期の2倍超に達した。特に石油トレーディング部門が大きく貢献したが、上流生産は横ばいで中東情勢の影響が続く見込み。",
+      "why_it_matters": "イラン紛争により中東の主要石油輸送路ホルムズ海峡が封鎖され、世界の原油供給が不安定化。これが原油価格を急騰させ、石油メジャーの収益構造に大きな影響を与えている。また、英国ではエネルギー暴利税が強化され、政府の税収増にもつながる重要な経済課題となっている。",
+      "market_impact": "BPの株価はイラン戦争開始以降約20％上昇し、短期的な投資家利益を刺激。原油価格の乱高下は石油トレーディング利益を押し上げる一方で、上流部門は中東情勢による生産リスクを抱え不透明感が残る。エネルギー関連市場では価格変動が継続し、世界経済のインフレ圧力やエネルギー政策にも影響を与えている。",
+      "category": "Markets",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c2eveyvgn9no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "'Draconian development' in Meta-Manus deal draws the line in China's AI race with the U.S.",
+      "summary_2lines": "中国はMetaのAIスタートアップManus買収を規制し、海外への技術流出を警戒した。これにより中米のAIと技術人材を巡る競争が新たな局面を迎えた。",
+      "why_it_matters": "中国が外国投資の安全保障措置を適用し、戦略的に重要なAI技術や人材の海外流出を厳しく監視する姿勢を示したため、グローバルなテック企業や投資家は規制リスクを再認識。特に、中国発の技術が単にシンガポール法人化（海外移転）で規制をかわす手法が通用しないことが明確になったことは、米中の技術覇権争いに直接影響する重要なメッセージとなった。",
+      "market_impact": "MetaのManus買収阻止は米中双方のAIスタートアップの流動性に影響し、投資家のリスク評価を見直させる。中国拠点のAI関連企業は海外展開に慎重となり、グローバル市場での技術協力や人材交流が縮小する恐れがある。結果的に、テックセクターの国際取引やM&A活動に制約が増し、企業の成長戦略や収益性にネガティブな影響を及ぼす可能性が高い。",
+      "category": "Geopolitics",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/28/china-blocks-meta-manus-deal-ai-tech-rivalry.html"
+    },
+    {
+      "title": "Here's everything to expect when the Fed issues its latest interest rate decision Wednesday",
+      "summary_2lines": "連邦準備制度理事会（FRB）は、パウエル議長の最後の会合となる可能性が高い水曜日に利上げを見送る方針を固めています。インフレ率が依然として高く労働市場も堅調なため、利下げにはまだ踏み切らない見通しです。",
+      "why_it_matters": "FRBの利上げや利下げは米国経済のみならず世界経済に大きく影響し、特にインフレ抑制と労働市場の安定を両立させる政策判断は金融市場や消費者信頼感に直結します。今回の決定はパウエル議長の任期末期にあたり、次期議長への移行期として市場の不確実性を左右するため注目されています。",
+      "market_impact": "市場は今回の会合で据え置きをほぼ確実視しており、短期的な市場変動は限定的と予想されます。ただし、原油価格高騰とその影響によるインフレ圧力は依然強く、長期的には金融政策のスタンスに対する警戒感が続く可能性があります。次期議長の政策スタンスが注目される中、投資家心理や企業の資金調達コストにも影響が及ぶでしょう。",
+      "category": "Economy",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/28/fed-meeting-preview-april-2026.html"
     }
   ],
   "categories": {
     "Tech": [
       {
-        "title": "This bank CEO let his AI clone handle an earnings call — now he's signing an OpenAI deal",
-        "summary_2lines": "Customers BankのCEOがAIクローンを使って決算説明会を実施し、OpenAIとの複数年提携を発表。これにより融資プロセスの大幅な自動化と短縮を目指す。",
-        "why_it_matters": "金融業界ではAI技術の導入が加速しており、Customers Bankのような中堅規模の銀行がOpenAIと協力して業務効率の革新に挑む事例は、今後の銀行業のデジタルトランスフォーメーションの先駆けとなる。大手銀行より規制が緩い中小銀行がAIをいち早く取り入れることで競争力を強化し、市場環境の変化に対応していく背景がある。",
-        "market_impact": "融資審査や口座開設などのコア業務をAIで自動化することで、業務効率が向上しコスト削減や顧客体験の向上が期待できる。これによりCustomers Bankは他の地域銀行との差別化が進み、成長加速や収益性向上につながる可能性が高い。さらにOpenAIとの共同開発による新たな金融AIソリューションの創出は、金融テクノロジー市場の競争激化やイノベーション促進にも寄与するだろう。",
+        "title": "Musk says basis of charitable giving at stake in OpenAI lawsuit",
+        "summary_2lines": "イーロン・マスクがOpenAIの元同僚らを相手取って起こした訴訟がカリフォルニアで始まり、非営利団体であるはずのOpenAIの商業化に反発している。マスクは慈善信託の侵害と不当利得を主張し、数十億ドルの賠償と経営陣の刷新を求めている。",
+        "why_it_matters": "OpenAIはAI開発の最前線に立つ企業であり、非営利モデルからの商業展開が技術の方向性や倫理に影響を及ぼしている。マスクの訴訟は、公益を目的とした技術開発と利益追求のバランスに関する重要な法的・倫理的議論を呼び起こしている。",
+        "market_impact": "OpenAIの将来的な経営体制や事業戦略に不透明感が生じ、市場ではAI競争の激化とマスクのxAIとの競合が注目される。裁判結果によっては、AI業界の投資判断や規制の方向性に影響を与え、関連企業の株価や提携戦略にも波及効果が生じる可能性がある。",
         "category": "Tech",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/27/openai-partners-with-customers-bank-in-push-to-automate-finance.html"
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Markets": [
       {
-        "title": "This little-known ETF is up over 600% amid U.S.-Iran war, a better trade than oil or energy stocks",
-        "summary_2lines": "ブレイクウェーブ・タンカーシッピングETF（BWET）は、米・イラン紛争による海運混乱の影響で、年初来600%以上の急騰を遂げた。石油価格やエネルギー株以上に、原油輸送費に連動するこのETFが注目を集めている。",
-        "why_it_matters": "地政学的リスクが海上輸送のコストを激増させ、エネルギー市場の根底にあるインフラ供給の脆弱性を浮き彫りにした。これにより投資家は石油価格だけでなく、原油移動の物流コストに着目し、新たな投資先としてBWETのような船舶関連ETFに関心を高めている。",
-        "market_impact": "BWETの急騰はエネルギー輸送インフラの不足や供給制約を示唆し、船舶関連株や物流セクターに追い風となる。また、原油価格だけでない新たな市場要因として輸送コストへの関心が高まり、関連商品の資金流入と価格変動が激しくなる可能性がある。これによりグローバルなエネルギー供給チェーンの再構築や投資見直しが促進される。",
+        "title": "United Arab Emirates to quit oil cartel Opec",
+        "summary_2lines": "アラブ首長国連邦（UAE）が約60年ぶりにOPECおよびOPEC+を脱退し、エネルギー生産の柔軟性を高めることを目指す。これはOPECの結束に大きな打撃となり、市場の長期的な動揺を招く可能性がある。",
+        "why_it_matters": "OPECは世界の原油供給の調整役として機能し、油価安定を図ってきた。UAEの脱退は、主要メンバーの一角が自国の生産拡大を優先し、市場支配を弱める兆候であり、今後他の加盟国の追随や生産調整の見直しを促す可能性がある。これにより、エネルギー市場の構造変化や地政学的な影響も懸念されている。",
+        "market_impact": "UAEの脱退によりOPECは生産能力の約15％を失い、供給調整の実効性が低下。短期的にはイラン・中東情勢による供給不足で大幅な供給増は見込めないが、長期的にはUAEがOPEC枠外で1百万バレル/日の増産を目指し、市場での原油供給過剰や価格変動性の上昇が予想される。米国との関係強化もエネルギー政策に影響を与える可能性がある。",
         "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/25/crude-oil-freight-tanker-strait-hormuz-iran-war-energy-stocks.html"
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Nuclear reactor company X-energy shares surge 27% as AI drives interest in its IPO",
-        "summary_2lines": "先進的な原子炉企業X-energyがAIブームを背景にIPOを実施し、株価は初日の取引で27％急騰。1億ドル超の資金調達で、原子力産業への関心が高まっていることを示した。",
-        "why_it_matters": "気候変動対策や脱炭素化の潮流の中で、クリーンかつ安定的なエネルギー源として先進原子炉技術が注目されている。X-energyは大型上場で投資資金を集め、技術普及の加速を図ることで、エネルギー市場の構造変化を牽引し得る存在となる。",
-        "market_impact": "X-energyの大型資金調達は原子力産業への投資意欲を喚起し、AIや電化のトレンドと相まってエネルギー市場全体に活気をもたらす。ライセンスモデルと燃料供給事業の展開が競合との差別化を生み、関連するパートナー企業の事業拡大や株価上昇を期待させる。",
+        "title": "Jamie Dimon warns of 'some kind of bond crisis' ahead as global debt risks build",
+        "summary_2lines": "JPMorgan ChaseのCEO Jamie Dimonは、世界的な政府債務の増加が近い将来の債券危機を引き起こす可能性を警告した。債券市場の混乱を防ぐため政策的対応が必要と訴えている。",
+        "why_it_matters": "政府債務の急増は債券市場の流動性低下や利回り急騰を招き、金融システム全体の安定性を脅かす。既に2022年の英国国債危機のような事例もあり、市場混乱が実体経済に波及するリスクが高まっているため、早期対策が求められている。",
+        "market_impact": "債券危機が現実化すると、債券利回りの急上昇や流動性不足が起き、投資家の資産売却が加速する。これにより中央銀行は緊急買い入れに動かざるを得ず、信用リスクの拡大から信用収縮や景気後退リスクも高まる可能性がある。企業の資金調達コストも上昇し、経済全体の成長が抑制されかねない。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/24/nuclear-reactor-company-x-energy-begins-trading-as-ai-drives-interest-in-the-industry.html"
+        "url": "https://www.cnbc.com/2026/04/28/jamie-dimon-bond-crisis-global-debt-risks.html"
+      },
+      {
+        "title": "Meta shares look 'iffy' into earnings. How to trade it",
+        "summary_2lines": "Metaは好調な広告収入を背景に約30％の売上成長を維持しているが、株価はテクニカル面で不安定。リスクを抑えつつ利益を狙える625/680/750コールスプレッドリスクリバーサル取引が推奨されている。",
+        "why_it_matters": "Metaの決算後の株価変動は大きく、過去のデータから単純な株買いやコール買いだけではリスクとリターンのバランスが悪い。適切なオプション戦略により、損失を限定しつつ利益期待値を高められる点が投資家にとって重要である。",
+        "market_impact": "この戦略の普及によりMeta株の短期的なボラティリティを活用した取引が増加し、オプション市場の流動性向上や価格形成に影響を与える可能性がある。一方で、大型テック株の収益成長期待は維持され、市場全体のテックセクター投資判断に波及効果が及ぶことも考えられる。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/28/meta-shares-look-iffy-into-earnings-how-to-trade-it.html"
+      },
+      {
+        "title": "BP profits more than double as Iran war sends oil prices higher",
+        "summary_2lines": "BPの2024年第1四半期利益がイラン戦争による原油価格上昇で前年同期の2倍超に達した。特に石油トレーディング部門が大きく貢献したが、上流生産は横ばいで中東情勢の影響が続く見込み。",
+        "why_it_matters": "イラン紛争により中東の主要石油輸送路ホルムズ海峡が封鎖され、世界の原油供給が不安定化。これが原油価格を急騰させ、石油メジャーの収益構造に大きな影響を与えている。また、英国ではエネルギー暴利税が強化され、政府の税収増にもつながる重要な経済課題となっている。",
+        "market_impact": "BPの株価はイラン戦争開始以降約20％上昇し、短期的な投資家利益を刺激。原油価格の乱高下は石油トレーディング利益を押し上げる一方で、上流部門は中東情勢による生産リスクを抱え不透明感が残る。エネルギー関連市場では価格変動が継続し、世界経済のインフレ圧力やエネルギー政策にも影響を与えている。",
+        "category": "Markets",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c2eveyvgn9no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "OpenAI reportedly missed revenue targets. Shares of Oracle and these chip stocks are falling",
+        "summary_2lines": "OpenAIが内部予測した収益・ユーザー成長目標を達成できず、関連するAIインフラ企業の株価が下落した。Oracleや主要半導体メーカーの株価に影響が及び、一部投資家の懸念を呼んでいる。",
+        "why_it_matters": "OpenAIはAI業界の成長を牽引する存在で、大規模なデータセンターや計算リソースへの投資が業界全体の市場構造や企業戦略に大きく影響する。収益目標未達は、AI投資の持続可能性や競争環境の変化を示唆し、不確実性を生むため注目されている。",
+        "market_impact": "OpenAIの成長鈍化報道を受けて、同社の計算処理パートナーであるOracleや主要チップメーカー（Broadcom、AMD、Nvidiaなど）の株価が軒並み下落。これによりAI関連銘柄全体に売り圧力が生じ、SoftBankなどの大口投資家の株価も大幅に下落。業界の競合激化もあいまって、資金調達や成長への投資意欲に影響を与える可能性がある。だが一方で、全体的なAI市場の支出加速に関する懸念は限定的との見方もある。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html"
       }
     ],
     "Geopolitics": [
       {
-        "title": "Bessent defends U.S. dollar swap lines as Iran war harms global finances",
-        "summary_2lines": "財務長官スコット・ベセントは、イラン戦争による金融不安を背景に、ペルシャ湾やアジアの同盟国との米ドルスワップ協定の重要性を強調。これによりドルの国際的地位と米国経済の安定を支える狙いがある。",
-        "why_it_matters": "イラン戦争が中東の油産出国経済に打撃を与え、世界の金融市場に緊張が走る中、ドル流動性確保のため米国が通貨スワップ協定を拡大しようとしている。これによりドルの基軸通貨としての地位維持と国際金融システムの安定化が図られ、グローバルな貿易と投資環境への波及効果が期待される。",
-        "market_impact": "ドルスワップライン拡充は、ドル資金供給の円滑化による海外の資金調達コスト低下や市場の流動性改善をもたらす可能性が高い。一方で、戦争の影響で中東市場のリスクが増大し、エネルギー価格やインフレ圧力が続く環境下では、米国の政治的反発や国内消費者心理の悪化を招くリスクもある。",
-        "category": "Geopolitics",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/24/bessent-iran-war-uae-swap-lines-gulf-asia.html"
-      },
-      {
-        "title": "Oil prices rise as US-Iran peace talks stall",
-        "summary_2lines": "米・イラン間の和平交渉が再度停滞し、ホルムズ海峡の閉鎖が続く中で原油価格が3%以上上昇した。世界のエネルギー供給先行きへの不透明感が強まっている。",
-        "why_it_matters": "ホルムズ海峡は世界の原油及びLNGの約5分の1が通過する重要な戦略的通路であり、紛争や交渉の停滞はエネルギー供給に重大なリスクをもたらす。これによって国際的な物価上昇や供給網の混乱が懸念され、特に生活必需品やエネルギーコストへの影響が深刻化する可能性があるため重要視されている。",
-        "market_impact": "原油価格の上昇はエネルギー関連企業の収益を押し上げる一方で、燃料や電気料金の高騰、そして幅広い製品のコスト増加を招き消費者物価を押し上げる。欧米市場は影響を慎重に見極めつつも小幅安傾向で推移し、アジア株は全体的に堅調に推移しているものの、不安定な供給環境が長引けばグローバル経済の成長を阻害するリスクが高い。",
+        "title": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
+        "summary_2lines": "UAEがOpecを脱退し、生産枠を大幅に拡大する意向を示した。これはOpecの結束に大きな影響を与え、世界の石油市場に変化をもたらす。",
+        "why_it_matters": "UAEは長年Opecの重要メンバーであり、第二の余剰生産能力保有国として価格調整に寄与してきた。脱退はOpec内部の力学や湾岸地域の緊張、特にイラン戦争の影響を反映し、Opecの統制力低下や価格競争を引き起こす可能性がある。さらに、世界的なエネルギー転換の進展や中国の電化による石油需要の減少を背景に、UAEは早期に石油収益の最大化を狙う戦略をとっている。",
+        "market_impact": "UAEの生産増加により石油供給過剰や価格競争が激化する恐れがある。サウジアラビアの反応次第では価格戦争が勃発し、他のOpec加盟国や世界市場に波及するリスクがある。中長期的に石油価格の不安定化と需要減少を招く可能性があり、エネルギー市場および関連経済に影響が及ぶ。",
         "category": "Geopolitics",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Draconian development' in Meta-Manus deal draws the line in China's AI race with the U.S.",
+        "summary_2lines": "中国はMetaのAIスタートアップManus買収を規制し、海外への技術流出を警戒した。これにより中米のAIと技術人材を巡る競争が新たな局面を迎えた。",
+        "why_it_matters": "中国が外国投資の安全保障措置を適用し、戦略的に重要なAI技術や人材の海外流出を厳しく監視する姿勢を示したため、グローバルなテック企業や投資家は規制リスクを再認識。特に、中国発の技術が単にシンガポール法人化（海外移転）で規制をかわす手法が通用しないことが明確になったことは、米中の技術覇権争いに直接影響する重要なメッセージとなった。",
+        "market_impact": "MetaのManus買収阻止は米中双方のAIスタートアップの流動性に影響し、投資家のリスク評価を見直させる。中国拠点のAI関連企業は海外展開に慎重となり、グローバル市場での技術協力や人材交流が縮小する恐れがある。結果的に、テックセクターの国際取引やM&A活動に制約が増し、企業の成長戦略や収益性にネガティブな影響を及ぼす可能性が高い。",
+        "category": "Geopolitics",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/28/china-blocks-meta-manus-deal-ai-tech-rivalry.html"
       }
     ],
     "Economy": [
       {
-        "title": "European flight prices are falling in short term, Wizz Air boss says",
-        "summary_2lines": "ウィズエアCEOは、燃料先買いのヘッジ効果で短期的に欧州の航空運賃が下落していると述べた。半面、中東からの燃料供給不安などで長期的な価格高騰は続く見通し。",
-        "why_it_matters": "米・イスラエルとイラン間の戦争が中東産ジェット燃料の供給を逼迫させ、航空運賃の不安定化を招いている。欧州は中東依存度が高く、需給混乱は経済活動や旅行需要に大きな影響を与えるため重要な情勢だ。",
-        "market_impact": "短期的には欧州の航空会社が燃料コストの先買いヘッジで価格競争を促進し顧客誘引を図る一方、燃料供給不安による長期的な価格高止まりが収益圧迫や供給不安定化を招き、航空業界及び関連経済にマイナス影響を及ぼす可能性がある。",
-        "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c3exel4p1yqo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Ray Dalio says Kevin Warsh shouldn't cut interest rates in a ‘stagflation’ era",
-        "summary_2lines": "レイ・ダリオは米経済がスタグフレーションに陥ったと警告し、次期FRB議長候補のケビン・ウォーシュが利下げをすべきでないと述べた。利下げは中央銀行の信頼を損ねるリスクがあると指摘している。",
-        "why_it_matters": "スタグフレーションは高インフレと経済停滞が同時に起こる難しい経済環境であり、金融政策判断が極めて難しい状況を示す。FRBの政策決定は世界経済に大きな影響を及ぼすため、利下げを避けるべきとの見解は市場の注目を集めている。",
-        "market_impact": "FRBが利下げを控え据え置きを続けるとの予想から、短期金利は安定が見込まれ、株式市場では企業収益の強さを背景に堅調な動きが続く可能性が高い。一方で金への配分を推奨していることから、金市場にも一定の買いが入るだろう。",
+        "title": "Here's everything to expect when the Fed issues its latest interest rate decision Wednesday",
+        "summary_2lines": "連邦準備制度理事会（FRB）は、パウエル議長の最後の会合となる可能性が高い水曜日に利上げを見送る方針を固めています。インフレ率が依然として高く労働市場も堅調なため、利下げにはまだ踏み切らない見通しです。",
+        "why_it_matters": "FRBの利上げや利下げは米国経済のみならず世界経済に大きく影響し、特にインフレ抑制と労働市場の安定を両立させる政策判断は金融市場や消費者信頼感に直結します。今回の決定はパウエル議長の任期末期にあたり、次期議長への移行期として市場の不確実性を左右するため注目されています。",
+        "market_impact": "市場は今回の会合で据え置きをほぼ確実視しており、短期的な市場変動は限定的と予想されます。ただし、原油価格高騰とその影響によるインフレ圧力は依然強く、長期的には金融政策のスタンスに対する警戒感が続く可能性があります。次期議長の政策スタンスが注目される中、投資家心理や企業の資金調達コストにも影響が及ぶでしょう。",
         "category": "Economy",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/27/ray-dalio-says-kevin-warsh-shouldnt-cut-interest-rates-in-a-stagflation-era.html"
+        "url": "https://www.cnbc.com/2026/04/28/fed-meeting-preview-april-2026.html"
       }
     ],
     "Corporate": [
       {
-        "title": "Greggs removes cabinets in shoplifting hotspots",
-        "summary_2lines": "Greggs is removing display cabinets in shoplifting hotspots in London and testing secure counters to combat rising retail theft. The company is also piloting software to share incident data with police for faster response.",
-        "why_it_matters": "Shoplifting offenses in England and Wales have surged by about 20%, exceeding half a million incidents last year, creating severe challenges for retailers. This has prompted not only government responses but also proactive measures by companies like Greggs to protect staff, reduce losses, and maintain a safe shopping environment.",
-        "market_impact": "Greggs’ removal of open display cabinets and adoption of security software represents increased operational costs but may reduce theft-related losses and improve staff safety, potentially influencing consumer trust and brand reputation. This trend highlights a broader retail sector challenge that could drive increased spending on security solutions and affect store layout and customer experience strategies.",
+        "title": "Nostalgia wasn't enough: What went wrong at Claire's",
+        "summary_2lines": "英国とアイルランドのクレアーズ全154店舗が閉店し、1,300人の雇用が失われた。ブランドはポストコロナの消費減少やオンライン競合、トレンド適応の遅れで経営悪化した。",
+        "why_it_matters": "クレアーズの閉店は従来の実店舗依存型小売モデルがデジタル化と消費者の嗜好変化に対応できなかった典型例であり、コロナ後の小売業界再編の象徴的な出来事である。",
+        "market_impact": "英国高街の小売環境が大きく変動している中で、類似ブランドや店舗依存型のアクセサリー小売は経営難が続く可能性が高い。失業者増加や商業地賃料への影響も懸念される。",
         "category": "Corporate",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c8dldv4lqygo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Superdry co-founder accused of raping woman",
-        "summary_2lines": "Superdry共同創業者のJames Holder氏が、2022年の飲み会後に女性をレイプした疑いで裁判にかけられている。Holder氏は非を否認し、性行為は合意の上だったと主張している。 ",
-        "why_it_matters": "有名ブランドの創業者が重大な性犯罪で告発されることは企業のブランドイメージを著しく損ねるリスクが高く、企業ガバナンスや倫理面での社会的関心が高まる背景がある。また、被害者の権利保護や性犯罪に対する法的対応を巡る議論も注目される。",
-        "market_impact": "Superdryのブランド価値や消費者信頼がダメージを受ける可能性があり、売上や株価に悪影響が生じる恐れがある。特に企業のトップが関与するスキャンダルは、投資家やパートナーシップにも不安を生み、企業活動に支障をきたすリスクが高まる。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cly7yevvl2wo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Claire's closes all 154 stores in UK and Ireland with loss of 1,300 jobs",
-        "summary_2lines": "Claire'sはイギリスとアイルランドの154店舗を全て閉鎖し、1300人以上の従業員が解雇される。オンライン競争や消費者嗜好の変化により同社の経営悪化が続いている。",
-        "why_it_matters": "Claire'sの閉店は伝統的な小売業、特に若年層向けのアクセサリー市場がオンラインや新しい消費トレンドに押される厳しい環境にあることを示している。加えて、英国の高コストな商環境や政府の政策も小売店の経営を困難にしている。",
-        "market_impact": "Claire'sの店舗閉鎖は小売業界におけるデジタルシフトと消費者の購買行動変化を象徴し、同業他社にも競争激化と業態転換の必要性を示唆している。失業者増加は地域経済にも短期的な下押し圧力となる可能性がある。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cg4047qnpk2o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cdxkxxvd3z4o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
