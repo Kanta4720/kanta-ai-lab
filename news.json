@@ -1,150 +1,150 @@
 {
-  "generated_at_jst": "2026-04-30 07:43",
+  "generated_at_jst": "2026-05-01 07:39",
   "todays_brief": [
     {
-      "title": "Oil price briefly hits $120 after reports of 'extended' Iran blockade",
-      "summary_2lines": "米国がイランの港に対する封鎖の延長を準備しているとの報道を受け、原油価格が一時120ドルに急騰した。ホルムズ海峡の事実上の閉鎖により世界の石油供給が大きく影響を受けている。",
-      "why_it_matters": "ホルムズ海峡は世界石油供給の約5分の1を占める重要な航路であり、封鎖による供給制約は世界的なエネルギー市場に混乱をもたらす。イラン経済の深刻な悪化と地域の地政学的緊張が長期化する恐れがあるため、国際的な経済安定に直結する問題である。",
-      "market_impact": "原油価格の急騰はエネルギー価格全般の上昇を促し、英国をはじめとする多くの国でガソリン・ディーゼル価格が上昇。長期的には物価上昇と供給リスクの増大を通じて世界経済のインフレ圧力を高める可能性がある。イラン経済はインフレ率53.7%、通貨価値の大幅下落、失業増加で深刻な打撃を受けている。",
-      "category": "Geopolitics",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "In five charts - How UAE's exit could affect Opec's influence over the oil price",
-      "summary_2lines": "UAEが石油輸出国機構（Opec）を離脱し単独行動を取る計画が発表され、Opecの価格調整力が弱まる可能性が高まっている。これは中東の地政学リスクが高まる中での重要な変化として注目される。",
-      "why_it_matters": "Opecは主要産油国の協調により原油価格の安定を図ってきたが、UAEはOpec内でも有力な生産国の一つ。UAEの離脱は組織の結束力や調整力を損ない、世界の供給調整に混乱をもたらす恐れがある。特に米・イスラエルとイラン間の紛争で既に供給不足・価格急騰が起きているため、価格の一層の乱高下や需給不均衡を招く可能性がある。",
-      "market_impact": "短期的にはホルムズ海峡が封鎖されている影響の方が大きいが、中長期的にはUAEがOpecの生産調整から離脱し独自に生産量を1日あたり約100万バレル増加させる可能性がある。これによりOpec全体の価格コントロール能力が減退し、原油価格のボラティリティが高まると予想される。特にエネルギー関連企業や原油輸入国の経済に不確実性をもたらすだろう。",
-      "category": "Geopolitics",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Big US tech stocks swing as investors probe AI spend",
-      "summary_2lines": "米国大手テック企業がAI関連投資額を大幅に拡大し株価が乱高下した。投資家は莫大な支出に対し収益確保への懸念を強めている。",
-      "why_it_matters": "AI分野への巨額投資はテック企業の成長の鍵である一方、直接的な収益貢献の不透明さが投資家心理に影響を与えている。今後の技術革新と経済効果の見極めが市場動向を左右するため重要な指標となる。",
-      "market_impact": "MetaはAI支出増加とそれに伴うコスト圧力で株価が下落、Microsoftもキャッシュフロー減少が懸念され株価低迷。逆にAlphabetはAIの実績と利益改善で株価上昇。Amazonは利益見通しの引き下げで株価にネガティブ影響。大規模投資による短期的な収益圧迫と長期的成長期待のバランスが株価のボラティリティを生んでいる。",
-      "category": "Markets",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/crkpd4r2y7eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Traders brace for $800 billion in earnings-related stock movement",
-      "summary_2lines": "Alphabet、Amazon、Meta、Microsoftが決算発表を控え、オプション取引では約8,000億ドルの時価総額変動が予想されている。特にAmazonとMicrosoftでは強気のオプションフローが見られ、市場のボラティリティ上昇が期待されている。",
-      "why_it_matters": "決算発表は企業の業績動向を示し株価に大きな影響を与えるため、投資家やトレーダーはこれに備えてポジションを調整する。今回の四社はいずれも米国の主要テック銘柄であり、マーケット全体のセンチメントやボラティリティに直結するため注目度が高い。",
-      "market_impact": "オプション市場での期待変動率上昇は、決算発表後の株価変動リスクの増大を反映している。特にAmazonとMicrosoftでの強気オプション買いは、これら企業の株価上昇期待を示す。一方、Alphabetのオプション価格は過去の実績より過大評価の可能性が指摘され、短期的には値動きの不一致による調整を招く可能性がある。",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/29/traders-brace-for-800-billion-in-earnings-related-stock-movement.html"
-    },
-    {
-      "title": "Fed holds rates steady but with highest level of dissent since 1992",
-      "summary_2lines": "米連邦準備制度理事会（FRB）は政策金利を3.5%-3.75%の範囲で据え置き、1992年以来最多の4人の異論が出た。パウエル議長は任期を終え、新体制への移行が予想される中、インフレ継続の懸念が続いている。",
-      "why_it_matters": "FRBの金融政策は世界経済と市場の方向性を左右するため、異例の分裂やインフレ動向が政策の柔軟性や予測可能性に影響を与える。本会合はパウエル議長の任期最終局面であり、新議長の下での政策転換の可能性も注目される。",
-      "market_impact": "政策金利据え置きにより市場は一旦落ち着いたが、異論の多さや長期化するインフレが不透明感を強めている。株式市場はやや下落し、エネルギー価格高騰がコスト圧迫の一因となる。追加利下げ期待の後退で、金融・不動産などの資金調達コストに影響が及ぶ可能性がある。",
+      "title": "Bank of England says rates could rise as Iran war fuels inflation",
+      "summary_2lines": "イラン戦争によるエネルギー価格の急騰を受け、英中銀はインフレ抑制のため年内に利上げを示唆している。原油価格が130ドル超で推移すると最大で6回の利上げも視野に入る。",
+      "why_it_matters": "エネルギー価格の急上昇はインフレ加速を招き、特に低所得層の生活を直撃する。英中銀の金利政策は物価安定と経済成長のバランスを取る重要な局面にあり、今後の金融政策の方向性が国内外の経済に大きな影響を及ぼすため重要である。",
+      "market_impact": "利上げ観測により債券利回りが上昇、株式市場には調整圧力がかかる可能性。エネルギー価格の高止まりは消費者物価と企業コストを押し上げ、家計負担増や経済成長鈍化を招く。住宅ローン金利の上昇や消費の冷え込みも懸念される。",
       "category": "Economy",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Jerome Powell says he will continue to serve as a Fed governor, calls Trump criticism 'unprecedented'",
+      "summary_2lines": "FRBのジェローム・パウエル議長は、中央銀行本部の改修調査が完了するまで連邦準備制度理事会のメンバーとして留まる意向を示した。彼はトランプ前大統領の批判を「前例のないもの」とし、政治的影響からの独立性の重要性を強調した。",
+      "why_it_matters": "パウエル議長の継続在任はFRBの運営安定に寄与し、次期議長の承認過程にも影響を与える。トランプ前大統領による個人的批判がFRBの独立性と今後の金融政策運営にリスクを及ぼす可能性がある中、パウエルの決断は中央銀行の信用維持に重要な意味を持つ。また、調査の透明化と最終決着を重視する姿勢は、公正な行政運営への信頼醸成につながる。",
+      "market_impact": "パウエル議長の退任が見送られ、金融政策の一貫性が保持されたことで市場の不確実性が軽減された。FRBの独立性が守られるとの認識は、金利動向の予測安定につながり、株式市場や債券市場でのボラティリティ低下に寄与する可能性がある。だが、政治的圧力や調査の継続が長引く場合は、金融市場の不透明感や政策運営への懸念が再燃する恐れもある。",
+      "category": "Markets",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html"
+      "url": "https://www.cnbc.com/2026/04/29/jerome-powell-says-he-will-continue-to-serve-as-a-fed-governor-even-after-chairmanship-ends-.html"
+    },
+    {
+      "title": "Blue Owl shares surge after private credit firm cites 10X gains from SpaceX",
+      "summary_2lines": "Blue Owlの株価が10%急騰し、SpaceXへの投資で約10倍のリターンを得たことが明らかになった。これによりソフトウェア業界の不安定要素を相殺し、同社の財務健全性が強調された。",
+      "why_it_matters": "Blue Owlはプライベートクレジット市場で重要な役割を果たしており、ソフトウェア企業の信用リスク増大が投資家の懸念材料となっていた。SpaceXからの多大な利益により、同社のポートフォリオのリスク分散が進み、業界全体の不安を和らげる可能性があるため注目される。",
+      "market_impact": "Blue Owlの好決算とSpaceX投資利益の開示により、投資家の信頼感が高まり、同社株の急騰をもたらした。これがプライベートクレジットファンドに対する市場の評価改善に繋がり、類似の信用商品への資金流入が期待される。また、SpaceXの大型IPO成功期待が関連市場全体にもポジティブに働く可能性がある。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/30/blue-owl-shares-private-credit-spacex-gains.html"
+    },
+    {
+      "title": "Apple hails 'extraordinary' iPhone demand as boss Tim Cook heads out",
+      "summary_2lines": "アップルのiPhone需要が中国を中心に急増し、売上高は前年同期比17%増の1110億ドルに達した。ティム・クックCEOが9月に退任し、新CEOジョン・ターナスが今後の製品展開を担う。",
+      "why_it_matters": "iPhone 17の歴史的な成功と新型Macbook Neoの好調が示すように、アップルは革新的製品で市場優位を維持。AI分野では独自モデルを持たず提携でリスクを抑えつつ成長を目指しており、経営交代期に次の戦略が注目される。",
+      "market_impact": "中国市場での強力な需要増がアップルの売上成長を牽引し、ハードウェア及びAI技術の展開が競合他社との差別化に寄与。クック退任に伴う経営体制変化に投資家が反応し、株価や関連サプライチェーンの動向にも影響を及ぼす可能性が高い。",
+      "category": "Corporate",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Here's why surging oil prices may not derail the consumer trade",
+      "summary_2lines": "原油価格の急騰にもかかわらず、消費者向け必需品や裁量消費財セクターは堅調な業績を見せている。専門家は消費者支出の底堅さに期待を寄せている。",
+      "why_it_matters": "イラン情勢の悪化で原油価格が高騰しエネルギーコストが上昇する中、消費者支出がどこまで耐えられるかは市場全体の方向性を左右するため重要である。必需品は景気敏感度が低く安定した需要が見込めることから、投資家の注目が集まっている。",
+      "market_impact": "エネルギー価格の高騰はガソリン価格の上昇をもたらし消費者の財布に圧迫をかけるが、必需品や裁量消費財の売上は堅調で、これら消費関連株への資金流入が継続する可能性が高い。市場全体ではBig Tech以外のセクターに分散投資の動きが強まっている。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/30/why-surging-oil-prices-may-not-derail-the-consumer-trade.html"
     }
   ],
   "categories": {
-    "Tech": [],
+    "Tech": [
+      {
+        "title": "Apple execs to talk China and tariffs, but will avoid discussing foldable iPhone, per traders on Kalshi",
+        "summary_2lines": "Appleの次回決算発表で、中国と関税についての言及がほぼ確実視されている。一方、注目されている折りたたみiPhoneなど新技術の話題はほとんど取り上げられない見込み。",
+        "why_it_matters": "Appleの経営トップ交代を控えた初の決算発表で、貿易環境や中国市場の状況が明らかになることは、今後の成長戦略やリスク要因を判断する上で重要である。また、AIや新デバイス関連の話題回避は市場の期待感や技術革新の現状を示唆している。",
+        "market_impact": "中国市場や関税問題に関する発言は、Appleの収益見通しやサプライチェーンに影響を与える可能性が高く、関連株式やサプライヤーの株価にも波及するだろう。新技術の話題が少ないことで、短期的には革新的製品への期待が後退し、テック株の変動性が高まる可能性がある。",
+        "category": "Tech",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html"
+      }
+    ],
     "Markets": [
       {
-        "title": "Big US tech stocks swing as investors probe AI spend",
-        "summary_2lines": "米国大手テック企業がAI関連投資額を大幅に拡大し株価が乱高下した。投資家は莫大な支出に対し収益確保への懸念を強めている。",
-        "why_it_matters": "AI分野への巨額投資はテック企業の成長の鍵である一方、直接的な収益貢献の不透明さが投資家心理に影響を与えている。今後の技術革新と経済効果の見極めが市場動向を左右するため重要な指標となる。",
-        "market_impact": "MetaはAI支出増加とそれに伴うコスト圧力で株価が下落、Microsoftもキャッシュフロー減少が懸念され株価低迷。逆にAlphabetはAIの実績と利益改善で株価上昇。Amazonは利益見通しの引き下げで株価にネガティブ影響。大規模投資による短期的な収益圧迫と長期的成長期待のバランスが株価のボラティリティを生んでいる。",
-        "category": "Markets",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/crkpd4r2y7eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Here's what changed in the new Fed statement",
-        "summary_2lines": "連邦公開市場委員会（FOMC）の最新声明と前回3月の声明の内容を比較。文言の変更点を明示し、政策の微調整を示唆している。",
-        "why_it_matters": "FOMC声明は米国の金融政策の方向性を示す重要な指標であり、金利見通しや経済状況に関する中央銀行の見解を反映。声明の変更は市場関係者や投資家が今後の政策対応を予測する手がかりとなるため注目される。",
-        "market_impact": "声明文の修正は金融市場に即座に影響を与える可能性があり、長短金利の動向や為替レート、株式市場の投資判断に影響。企業の資金調達コストや消費者の信用環境にも間接的な影響を及ぼす可能性がある。",
+        "title": "SoFi CEO defends decision to hold guidance steady",
+        "summary_2lines": "SoFiのCEOは金利見通しを理由に通年ガイダンスを据え置く決定を擁護。事業基盤は強固で成長も継続していると強調。",
+        "why_it_matters": "同社の成績は良好な一方で、マクロ経済の不確実性（特に金利政策と地政学リスク）が投資家心理に大きく影響。ガイダンス据え置きは慎重姿勢の表れで、今後の市場動向を占う重要な指標となる。",
+        "market_impact": "決算自体は堅調だが通年見通し据え置きにより株価が15%以上急落。金融セクター全体の投資家リスク回避につながる可能性があり、デジタル金融企業の成長期待に一時的な不透明感をもたらす。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/29/april-fed-meeting-statement-redline.html"
+        "url": "https://www.cnbc.com/2026/04/29/sofi-ceo-defends-decision-to-hold-guidance-steady.html"
       },
       {
-        "title": "Traders brace for $800 billion in earnings-related stock movement",
-        "summary_2lines": "Alphabet、Amazon、Meta、Microsoftが決算発表を控え、オプション取引では約8,000億ドルの時価総額変動が予想されている。特にAmazonとMicrosoftでは強気のオプションフローが見られ、市場のボラティリティ上昇が期待されている。",
-        "why_it_matters": "決算発表は企業の業績動向を示し株価に大きな影響を与えるため、投資家やトレーダーはこれに備えてポジションを調整する。今回の四社はいずれも米国の主要テック銘柄であり、マーケット全体のセンチメントやボラティリティに直結するため注目度が高い。",
-        "market_impact": "オプション市場での期待変動率上昇は、決算発表後の株価変動リスクの増大を反映している。特にAmazonとMicrosoftでの強気オプション買いは、これら企業の株価上昇期待を示す。一方、Alphabetのオプション価格は過去の実績より過大評価の可能性が指摘され、短期的には値動きの不一致による調整を招く可能性がある。",
+        "title": "Here's why surging oil prices may not derail the consumer trade",
+        "summary_2lines": "原油価格の急騰にもかかわらず、消費者向け必需品や裁量消費財セクターは堅調な業績を見せている。専門家は消費者支出の底堅さに期待を寄せている。",
+        "why_it_matters": "イラン情勢の悪化で原油価格が高騰しエネルギーコストが上昇する中、消費者支出がどこまで耐えられるかは市場全体の方向性を左右するため重要である。必需品は景気敏感度が低く安定した需要が見込めることから、投資家の注目が集まっている。",
+        "market_impact": "エネルギー価格の高騰はガソリン価格の上昇をもたらし消費者の財布に圧迫をかけるが、必需品や裁量消費財の売上は堅調で、これら消費関連株への資金流入が継続する可能性が高い。市場全体ではBig Tech以外のセクターに分散投資の動きが強まっている。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/29/traders-brace-for-800-billion-in-earnings-related-stock-movement.html"
-      }
-    ],
-    "Geopolitics": [
-      {
-        "title": "Oil price briefly hits $120 after reports of 'extended' Iran blockade",
-        "summary_2lines": "米国がイランの港に対する封鎖の延長を準備しているとの報道を受け、原油価格が一時120ドルに急騰した。ホルムズ海峡の事実上の閉鎖により世界の石油供給が大きく影響を受けている。",
-        "why_it_matters": "ホルムズ海峡は世界石油供給の約5分の1を占める重要な航路であり、封鎖による供給制約は世界的なエネルギー市場に混乱をもたらす。イラン経済の深刻な悪化と地域の地政学的緊張が長期化する恐れがあるため、国際的な経済安定に直結する問題である。",
-        "market_impact": "原油価格の急騰はエネルギー価格全般の上昇を促し、英国をはじめとする多くの国でガソリン・ディーゼル価格が上昇。長期的には物価上昇と供給リスクの増大を通じて世界経済のインフレ圧力を高める可能性がある。イラン経済はインフレ率53.7%、通貨価値の大幅下落、失業増加で深刻な打撃を受けている。",
-        "category": "Geopolitics",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.cnbc.com/2026/04/30/why-surging-oil-prices-may-not-derail-the-consumer-trade.html"
       },
       {
-        "title": "In five charts - How UAE's exit could affect Opec's influence over the oil price",
-        "summary_2lines": "UAEが石油輸出国機構（Opec）を離脱し単独行動を取る計画が発表され、Opecの価格調整力が弱まる可能性が高まっている。これは中東の地政学リスクが高まる中での重要な変化として注目される。",
-        "why_it_matters": "Opecは主要産油国の協調により原油価格の安定を図ってきたが、UAEはOpec内でも有力な生産国の一つ。UAEの離脱は組織の結束力や調整力を損ない、世界の供給調整に混乱をもたらす恐れがある。特に米・イスラエルとイラン間の紛争で既に供給不足・価格急騰が起きているため、価格の一層の乱高下や需給不均衡を招く可能性がある。",
-        "market_impact": "短期的にはホルムズ海峡が封鎖されている影響の方が大きいが、中長期的にはUAEがOpecの生産調整から離脱し独自に生産量を1日あたり約100万バレル増加させる可能性がある。これによりOpec全体の価格コントロール能力が減退し、原油価格のボラティリティが高まると予想される。特にエネルギー関連企業や原油輸入国の経済に不確実性をもたらすだろう。",
-        "category": "Geopolitics",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss"
-      }
-    ],
-    "Economy": [
-      {
-        "title": "'Numbskull, moron and too stupid': Trump and Powell's biggest clashes",
-        "summary_2lines": "トランプ前大統領はFRB議長ジェローム・パウエルへの批判を繰り返し、特に利下げの遅れや連邦準備制度の建物改装費をめぐり激しく対立した。パウエルは独立性を強調し、司法当局の調査も受ける中でプレッシャーに直面している。",
-        "why_it_matters": "FRB議長の独立性は米経済政策の信頼性に直結する。トランプ大統領のパウエル批判は金融政策の政治的介入懸念を浮き彫りにし、米経済の不確実性を高める要因となっているため重要である。",
-        "market_impact": "FRB議長への圧力や政治介入の懸念は金融市場のボラティリティ拡大要因となりうる。特に金利政策の予見可能性が低下することで、投資家心理の悪化やドル相場の変動を引き起こし、企業の資金調達コストにも影響を与える可能性がある。",
-        "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c7v952p61dgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Fed holds rates steady but with highest level of dissent since 1992",
-        "summary_2lines": "米連邦準備制度理事会（FRB）は政策金利を3.5%-3.75%の範囲で据え置き、1992年以来最多の4人の異論が出た。パウエル議長は任期を終え、新体制への移行が予想される中、インフレ継続の懸念が続いている。",
-        "why_it_matters": "FRBの金融政策は世界経済と市場の方向性を左右するため、異例の分裂やインフレ動向が政策の柔軟性や予測可能性に影響を与える。本会合はパウエル議長の任期最終局面であり、新議長の下での政策転換の可能性も注目される。",
-        "market_impact": "政策金利据え置きにより市場は一旦落ち着いたが、異論の多さや長期化するインフレが不透明感を強めている。株式市場はやや下落し、エネルギー価格高騰がコスト圧迫の一因となる。追加利下げ期待の後退で、金融・不動産などの資金調達コストに影響が及ぶ可能性がある。",
-        "category": "Economy",
+        "title": "Blue Owl shares surge after private credit firm cites 10X gains from SpaceX",
+        "summary_2lines": "Blue Owlの株価が10%急騰し、SpaceXへの投資で約10倍のリターンを得たことが明らかになった。これによりソフトウェア業界の不安定要素を相殺し、同社の財務健全性が強調された。",
+        "why_it_matters": "Blue Owlはプライベートクレジット市場で重要な役割を果たしており、ソフトウェア企業の信用リスク増大が投資家の懸念材料となっていた。SpaceXからの多大な利益により、同社のポートフォリオのリスク分散が進み、業界全体の不安を和らげる可能性があるため注目される。",
+        "market_impact": "Blue Owlの好決算とSpaceX投資利益の開示により、投資家の信頼感が高まり、同社株の急騰をもたらした。これがプライベートクレジットファンドに対する市場の評価改善に繋がり、類似の信用商品への資金流入が期待される。また、SpaceXの大型IPO成功期待が関連市場全体にもポジティブに働く可能性がある。",
+        "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html"
-      },
-      {
-        "title": "Four key takeaways from Jerome Powell's final rate decision as Fed chair",
-        "summary_2lines": "連邦準備制度理事会（FRB）はパウエル議長の最後の会合で利上げを見送り、金利を3.5～3.75%で据え置いた。後任のウォーシュ氏は大統領の圧力を受けつつも、FRBの独立性を守る姿勢を示した。",
-        "why_it_matters": "イランと米国間の緊張による不確実性や高騰するインフレ率を踏まえ、FRBが慎重な金融政策を続ける重要な節目であり、米金融政策の方向性と中央銀行の独立性が大きく問われるため。また、トランプ政権によるFRBへの法的圧力も市場の不安材料となっている。",
-        "market_impact": "エネルギーコストと物価上昇が継続し、即時の利下げ期待は後退。高インフレ環境下での金利据え置きは企業コスト増加や消費抑制を招く一方、FRBの独立性が維持されることで長期的な金融市場の安定に寄与する可能性がある。ウォーシュ氏就任後も政治的圧力に対する監視が強まるだろう。",
-        "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.cnbc.com/2026/04/30/blue-owl-shares-private-credit-spacex-gains.html"
       },
       {
         "title": "Jerome Powell says he will continue to serve as a Fed governor, calls Trump criticism 'unprecedented'",
-        "summary_2lines": "FRB議長ジェローム・パウエルは、本部建物の改修調査が終わるまで連邦準備制度理事会の理事職に留まる意向を表明した。トランプ大統領からの前例のない批判についても懸念を示した。",
-        "why_it_matters": "パウエル議長の在任継続は、トランプ大統領による理事会の過半数占拠を阻止し、FRBの独立性維持に重要な意味を持つ。政治的圧力と調査の中でFRBの政策運営の安定性が問われるため、金融政策の透明性や信頼性が注目されている。",
-        "market_impact": "パウエル氏が理事として留まることで、FRBの政策の一貫性が保たれ、市場の予想通り利下げ見送りが支持されやすい。政治的圧力の高まりは一時的な不透明感をもたらすものの、長期的にはFRBの独立性維持が市場の信頼に寄与する可能性がある。",
-        "category": "Economy",
+        "summary_2lines": "FRBのジェローム・パウエル議長は、中央銀行本部の改修調査が完了するまで連邦準備制度理事会のメンバーとして留まる意向を示した。彼はトランプ前大統領の批判を「前例のないもの」とし、政治的影響からの独立性の重要性を強調した。",
+        "why_it_matters": "パウエル議長の継続在任はFRBの運営安定に寄与し、次期議長の承認過程にも影響を与える。トランプ前大統領による個人的批判がFRBの独立性と今後の金融政策運営にリスクを及ぼす可能性がある中、パウエルの決断は中央銀行の信用維持に重要な意味を持つ。また、調査の透明化と最終決着を重視する姿勢は、公正な行政運営への信頼醸成につながる。",
+        "market_impact": "パウエル議長の退任が見送られ、金融政策の一貫性が保持されたことで市場の不確実性が軽減された。FRBの独立性が守られるとの認識は、金利動向の予測安定につながり、株式市場や債券市場でのボラティリティ低下に寄与する可能性がある。だが、政治的圧力や調査の継続が長引く場合は、金融市場の不透明感や政策運営への懸念が再燃する恐れもある。",
+        "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/04/29/jerome-powell-says-he-will-continue-to-serve-as-a-fed-governor-even-after-chairmanship-ends-.html"
       }
     ],
+    "Geopolitics": [],
+    "Economy": [
+      {
+        "title": "Bank of England says rates could rise as Iran war fuels inflation",
+        "summary_2lines": "イラン戦争によるエネルギー価格の急騰を受け、英中銀はインフレ抑制のため年内に利上げを示唆している。原油価格が130ドル超で推移すると最大で6回の利上げも視野に入る。",
+        "why_it_matters": "エネルギー価格の急上昇はインフレ加速を招き、特に低所得層の生活を直撃する。英中銀の金利政策は物価安定と経済成長のバランスを取る重要な局面にあり、今後の金融政策の方向性が国内外の経済に大きな影響を及ぼすため重要である。",
+        "market_impact": "利上げ観測により債券利回りが上昇、株式市場には調整圧力がかかる可能性。エネルギー価格の高止まりは消費者物価と企業コストを押し上げ、家計負担増や経済成長鈍化を招く。住宅ローン金利の上昇や消費の冷え込みも懸念される。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Mortgages, bills and jobs: Five takeaways from the Bank of England",
+        "summary_2lines": "中東情勢の影響でイングランド銀行は利上げの可能性を示唆し、住宅ローンや光熱費の負担増が見込まれている。特に低所得世帯の生活が一層厳しくなる見通しだ。",
+        "why_it_matters": "中東紛争による原油価格の高騰が英国のインフレと金利政策に深刻な影響を与え、住宅ローン返済やエネルギー費用の上昇を通じて多くの国民の家計が圧迫される可能性がある。これにより消費動向や経済成長の先行きに不透明感が強まっているため、政策対応や市場動向の注視が不可欠となっている。",
+        "market_impact": "金利上昇は借入コストを押し上げ、住宅ローン返済額の増加を招くため、住宅市場や消費支出が冷え込むリスクがある。エネルギー価格の高止まりは企業のコスト増加にもつながり、インフレがさらに加速すると企業利益を圧迫し、金融市場のボラティリティが高まる可能性がある。低所得層の支出制限は経済の二極化を進行させ、景気回復の減速要因となり得る。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump to remove whisky tariffs after King's visit",
+        "summary_2lines": "トランプ大統領は英国王チャールズ3世の訪米を受け、スコッチウイスキー輸入にかかる関税と制限を撤廃すると発表した。これにより、スコットランドと米ケンタッキー州のウイスキー産業の連携が促進される。",
+        "why_it_matters": "米国がスコッチウイスキーに課していた10％の関税は、英国・スコットランドの主要輸出品であるウイスキー産業に大きな打撃を与えていた。関税撤廃は、最近交渉が難航していた米英間の貿易問題に進展をもたらし、両国の産業交流や経済連携の強化につながる重要な政策変更である。",
+        "market_impact": "関税撤廃により、スコッチウイスキーの輸出コストが削減され、米国市場での価格競争力が向上。業界は年間約1億5000万ポンド（約215億円）相当の損失が減少し、ウイスキー製造業者の経営改善に寄与する。また、ケンタッキー州のバーボン産業も使用済み樽の販売が活発化し、相互利益が期待される。UKの雇用と輸出収益も好影響を受ける見込み。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Faisal Islam: The wide field of uncertainties facing the UK",
+        "summary_2lines": "英国の経済は中東情勢によるエネルギー価格の高騰とそれに伴うインフレ圧力に直面している。英中銀は金利据え置きを決定したものの、状況次第で利上げの可能性を示唆している。",
+        "why_it_matters": "今回のニュースは、世界的な地政学リスクが英国の金融政策と生活費に深刻な影響を及ぼしうることを示している。エネルギー価格の上昇はインフレを加速させ、低所得層を中心に家計負担が増大、英国経済の不確実性が高まっているため、政策決定や市場動向に注意が必要である。",
+        "market_impact": "原油価格の高騰により長期金利と住宅ローン金利が上昇し、固定金利期間の終了によって多くの世帯で毎月の支払いが増加する見込み。政府の借入コストも上昇し、財政運営に圧力がかかる可能性がある。金融市場は中東情勢の推移を注視し、前提が変われば英国の金利政策や通貨価値にも大きな変動が予想される。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cg4pqg250p2o?at_medium=RSS&at_campaign=rss"
+      }
+    ],
     "Corporate": [
       {
-        "title": "PayPal's new CEO makes Venmo a standalone business unit as potential buyers circle",
-        "summary_2lines": "PayPalの新CEOエンリケ・ロレスはVenmoを独立した事業ユニットに分離し、売却や成長戦略の柔軟性を高める方針を示した。これによりPayPalは組織再編を進めつつ、市場競争力の回復を狙う。",
-        "why_it_matters": "PayPalはAppleやGoogle、Stripeとの激しい決済市場競争に直面しており、Venmoの独立は事業価値の明確化と成長促進、また潜在的な売却を視野に入れた資本戦略の転換点となる。加えて、株価低迷からの脱却と買収リスクへの備えも重要背景だ。",
-        "market_impact": "Venmoを独立させることで投資家はPayPalの中核資産の成長動向を評価しやすくなり、買収候補としての注目度が高まる。これによりPayPal株は一時的に上昇し、長期的には事業再構築が競争力回復と収益性改善に寄与する可能性がある。市場全体でも決済分野の再編やM&A活発化の兆しと見られる。",
+        "title": "Apple hails 'extraordinary' iPhone demand as boss Tim Cook heads out",
+        "summary_2lines": "アップルのiPhone需要が中国を中心に急増し、売上高は前年同期比17%増の1110億ドルに達した。ティム・クックCEOが9月に退任し、新CEOジョン・ターナスが今後の製品展開を担う。",
+        "why_it_matters": "iPhone 17の歴史的な成功と新型Macbook Neoの好調が示すように、アップルは革新的製品で市場優位を維持。AI分野では独自モデルを持たず提携でリスクを抑えつつ成長を目指しており、経営交代期に次の戦略が注目される。",
+        "market_impact": "中国市場での強力な需要増がアップルの売上成長を牽引し、ハードウェア及びAI技術の展開が競合他社との差別化に寄与。クック退任に伴う経営体制変化に投資家が反応し、株価や関連サプライチェーンの動向にも影響を及ぼす可能性が高い。",
         "category": "Corporate",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/29/paypal-restructures-venmo-standalone-unit.html"
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
