@@ -1,151 +1,150 @@
 {
-  "generated_at_jst": "2026-05-03 07:28",
+  "generated_at_jst": "2026-05-04 07:28",
   "todays_brief": [
     {
+      "title": "Spirit Airlines shutting down after rescue talks collapse",
+      "summary_2lines": "Spirit Airlinesは500百万ドルの救済資金獲得に失敗し、即時業務の整理清算を開始、全便がキャンセルされた。燃料費高騰や財務問題が致命的となり、乗客や従業員に大きな影響を与えている。",
+      "why_it_matters": "格安航空会社Spiritの破綻は、燃料価格高騰や経済的逆風のもとでの航空業界の脆弱性を露呈し、旅行者の移動や雇用に直接的な混乱を生じさせている。加えて、政府支援の限界やビジネスモデルの持続困難性が浮き彫りとなった。",
+      "market_impact": "Spiritの即時破綻により多くの乗客が他航空会社のチケット購入を余儀なくされ、同業他社（Delta、United、American、Frontierなど）に一時的な需要増加と収益機会を生んだ。一方で航空業界全体の燃料費高騰リスクが改めて意識され、投資家の警戒感が高まる可能性がある。また、中低所得層の旅行機会縮小や地域経済への波及も懸念される。",
+      "category": "Corporate",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "U.S. oil prices will exceed Iran wartime high to above $125 as conflict drags on, Kalshi traders say",
-      "summary_2lines": "Kalshiのトレーダーは2024年に米WTI原油価格が一時127ドル近くに達する可能性を50%以上と予測。対イラン中東紛争の継続が価格高騰の主因となっている。",
-      "why_it_matters": "中東の地政学的リスクが原油供給の不安定化をもたらし、エネルギー価格上昇を促している。これにより、世界経済のインフレ圧力やエネルギー安全保障が一段と注目される状況となっている。",
-      "market_impact": "原油価格の上昇はエネルギー関連企業の収益改善につながる一方、製造業や運輸業など原油価格に敏感な業種のコスト増加を招き、インフレの加速や消費者負担の増大が懸念される。金融市場ではエネルギー株が買われやすくなるが、需要減退リスクも存在する。",
+      "summary_2lines": "Kalshiの予測市場では、2024年にWTI原油価格が1バレルあたり125ドルを超え、最高で約127ドルに達する可能性が50%以上と見込まれている。イランとの中東紛争停戦後も価格は高止まりしており、地政学的リスクが依然として強い影響を及ぼしている。",
+      "why_it_matters": "原油価格は世界経済やエネルギー市場に直結するため、特に中東の紛争状況が価格に大きな影響を与える。今回の予測は投機的見通しを反映しており、供給不安が解消されていないことや航路封鎖の懸念が続くため、インフレ圧力や企業のコスト構造に影響を及ぼす可能性がある。",
+      "market_impact": "原油価格の上昇期待はエネルギー関連企業の収益改善に寄与する一方、輸入国のエネルギーコスト増加や物価上昇圧力を強める。特に米国市場では消費者の燃料費負担が増加し、消費活動に悪影響を及ぼすリスクがある。地政学リスクが高まったことで、投資家はリスクヘッジを強化し、関連デリバティブ取引の活発化も予想される。",
       "category": "Markets",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/05/01/kalshi-traders-think-us-oil-prices-are-set-to-hit-new-2026-highs.html"
     },
     {
-      "title": "Mortgages, jobs and energy bills - how the Iran war will affect your money",
-      "summary_2lines": "イラン紛争により英中銀は利上げの可能性を示唆し、住宅ローンやエネルギー料金の上昇が見込まれる。特に低所得層は生活費の負担増加に直面する可能性が高い。",
-      "why_it_matters": "中東情勢の悪化は世界のエネルギー価格に直接影響を与え、英国のインフレ圧力を強めている。これにより政策金利の動向や家計支出に変化が生じるため、多くの消費者や企業の財務状況に影響が及ぶ重要な局面となっている。",
-      "market_impact": "利上げの可能性が高まることで借入コストと貯蓄利回りが上昇し、住宅ローンの月々返済額が平均で約£80増加する見込み。エネルギー価格の上昇も家計負担を押し上げ、消費を抑制する恐れがある。結果として経済成長の足かせとなると共に、低所得層の生活支援策強化が求められるようになるだろう。",
+      "title": "Airlines can cancel flights in advance over fuel shortages under new plans",
+      "summary_2lines": "英国政府は燃料不足に備え、航空会社が事前に便を欠航できる新方針を発表。これにより混乱を避けつつ燃料節約を図る。",
+      "why_it_matters": "中東のホルムズ海峡封鎖によるジェット燃料供給の不安定化を受け、航空業界が燃料不足に伴う突発的な運休リスクに直面。従来の空港離発着枠保持ルールが柔軟化され、運航調整の自由度が増すことで乗客の混乱を緩和し、業界全体の安定運航を支える狙いがある。",
+      "market_impact": "航空会社は燃料不足リスクへの対応が可能となり、コスト削減や効率的運航が期待される。一方で運航便数の減少は空港関連収益や旅行需要に影響する可能性がある。燃料供給の不安定が続けば航空株や関連セクターにネガティブな圧力がかかる恐れもある。",
       "category": "Economy",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "JPMorgan's Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues",
-      "summary_2lines": "JPMorganのJamie Dimonがクレジットリセッションのリスクについて漠然と警告する一方、短期的には連邦準備制度のトップ交代による債券市場のボラティリティに注目が集まっている。インフレ圧力と金融政策の不透明感が今後の債券投資に影響を与える可能性が高い。",
-      "why_it_matters": "クレジット市場の潜在リスクと並行して、連邦準備制度理事会の新議長の就任が市場の期待と金利動向に大きな変化をもたらすため、投資家はポートフォリオのリスク管理を再検討する必要がある。適切な対応を怠ると、債券市場での損失拡大や市場全体の不安定化を招く恐れがある。",
-      "market_impact": "Fed議長交代に伴う政策スタンスの変化が金利やクレジットスプレッドに短期的な大きな変動を引き起こしやすく、特に10年物国債の利回り変動が投資家の債券保有戦略に影響を与える。また、インフレ水準が依然として目標を上回っているため、利下げ期待が後退し債券価格の下落圧力が強まる可能性がある。これにより、債券市場のボラティリティが高まり、資産運用に慎重な姿勢が求められる。",
+      "summary_2lines": "JPMorganのジェイミー・ダイモンCEOが具体的な兆候は示さずに信用リセッションのリスクを警告。一方、連邦準備制度理事会（FRB）の新議長就任を控え、米国債市場は短期的なボラティリティ増加の可能性に直面している。",
+      "why_it_matters": "信用市場の不透明感とFRBのリーダー交代が同時に進行しており、投資家心理に大きな影響を与える懸念がある。特にFRB政策の転換期における債券の期間リスクや金利変動は資産配分に重要な示唆を与えるため、市場の動向を見極める必要がある。",
+      "market_impact": "信用リセッションへの漠然とした警戒感で信用スプレッドが拡大する可能性があり、特に長期債中心のポートフォリオは金利変更に対して敏感になる。また、FRB議長の交代による金融政策の方向性不透明感から債券市場のボラティリティが高まり、債券価格や利回りに影響を及ぼす。投資家はリスク管理と柔軟な資産調整が求められる局面。",
       "category": "Markets",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/05/02/kevin-warsh-federal-reserve-interest-rates-bonds-fixed-income.html"
     },
     {
-      "title": "Trump says he will hike tariffs on EU cars to 25%",
-      "summary_2lines": "トランプ前大統領は欧州連合（EU）から輸入される自動車およびトラックにかかる関税を25％に引き上げると発表した。EUは約束を守っていると反発し、貿易緊張が一段と高まっている。",
-      "why_it_matters": "EUとの貿易関係において自動車産業は重要な分野であり、両者は前年に15％の関税合意を結んでいたが、トランプ氏の関税引き上げで合意の履行が危ぶまれている。米EU間の貿易摩擦が激化し、世界経済や多国間貿易協定に悪影響を及ぼす可能性があるため、注目される。",
-      "market_impact": "米国の関税引き上げは欧州自動車メーカーに販売コスト増をもたらし、価格競争力の低下や投資の停滞を招く恐れがある。一方で、トランプ氏は欧州メーカーが米国内で生産すれば関税を免除すると述べ、現地生産誘致を狙う可能性がある。EUは報復措置を検討しており、自動車関連株価の変動やサプライチェーンの混乱が想定される。",
-      "category": "Markets",
+      "title": "In five charts: How UAE's exit could affect Opec's influence over the oil price",
+      "summary_2lines": "UAEが石油輸出国機構（OPEC）から脱退し単独行動へ移行する意向を示し、OPECの市場影響力低下の懸念が高まっている。特に米イスラエルとイランの紛争による供給ショックの中で、市場の不安定さが増大している。",
+      "why_it_matters": "OPECは長年、加盟国による生産調整で石油価格の安定と収益確保を図ってきたが、主要輸出国であるUAEの離脱は組織の結束と価格調整能力を弱める可能性がある。中東の地政学リスクが高まる中で、OPECの影響力低下は世界のエネルギー市場の不安定化を助長しかねず、エネルギー政策や経済に広範な影響を与える。",
+      "market_impact": "UAEの脱退は短期的には輸出量に大きな影響を与えないものの、OPEC+の生産調整における結束力低下により、原油価格の予測困難性やボラティリティが増す可能性がある。これによりエネルギーコストが高止まりし、関連産業や世界経済のインフレ圧力が強まる恐れがある。また、米国や中国など主要消費国のエネルギー安全保障戦略にも影響を及ぼしうる。",
+      "category": "Geopolitics",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Pentagon says US military to be an 'AI-first' fighting force",
-      "summary_2lines": "PentagonはGoogle、OpenAI、Amazon、Microsoftなど大手テクノロジー企業と契約を拡大し、米軍を「AIファースト」戦闘力へと転換する計画を発表した。Anthropicは政府との契約で対立し訴訟中である。",
-      "why_it_matters": "AI技術の軍事利用が急速に拡大する中、多様なAIベンダーとの連携で依存リスクを回避しながら最先端技術を戦場に適用する試みは、軍事力の技術的優位性維持と未来の戦争形態におけるAIの中心的役割を示している。Anthropicの撤退問題は倫理的懸念と政府利用の境界を巡る重要な議論を喚起している。",
-      "market_impact": "AI関連企業への軍事需要増加により、大手IT・AI企業の成長機会が拡大し、特にOpenAIやGoogleなど契約拡大は株価や資金調達に追い風となる。一方、Anthropicの法的対立はAI企業の公共利用リスクを浮き彫りにし、規制や企業戦略に影響を与える可能性がある。さらに、軍事分野へのAI技術の投入は国防関連産業全体の競争力強化を促すだろう。",
-      "category": "Tech",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss"
     }
   ],
   "categories": {
-    "Tech": [
-      {
-        "title": "Pentagon says US military to be an 'AI-first' fighting force",
-        "summary_2lines": "PentagonはGoogle、OpenAI、Amazon、Microsoftなど大手テクノロジー企業と契約を拡大し、米軍を「AIファースト」戦闘力へと転換する計画を発表した。Anthropicは政府との契約で対立し訴訟中である。",
-        "why_it_matters": "AI技術の軍事利用が急速に拡大する中、多様なAIベンダーとの連携で依存リスクを回避しながら最先端技術を戦場に適用する試みは、軍事力の技術的優位性維持と未来の戦争形態におけるAIの中心的役割を示している。Anthropicの撤退問題は倫理的懸念と政府利用の境界を巡る重要な議論を喚起している。",
-        "market_impact": "AI関連企業への軍事需要増加により、大手IT・AI企業の成長機会が拡大し、特にOpenAIやGoogleなど契約拡大は株価や資金調達に追い風となる。一方、Anthropicの法的対立はAI企業の公共利用リスクを浮き彫りにし、規制や企業戦略に影響を与える可能性がある。さらに、軍事分野へのAI技術の投入は国防関連産業全体の競争力強化を促すだろう。",
-        "category": "Tech",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss"
-      }
-    ],
+    "Tech": [],
     "Markets": [
       {
         "title": "U.S. oil prices will exceed Iran wartime high to above $125 as conflict drags on, Kalshi traders say",
-        "summary_2lines": "Kalshiのトレーダーは2024年に米WTI原油価格が一時127ドル近くに達する可能性を50%以上と予測。対イラン中東紛争の継続が価格高騰の主因となっている。",
-        "why_it_matters": "中東の地政学的リスクが原油供給の不安定化をもたらし、エネルギー価格上昇を促している。これにより、世界経済のインフレ圧力やエネルギー安全保障が一段と注目される状況となっている。",
-        "market_impact": "原油価格の上昇はエネルギー関連企業の収益改善につながる一方、製造業や運輸業など原油価格に敏感な業種のコスト増加を招き、インフレの加速や消費者負担の増大が懸念される。金融市場ではエネルギー株が買われやすくなるが、需要減退リスクも存在する。",
+        "summary_2lines": "Kalshiの予測市場では、2024年にWTI原油価格が1バレルあたり125ドルを超え、最高で約127ドルに達する可能性が50%以上と見込まれている。イランとの中東紛争停戦後も価格は高止まりしており、地政学的リスクが依然として強い影響を及ぼしている。",
+        "why_it_matters": "原油価格は世界経済やエネルギー市場に直結するため、特に中東の紛争状況が価格に大きな影響を与える。今回の予測は投機的見通しを反映しており、供給不安が解消されていないことや航路封鎖の懸念が続くため、インフレ圧力や企業のコスト構造に影響を及ぼす可能性がある。",
+        "market_impact": "原油価格の上昇期待はエネルギー関連企業の収益改善に寄与する一方、輸入国のエネルギーコスト増加や物価上昇圧力を強める。特に米国市場では消費者の燃料費負担が増加し、消費活動に悪影響を及ぼすリスクがある。地政学リスクが高まったことで、投資家はリスクヘッジを強化し、関連デリバティブ取引の活発化も予想される。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/05/01/kalshi-traders-think-us-oil-prices-are-set-to-hit-new-2026-highs.html"
       },
       {
         "title": "JPMorgan's Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues",
-        "summary_2lines": "JPMorganのJamie Dimonがクレジットリセッションのリスクについて漠然と警告する一方、短期的には連邦準備制度のトップ交代による債券市場のボラティリティに注目が集まっている。インフレ圧力と金融政策の不透明感が今後の債券投資に影響を与える可能性が高い。",
-        "why_it_matters": "クレジット市場の潜在リスクと並行して、連邦準備制度理事会の新議長の就任が市場の期待と金利動向に大きな変化をもたらすため、投資家はポートフォリオのリスク管理を再検討する必要がある。適切な対応を怠ると、債券市場での損失拡大や市場全体の不安定化を招く恐れがある。",
-        "market_impact": "Fed議長交代に伴う政策スタンスの変化が金利やクレジットスプレッドに短期的な大きな変動を引き起こしやすく、特に10年物国債の利回り変動が投資家の債券保有戦略に影響を与える。また、インフレ水準が依然として目標を上回っているため、利下げ期待が後退し債券価格の下落圧力が強まる可能性がある。これにより、債券市場のボラティリティが高まり、資産運用に慎重な姿勢が求められる。",
+        "summary_2lines": "JPMorganのジェイミー・ダイモンCEOが具体的な兆候は示さずに信用リセッションのリスクを警告。一方、連邦準備制度理事会（FRB）の新議長就任を控え、米国債市場は短期的なボラティリティ増加の可能性に直面している。",
+        "why_it_matters": "信用市場の不透明感とFRBのリーダー交代が同時に進行しており、投資家心理に大きな影響を与える懸念がある。特にFRB政策の転換期における債券の期間リスクや金利変動は資産配分に重要な示唆を与えるため、市場の動向を見極める必要がある。",
+        "market_impact": "信用リセッションへの漠然とした警戒感で信用スプレッドが拡大する可能性があり、特に長期債中心のポートフォリオは金利変更に対して敏感になる。また、FRB議長の交代による金融政策の方向性不透明感から債券市場のボラティリティが高まり、債券価格や利回りに影響を及ぼす。投資家はリスク管理と柔軟な資産調整が求められる局面。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/05/02/kevin-warsh-federal-reserve-interest-rates-bonds-fixed-income.html"
-      },
-      {
-        "title": "Trump says he will hike tariffs on EU cars to 25%",
-        "summary_2lines": "トランプ前大統領は欧州連合（EU）から輸入される自動車およびトラックにかかる関税を25％に引き上げると発表した。EUは約束を守っていると反発し、貿易緊張が一段と高まっている。",
-        "why_it_matters": "EUとの貿易関係において自動車産業は重要な分野であり、両者は前年に15％の関税合意を結んでいたが、トランプ氏の関税引き上げで合意の履行が危ぶまれている。米EU間の貿易摩擦が激化し、世界経済や多国間貿易協定に悪影響を及ぼす可能性があるため、注目される。",
-        "market_impact": "米国の関税引き上げは欧州自動車メーカーに販売コスト増をもたらし、価格競争力の低下や投資の停滞を招く恐れがある。一方で、トランプ氏は欧州メーカーが米国内で生産すれば関税を免除すると述べ、現地生産誘致を狙う可能性がある。EUは報復措置を検討しており、自動車関連株価の変動やサプライチェーンの混乱が想定される。",
-        "category": "Markets",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Geopolitics": [
       {
-        "title": "Six months out, control of the Senate is a dead heat, traders on Kalshi say",
-        "summary_2lines": "アメリカ上院の2024年中間選挙の制御は共和党と民主党が50％ずつの拮抗状態。イラン戦争の影響で共和党の支持率が低下し、選挙の行方を左右している。",
-        "why_it_matters": "上院の制御権は今後の政策決定や国際関係に大きな影響を与えるため、中間選挙の見通しは政治や経済の先行きを読むうえで重要。イラン戦争による政治・世論の変化が選挙戦の行方に直結している点も注目される。",
-        "market_impact": "上院の制御権が不明確なことは政策の不確実性を高めるため、特に外交政策や安全保障関連の市場に影響を与える。戦争の早期解決を促す政治的インセンティブも強まり、これがエネルギー価格や防衛関連企業の株価に波及する可能性がある。",
+        "title": "In five charts: How UAE's exit could affect Opec's influence over the oil price",
+        "summary_2lines": "UAEが石油輸出国機構（OPEC）から脱退し単独行動へ移行する意向を示し、OPECの市場影響力低下の懸念が高まっている。特に米イスラエルとイランの紛争による供給ショックの中で、市場の不安定さが増大している。",
+        "why_it_matters": "OPECは長年、加盟国による生産調整で石油価格の安定と収益確保を図ってきたが、主要輸出国であるUAEの離脱は組織の結束と価格調整能力を弱める可能性がある。中東の地政学リスクが高まる中で、OPECの影響力低下は世界のエネルギー市場の不安定化を助長しかねず、エネルギー政策や経済に広範な影響を与える。",
+        "market_impact": "UAEの脱退は短期的には輸出量に大きな影響を与えないものの、OPEC+の生産調整における結束力低下により、原油価格の予測困難性やボラティリティが増す可能性がある。これによりエネルギーコストが高止まりし、関連産業や世界経済のインフレ圧力が強まる恐れがある。また、米国や中国など主要消費国のエネルギー安全保障戦略にも影響を及ぼしうる。",
         "category": "Geopolitics",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/01/6-months-out-control-of-the-senate-is-50-50-traders-on-kalshi-say.html"
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Economy": [
       {
-        "title": "Mortgages, jobs and energy bills - how the Iran war will affect your money",
-        "summary_2lines": "イラン紛争により英中銀は利上げの可能性を示唆し、住宅ローンやエネルギー料金の上昇が見込まれる。特に低所得層は生活費の負担増加に直面する可能性が高い。",
-        "why_it_matters": "中東情勢の悪化は世界のエネルギー価格に直接影響を与え、英国のインフレ圧力を強めている。これにより政策金利の動向や家計支出に変化が生じるため、多くの消費者や企業の財務状況に影響が及ぶ重要な局面となっている。",
-        "market_impact": "利上げの可能性が高まることで借入コストと貯蓄利回りが上昇し、住宅ローンの月々返済額が平均で約£80増加する見込み。エネルギー価格の上昇も家計負担を押し上げ、消費を抑制する恐れがある。結果として経済成長の足かせとなると共に、低所得層の生活支援策強化が求められるようになるだろう。",
-        "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Airlines can cancel flights in advance over fuel shortages, under new plans",
-        "summary_2lines": "英国政府は燃料不足が懸念される夏季に備え、航空会社が出発・到着スロットを失わずに事前に便をキャンセルできる新制度を導入する。これにより、最後の瞬間の欠航リスクや乗客の混乱を減らす狙いがある。",
-        "why_it_matters": "英国はジェット燃料の約65％を輸入に依存し、中東情勢悪化（ホルムズ海峡封鎖等）による供給不安が深刻化している。従来、航空会社は使用義務のあるスロット維持のため燃料不足でも空便を運航しており非効率だったが、新制度により計画的な運航調整が可能となり、持続可能な運航管理が期待される。",
-        "market_impact": "航空会社は燃料不足リスクを緩和しつつ、貴重な空港スロットを保持できるため経営負担の軽減が見込まれる。また燃料調達多様化の模索は燃料市場に影響を与え、特に米国製Jet Aの輸入拡大が進めば欧州の燃料供給構造に変化が生じる可能性がある。消費者の旅行計画安定化や混乱回避も経済活動に良い影響を及ぼすだろう。",
+        "title": "Airlines can cancel flights in advance over fuel shortages under new plans",
+        "summary_2lines": "英国政府は燃料不足に備え、航空会社が事前に便を欠航できる新方針を発表。これにより混乱を避けつつ燃料節約を図る。",
+        "why_it_matters": "中東のホルムズ海峡封鎖によるジェット燃料供給の不安定化を受け、航空業界が燃料不足に伴う突発的な運休リスクに直面。従来の空港離発着枠保持ルールが柔軟化され、運航調整の自由度が増すことで乗客の混乱を緩和し、業界全体の安定運航を支える狙いがある。",
+        "market_impact": "航空会社は燃料不足リスクへの対応が可能となり、コスト削減や効率的運航が期待される。一方で運航便数の減少は空港関連収益や旅行需要に影響する可能性がある。燃料供給の不安定が続けば航空株や関連セクターにネガティブな圧力がかかる恐れもある。",
         "category": "Economy",
         "source": "BBC Business",
         "url": "https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Voters will judge Trump on the economy - how is it doing?",
+        "summary_2lines": "2026年第1四半期の米経済成長率は年率2%と堅調で、AI関連投資が成長を支えている。一方、イラン紛争によるエネルギー価格高騰で生活費が上昇し、利上げが長期化する懸念が強まっている。",
+        "why_it_matters": "中間選挙を控え、トランプ大統領の経済政策が有権者の支持を左右する重要な要素となっている。好調な経済成長は与党に追い風だが、生活費増加や金利高止まりによる生活実感は逆風であり、米国の政治・経済の不確実性が高まっている。",
+        "market_impact": "株式市場は好調を維持し、主要指数は戦争前の水準を超えて上昇しているため投資家や年金資産にはプラス。一方、消費者物価の上昇と住宅ローン金利の上昇は個人消費や住宅市場の低迷を招くリスクがあり、経済の潜在的リスク要因となっている。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cgepyv20vrpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Struggling High Streets fuel sense of neglect for voters ahead of local elections",
+        "summary_2lines": "イングランド地方の多くのハイストリート（商店街）がオンラインショッピングや郊外型店舗の増加などで衰退し、地域住民の不満と政治的無関心を招いている。これが5月に予定されている地方選挙に影響を及ぼす可能性が高まっている。",
+        "why_it_matters": "地域のハイストリートの衰退は単なる経済問題に留まらず、地域住民のコミュニティ感覚や政治参加意識にも大きな影響を与えている。町の衰退は地域格差や失業など社会経済問題の象徴となり、有権者の不満が地方選挙の投票行動に反映されるため、政治的な重要課題として認識されつつある。",
+        "market_impact": "地元商店街の衰退は小売業や飲食業など中小企業の収益悪化を招き、地域経済の活力低下につながる。高い賃料や駐車料金も企業の参入障壁となり、地域経済の再生を阻害している。政府や自治体の再生プロジェクトに対する期待が高まる一方、長期的な投資回収を見越した施策が必要で、地方経済の不均衡是正や労働市場への波及効果も注目される。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/crl1l6g9264o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Corporate": [
       {
-        "title": "Cautious optimism: Berkshire investors weigh future under new CEO Greg Abel",
-        "summary_2lines": "バークシャー・ハサウェイは新CEOグレッグ・エイベルの下で慎重ながらも楽観的なムードが広がっている。株主はバフェットの後継者選びに信頼を寄せつつも、エイベルの個性や舞台でのカリスマ性には懐疑的だ。",
-        "why_it_matters": "ウォーレン・バフェットの長期にわたる経営からの世代交代は、同社の将来戦略や投資家信頼に大きな影響を与える。バフェットが推したエイベルの手腕が問われる中で、株主たちは経済環境の課題を踏まえつつ、事業継続性の確保に注目している。",
-        "market_impact": "エイベルの就任による経営方針の変化が市場の注目を集め、バークシャー株の安定性や成長戦略に対する評価が再検討される可能性がある。特に経済的な逆風を背景に、投資家の信頼保持が重要視され、長期的な株価動向に影響を与えるだろう。",
+        "title": "Berkshire Hathaway’s shopping extravaganza draws lighter crowds as spotlight shifts to Greg Abel",
+        "summary_2lines": "バークシャー・ハサウェイの年次会合に伴うショッピングイベントの人出が減少し、ウォーレン・バフェットからCEOのグレッグ・エーブルへと注目が移った。エーブルは積極的に参加者と交流し、新たな経営体制を象徴する限定商品も展開された。",
+        "why_it_matters": "ウォーレン・バフェットが長年の顔役から退き、新CEOグレッグ・エーブルが主役として注目されることで、バークシャーの経営の新時代が始まったことを象徴している。これは投資家や市場にとって重要な転換点となるため、その動向が注目されている。",
+        "market_impact": "エーブルCEOの積極的な現場参加やブランドとのコラボレーション強化は、バークシャー傘下企業のブランド力向上と消費者との接点拡大を促す。これにより、企業価値の長期的な維持・成長への期待が高まり、市場参加者の注目度や投資マインドに好影響を与える可能性がある。",
         "category": "Corporate",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/01/berkshire-investors-weigh-future-under-new-ceo-greg-abel.html"
+        "url": "https://www.cnbc.com/2026/05/01/berkshire-hathaways-shopping-extravaganza-draws-lighter-crowds-as-spotlight-shifts-to-greg-abel.html"
       },
       {
         "title": "Spirit Airlines shutting down after rescue talks collapse",
-        "summary_2lines": "Spirit Airlinesは米政府からの5億ドルの救済交渉が決裂し、即時に事業の秩序ある清算を開始、全便を運休した。急増したジェット燃料費が経営悪化に拍車をかけたが、政府側は経営モデルの問題を指摘している。",
-        "why_it_matters": "格安航空業界の大手であったSpirit Airlinesの突然の運航停止は、市場の競争環境に大きな変化をもたらし、航空利用者や旅行業界に混乱を生じさせた。背景には中東情勢による燃料費高騰と同社の再建計画の困難さがあり、今後の航空業界の収益構造やリスク管理の在り方を示唆する重要な事象である。",
-        "market_impact": "Spirit Airlinesの撤退により競合他社は一時的に路線拡大や顧客獲得の機会を得るが、燃料コストの高騰は業界全体の収益圧迫要因となる。資本市場では航空株に対する慎重姿勢が強まり、燃料価格の不安定さが業績予測に大きな不確実性を与える。また、倒産処理や顧客補償問題が旅行関連領域の信用リスクを増加させる可能性もある。",
+        "summary_2lines": "Spirit Airlinesは500百万ドルの救済資金獲得に失敗し、即時業務の整理清算を開始、全便がキャンセルされた。燃料費高騰や財務問題が致命的となり、乗客や従業員に大きな影響を与えている。",
+        "why_it_matters": "格安航空会社Spiritの破綻は、燃料価格高騰や経済的逆風のもとでの航空業界の脆弱性を露呈し、旅行者の移動や雇用に直接的な混乱を生じさせている。加えて、政府支援の限界やビジネスモデルの持続困難性が浮き彫りとなった。",
+        "market_impact": "Spiritの即時破綻により多くの乗客が他航空会社のチケット購入を余儀なくされ、同業他社（Delta、United、American、Frontierなど）に一時的な需要増加と収益機会を生んだ。一方で航空業界全体の燃料費高騰リスクが改めて意識され、投資家の警戒感が高まる可能性がある。また、中低所得層の旅行機会縮小や地域経済への波及も懸念される。",
         "category": "Corporate",
         "source": "BBC Business",
         "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Berkshire Hathaway’s shopping extravaganza draws lighter crowds as spotlight shifts to Greg Abel",
-        "summary_2lines": "バークシャー・ハサウェイの年次イベントで、かつての盛況に比べて来場者数は減少し、注目はウォーレン・バフェットから新CEOのグレッグ・エイベルへと移行した。エイベルは会場を巡り積極的に株主と交流し、複数ブランドとのコラボ商品も展開された。",
-        "why_it_matters": "バフェットの高齢化に伴い経営陣交代が進む中、投資家や市場は新CEOエイベルへの期待感を強めている。年次イベントの様子はバークシャーの今後の経営方針やブランド戦略の変化を示唆し、投資家心理に影響を与える重要な指標となるため注目される。",
-        "market_impact": "エイベルの積極的な姿勢とブランドコラボの展開は、バークシャーの多角的事業ポートフォリオの強化を印象付ける。ブランド力維持と新たな顧客・投資家層の獲得に繋がり、中長期的には株価の安定や企業価値向上が期待される。短期的には来場者減少が注目されるものの、大きな懸念材料とはならない。",
+        "title": "Cautious optimism: Berkshire investors weigh future under new CEO Greg Abel",
+        "summary_2lines": "バークシャー・ハサウェイは新CEOグレッグ・アベルのもとで慎重ながらも楽観的な投資家の声が広がっている。ウォーレン・バフェットの後継者としての信頼感がある一方、ステージでの魅力には懐疑的な見方もある。",
+        "why_it_matters": "バークシャー・ハサウェイは長年にわたりウォーレン・バフェットの指導で世界的に成功を収めてきたため、そのリーダー交代は投資家や市場に大きな注目を浴びる。新CEOへの信頼とその経営方針が同社の将来を左右するとともに、グローバルな投資環境や経済に影響を及ぼす可能性があるため重要である。",
+        "market_impact": "アベル新CEOへの信頼感が広がることでバークシャー株の安定的な保有や買い増し意欲が期待されるが、リーダーシップスタイルの違いから株主の関心の引き方や投資意欲に一定の影響が出る可能性がある。さらに、経済的な逆風の中でアベルがどのように会社を舵取りするかが市場の注目ポイントとなっている。",
         "category": "Corporate",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/01/berkshire-hathaways-shopping-extravaganza-draws-lighter-crowds-as-spotlight-shifts-to-greg-abel.html"
+        "url": "https://www.cnbc.com/2026/05/01/berkshire-investors-weigh-future-under-new-ceo-greg-abel.html"
+      },
+      {
+        "title": "Greg Abel earns solid scorecard from Berkshire shareholders after first annual meeting",
+        "summary_2lines": "グレッグ・エイベルがバークシャー・ハサウェイの初の年次株主総会を率い、安定感と経営手腕を示して投資家の信頼を獲得した。AI活用や詳細な事業説明で新時代の経営スタイルを印象づけたが、自社株買いの積極性には一部から不満の声もあった。",
+        "why_it_matters": "バークシャーはウォーレン・バフェット時代からの投資哲学と経営スタイルで知られており、その後継者としてエイベルがどのように舵取りするかが注目される。投資家にとっては、経営の継続性と新技術への対応力が企業価値の維持・向上に直結するため、新体制の方向性を把握することは重要だ。",
+        "market_impact": "エイベルのAIやテクノロジーへの積極的な言及は、バークシャーの投資ポートフォリオや事業展開に変化をもたらす可能性がある。一方で自社株買いの抑制的な姿勢は、株主還元の観点でネガティブに受け止められ、短期的には株価の動揺を招く可能性もある。全体的には経営の安定性が市場の信頼を支える要因となるだろう。",
+        "category": "Corporate",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/03/berkshire-ceo-greg-abel-earns-solid-first-scorecard-after-first-annual-meeting.html"
       }
     ]
   }
