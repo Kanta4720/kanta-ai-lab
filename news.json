@@ -1,149 +1,151 @@
 {
-  "generated_at_jst": "2026-05-06 07:43",
+  "generated_at_jst": "2026-05-07 07:37",
   "todays_brief": [
     {
       "title": "Anthropic CEO warns of cyber ‘moment of danger’ as AI exposes thousands of vulnerabilities",
-      "summary_2lines": "AnthropicのCEOが、同社のAIモデルMythosが数万件に及ぶソフトウェアの脆弱性を発見したことから、世界の技術企業や政府、金融機関に迅速な対応の必要性を警告した。AIの発展によりサイバーセキュリティのリスクが増大しているが、適切に対応すればより良い未来も可能だと述べている。",
-      "why_it_matters": "AIの進化はソフトウェア脆弱性の大量発見を促し、これが悪用されれば金融機関や重要インフラなどで甚大な被害をもたらす可能性がある。本ニュースは、世界的なサイバーセキュリティの緊急課題を示しつつ、AI規制や安全策の必要性を浮き彫りにしている点で重大な意味を持つ。",
-      "market_impact": "AnthropicのMythosによる脆弱性発見は企業の情報セキュリティ投資増加を促し、金融市場ではリスク管理強化や規制対応が急務となる。また、Anthropicが金融業界向けAI製品を拡充したことで、競合するOpenAIに対し優位性を確立し、AI導入による業務効率化や競争力強化に繋がる可能性が高い。",
+      "summary_2lines": "AnthropicのCEOは、同社のAIモデルが数万のソフトウェア脆弱性を明らかにし、世界が対応する緊急のサイバー危機を警告した。金融や政府機関が迅速に対応しなければ大規模な被害が発生する可能性があると述べた。",
+      "why_it_matters": "AIの進化はこれまで見落とされてきた数多くのセキュリティの弱点を炙り出し、ハッキングやサイバー攻撃のリスクを飛躍的に高めている。特に金融機関や公共インフラへの影響は甚大であり、世界中の主要組織が早急に対策を講じる必要がある。加えて、AI技術の規制と安全管理のあり方が今後の産業競争と消費者保護の観点から重要な課題となっている。",
+      "market_impact": "AnthropicによるAI技術の進展は、金融業界を中心に業務自動化や脆弱性検知の新たな市場機会を創出する一方、同時にサイバー攻撃リスクの増大によりサイバーセキュリティ関連投資の拡大を促す。企業は脆弱性対応に巨額投資を迫られ、規制強化も予想されるため、AIとセキュリティ対策市場の成長が加速することが見込まれる。",
       "category": "Tech",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html"
     },
     {
-      "title": "US to safety test new AI models from Google, Microsoft, xAI",
-      "summary_2lines": "米商務省のAI基準・イノベーションセンターはGoogle、Microsoft、xAIの新AIモデルを公開前に安全性評価する。これは既存のOpenAIやAnthropicとの協力を拡大する動きだ。",
-      "why_it_matters": "AI技術の急速な発展と軍事利用の拡大を背景に、安全性とセキュリティを確保するため政府主導のテスト体制が強化されている。これは従来の規制緩和路線から一転し、AIのリスク管理に重きを置く政策転換の現れである。",
-      "market_impact": "主要AI企業のモデルが政府の検査を受けることで、安全基準の明確化や信頼性向上が期待される。一方でリリース遅延や規制強化がイノベーション速度に影響を及ぼす可能性もある。軍事利用の拡大により、防衛関連市場のAI需要が増加する見込み。",
-      "category": "Tech",
+      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+      "summary_2lines": "米国とイランが戦争終結に向けた合意に近づいたとの報道を受け、原油価格は一時下落し株式市場が上昇した。だが、トランプ前大統領は合意成立に慎重な見方を示している。",
+      "why_it_matters": "中東のイランをめぐる軍事衝突は世界の原油供給に大きなリスクをもたらしており、紛争終結の可能性はエネルギー市場の安定化や国際経済のリスク低減に直結するため重要だ。特にホルムズ海峡は世界の石油輸送の要衝であり、ここでの動向が原油価格に大きく影響する。",
+      "market_impact": "報道を受けてブレント原油先物価格は一時安値をつけたが、その後やや反発。欧州やアジアの株式市場が軒並み上昇し、米S&P 500も1％以上上昇した。紛争終結の期待がリスク回避姿勢の緩和を促し、エネルギー価格の変動が企業収益や投資意欲に影響を与えている。だが、合意が確定していないため不確実性は依然高い。",
+      "category": "Geopolitics",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Intel and Micron are poised to break major milestones",
-      "summary_2lines": "半導体株で特にMicronのオプション取引が過熱し、時価総額は7000億ドル超え。Intelも一時5500億ドル近くまで上昇し、過去1年で大幅な株価上昇を記録した。",
-      "why_it_matters": "MicronとIntelはAIやメモリ需要の高まりを背景に市場で注目されており、オプション取引の活発化は投資家の強気姿勢の表れ。これらの企業は半導体業界の成長と技術革新の象徴であり、ハイテク株全体の動向を示す重要な指標となる。",
-      "market_impact": "Micronのオプション取引急増はボラティリティの上昇を招き、同業他社の株価も押し上げる可能性が高い。Intelの時価総額拡大は半導体株全体の投資マインド改善を示し、関連する市場セクターやAI関連製品の需要拡大に追い風となるだろう。",
+      "summary_2lines": "Micronの株価が過去1年で700%上昇し、オプション取引が活発化。Intelも時価総額でドットコム時代の水準を超え、大幅な株価上昇を記録した。",
+      "why_it_matters": "半導体はAI革命の中心技術であり、MicronとIntelの高い評価は市場のAI関連期待の強さを反映している。大規模なオプション取引は投資家の将来の成長見込みに対する高い自信を示している。",
+      "market_impact": "MicronやIntelの急騰は半導体セクター全体の投資マインドを押し上げ、関連銘柄にも波及効果をもたらす。これにより、テクノロジー市場の資金流入が加速し、AI関連企業の成長期待が一層高まる可能性がある。",
       "category": "Markets",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/05/05/intel-and-micron-are-poised-to-break-major-milestones.html"
     },
     {
-      "title": "Nissan to close UK line and cut 900 European jobs",
-      "summary_2lines": "日産は英国のサンダーランド工場での生産ラインを統合し、欧州で900人の人員削減を計画している。これはRE:Nissan回復計画の一環で、構造の簡素化と持続可能な経営を目指す動きだ。",
-      "why_it_matters": "日産は欧州市場の需要変動や経済環境の変化に対応するため、工場の効率化と人員削減を実施する。英国の主要生産拠点であるサンダーランド工場の稼働率が低迷する中、新たなパートナー企業の誘致も模索しており、欧州自動車産業の競争激化とグローバル戦略の再編成が背景にある。",
-      "market_impact": "生産ライン統合によりサンダーランド工場の稼働効率が改善し、経営合理化が期待される一方、900人の雇用削減は労働市場にネガティブな影響を及ぼす可能性がある。パートナー企業の誘致によって余剰設備の活用が進む可能性もあるが、地域経済には短期的な混乱が生じる懸念がある。長期的には日産の収益改善や競争力強化に寄与する見込み。",
-      "category": "Corporate",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cdep9g8dp36o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "SEC advances Trump-backed proposal to end mandatory quarterly earnings reports",
-      "summary_2lines": "SECは四半期報告を廃止し、半年ごとの報告に切り替える提案を進めている。これはトランプ前大統領が主張した企業の長期経営を促す施策だ。",
-      "why_it_matters": "四半期ごとの収益報告は短期的な視点を強調し投資判断や経営戦略に影響を与えてきたため、この変更は企業の報告負担軽減や経営への集中を促す一方で、情報開示の透明性低下を懸念する声もある重要な制度変更である。",
-      "market_impact": "四半期報告が廃止され半期報告制になることで、特に小口投資家の情報アクセスが制限される可能性があるが、企業側は報告コスト削減や長期的経営に注力できる。市場では透明性の低下を懸念する意見と経営効率化を期待する意見が対立し、株価変動や資金流動性にも影響が出る可能性がある。",
+      "title": "Apollo CEO Rowan warns of market correction, slams 'egregious' practices at rival insurers",
+      "summary_2lines": "Apollo CEO Marc Rowan warns of a potential market correction due to exogenous shocks and criticizes risky practices by some rival insurers. He emphasizes Apollo’s defensive positioning with higher credit quality and cash reserves amid strong current economic conditions.",
+      "why_it_matters": "Rowan’s warning highlights growing risks beneath a seemingly stable economy, pointing to geopolitical shifts, inflationary policies, and AI-driven economic disruption as catalysts for market volatility. His critique of insurer practices raises concerns about systemic risk and contagion in the insurance sector.",
+      "market_impact": "Investors may become more cautious, potentially driving shifts toward higher-quality assets and increased liquidity. The insurance sector could face greater regulatory scrutiny due to risky underwriting and complex financial arrangements, impacting capital flows and market stability. Apollo’s proactive positioning signals a defensive stance that might influence peer strategies amid heightened uncertainty.",
       "category": "Markets",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/05/sec-is-close-to-ending-mandatory-quarterly-earnings-reports-that-trump-called-for.html"
+      "url": "https://www.cnbc.com/2026/05/06/apollo-ceo-rowan-market-correction-rival-insurers.html"
+    },
+    {
+      "title": "Goodbye quarterly earnings? Here's when traders believe this big change will happen",
+      "summary_2lines": "米証券取引委員会（SEC）が上場企業の決算報告を四半期から半年ごとに変更する規制緩和を検討中で、2027年までに実施される可能性が高いと予測市場が示している。投資家はSECが過去よりも迅速にルール変更を進めるとの見方を強めている。",
+      "why_it_matters": "四半期決算は投資家に企業の最新状況を迅速に把握させる手段として長年用いられてきたが、規制負担が大きいとの指摘もある。報告頻度の半減は企業の負担軽減や長期的視点での経営判断を促す可能性がある一方、投資家の情報収集のタイミングや透明性に影響を与えるため、金融市場の情報流通の在り方に大きな変化をもたらす重要な政策変更となるからだ。",
+      "market_impact": "決算報告の頻度が減ることで、短期的な株価変動の減少やアナリストの予測難易度上昇が予想される。また、企業側は報告作成のコスト削減が可能となり、中長期的な経営戦略に集中しやすくなる。投資家は情報のタイムリー性が低下するリスクに対応する必要があるため、投資判断やリスク管理の方法に変化が生じる可能性がある。全体として市場の透明性維持と効率性のバランス調整が課題となる。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/06/kalshi-traders-confident-sec-will-end-mandatory-quarterly-earnings-reports.html"
     }
   ],
   "categories": {
     "Tech": [
       {
         "title": "Anthropic CEO warns of cyber ‘moment of danger’ as AI exposes thousands of vulnerabilities",
-        "summary_2lines": "AnthropicのCEOが、同社のAIモデルMythosが数万件に及ぶソフトウェアの脆弱性を発見したことから、世界の技術企業や政府、金融機関に迅速な対応の必要性を警告した。AIの発展によりサイバーセキュリティのリスクが増大しているが、適切に対応すればより良い未来も可能だと述べている。",
-        "why_it_matters": "AIの進化はソフトウェア脆弱性の大量発見を促し、これが悪用されれば金融機関や重要インフラなどで甚大な被害をもたらす可能性がある。本ニュースは、世界的なサイバーセキュリティの緊急課題を示しつつ、AI規制や安全策の必要性を浮き彫りにしている点で重大な意味を持つ。",
-        "market_impact": "AnthropicのMythosによる脆弱性発見は企業の情報セキュリティ投資増加を促し、金融市場ではリスク管理強化や規制対応が急務となる。また、Anthropicが金融業界向けAI製品を拡充したことで、競合するOpenAIに対し優位性を確立し、AI導入による業務効率化や競争力強化に繋がる可能性が高い。",
+        "summary_2lines": "AnthropicのCEOは、同社のAIモデルが数万のソフトウェア脆弱性を明らかにし、世界が対応する緊急のサイバー危機を警告した。金融や政府機関が迅速に対応しなければ大規模な被害が発生する可能性があると述べた。",
+        "why_it_matters": "AIの進化はこれまで見落とされてきた数多くのセキュリティの弱点を炙り出し、ハッキングやサイバー攻撃のリスクを飛躍的に高めている。特に金融機関や公共インフラへの影響は甚大であり、世界中の主要組織が早急に対策を講じる必要がある。加えて、AI技術の規制と安全管理のあり方が今後の産業競争と消費者保護の観点から重要な課題となっている。",
+        "market_impact": "AnthropicによるAI技術の進展は、金融業界を中心に業務自動化や脆弱性検知の新たな市場機会を創出する一方、同時にサイバー攻撃リスクの増大によりサイバーセキュリティ関連投資の拡大を促す。企業は脆弱性対応に巨額投資を迫られ、規制強化も予想されるため、AIとセキュリティ対策市場の成長が加速することが見込まれる。",
         "category": "Tech",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html"
-      },
-      {
-        "title": "US to safety test new AI models from Google, Microsoft, xAI",
-        "summary_2lines": "米商務省のAI基準・イノベーションセンターはGoogle、Microsoft、xAIの新AIモデルを公開前に安全性評価する。これは既存のOpenAIやAnthropicとの協力を拡大する動きだ。",
-        "why_it_matters": "AI技術の急速な発展と軍事利用の拡大を背景に、安全性とセキュリティを確保するため政府主導のテスト体制が強化されている。これは従来の規制緩和路線から一転し、AIのリスク管理に重きを置く政策転換の現れである。",
-        "market_impact": "主要AI企業のモデルが政府の検査を受けることで、安全基準の明確化や信頼性向上が期待される。一方でリリース遅延や規制強化がイノベーション速度に影響を及ぼす可能性もある。軍事利用の拡大により、防衛関連市場のAI需要が増加する見込み。",
-        "category": "Tech",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "After Coinbase, prediction market traders forecast more tech layoffs ahead",
-        "summary_2lines": "Coinbaseが人工知能の影響を理由に14%のリストラを発表し、他の大手テック企業も似た動きを見せている。予測市場では2026年のテック業界のレイオフ増加を高確率で予想している。",
-        "why_it_matters": "AI技術の台頭と暗号資産市場の低迷がテック企業の業務構造に変化をもたらし、職種の削減を加速させている。この動きは業界全体の雇用環境に大きな影響を与え、テクノロジー分野における労働市場の不確実性を高めているため重要である。",
-        "market_impact": "大手テック企業のリストラは情報技術セクターの雇用減少を促進し、関連株価や投資家心理にネガティブな影響を及ぼす可能性がある。一方で、AIへの投資加速により技術革新は続き、産業構造の再編が進むことも予想される。",
-        "category": "Tech",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/05/after-coinbase-prediction-markets-traders-see-more-tech-layoffs.html"
       }
     ],
     "Markets": [
       {
+        "title": "Apollo CEO Rowan warns of market correction, slams 'egregious' practices at rival insurers",
+        "summary_2lines": "Apollo CEO Marc Rowan warns of a potential market correction due to exogenous shocks and criticizes risky practices by some rival insurers. He emphasizes Apollo’s defensive positioning with higher credit quality and cash reserves amid strong current economic conditions.",
+        "why_it_matters": "Rowan’s warning highlights growing risks beneath a seemingly stable economy, pointing to geopolitical shifts, inflationary policies, and AI-driven economic disruption as catalysts for market volatility. His critique of insurer practices raises concerns about systemic risk and contagion in the insurance sector.",
+        "market_impact": "Investors may become more cautious, potentially driving shifts toward higher-quality assets and increased liquidity. The insurance sector could face greater regulatory scrutiny due to risky underwriting and complex financial arrangements, impacting capital flows and market stability. Apollo’s proactive positioning signals a defensive stance that might influence peer strategies amid heightened uncertainty.",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/06/apollo-ceo-rowan-market-correction-rival-insurers.html"
+      },
+      {
+        "title": "Goodbye quarterly earnings? Here's when traders believe this big change will happen",
+        "summary_2lines": "米証券取引委員会（SEC）が上場企業の決算報告を四半期から半年ごとに変更する規制緩和を検討中で、2027年までに実施される可能性が高いと予測市場が示している。投資家はSECが過去よりも迅速にルール変更を進めるとの見方を強めている。",
+        "why_it_matters": "四半期決算は投資家に企業の最新状況を迅速に把握させる手段として長年用いられてきたが、規制負担が大きいとの指摘もある。報告頻度の半減は企業の負担軽減や長期的視点での経営判断を促す可能性がある一方、投資家の情報収集のタイミングや透明性に影響を与えるため、金融市場の情報流通の在り方に大きな変化をもたらす重要な政策変更となるからだ。",
+        "market_impact": "決算報告の頻度が減ることで、短期的な株価変動の減少やアナリストの予測難易度上昇が予想される。また、企業側は報告作成のコスト削減が可能となり、中長期的な経営戦略に集中しやすくなる。投資家は情報のタイムリー性が低下するリスクに対応する必要があるため、投資判断やリスク管理の方法に変化が生じる可能性がある。全体として市場の透明性維持と効率性のバランス調整が課題となる。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/06/kalshi-traders-confident-sec-will-end-mandatory-quarterly-earnings-reports.html"
+      },
+      {
+        "title": "Uber and Disney are seeing the same remarkable dynamic in this economy. Both stocks are surging",
+        "summary_2lines": "UberとDisneyの株価がそれぞれ8%以上と7%以上急騰している。消費者はガソリン価格上昇や地政学的緊張にも関わらず、外出や消費を継続している。",
+        "why_it_matters": "ガソリン価格の高騰や経済の不透明感が消費抑制につながる懸念がある中、消費者の支出意欲が予想外に強いことは、経済の底堅さや企業の業績見通しにも良い影響を与えるため重要である。",
+        "market_impact": "旅行・エンタメ関連のUberやDisneyが好調な売上を維持し、消費者の外出や支出が続いていることで、消費関連株の投資家心理が改善し、株価上昇につながっている。これはエネルギーコスト上昇による家計負担増加による消費抑制リスクを和らげる要因となる。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html"
+      },
+      {
         "title": "Intel and Micron are poised to break major milestones",
-        "summary_2lines": "半導体株で特にMicronのオプション取引が過熱し、時価総額は7000億ドル超え。Intelも一時5500億ドル近くまで上昇し、過去1年で大幅な株価上昇を記録した。",
-        "why_it_matters": "MicronとIntelはAIやメモリ需要の高まりを背景に市場で注目されており、オプション取引の活発化は投資家の強気姿勢の表れ。これらの企業は半導体業界の成長と技術革新の象徴であり、ハイテク株全体の動向を示す重要な指標となる。",
-        "market_impact": "Micronのオプション取引急増はボラティリティの上昇を招き、同業他社の株価も押し上げる可能性が高い。Intelの時価総額拡大は半導体株全体の投資マインド改善を示し、関連する市場セクターやAI関連製品の需要拡大に追い風となるだろう。",
+        "summary_2lines": "Micronの株価が過去1年で700%上昇し、オプション取引が活発化。Intelも時価総額でドットコム時代の水準を超え、大幅な株価上昇を記録した。",
+        "why_it_matters": "半導体はAI革命の中心技術であり、MicronとIntelの高い評価は市場のAI関連期待の強さを反映している。大規模なオプション取引は投資家の将来の成長見込みに対する高い自信を示している。",
+        "market_impact": "MicronやIntelの急騰は半導体セクター全体の投資マインドを押し上げ、関連銘柄にも波及効果をもたらす。これにより、テクノロジー市場の資金流入が加速し、AI関連企業の成長期待が一層高まる可能性がある。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/05/05/intel-and-micron-are-poised-to-break-major-milestones.html"
-      },
-      {
-        "title": "Milken-adjacent Power100 attendees aim to reclaim the DEI in finance narrative",
-        "summary_2lines": "Milken InstituteのサイドイベントであるPower100は、多様な金融リーダーが女性や有色人種への資本流入不足に異議を唱え、DEI（多様性、公平性、包括性）の正しい評価を取り戻そうとしている。イベントには約24兆ドル規模の資金を動かす代表者が集まり、資本配分の公平化と新たなAI革命への期待も議論された。",
-        "why_it_matters": "金融業界におけるDEIの後退とトランプ政権の反DEI政策の影響を受け、多様性のあるマネージャーや女性・有色人種の起業家への資金流入が減少している。Power100はこの流れに抗い、多様な人材の成功事例を可視化し資本配分の公平性を促進しようとする重要な動きである。また、AI革命の波も金融分野の競争環境や資本配分に大きな変化をもたらす可能性がある。",
-        "market_impact": "女性や有色人種が運営する投資会社への資本流入増加を促進することで、投資機会の多様化が進み、新たな成長分野の開拓やイノベーション推進につながる可能性がある。一方でDEI後退による資金流入減少は、より狭い層への資本偏重を招き、経済の潜在成長力を損なうリスクがある。AI革命を背景に、多様な投資マネージャーの活躍が経済全体の競争力強化に寄与すると期待される。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/05/dei-diversity-milken-blueprint-capital-power100.html"
-      },
-      {
-        "title": "UK long-term borrowing costs reach 28-year high",
-        "summary_2lines": "英国の長期国債利回りがイラン紛争や選挙前の政治不安を背景に28年ぶりの高水準に達した。これにより政府の借入コストが上昇し、財政運営への圧力が強まっている。",
-        "why_it_matters": "イラン戦争によるホルムズ海峡の封鎖でエネルギー価格が急騰し、世界的にインフレ懸念が高まっている。特に英国はインフレ耐性が低く、加えて国内での選挙や政治的不確実性が借入コストの急騰要因となっているため、政府の財政健全性や経済政策の運営に影響を及ぼす重要な局面となっている。",
-        "market_impact": "英国の長期国債利回りの上昇は、政府の利払い負担増加を意味し、歳出制約が厳しくなる可能性が高い。これにより、ラチェル・リーブス財務相の予算規律達成が困難になる恐れがある。債券市場の変動は年金基金等の機関投資家にも影響を与え、中長期的には貸出金利なども圧迫される可能性があり、経済成長にも悪影響を及ぼすリスクがある。",
-        "category": "Markets",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c936qn69016o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "SEC advances Trump-backed proposal to end mandatory quarterly earnings reports",
-        "summary_2lines": "SECは四半期報告を廃止し、半年ごとの報告に切り替える提案を進めている。これはトランプ前大統領が主張した企業の長期経営を促す施策だ。",
-        "why_it_matters": "四半期ごとの収益報告は短期的な視点を強調し投資判断や経営戦略に影響を与えてきたため、この変更は企業の報告負担軽減や経営への集中を促す一方で、情報開示の透明性低下を懸念する声もある重要な制度変更である。",
-        "market_impact": "四半期報告が廃止され半期報告制になることで、特に小口投資家の情報アクセスが制限される可能性があるが、企業側は報告コスト削減や長期的経営に注力できる。市場では透明性の低下を懸念する意見と経営効率化を期待する意見が対立し、株価変動や資金流動性にも影響が出る可能性がある。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/05/sec-is-close-to-ending-mandatory-quarterly-earnings-reports-that-trump-called-for.html"
       }
     ],
-    "Geopolitics": [],
-    "Economy": [],
+    "Geopolitics": [
+      {
+        "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+        "summary_2lines": "米国とイランが戦争終結に向けた合意に近づいたとの報道を受け、原油価格は一時下落し株式市場が上昇した。だが、トランプ前大統領は合意成立に慎重な見方を示している。",
+        "why_it_matters": "中東のイランをめぐる軍事衝突は世界の原油供給に大きなリスクをもたらしており、紛争終結の可能性はエネルギー市場の安定化や国際経済のリスク低減に直結するため重要だ。特にホルムズ海峡は世界の石油輸送の要衝であり、ここでの動向が原油価格に大きく影響する。",
+        "market_impact": "報道を受けてブレント原油先物価格は一時安値をつけたが、その後やや反発。欧州やアジアの株式市場が軒並み上昇し、米S&P 500も1％以上上昇した。紛争終結の期待がリスク回避姿勢の緩和を促し、エネルギー価格の変動が企業収益や投資意欲に影響を与えている。だが、合意が確定していないため不確実性は依然高い。",
+        "category": "Geopolitics",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "Economy": [
+      {
+        "title": "Next to hike prices by up to 8% outside Europe due to Iran war costs",
+        "summary_2lines": "英国の小売大手Nextは、中東の米イスラエル対イラン戦争による燃料価格高騰などで最大8％の値上げを海外で実施予定。一方、英国や欧州ではコスト削減により価格据え置きを目指す。",
+        "why_it_matters": "中東の地政学的リスクが原油供給を逼迫し、グローバルな供給網に混乱をもたらす中、主要小売業者の価格戦略を変える事態となっている。これが消費者物価に波及し、インフレ圧力や消費者の購買行動に影響を及ぼす可能性が高い。",
+        "market_impact": "Nextの海外価格上昇は消費者コストの上昇を通じて消費減速リスクを孕み、業績面でのコスト吸収策としては限定的。英国・欧州市場では価格維持で競争力維持を図るも、原油高・供給網不安は広範な小売業界にもインフレ圧力と収益圧迫の懸念を与える。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cjrp8e0rjpeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "People urged not to cancel flights over fuel shortage fears",
+        "summary_2lines": "英国では航空燃料の供給不足は現時点でなく、旅行者にフライトキャンセルを恐れて計画を変更しないよう呼びかけている。航空会社は燃料価格高騰の中でも運航を維持するための対策を講じている。",
+        "why_it_matters": "中東情勢の影響でジェット燃料価格が高騰し、一部でフライトの減便が発生しているが、英国を中心に主要ルートの燃料供給は確保されているため、消費者の不安を和らげ、経済活動や観光産業の安定を図ることが重要となっている。",
+        "market_impact": "ジェット燃料価格の高騰は航空会社の運航コストを押し上げ、中長距離便の運賃上昇や一部スケジュール削減を促しているが、英国市場では大幅な影響は限定的で、燃料確保やキャンセルに伴う法的枠組み整備により市場混乱の緩和が期待される。旅行者の需要維持が観光業の回復を支える可能性もある。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss"
+      }
+    ],
     "Corporate": [
       {
-        "title": "'I thought he was going to hit me' OpenAI co-founder says of Musk",
-        "summary_2lines": "OpenAIの共同創業者グレッグ・ブロックマンが、イーロン・マスクとの2017年の対立的な会議で、マスクが感情的になり暴力的になるかと感じたと法廷で証言。マスクはOpenAIの収益化方針変更を巡り資金提供を停止したとされ、両者の関係悪化が浮き彫りに。",
-        "why_it_matters": "この訴訟は、AI業界における競争と支配権争いの一端を示しており、OpenAIの営利化方針転換を巡る対立は、AI開発の資金調達や企業戦略、さらには主要なリーダーシップの影響力を問う重要な局面であるため注目されている。",
-        "market_impact": "OpenAIが市場に与える影響力が増す中、創業者間の法廷闘争は企業のガバナンスリスクとして市場の不安材料となりうる。また、マスクの新AI企業xAIとの競争が激化することで、AI関連株や技術開発の競争環境に波及効果が及ぶ可能性がある。",
+        "title": "Former OpenAI board member says Elon Musk offered her sperm donations",
+        "summary_2lines": "元OpenAI取締役のShivon Zilisが、2020年にイーロン・マスクから精子提供の申し出を受けて4人の子供をもうけたと証言。彼女はOpenAIの企業形態変更に関わる裁判の重要証人でもある。",
+        "why_it_matters": "OpenAIの非営利から営利企業への移行を巡る訴訟の中で、マスクとZilisの個人的関係が明らかになり、企業ガバナンスや情報漏洩の疑惑が浮上。AI業界の主要人物間の複雑な関係が企業運営に影響を及ぼす可能性がある。",
+        "market_impact": "OpenAIとマスク陣営の対立が公に顕在化し、両社のAI事業競争が激化する可能性。特にマスクの新AI企業xAIとOpenAIのChatGPTの競争が激しくなる中、投資家のリスク評価や業界のパートナーシップにも影響を与え得る。",
         "category": "Corporate",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c33243j44p8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Lidl's new loyalty scheme less generous, shoppers say",
-        "summary_2lines": "Lidlは新しいポイント制のロイヤリティプログラムを導入したが、一部の顧客からは以前より還元が少ないとの不満が上がっている。競合他社と同様の形式に合わせたが、利用者の評価は賛否分かれている。",
-        "why_it_matters": "顧客のロイヤリティプログラムの変更は、消費者の購買行動やブランド忠誠度に直接影響するため重要である。特にスーパーマーケット業界は激しい競争下にあり、報酬体系の変更は売上や顧客流出につながる可能性がある。",
-        "market_impact": "Lidlのロイヤリティプログラム変更により、一部顧客の不満から短期的に利用離れが懸念されるが、長期的にはポイント制の柔軟な運用で顧客管理を強化し、重要な時期に効果的なキャンペーンが可能になる。競合他社とのシステム統一により市場競争はさらに激化する可能性がある。",
+        "title": "Up to 150 former WHSmith high street stores to close",
+        "summary_2lines": "Modella Capitalは再編計画の一環として、元WHSmith高街店舗のうち最大150店舗を閉店する方針を発表した。多くの雇用が危機に瀕しており、業績回復のための苦渋の決断とされている。",
+        "why_it_matters": "長年親しまれてきたWHSmithの高街書店部門が大規模に縮小されることで、地元経済や雇用に深刻な影響が及ぶ可能性がある。また、小売業界全体が厳しい環境に直面していることを象徴する事例であり、消費者行動の変化や運営コスト上昇が企業経営を圧迫している背景を示している。",
+        "market_impact": "店舗閉鎖による従業員の雇用喪失や地域経済のダメージが懸念される。Modella Capitalのポートフォリオ全体にも短期的なリスクが生じており、他の所有ブランドへの信頼感も影響を受ける可能性がある。加えて、小売セクターでの再編が進む中、業界全体の収益構造見直しやオンラインシフトが加速すると予想される。",
         "category": "Corporate",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/ckgp7y5jg59o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Nissan to close UK line and cut 900 European jobs",
-        "summary_2lines": "日産は英国のサンダーランド工場での生産ラインを統合し、欧州で900人の人員削減を計画している。これはRE:Nissan回復計画の一環で、構造の簡素化と持続可能な経営を目指す動きだ。",
-        "why_it_matters": "日産は欧州市場の需要変動や経済環境の変化に対応するため、工場の効率化と人員削減を実施する。英国の主要生産拠点であるサンダーランド工場の稼働率が低迷する中、新たなパートナー企業の誘致も模索しており、欧州自動車産業の競争激化とグローバル戦略の再編成が背景にある。",
-        "market_impact": "生産ライン統合によりサンダーランド工場の稼働効率が改善し、経営合理化が期待される一方、900人の雇用削減は労働市場にネガティブな影響を及ぼす可能性がある。パートナー企業の誘致によって余剰設備の活用が進む可能性もあるが、地域経済には短期的な混乱が生じる懸念がある。長期的には日産の収益改善や競争力強化に寄与する見込み。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cdep9g8dp36o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/clypzvqzqd7o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
