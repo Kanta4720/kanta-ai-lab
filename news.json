@@ -1,151 +1,150 @@
 {
-  "generated_at_jst": "2026-05-07 07:37",
+  "generated_at_jst": "2026-05-08 07:49",
   "todays_brief": [
     {
-      "title": "Anthropic CEO warns of cyber ‘moment of danger’ as AI exposes thousands of vulnerabilities",
-      "summary_2lines": "AnthropicのCEOは、同社のAIモデルが数万のソフトウェア脆弱性を明らかにし、世界が対応する緊急のサイバー危機を警告した。金融や政府機関が迅速に対応しなければ大規模な被害が発生する可能性があると述べた。",
-      "why_it_matters": "AIの進化はこれまで見落とされてきた数多くのセキュリティの弱点を炙り出し、ハッキングやサイバー攻撃のリスクを飛躍的に高めている。特に金融機関や公共インフラへの影響は甚大であり、世界中の主要組織が早急に対策を講じる必要がある。加えて、AI技術の規制と安全管理のあり方が今後の産業競争と消費者保護の観点から重要な課題となっている。",
-      "market_impact": "AnthropicによるAI技術の進展は、金融業界を中心に業務自動化や脆弱性検知の新たな市場機会を創出する一方、同時にサイバー攻撃リスクの増大によりサイバーセキュリティ関連投資の拡大を促す。企業は脆弱性対応に巨額投資を迫られ、規制強化も予想されるため、AIとセキュリティ対策市場の成長が加速することが見込まれる。",
-      "category": "Tech",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html"
+      "title": "Shell latest oil giant to see profits surge due to Iran war impact",
+      "summary_2lines": "Shellはイラン戦争によるホルムズ海峡閉鎖で原油価格が急騰した影響を受け、2024年第1四半期の利益が前年同期比で増加し、予想を上回った。利益増加は主に取引事業と精製マージンの向上による。",
+      "why_it_matters": "イランを巡る地政学的リスクによる原油供給の制約がエネルギー価格を押し上げ、主要石油企業の収益に直接的な影響を与えている。これによりエネルギー市場の不安定化が続き、世界経済およびエネルギー政策に重要な影響を及ぼすため注目される。",
+      "market_impact": "ShellをはじめBPやEquinorなど大手エネルギー企業の利益急増は投資家の注目を集め、株価や業界の収益見通しを押し上げる可能性が高い。一方で燃料価格の高騰は消費者のコスト負担増加やインフレ圧力増大に繋がり、政策面での風車税強化や再生可能エネルギー推進の議論を促進している。",
+      "category": "Markets",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
-      "summary_2lines": "米国とイランが戦争終結に向けた合意に近づいたとの報道を受け、原油価格は一時下落し株式市場が上昇した。だが、トランプ前大統領は合意成立に慎重な見方を示している。",
-      "why_it_matters": "中東のイランをめぐる軍事衝突は世界の原油供給に大きなリスクをもたらしており、紛争終結の可能性はエネルギー市場の安定化や国際経済のリスク低減に直結するため重要だ。特にホルムズ海峡は世界の石油輸送の要衝であり、ここでの動向が原油価格に大きく影響する。",
-      "market_impact": "報道を受けてブレント原油先物価格は一時安値をつけたが、その後やや反発。欧州やアジアの株式市場が軒並み上昇し、米S&P 500も1％以上上昇した。紛争終結の期待がリスク回避姿勢の緩和を促し、エネルギー価格の変動が企業収益や投資意欲に影響を与えている。だが、合意が確定していないため不確実性は依然高い。",
+      "title": "Whirlpool says Iran war causing 'recession-level industry decline.' The shares are down 12%",
+      "summary_2lines": "Whirlpoolはイラン戦争による燃料価格高騰と消費者信頼感の急落で業界がリセッション並みの落ち込みに陥ったと警告し、株価は12%下落した。年次利益見通しも半減し、配当停止と債務返済の優先を発表した。",
+      "why_it_matters": "イラン戦争が燃料価格を急騰させ、消費者の大きな支出意欲を削ぐことで耐久消費財の需要が大幅に減少していることを示している。これは景気全般に対する懸念を強め、多くの大企業の業績予測修正に波及するリスクを示唆している。",
+      "market_impact": "Whirlpoolの株価暴落と利益見通し修正は、耐久消費財セクターの収益悪化を表し、限られたセグメントでの消費者支出減少がマクロ経済の減速リスクを高める。加えて、原材料高騰や関税負担増で利益圧迫が続き、企業全体でコスト管理強化が不可欠となる。",
+      "category": "Corporate",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/07/whirlpool-says-iran-war-causing-recession-level-industry-decline-the-shares-are-down-20percent.html"
+    },
+    {
+      "title": "Trump gives 4 July ultimatum to EU to approve trade deal with US",
+      "summary_2lines": "トランプ大統領は7月4日までにEUが対米関税をゼロにしない場合、大幅な関税引き上げを警告した。EU側は交渉継続を表明し、貿易協定実施に向けた進展が続いている。",
+      "why_it_matters": "このニュースは米EU間の貿易協定の行方を左右し、両地域の経済関係に大きな影響を与えるため重要である。特に米国の関税政策は貿易摩擦を引き起こし、それが世界貿易やグローバルサプライチェーンに波及する可能性がある。",
+      "market_impact": "関税引き上げの脅威は欧州輸出企業や自動車、鉄鋼業界にコスト増加圧力をもたらし、株価の不安定化や投資減速を引き起こすリスクがある。米欧間の貿易緊張激化は両地域の経済成長を鈍化させる要因となる可能性が高い。",
       "category": "Geopolitics",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Intel and Micron are poised to break major milestones",
-      "summary_2lines": "Micronの株価が過去1年で700%上昇し、オプション取引が活発化。Intelも時価総額でドットコム時代の水準を超え、大幅な株価上昇を記録した。",
-      "why_it_matters": "半導体はAI革命の中心技術であり、MicronとIntelの高い評価は市場のAI関連期待の強さを反映している。大規模なオプション取引は投資家の将来の成長見込みに対する高い自信を示している。",
-      "market_impact": "MicronやIntelの急騰は半導体セクター全体の投資マインドを押し上げ、関連銘柄にも波及効果をもたらす。これにより、テクノロジー市場の資金流入が加速し、AI関連企業の成長期待が一層高まる可能性がある。",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/05/intel-and-micron-are-poised-to-break-major-milestones.html"
-    },
-    {
-      "title": "Apollo CEO Rowan warns of market correction, slams 'egregious' practices at rival insurers",
-      "summary_2lines": "Apollo CEO Marc Rowan warns of a potential market correction due to exogenous shocks and criticizes risky practices by some rival insurers. He emphasizes Apollo’s defensive positioning with higher credit quality and cash reserves amid strong current economic conditions.",
-      "why_it_matters": "Rowan’s warning highlights growing risks beneath a seemingly stable economy, pointing to geopolitical shifts, inflationary policies, and AI-driven economic disruption as catalysts for market volatility. His critique of insurer practices raises concerns about systemic risk and contagion in the insurance sector.",
-      "market_impact": "Investors may become more cautious, potentially driving shifts toward higher-quality assets and increased liquidity. The insurance sector could face greater regulatory scrutiny due to risky underwriting and complex financial arrangements, impacting capital flows and market stability. Apollo’s proactive positioning signals a defensive stance that might influence peer strategies amid heightened uncertainty.",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/06/apollo-ceo-rowan-market-correction-rival-insurers.html"
+      "url": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Goodbye quarterly earnings? Here's when traders believe this big change will happen",
-      "summary_2lines": "米証券取引委員会（SEC）が上場企業の決算報告を四半期から半年ごとに変更する規制緩和を検討中で、2027年までに実施される可能性が高いと予測市場が示している。投資家はSECが過去よりも迅速にルール変更を進めるとの見方を強めている。",
-      "why_it_matters": "四半期決算は投資家に企業の最新状況を迅速に把握させる手段として長年用いられてきたが、規制負担が大きいとの指摘もある。報告頻度の半減は企業の負担軽減や長期的視点での経営判断を促す可能性がある一方、投資家の情報収集のタイミングや透明性に影響を与えるため、金融市場の情報流通の在り方に大きな変化をもたらす重要な政策変更となるからだ。",
-      "market_impact": "決算報告の頻度が減ることで、短期的な株価変動の減少やアナリストの予測難易度上昇が予想される。また、企業側は報告作成のコスト削減が可能となり、中長期的な経営戦略に集中しやすくなる。投資家は情報のタイムリー性が低下するリスクに対応する必要があるため、投資判断やリスク管理の方法に変化が生じる可能性がある。全体として市場の透明性維持と効率性のバランス調整が課題となる。",
+      "summary_2lines": "米SECが企業の四半期報告義務を半期報告に変更する提案を発表し、トレーダーは2027年4月までに規制が緩和される可能性を73%と予測している。承認時期には意見が分かれているが、迅速な対応への期待が高まっている。",
+      "why_it_matters": "四半期報告は企業の透明性と投資家保護に重要な役割を果たしてきたため、このルール変更は情報開示の頻度や市場の情報収集方法に大きな影響を与える。さらに、SECの決定が規制の迅速化を示すかどうかは今後の政策運営の方向性を示唆するため注目されている。",
+      "market_impact": "四半期報告義務の緩和により、企業の報告負担やコストが軽減される可能性がある一方で、投資家の情報収集タイミングが減少し市場の透明性が一時的に低下するリスクがある。これにより一部の株価変動や市場の反応に影響が出る可能性があるほか、投資判断の戦略にも調整が求められる。",
       "category": "Markets",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/05/06/kalshi-traders-confident-sec-will-end-mandatory-quarterly-earnings-reports.html"
+    },
+    {
+      "title": "Asian Development Bank's $70 billion energy and digital infra push puts Southeast Asia center stage",
+      "summary_2lines": "アジア開発銀行（ADB）は、2035年までにアジア太平洋地域のエネルギーとデジタルインフラに700億ドルを投資し、特に東南アジアを重点支援する。電力網の域内連携やデジタルハイウェイ構築により、地域の経済成長と競争力向上を目指す。",
+      "why_it_matters": "持続可能なエネルギー供給とデジタルインフラの整備は、地域経済の発展、貧困削減、競争力の強化に不可欠である。東南アジアはインフラ不足が顕著であり、ADBの支援によりエネルギーの安定供給やデジタル格差解消が期待される。さらに、国境を越えた電力・デジタルネットワークの構築は地域統合と民間投資の活性化を促すため、地政学的にも重要な意味を持つ。",
+      "market_impact": "インドネシア、ベトナム、フィリピンを中心に大規模なインフラ整備が進み、建設・エネルギー・IT関連企業の需要が増加。投資環境の改善により民間資本も誘引され、地域全体の経済成長加速が期待される。データセンター需要が高まるマレーシアやタイでは、技術革新やサービス産業の拡大も見込まれ、関連市場の活性化が進む。クロスボーダーの再生可能エネルギー連携は電力コスト削減と環境負荷軽減にも寄与する。",
+      "category": "Economy",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/07/adb-70-billion-plan-southeast-asia-digital-infrastructure-power.html"
     }
   ],
   "categories": {
-    "Tech": [
-      {
-        "title": "Anthropic CEO warns of cyber ‘moment of danger’ as AI exposes thousands of vulnerabilities",
-        "summary_2lines": "AnthropicのCEOは、同社のAIモデルが数万のソフトウェア脆弱性を明らかにし、世界が対応する緊急のサイバー危機を警告した。金融や政府機関が迅速に対応しなければ大規模な被害が発生する可能性があると述べた。",
-        "why_it_matters": "AIの進化はこれまで見落とされてきた数多くのセキュリティの弱点を炙り出し、ハッキングやサイバー攻撃のリスクを飛躍的に高めている。特に金融機関や公共インフラへの影響は甚大であり、世界中の主要組織が早急に対策を講じる必要がある。加えて、AI技術の規制と安全管理のあり方が今後の産業競争と消費者保護の観点から重要な課題となっている。",
-        "market_impact": "AnthropicによるAI技術の進展は、金融業界を中心に業務自動化や脆弱性検知の新たな市場機会を創出する一方、同時にサイバー攻撃リスクの増大によりサイバーセキュリティ関連投資の拡大を促す。企業は脆弱性対応に巨額投資を迫られ、規制強化も予想されるため、AIとセキュリティ対策市場の成長が加速することが見込まれる。",
-        "category": "Tech",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html"
-      }
-    ],
+    "Tech": [],
     "Markets": [
       {
-        "title": "Apollo CEO Rowan warns of market correction, slams 'egregious' practices at rival insurers",
-        "summary_2lines": "Apollo CEO Marc Rowan warns of a potential market correction due to exogenous shocks and criticizes risky practices by some rival insurers. He emphasizes Apollo’s defensive positioning with higher credit quality and cash reserves amid strong current economic conditions.",
-        "why_it_matters": "Rowan’s warning highlights growing risks beneath a seemingly stable economy, pointing to geopolitical shifts, inflationary policies, and AI-driven economic disruption as catalysts for market volatility. His critique of insurer practices raises concerns about systemic risk and contagion in the insurance sector.",
-        "market_impact": "Investors may become more cautious, potentially driving shifts toward higher-quality assets and increased liquidity. The insurance sector could face greater regulatory scrutiny due to risky underwriting and complex financial arrangements, impacting capital flows and market stability. Apollo’s proactive positioning signals a defensive stance that might influence peer strategies amid heightened uncertainty.",
+        "title": "Shell latest oil giant to see profits surge due to Iran war impact",
+        "summary_2lines": "Shellはイラン戦争によるホルムズ海峡閉鎖で原油価格が急騰した影響を受け、2024年第1四半期の利益が前年同期比で増加し、予想を上回った。利益増加は主に取引事業と精製マージンの向上による。",
+        "why_it_matters": "イランを巡る地政学的リスクによる原油供給の制約がエネルギー価格を押し上げ、主要石油企業の収益に直接的な影響を与えている。これによりエネルギー市場の不安定化が続き、世界経済およびエネルギー政策に重要な影響を及ぼすため注目される。",
+        "market_impact": "ShellをはじめBPやEquinorなど大手エネルギー企業の利益急増は投資家の注目を集め、株価や業界の収益見通しを押し上げる可能性が高い。一方で燃料価格の高騰は消費者のコスト負担増加やインフレ圧力増大に繋がり、政策面での風車税強化や再生可能エネルギー推進の議論を促進している。",
         "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/06/apollo-ceo-rowan-market-correction-rival-insurers.html"
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Goodbye quarterly earnings? Here's when traders believe this big change will happen",
-        "summary_2lines": "米証券取引委員会（SEC）が上場企業の決算報告を四半期から半年ごとに変更する規制緩和を検討中で、2027年までに実施される可能性が高いと予測市場が示している。投資家はSECが過去よりも迅速にルール変更を進めるとの見方を強めている。",
-        "why_it_matters": "四半期決算は投資家に企業の最新状況を迅速に把握させる手段として長年用いられてきたが、規制負担が大きいとの指摘もある。報告頻度の半減は企業の負担軽減や長期的視点での経営判断を促す可能性がある一方、投資家の情報収集のタイミングや透明性に影響を与えるため、金融市場の情報流通の在り方に大きな変化をもたらす重要な政策変更となるからだ。",
-        "market_impact": "決算報告の頻度が減ることで、短期的な株価変動の減少やアナリストの予測難易度上昇が予想される。また、企業側は報告作成のコスト削減が可能となり、中長期的な経営戦略に集中しやすくなる。投資家は情報のタイムリー性が低下するリスクに対応する必要があるため、投資判断やリスク管理の方法に変化が生じる可能性がある。全体として市場の透明性維持と効率性のバランス調整が課題となる。",
+        "summary_2lines": "米SECが企業の四半期報告義務を半期報告に変更する提案を発表し、トレーダーは2027年4月までに規制が緩和される可能性を73%と予測している。承認時期には意見が分かれているが、迅速な対応への期待が高まっている。",
+        "why_it_matters": "四半期報告は企業の透明性と投資家保護に重要な役割を果たしてきたため、このルール変更は情報開示の頻度や市場の情報収集方法に大きな影響を与える。さらに、SECの決定が規制の迅速化を示すかどうかは今後の政策運営の方向性を示唆するため注目されている。",
+        "market_impact": "四半期報告義務の緩和により、企業の報告負担やコストが軽減される可能性がある一方で、投資家の情報収集タイミングが減少し市場の透明性が一時的に低下するリスクがある。これにより一部の株価変動や市場の反応に影響が出る可能性があるほか、投資判断の戦略にも調整が求められる。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/05/06/kalshi-traders-confident-sec-will-end-mandatory-quarterly-earnings-reports.html"
       },
       {
-        "title": "Uber and Disney are seeing the same remarkable dynamic in this economy. Both stocks are surging",
-        "summary_2lines": "UberとDisneyの株価がそれぞれ8%以上と7%以上急騰している。消費者はガソリン価格上昇や地政学的緊張にも関わらず、外出や消費を継続している。",
-        "why_it_matters": "ガソリン価格の高騰や経済の不透明感が消費抑制につながる懸念がある中、消費者の支出意欲が予想外に強いことは、経済の底堅さや企業の業績見通しにも良い影響を与えるため重要である。",
-        "market_impact": "旅行・エンタメ関連のUberやDisneyが好調な売上を維持し、消費者の外出や支出が続いていることで、消費関連株の投資家心理が改善し、株価上昇につながっている。これはエネルギーコスト上昇による家計負担増加による消費抑制リスクを和らげる要因となる。",
+        "title": "Ryan Cohen's mysterious bank letter backing GameStop's eBay bid reveals a big issue with deal",
+        "summary_2lines": "GameStopがeBay買収のために提示した560億ドルの入札に関し、TD銀行の200億ドルの資金調達承諾書の条件が問題視されている。合併後の投資適格格付け維持が必要だが、過度のレバレッジで達成は困難と見られている。",
+        "why_it_matters": "今回の買収提案は規模が巨大で資金調達の実現可能性に疑問が浮上している。投資適格格付けが維持できなければ、主な資金調達源が無効になる恐れがあり、取引全体の成否に直結する非常に重要なポイントだ。",
+        "market_impact": "資金調達の不確実性が高まることで買収の成立可能性が低下し、GameStopとeBayの株価に不安定さをもたらす可能性がある。さらに、買収の失敗は両社の業績見通しや業界での再編シナリオにも影響を及ぼすだろう。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html"
-      },
-      {
-        "title": "Intel and Micron are poised to break major milestones",
-        "summary_2lines": "Micronの株価が過去1年で700%上昇し、オプション取引が活発化。Intelも時価総額でドットコム時代の水準を超え、大幅な株価上昇を記録した。",
-        "why_it_matters": "半導体はAI革命の中心技術であり、MicronとIntelの高い評価は市場のAI関連期待の強さを反映している。大規模なオプション取引は投資家の将来の成長見込みに対する高い自信を示している。",
-        "market_impact": "MicronやIntelの急騰は半導体セクター全体の投資マインドを押し上げ、関連銘柄にも波及効果をもたらす。これにより、テクノロジー市場の資金流入が加速し、AI関連企業の成長期待が一層高まる可能性がある。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/05/intel-and-micron-are-poised-to-break-major-milestones.html"
+        "url": "https://www.cnbc.com/2026/05/07/ryan-cohens-mysterious-bank-letter-backing-his-ebay-bid-reveals-a-big-issue.html"
       }
     ],
     "Geopolitics": [
       {
-        "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
-        "summary_2lines": "米国とイランが戦争終結に向けた合意に近づいたとの報道を受け、原油価格は一時下落し株式市場が上昇した。だが、トランプ前大統領は合意成立に慎重な見方を示している。",
-        "why_it_matters": "中東のイランをめぐる軍事衝突は世界の原油供給に大きなリスクをもたらしており、紛争終結の可能性はエネルギー市場の安定化や国際経済のリスク低減に直結するため重要だ。特にホルムズ海峡は世界の石油輸送の要衝であり、ここでの動向が原油価格に大きく影響する。",
-        "market_impact": "報道を受けてブレント原油先物価格は一時安値をつけたが、その後やや反発。欧州やアジアの株式市場が軒並み上昇し、米S&P 500も1％以上上昇した。紛争終結の期待がリスク回避姿勢の緩和を促し、エネルギー価格の変動が企業収益や投資意欲に影響を与えている。だが、合意が確定していないため不確実性は依然高い。",
+        "title": "Trump gives 4 July ultimatum to EU to approve trade deal with US",
+        "summary_2lines": "トランプ大統領は7月4日までにEUが対米関税をゼロにしない場合、大幅な関税引き上げを警告した。EU側は交渉継続を表明し、貿易協定実施に向けた進展が続いている。",
+        "why_it_matters": "このニュースは米EU間の貿易協定の行方を左右し、両地域の経済関係に大きな影響を与えるため重要である。特に米国の関税政策は貿易摩擦を引き起こし、それが世界貿易やグローバルサプライチェーンに波及する可能性がある。",
+        "market_impact": "関税引き上げの脅威は欧州輸出企業や自動車、鉄鋼業界にコスト増加圧力をもたらし、株価の不安定化や投資減速を引き起こすリスクがある。米欧間の貿易緊張激化は両地域の経済成長を鈍化させる要因となる可能性が高い。",
         "category": "Geopolitics",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Kalshi traders see odds rising that a U.S.-Iran nuclear deal will be reached by 2027",
+        "summary_2lines": "Kalshiの予測市場で、2027年までに米国とイランの核合意が成立する確率が58％に上昇。9月までの合意確率も47％となり、交渉進展への期待が高まっている。",
+        "why_it_matters": "米イラン間の核合意は中東の安全保障に大きく影響し、地域紛争の緩和や核拡散防止に直結するため、政治的・経済的安定に寄与する重要な動向である。特に米中東政策と国際エネルギー市場に影響を与えるため、世界経済全体に波及効果が及ぶ。",
+        "market_impact": "合意期待の高まりは石油供給の安定化期待を強め、原油価格の急騰リスクを低減する可能性がある。また、中東情勢の緊張緩和により投資家のリスク許容度が向上し、新興市場や関連企業の株価にもプラス影響を与える可能性がある。",
+        "category": "Geopolitics",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/07/kalshi-traders-see-odds-rising-that-a-us-iran-nuclear-deal-will-be-reached-by-2027.html"
+      },
+      {
+        "title": "Portugal and Italy will not suspend digital border checks for Brits",
+        "summary_2lines": "ポルトガルとイタリアは、英国民に対するEUの新しい指紋・顔認証デジタル入出国管理システム（EES）の免除を行わないと欧州委員会が確認した。ギリシャは一時的に免除しているが、他国は厳格な運用を続ける見込みである。",
+        "why_it_matters": "EUのEESは非EU/EEA短期滞在者に対しバイオメトリクス登録を義務付けており、英国人旅行者にとっては出入国時の長時間待機や飛行機の遅延リスクが顕著になっている。ポルトガル・イタリアが免除をしないことは、英国人旅行者の利便性低下が継続し、夏季の旅行需要に影響を及ぼす可能性が高いことを意味する。",
+        "market_impact": "航空会社は既に長時間の出国待機による搭乗遅れや欠航リスクに直面しており、特に英国路線で影響が出ている。これに加え、世界的な航空燃料高騰と供給不安も重なり、航空業界のコスト増加と運行調整が続く見込み。観光業全体の需要減少や経済への波及リスクも考えられる。",
+        "category": "Geopolitics",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c78k9ke78ljo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "Economy": [
       {
-        "title": "Next to hike prices by up to 8% outside Europe due to Iran war costs",
-        "summary_2lines": "英国の小売大手Nextは、中東の米イスラエル対イラン戦争による燃料価格高騰などで最大8％の値上げを海外で実施予定。一方、英国や欧州ではコスト削減により価格据え置きを目指す。",
-        "why_it_matters": "中東の地政学的リスクが原油供給を逼迫し、グローバルな供給網に混乱をもたらす中、主要小売業者の価格戦略を変える事態となっている。これが消費者物価に波及し、インフレ圧力や消費者の購買行動に影響を及ぼす可能性が高い。",
-        "market_impact": "Nextの海外価格上昇は消費者コストの上昇を通じて消費減速リスクを孕み、業績面でのコスト吸収策としては限定的。英国・欧州市場では価格維持で競争力維持を図るも、原油高・供給網不安は広範な小売業界にもインフレ圧力と収益圧迫の懸念を与える。",
+        "title": "Major rail disruption expected in southern England until end of day",
+        "summary_2lines": "南イングランドの主要鉄道路線で無線通信障害が発生し、終日大規模な遅延・運休が続く見込み。乗客は運行状況の確認と代替ルートの活用を呼びかけられている。",
+        "why_it_matters": "南イングランドは多くの通勤・通学客が利用する主要交通網であり、交通網の混乱は日常生活や経済活動に大きな影響を与える。特に、通勤先への遅延、収入減少、ストレス増大といった社会的影響が顕著であり、早期の復旧が求められている。",
+        "market_impact": "鉄道運行会社の信頼低下や乗客離れの懸念が生じる可能性がある。代替交通機関の需要増、特にバスや地下鉄などへの乗客シフトが進むことで交通事業者間の収益影響も考えられる。長引く遅延は地域経済の活動停滞や、特に物流面でも悪影響を及ぼすおそれがある。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cjrp8e0rjpeo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/ckgp8yjllx1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "People urged not to cancel flights over fuel shortage fears",
-        "summary_2lines": "英国では航空燃料の供給不足は現時点でなく、旅行者にフライトキャンセルを恐れて計画を変更しないよう呼びかけている。航空会社は燃料価格高騰の中でも運航を維持するための対策を講じている。",
-        "why_it_matters": "中東情勢の影響でジェット燃料価格が高騰し、一部でフライトの減便が発生しているが、英国を中心に主要ルートの燃料供給は確保されているため、消費者の不安を和らげ、経済活動や観光産業の安定を図ることが重要となっている。",
-        "market_impact": "ジェット燃料価格の高騰は航空会社の運航コストを押し上げ、中長距離便の運賃上昇や一部スケジュール削減を促しているが、英国市場では大幅な影響は限定的で、燃料確保やキャンセルに伴う法的枠組み整備により市場混乱の緩和が期待される。旅行者の需要維持が観光業の回復を支える可能性もある。",
+        "title": "Asian Development Bank's $70 billion energy and digital infra push puts Southeast Asia center stage",
+        "summary_2lines": "アジア開発銀行（ADB）は、2035年までにアジア太平洋地域のエネルギーとデジタルインフラに700億ドルを投資し、特に東南アジアを重点支援する。電力網の域内連携やデジタルハイウェイ構築により、地域の経済成長と競争力向上を目指す。",
+        "why_it_matters": "持続可能なエネルギー供給とデジタルインフラの整備は、地域経済の発展、貧困削減、競争力の強化に不可欠である。東南アジアはインフラ不足が顕著であり、ADBの支援によりエネルギーの安定供給やデジタル格差解消が期待される。さらに、国境を越えた電力・デジタルネットワークの構築は地域統合と民間投資の活性化を促すため、地政学的にも重要な意味を持つ。",
+        "market_impact": "インドネシア、ベトナム、フィリピンを中心に大規模なインフラ整備が進み、建設・エネルギー・IT関連企業の需要が増加。投資環境の改善により民間資本も誘引され、地域全体の経済成長加速が期待される。データセンター需要が高まるマレーシアやタイでは、技術革新やサービス産業の拡大も見込まれ、関連市場の活性化が進む。クロスボーダーの再生可能エネルギー連携は電力コスト削減と環境負荷軽減にも寄与する。",
         "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/07/adb-70-billion-plan-southeast-asia-digital-infrastructure-power.html"
       }
     ],
     "Corporate": [
       {
-        "title": "Former OpenAI board member says Elon Musk offered her sperm donations",
-        "summary_2lines": "元OpenAI取締役のShivon Zilisが、2020年にイーロン・マスクから精子提供の申し出を受けて4人の子供をもうけたと証言。彼女はOpenAIの企業形態変更に関わる裁判の重要証人でもある。",
-        "why_it_matters": "OpenAIの非営利から営利企業への移行を巡る訴訟の中で、マスクとZilisの個人的関係が明らかになり、企業ガバナンスや情報漏洩の疑惑が浮上。AI業界の主要人物間の複雑な関係が企業運営に影響を及ぼす可能性がある。",
-        "market_impact": "OpenAIとマスク陣営の対立が公に顕在化し、両社のAI事業競争が激化する可能性。特にマスクの新AI企業xAIとOpenAIのChatGPTの競争が激しくなる中、投資家のリスク評価や業界のパートナーシップにも影響を与え得る。",
+        "title": "Morrisons supermarket in Wales fined £750k for dirty bakery",
+        "summary_2lines": "Morrisonsのウェールズ・クムブラン支店にて衛生管理違反が発覚し、同社は75万ポンドの罰金を科された。深刻な衛生問題による顧客の健康リスクが指摘され、ベーカリーは即時閉鎖された。",
+        "why_it_matters": "食品を扱う小売業における衛生問題は顧客の健康・安全に直結し、信頼失墜はブランドイメージと売上に大きな影響を与える。また、法令遵守の重要性と監督機関の厳しい対応が示された事例であるため、業界全体に対する警鐘となる。",
+        "market_impact": "罰金とネガティブな報道によるブランドイメージの低下がMorrisonsの売上や株価に一時的なマイナス影響を及ぼす可能性がある。他店舗への衛生管理強化や追加コストも見込まれ、同社の運営コスト増加につながる恐れがある。",
         "category": "Corporate",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c33243j44p8o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/ckgpz878kp9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Up to 150 former WHSmith high street stores to close",
-        "summary_2lines": "Modella Capitalは再編計画の一環として、元WHSmith高街店舗のうち最大150店舗を閉店する方針を発表した。多くの雇用が危機に瀕しており、業績回復のための苦渋の決断とされている。",
-        "why_it_matters": "長年親しまれてきたWHSmithの高街書店部門が大規模に縮小されることで、地元経済や雇用に深刻な影響が及ぶ可能性がある。また、小売業界全体が厳しい環境に直面していることを象徴する事例であり、消費者行動の変化や運営コスト上昇が企業経営を圧迫している背景を示している。",
-        "market_impact": "店舗閉鎖による従業員の雇用喪失や地域経済のダメージが懸念される。Modella Capitalのポートフォリオ全体にも短期的なリスクが生じており、他の所有ブランドへの信頼感も影響を受ける可能性がある。加えて、小売セクターでの再編が進む中、業界全体の収益構造見直しやオンラインシフトが加速すると予想される。",
+        "title": "Whirlpool says Iran war causing 'recession-level industry decline.' The shares are down 12%",
+        "summary_2lines": "Whirlpoolはイラン戦争による燃料価格高騰と消費者信頼感の急落で業界がリセッション並みの落ち込みに陥ったと警告し、株価は12%下落した。年次利益見通しも半減し、配当停止と債務返済の優先を発表した。",
+        "why_it_matters": "イラン戦争が燃料価格を急騰させ、消費者の大きな支出意欲を削ぐことで耐久消費財の需要が大幅に減少していることを示している。これは景気全般に対する懸念を強め、多くの大企業の業績予測修正に波及するリスクを示唆している。",
+        "market_impact": "Whirlpoolの株価暴落と利益見通し修正は、耐久消費財セクターの収益悪化を表し、限られたセグメントでの消費者支出減少がマクロ経済の減速リスクを高める。加えて、原材料高騰や関税負担増で利益圧迫が続き、企業全体でコスト管理強化が不可欠となる。",
         "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/clypzvqzqd7o?at_medium=RSS&at_campaign=rss"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/07/whirlpool-says-iran-war-causing-recession-level-industry-decline-the-shares-are-down-20percent.html"
       }
     ]
   }
