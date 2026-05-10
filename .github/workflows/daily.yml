@@ -17,6 +17,7 @@ jobs:
           python-version: "3.11"
       - name: Install dependencies
         run: pip install feedparser trafilatura openai
+
       - name: Fetch and Analyze News
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -33,16 +34,28 @@ jobs:
               sys.exit(1)
           print(f"Validation OK: todays_brief に {count} 件の記事があります。")
           EOF
+
+      - name: Generate World Topic
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/fetch_world_topic.py
+
+      - name: Generate Genius Brain
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/fetch_genius_brain.py
+
       - name: Commit changes
         run: |
           git config user.name "kanta-news-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add news.json
-          git diff --cached --quiet || (git commit -m "Update AI news brief" && git push)
+          git add news.json world_topic.json genius.json
+          git diff --cached --quiet || (git commit -m "Daily update: news + world topic + genius brain" && git push)
+
       - name: Notify failure
         if: failure()
         run: |
-          echo "::error::ニュース更新ワークフローが失敗しました。ログを確認してください。"
-          echo "## ❌ ニュース更新失敗" >> $GITHUB_STEP_SUMMARY
+          echo "::error::日次更新ワークフローが失敗しました。ログを確認してください。"
+          echo "## ❌ 日次更新失敗" >> $GITHUB_STEP_SUMMARY
           echo "実行日時: $(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
           echo "失敗したステップのログをActions画面で確認してください。" >> $GITHUB_STEP_SUMMARY
