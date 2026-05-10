@@ -274,7 +274,15 @@
 
       const keywords = (data.related_keywords || []).map(k => `<span class="keyword">${esc(k)}</span>`).join('');
 
+      const connectionBadge = data.news_connection
+        ? `<div style="display:flex;align-items:flex-start;gap:10px;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:14px 18px;margin-bottom:20px;font-size:13px;color:var(--text2);line-height:1.6;">
+            <span style="font-size:18px;flex-shrink:0;">🔗</span>
+            <span><strong style="color:var(--accent);font-size:10px;letter-spacing:1.5px;text-transform:uppercase;display:block;margin-bottom:3px;">今日のニュースから</strong>${esc(data.news_connection)}</span>
+           </div>`
+        : '';
+
       document.getElementById('main-content').innerHTML = `
+        ${connectionBadge}
         <div class="lead-card">
           <p class="lead-text">${esc(data.lead)}</p>
         </div>
