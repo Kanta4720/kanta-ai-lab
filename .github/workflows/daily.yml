@@ -21,9 +21,28 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python scripts/fetch_rss.py
+      - name: Validate news.json
+        run: |
+          python - <<'EOF'
+          import json, sys
+          with open("news.json", encoding="utf-8") as f:
+              data = json.load(f)
+          count = len(data.get("todays_brief", []))
+          if count == 0:
+              print("ERROR: todays_brief が空です。コミットを中断します。")
+              sys.exit(1)
+          print(f"Validation OK: todays_brief に {count} 件の記事があります。")
+          EOF
       - name: Commit changes
         run: |
           git config user.name "kanta-news-bot"
           git config user.email "actions@users.noreply.github.com"
           git add news.json
           git diff --cached --quiet || (git commit -m "Update AI news brief" && git push)
+      - name: Notify failure
+        if: failure()
+        run: |
+          echo "::error::ニュース更新ワークフローが失敗しました。ログを確認してください。"
+          echo "## ❌ ニュース更新失敗" >> $GITHUB_STEP_SUMMARY
+          echo "実行日時: $(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "失敗したステップのログをActions画面で確認してください。" >> $GITHUB_STEP_SUMMARY

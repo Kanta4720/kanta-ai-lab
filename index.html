@@ -5,6 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Kanta Daily Brief</title>
   <meta name="description" content="AIが毎朝厳選する海外ビジネスニュース。3分で世界の動きを把握。">
+  <!-- OGP -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://kanta4720.github.io/kanta-ai-lab/">
+  <meta property="og:title" content="Kanta Daily Brief">
+  <meta property="og:description" content="AIが毎朝厳選する海外ビジネスニュース。3分で世界の動きを把握。">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Kanta Daily Brief">
+  <meta name="twitter:description" content="AIが毎朝厳選する海外ビジネスニュース。3分で世界の動きを把握。">
   <style>
     /* ===== CSS Variables & Reset ===== */
     :root {
@@ -623,6 +631,21 @@
         </div>
       </section>
 
+      <!-- Tech Section -->
+      <section class="categories-section" id="tech-section">
+        <div class="section-header">
+          <h2 class="section-title">テクノロジー</h2>
+          <span class="section-badge">TECH</span>
+          <div class="section-divider"></div>
+        </div>
+        <div id="tech-container">
+          <div class="loading-overlay">
+            <div class="spinner"></div>
+            <p class="loading-text">テクノロジーニュースを読み込み中...</p>
+          </div>
+        </div>
+      </section>
+
       <!-- All Stories -->
       <section class="categories-section">
         <div class="section-header">
@@ -656,6 +679,12 @@
         <span class="footer-source">CNBC</span>
         <span class="footer-source">The Economist</span>
         <span class="footer-source">AP</span>
+        <span class="footer-source">TechCrunch</span>
+        <span class="footer-source">Wired</span>
+        <span class="footer-source">Ars Technica</span>
+        <span class="footer-source">Hacker News</span>
+        <span class="footer-source">MarketWatch</span>
+        <span class="footer-source">Al Jazeera</span>
       </div>
     </div>
   </footer>
@@ -853,6 +882,18 @@
           </div>`;
         }
 
+        /* ---- Tech Section ---- */
+        const techEl = document.getElementById('tech-container');
+        const techArticles = (data.categories && data.categories['Tech']) || [];
+        if (techArticles.length) {
+          techEl.innerHTML = `<div class="news-grid">${techArticles.map(newsCard).join('')}</div>`;
+        } else {
+          techEl.innerHTML = `<div class="empty-state">
+            <div class="empty-icon">&#128187;</div>
+            <p class="empty-text">テクノロジーニュースは本日まだありません。</p>
+          </div>`;
+        }
+
         /* ---- All Stories ---- */
         if (data.categories) {
           const cats = Object.keys(data.categories);
@@ -872,8 +913,14 @@
       } catch (err) {
         console.error(err);
         document.getElementById('update-time').textContent = '読み込み失敗';
-        document.getElementById('brief-container').innerHTML =
-          `<div class="error-banner">&#9888; ニュースデータの読み込みに失敗しました。ページを再読み込みしてください。</div>`;
+        // エラー時もhero-dateに今日の日付を表示
+        const today = new Date();
+        const weekdays = ['日曜日', '月曜日', '火曜日', '水曜日', '木曜日', '金曜日', '土曜日'];
+        document.getElementById('hero-date').textContent =
+          `${today.getFullYear()}年${today.getMonth()+1}月${today.getDate()}日（${weekdays[today.getDay()]}）`;
+        const errMsg = `<div class="error-banner">&#9888; ニュースデータの読み込みに失敗しました。ページを再読み込みしてください。</div>`;
+        document.getElementById('brief-container').innerHTML = errMsg;
+        document.getElementById('tech-container').innerHTML = '';
         document.getElementById('news-container').innerHTML = '';
       }
     }

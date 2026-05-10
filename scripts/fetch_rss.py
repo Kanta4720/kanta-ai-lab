@@ -2,7 +2,10 @@
 # coding: utf-8
 
 import os
+import sys
 import json
+import re
+import difflib
 import feedparser
 import trafilatura
 from openai import OpenAI
@@ -16,26 +19,81 @@ JST = timezone(timedelta(hours=9))
 
 # 取得するRSSフィード
 # Financial Times, BloombergはRSSフィードが有料もしくは制限が強いため、代替ソースを含めています。
+# categoryはAIによる再分類のヒントとして使用されます。
 FEEDS = [
-    {"source": "Reuters", "category": "Business", "url": "https://feeds.reuters.com/reuters/businessNews"},
-    {"source": "BBC Business", "category": "Business", "url": "http://feeds.bbci.co.uk/news/business/rss.xml"},
-    {"source": "CNBC", "category": "Business", "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html"},
-    {"source": "The Economist", "category": "Business", "url": "https://www.economist.com/business/rss.xml"},
-    {"source": "Associated Press", "category": "Business", "url": "https://apnews.com/hub/business/rss.xml"},
+    # ビジネス・経済
+    {"source": "Reuters", "category": "Economy", "url": "https://feeds.reuters.com/reuters/businessNews"},
+    {"source": "BBC Business", "category": "Economy", "url": "http://feeds.bbci.co.uk/news/business/rss.xml"},
+    {"source": "CNBC", "category": "Markets", "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html"},
+    {"source": "The Economist", "category": "Economy", "url": "https://www.economist.com/business/rss.xml"},
+    {"source": "Associated Press", "category": "Economy", "url": "https://apnews.com/hub/business/rss.xml"},
+    # テクノロジー
+    {"source": "TechCrunch", "category": "Tech", "url": "https://techcrunch.com/feed/"},
+    {"source": "Wired", "category": "Tech", "url": "https://www.wired.com/feed/rss"},
+    {"source": "Ars Technica", "category": "Tech", "url": "http://feeds.arstechnica.com/arstechnica/index"},
+    {"source": "Hacker News", "category": "Tech", "url": "https://news.ycombinator.com/rss"},
+    # 市場・金融
+    {"source": "MarketWatch", "category": "Markets", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories"},
+    # 地政学・国際情勢
+    {"source": "Al Jazeera", "category": "Geopolitics", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
 ]
+
+# 各ソースから取得する記事数（ソース数増加に伴いコスト・実行時間を抑えるため3件に設定）
+ARTICLES_PER_FEED = 3
+
+# 使用するOpenAIモデル（環境変数で上書き可能）
+OPENAI_MODEL = os.environ.get("OPENAI_MODEL", "gpt-4.1-mini")
 
 # OpenAI APIクライアントの初期化
 # APIキーは環境変数 `OPENAI_API_KEY` から自動的に読み込まれます。
 client = OpenAI()
 
+# タイトル類似度の閾値（この値以上なら同一ニュースとみなす）
+DEDUP_THRESHOLD = 0.65
+
 # --- 関数定義 --- #
+
+def normalize_title(title):
+    """タイトルを小文字化・記号除去して比較しやすくする"""
+    return re.sub(r'[^\w\s]', '', title.lower())
+
+def deduplicate_entries(entries):
+    """URLの完全一致とタイトルの類似度で重複エントリーを除去する"""
+    seen_urls = set()
+    seen_titles = []
+    unique = []
+
+    for entry, feed_source in entries:
+        # URL重複チェック
+        if entry.link in seen_urls:
+            print(f"[DEDUP] URL重複をスキップ: {entry.title}")
+            continue
+        seen_urls.add(entry.link)
+
+        # タイトル類似度チェック
+        norm = normalize_title(entry.title)
+        is_dup = any(
+            difflib.SequenceMatcher(None, norm, t).ratio() >= DEDUP_THRESHOLD
+            for t in seen_titles
+        )
+        if is_dup:
+            print(f"[DEDUP] タイトル類似重複をスキップ: {entry.title}")
+            continue
+
+        seen_titles.append(norm)
+        unique.append((entry, feed_source))
+
+    print(f"[DEDUP] {len(entries)}件 → {len(unique)}件（{len(entries) - len(unique)}件除去）")
+    return unique
 
 def fetch_article_content(url):
     """記事URLから本文を抽出する"""
     downloaded = trafilatura.fetch_url(url)
     if downloaded:
         # `deduplicate=True` で重複するコンテンツの削除を試みる
-        return trafilatura.extract(downloaded, include_comments=False, include_tables=False, deduplicate=True)
+        text = trafilatura.extract(downloaded, include_comments=False, include_tables=False, deduplicate=True)
+        if text:
+            return text
     return None
 
 def analyze_article_with_ai(content, title):
@@ -47,20 +105,20 @@ def analyze_article_with_ai(content, title):
 
 記事タイトル: {title}
 記事本文:
-{content[:4000]} # トークン数削減のため本文を制限
+{content[:4000]}
 
 出力形式:
 {{
   "summary_2lines": "2行で理解できる簡潔な要約",
   "why_it_matters": "このニュースがなぜ重要なのか、背景や文脈を説明",
   "market_impact": "市場・企業・経済への具体的な影響を分析",
-  "category": "[Tech, Markets, Geopolitics, Economy, Corporate] の中から最も適切なものを1つ選択"
+  "category": "以下の基準で最適なカテゴリを1つ選択してください: Tech（AI・半導体・サイバーセキュリティ・テック企業の製品）/ Markets（株式・債券・為替・コモディティ・金融市場の動向）/ Geopolitics（国際関係・外交・地政学リスク・貿易摩擦・戦争）/ Economy（マクロ経済・中央銀行・インフレ・GDP・雇用統計）/ Corporate（個別企業の決算・M&A・経営戦略・CEO交代・リストラ・IPO）"
 }}
 """
 
     try:
         response = client.chat.completions.create(
-            model="gpt-4.1-mini",
+            model=OPENAI_MODEL,
             response_format={"type": "json_object"},
             messages=[
                 {"role": "system", "content": "You are a professional financial news analyst."},
@@ -93,7 +151,7 @@ def select_top5_articles(articles):
 """
     try:
         response = client.chat.completions.create(
-            model="gpt-4.1-mini",
+            model=OPENAI_MODEL,
             response_format={"type": "json_object"},
             messages=[
                 {"role": "system", "content": "You are an expert editor for a business news brief."},
@@ -113,6 +171,9 @@ def process_entry(entry, feed_source):
     print(f"Processing: {entry.title}")
     try:
         content = fetch_article_content(entry.link)
+        if not content:
+            # trafilaturaで取得できない場合はRSSのsummaryをフォールバックとして使用
+            content = getattr(entry, 'summary', None) or getattr(entry, 'description', None)
         if not content:
             print(f"Could not fetch content for: {entry.title}")
             return None
@@ -137,18 +198,26 @@ def process_entry(entry, feed_source):
 # --- メイン処理 --- #
 
 def main():
+    # Step 1: 全フィードからエントリーを収集
+    all_entries = []
+    for feed in FEEDS:
+        try:
+            d = feedparser.parse(feed["url"])
+            for entry in d.entries[:ARTICLES_PER_FEED]:
+                all_entries.append((entry, feed))
+        except Exception as e:
+            print(f"Could not parse RSS feed {feed['url']}: {e}")
+
+    # Step 2: 重複除去（AIに渡す前に実施してコスト削減）
+    unique_entries = deduplicate_entries(all_entries)
+
+    # Step 3: 重複除去済みエントリーをAIで並列処理
     all_articles = []
-    with ThreadPoolExecutor(max_workers=10) as executor:
+    with ThreadPoolExecutor(max_workers=5) as executor:
         future_to_entry = {}
-        for feed in FEEDS:
-            try:
-                d = feedparser.parse(feed["url"])
-                # 各ソースから5件ずつ取得
-                for entry in d.entries[:5]:
-                    future = executor.submit(process_entry, entry, feed)
-                    future_to_entry[future] = entry.title
-            except Exception as e:
-                print(f"Could not parse RSS feed {feed['url']}: {e}")
+        for entry, feed in unique_entries:
+            future = executor.submit(process_entry, entry, feed)
+            future_to_entry[future] = entry.title
 
         for future in as_completed(future_to_entry):
             try:
@@ -164,6 +233,13 @@ def main():
     for article in all_articles:
         if article["category"] in categories:
             categories[article["category"]].append(article)
+
+    # 記事が1件も取得できなかった場合は異常終了（GitHub Actionsでエラー通知させるため）
+    if not all_articles:
+        print("ERROR: 記事を1件も取得できませんでした。ワークフローを失敗させます。")
+        sys.exit(1)
+
+    print(f"[INFO] 合計 {len(all_articles)} 件の記事を取得しました。")
 
     # 重要ニュースTOP5を選定
     todays_brief = select_top5_articles(all_articles)
