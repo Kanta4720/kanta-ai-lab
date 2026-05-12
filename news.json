@@ -1,304 +1,304 @@
 {
-  "generated_at_jst": "2026-05-12 07:44",
+  "generated_at_jst": "2026-05-13 07:51",
   "todays_brief": [
     {
-      "title": "JPMorgan Chase-led bank group reins in credit line to troubled KKR private credit fund as losses mount",
-      "summary_2lines": "JPMorgan主導の銀行グループは、KKRが共同管理するプライベートクレジットファンドFS KKR Capital Corp.への与信枠を約14%削減した。ファンドは損失が拡大し、KKRが3億ドルの資金注入と株式買戻しで支援に乗り出した。",
-      "why_it_matters": "プライベートクレジット市場は近年急成長してきたが、FSKの問題はその脆弱性を露呈し、投資家や金融機関のリスク認識を高めている。特に大手銀行の与信引き下げは、信用収縮や資金繰り悪化を招きかねないため、業界全体の信用環境に影響を与える可能性がある。",
-      "market_impact": "FSKの株価急落と格下げは、プライベートクレジットファンドへの投資家信頼を低下させ、他の類似ファンドの資金調達環境を悪化させる恐れがある。対して、JPMorgan等の銀行の与信削減は貸出条件の引き締めを示唆し、中小企業向けのプライベートクレジット市場全体にコスト上昇や資金供給減少を及ぼす可能性がある。",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/11/kkr-private-credit-fund-fsk-jpmorgan-chase-credit.html"
-    },
-    {
-      "title": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
-      "summary_2lines": "トランプ米大統領の中国訪問に際し、アップルのティム・クックやテスラのイーロン・マスクら17名の米大手企業CEOが同行予定。訪問は米中間の貿易緊張緩和とイラン情勢を巡る外交交渉の重要な局面となる。",
-      "why_it_matters": "経済・技術分野で対立が続く米中関係の緊張緩和を目指す政府代表団として、主要企業トップの同行は両国の商業・技術協力推進のシグナルになる。加えて、イラン問題を巡る地政学リスクも絡むため国際経済・安全保障にも影響する重要な訪問である。",
-      "market_impact": "中国市場への米大手企業の影響力や投資環境が改善される可能性があり、ハイテク株や金融、製造業など幅広いセクターにプラス材料となる。一方で地政学リスクの高まりに伴う不透明感も残り、短期的には市場で変動要因となるだろう。",
-      "category": "Geopolitics",
+      "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
+      "summary_2lines": "4月の米インフレ率が3.8%に急上昇し、イラン戦争の影響でエネルギー価格が大幅に上昇した。ガソリン価格の高騰が消費者物価指数を押し上げ、3年ぶりの高水準となった。",
+      "why_it_matters": "エネルギー価格の高騰は生活必需品の価格上昇をもたらし、消費者の購買力を削ぐ。また、インフレ上昇は金融政策に影響を与え、連邦準備制度理事会の利下げ可能性を減らす。米中間選挙や2024年大統領選の政治的影響も大きく、経済政策の注目点となっている。",
+      "market_impact": "インフレ率の上昇によりFRBの利下げ期待は後退し、利上げ継続の可能性が強まったことで株式市場は下落。エネルギー関連のコスト増は航空運賃や食品価格にも波及し、消費者支出を圧迫する可能性がある。賃金の伸びを上回る物価上昇は実質所得の減少を示し、経済成長にマイナス要因となる。",
+      "category": "Economy",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Google says criminal hackers used AI to find a major software flaw",
-      "summary_2lines": "Googleは犯罪者がAIを活用して重大なソフトウェア脆弱性を発見したと報告。AIがサイバー攻撃の手法として悪用される新たなリスクを示した。",
-      "why_it_matters": "AI技術の進化により、サイバーセキュリティの脆弱性探査が自動化かつ効率化され、従来の防御策が追いつかなくなる恐れがある。これにより企業や個人の情報保護の難易度が上がり、セキュリティ対策の抜本的な見直しが求められる。",
-      "market_impact": "サイバーセキュリティ関連企業の製品需要が増加し、投資機会が拡大する一方、ソフトウェア企業はセキュリティ強化に追加コストが発生。投資家はAI悪用リスクを警戒し、関連株の価格変動要因となる可能性が高い。",
-      "category": "Tech",
-      "source": "Hacker News",
-      "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html"
-    },
-    {
-      "title": "EU, UK sanction Russians over deportations of Ukrainian children",
-      "summary_2lines": "EUと英国は、ウクライナの子供を組織的に強制移送・ロシア化しているとされるロシアの機関や関係者に制裁を課した。制裁は資産凍結や渡航禁止を含み、子供の強制移送を戦争犯罪と断じている。",
-      "why_it_matters": "本件はロシアによるウクライナ侵攻に伴う人権侵害、特に子供の強制移送と洗脳をめぐる重大な国際問題である。欧州連合と英国が連携して制裁を強化することで、ロシアの戦争犯罪を国際社会が強く非難し、侵略の代償を突きつける狙いがある。また、児童保護問題が地政学リスクとして注目され、世界の安全保障環境に影響を与える。",
-      "market_impact": "今回の制裁強化は金融市場に直接的な大きな影響は限定的だが、ロシアに対する持続的な経済制裁はエネルギーや資源セクターを含む企業の取引リスクを高める可能性がある。加えて、地政学リスクの高まりは世界的な投資環境の不透明化を招き、安全資産への逃避や資源価格の変動を生む要因となる。",
+      "title": "The real cost of the Iran war isn’t just higher prices — it’s market paralysis",
+      "summary_2lines": "イラン戦争による価格上昇は市場への影響の一部に過ぎず、本質的な問題は投資意欲を萎えさせる不確実性による市場の麻痺だ。投資の停滞が長期的な経済成長を抑制するリスクが高まっている。",
+      "why_it_matters": "価格変動は市場が対応可能な要素だが、不透明な地政学リスクが投資判断を困難にし、市場全体の停滞や経済の成長鈍化を招く。戦争という重大リスクが経済活動に与える波及効果を理解することは、政策立案や投資戦略において重要である。",
+      "market_impact": "不確実性の高まりにより企業や投資家は新たな資本投入や拡大計画を延期・中止し、市場の活力が低下する。これは株式市場のボラティリティ増大や長期的な経済成長率の減速を引き起こし、エネルギー価格上昇以外にも供給網や国際貿易に悪影響を及ぼす恐れがある。",
       "category": "Geopolitics",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/11/eu-and-uk-sanction-russians-over-deportations-of-ukrainian-children?traffic_source=rss"
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-iran-wars-costliest-tax-is-not-inflation-its-uncertainty-d2c8acaa?mod=mw_rss_topstories"
     },
     {
-      "title": "Here’s the next AI ‘battleground’ — and how investors can get in on the action",
-      "summary_2lines": "AIデータセンターの接続需要が急増しており、Lumentumの株価が好調。Bernsteinは、あまり知られていない投資機会も存在すると指摘している。",
-      "why_it_matters": "AI技術の進展に伴い、大量のデータを迅速に処理するためのインフラ整備が重要になっている。特にデータセンターの接続技術は、AIの性能向上や運用効率に直結するため、投資家に新たな成長分野を示唆している。",
-      "market_impact": "Lumentumをはじめとした接続機器関連企業の株価が上昇し、AI関連市場の資金流入が加速する可能性がある。これにより、データセンター関連産業全体にポジティブな影響が及び、投資家の関心が分散する動きも期待できる。",
+      "title": "Trump is taking more than a dozen U.S. executives to China. Jensen Huang isn't one of them",
+      "summary_2lines": "トランプ大統領の中国訪問には多くの米国企業の幹部が同行するが、NvidiaのCEOジェンセン・ファン氏は参加しない。これはNvidiaの中国市場での先端チップ販売が米国の規制により依然難しい状況を示している。",
+      "why_it_matters": "米中間の技術的な対立と規制強化により、先端半導体の取引が制限されている。Nvidiaの主要市場である中国への影響は同社の収益に直結し、今後の米中ハイテク分野の関係とグローバル競争力に大きな示唆を与えるため重要である。",
+      "market_impact": "Nvidiaは中国市場での高性能AIチップ販売が復活しない見通しで、売上回復は遅れる可能性が高い。これによりNvidiaの成長ペースに制約がかかる一方、他の米国企業が中国市場でのビジネス拡大を模索する中、半導体分野の米中分断・技術覇権争いが一層鮮明になる。",
+      "category": "Tech",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/12/nvidia-ceo-huang-trump-china-trip-chip-sales.html"
+    },
+    {
+      "title": "Five things to watch in Asia as Trump prepares to meet China's Xi this week",
+      "summary_2lines": "トランプ大統領が中国の習近平国家主席と北京で会談する予定で、東アジアの地域動向や米中関係の重要課題が議題となる。会談に先立ち貿易交渉も韓国で行われ、台湾問題やイラン情勢が焦点となっている。",
+      "why_it_matters": "米中両国は世界の政治・経済に大きな影響力を持ち、両首脳会談は貿易・安全保障・地政学リスクの緩和を図る重要な機会となる。特に台湾の安全保障やイランホルムズ海峡情勢は地域の安定に直結し、世界の政治情勢やエネルギー供給にも波及効果をもたらすため注目されている。",
+      "market_impact": "今回の会談により中国の米国製大豆や牛肉、ボーイング機体の輸入増加が見込まれるが、テクノロジー分野の輸出規制は依然厳しく、急激な貿易回復は期待しづらい。米国主要企業の同行は経済協力強化の象徴的サポートとなり、一部セクターにはポジティブな影響が見込まれるが、市場の不確実性も継続しやすい。",
+      "category": "Geopolitics",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/12/tump-xi-china-summit-taiwan-iran-trade.html"
+    },
+    {
+      "title": "Is AI power really the new oil? Soon it will trade like just like a commodity.",
+      "summary_2lines": "CMEグループが計算能力の価格に賭ける先物取引を開始予定。コンピューティングパワーが新たなコモディティとして注目されている。",
+      "why_it_matters": "AIの進展に伴い、大量計算能力の需要が爆発的に増加。計算資源を金融商品化することで、市場の透明性が向上し投資機会が拡大する。",
+      "market_impact": "計算能力の先物化により、AI関連企業やクラウドサービス企業の資金調達環境が変化。新たなトレーディング市場の創出により金融市場の構造も変貌する可能性がある。",
       "category": "Markets",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-the-next-ai-battleground-and-how-investors-can-get-in-on-the-action-24db158c?mod=mw_rss_topstories"
+      "url": "https://www.marketwatch.com/story/is-ai-power-really-the-new-oil-soon-it-will-trade-like-just-like-a-commodity-42ce65cb?mod=mw_rss_topstories"
     }
   ],
   "categories": {
     "Tech": [
       {
-        "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
-        "summary_2lines": "AndroidとiPhoneユーザー間のテキストメッセージが初めてエンドツーエンドで暗号化される機能がベータ版で提供開始。Appleが長らく対応を渋っていたRCSをついにサポートし、プライバシーとユーザー体験が大幅に向上する。",
-        "why_it_matters": "従来はiMessageとAndroidのチャット間で暗号化ができず、通信プライバシーと互換性に課題があった。今回の対応で、両OS間のテキストが悪意ある第三者から守られ、メッセージ送受信のセキュリティと利便性が飛躍的に向上。業界標準であるRCSの採用は通信環境の統一にも寄与し、ユーザー離れ防止や規制対応の観点からも重要な一歩となる。",
-        "market_impact": "AppleのRCS・エンドツーエンド暗号化対応は、スマホ市場でのユーザー満足度とエコシステムの競争力を強化。Googleとの競争環境が改善され、両社のプラットフォーム間の垣根低下はサードパーティ通信サービスやセキュリティ関連企業の市場機会にも影響。プライバシー重視のトレンドに乗り、今後通信技術の標準化に向けた動きが加速し、関連技術・製品開発にポジティブな波及効果が期待できる。",
+        "title": "Trump is taking more than a dozen U.S. executives to China. Jensen Huang isn't one of them",
+        "summary_2lines": "トランプ大統領の中国訪問には多くの米国企業の幹部が同行するが、NvidiaのCEOジェンセン・ファン氏は参加しない。これはNvidiaの中国市場での先端チップ販売が米国の規制により依然難しい状況を示している。",
+        "why_it_matters": "米中間の技術的な対立と規制強化により、先端半導体の取引が制限されている。Nvidiaの主要市場である中国への影響は同社の収益に直結し、今後の米中ハイテク分野の関係とグローバル競争力に大きな示唆を与えるため重要である。",
+        "market_impact": "Nvidiaは中国市場での高性能AIチップ販売が復活しない見通しで、売上回復は遅れる可能性が高い。これによりNvidiaの成長ペースに制約がかかる一方、他の米国企業が中国市場でのビジネス拡大を模索する中、半導体分野の米中分断・技術覇権争いが一層鮮明になる。",
+        "category": "Tech",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/12/nvidia-ceo-huang-trump-china-trip-chip-sales.html"
+      },
+      {
+        "title": "Kevin Hartz’s A* just closed its third fund with $450 million",
+        "summary_2lines": "ベンチャーキャピタルA*が新たに4億5,000万ドルの3号ファンドを組成。AIやフィンテックなど幅広い分野に3〜5百万ドル規模で30社以上へ投資を目指す。",
+        "why_it_matters": "A*は若手起業家支援に注力し、AIやフィンテックなど有望分野に積極投資。Kevin Hartzら経験豊富な創業者のもと、成長ポテンシャルの高いスタートアップ育成に期待が高まっているため重要。",
+        "market_impact": "4億5,000万ドルの大型資金調達により、対象分野の新興企業への資金供給が活発化。若手起業家支援も特徴で、イノベーションの促進と新産業創出に寄与し、関連市場の活性化が見込まれる。",
         "category": "Tech",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/"
+        "url": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/"
       },
       {
-        "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
-        "summary_2lines": "欧州の防衛ドローンスタートアップ・Helsingが12億ドルの資金調達を計画しており、評価額は180億ドルに達する見込み。Spotify創業者ダニエル・エクが出資した同社は、急速に防衛テック分野での地位を高めている。",
-        "why_it_matters": "ウクライナ情勢を背景に自律型防衛技術への関心が高まる中、Helsingの大型調達と高評価は防衛分野の技術革新と投資の増加を示している。新たな資金調達は同社の研究開発および市場拡大を加速させる重要な意味を持つ。",
-        "market_impact": "Helsingの高額調達は防衛テック市場への投資熱を加速させ、欧州内の軍事無人機メーカーの競争激化および技術開発促進に繋がる。VCからの資金流入拡大は関連企業の成長や連携強化を後押しし、防衛産業全体の革新と市場拡大を促進する可能性がある。",
-        "category": "Tech",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/"
-      },
-      {
-        "title": "Linux bitten by second severe vulnerability in as many weeks",
-        "summary_2lines": "Linuxにおいて、低権限ユーザーがroot権限を不正取得できる深刻な脆弱性「Dirty Frag」が2週連続で発見された。複数Linuxディストリビューション向けのパッチは一部公開済みだが、未適用システムへのリスクが依然高い。",
-        "why_it_matters": "Linuxはサーバーやクラウド環境で広く採用されているため、root権限を奪取される脆弱性は共有環境や仮想環境のセキュリティに大きな脅威となる。攻撃コードの漏洩で悪用の可能性が高まり、企業や組織は迅速にパッチ適用を求められている。",
-        "market_impact": "クラウドサービス企業やデータセンター運営企業はセキュリティ強化コストの増大やサービス停止リスクに直面する可能性がある。攻撃が広がれば、ITインフラへの信頼低下やサイバー攻撃対策関連市場の需要増加も見込まれる。",
-        "category": "Tech",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/"
-      },
-      {
-        "title": "There’s an Unhinged New Video Game About Trump and the Iran War",
-        "summary_2lines": "Secret Handshakeによるトランプ大統領のイラン戦争をテーマにした風刺的なビデオゲーム『Operation Epic Furious: Strait to Hell』が発表され、ワシントンDCの戦争記念碑にアーケード筐体が設置された。ゲームはトランプが戦争を勝ち抜くことが不可能な設定で、同政権への批判と風刺を込めている。",
-        "why_it_matters": "このニュースは政治的風刺を通じてトランプ政権の対イラン政策やそのメディア戦略、さらに社会的論争を反映している。ゲームの形態を利用し、現代の政治問題を娯楽と批判の視点で表現する新たな文化的アプローチを示し、政治・社会的議論への新たな関心を喚起しているため重要である。",
-        "market_impact": "本ゲームは直接的な市場や経済への影響は限定的と考えられるが、政治風刺コンテンツを通じた世論形成やブランドイメージ、特定政治人物への評価に影響する可能性がある。特にエンターテインメントやデジタルメディア市場の多様化や、政治的テーマを扱うコンテンツの需要増加に寄与しうる点も注目される。",
+        "title": "Foxconn Ransomware Attack Shows Nothing Is Safe Forever",
+        "summary_2lines": "Foxconnがランサムウェア攻撃を受け、8テラバイトの機密データが窃取されたとされる。北米工場でのサイバー攻撃は生産に一時的な影響を与えたが、現在は復旧中である。",
+        "why_it_matters": "FoxconnはAppleやNvidiaなど世界的テック企業の製造を担うサプライチェーンの中核であり、同社の情報流出はサプライチェーン全体のリスクとサイバーセキュリティの脆弱性を浮き彫りにした。ランサムウェア攻撃が重要インフラに与える影響が改めて注目される。",
+        "market_impact": "製造業を中心にサプライチェーンの混乱リスクが顕在化し、関連テック企業の業績や株価に不安材料となる可能性がある。また、サイバーセキュリティ投資の需要増加やリスク管理の強化が市場全体で加速する見込みだ。",
         "category": "Tech",
         "source": "Wired",
-        "url": "https://www.wired.com/story/video-game-trump-iran-war/"
+        "url": "https://www.wired.com/story/foxconn-ransomware-attack-shows-nothing-is-safe-forever/"
       },
       {
-        "title": "After banning foreign routers, FCC says existing ones can get updates until 2029",
-        "summary_2lines": "FCCは外国製ルーターのソフトウェア・ファームウェア更新を2029年1月1日まで延長することを発表した。これにより既存のルーターのセキュリティ維持が長期間可能になる。",
-        "why_it_matters": "FCCは国家安全保障を理由に外国製の新規ルーター販売を禁止したが、既存製品のソフト更新を早期に停止するとセキュリティリスクが高まるため、更新期限を延長し対応策を柔軟化した。これは消費者や企業のネットワーク安全性維持に直結する重要な対応である。",
-        "market_impact": "更新期限延長により、外国製ルーターのサポートが継続されることで消費者保護が強まり、市場の混乱緩和や製品リプレイスコストの抑制が想定される。一方、新規ハードウェア参入禁止政策は国内外のルーター製造業者に影響を与え、特に米国内外メーカーの競争環境に変化をもたらす可能性がある。",
+        "title": "The newest AI boom pitch: Host a mini data center at your home",
+        "summary_2lines": "米スタートアップSPANが家庭向けに小型データセンター「XFRAノード」を設置し、電力とインターネットの提供を行う新サービスを開始。これにより大型データセンター建設のコスト・時間問題を解決し、分散型AI計算資源の拡大を目指す。",
+        "why_it_matters": "データセンター建設には土地利用や水資源消費、騒音問題といった地域社会の反発が伴うが、SPANの分散型モデルはこれらの課題を回避しつつコストを大幅に削減。これによりAIインフラの迅速かつ環境負荷の少ない拡充が可能となり、AI関連技術の普及支援および新たなITインフラビジネスモデルの革新が期待される。",
+        "market_impact": "データセンターおよびITインフラ市場に新たな分散型サービスが登場し、既存の大型データセンター建設需要やエネルギーコスト構造に変革を促す可能性がある。さらに、AI関連企業やクラウドゲーム、コンテンツストリーミング事業者にとって低コストかつ迅速な計算資源確保手段が増えることは競争環境の変化を意味し、関連株価や設備投資動向に影響を与え得る。",
         "category": "Tech",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/05/fcc-slightly-relaxes-foreign-router-ban-allows-software-updates-until-2029/"
+        "url": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/"
       },
       {
-        "title": "TanStack NPM Packages Compromised",
-        "summary_2lines": "TanStackのNPMパッケージがサプライチェーン攻撃により侵害されました。現在、関係者は調査と影響の解明を進めています。",
-        "why_it_matters": "NPMはJavaScript開発者の主要なパッケージ管理システムであり、TanStackのパッケージが侵害されることで多くの開発環境にセキュリティリスクが及びます。サプライチェーン攻撃は広範囲に影響を及ぼすため、エコシステム全体の信頼性に関わる重要な問題です。",
-        "market_impact": "この事件により、ソフトウェア開発企業やクラウドサービスプロバイダはセキュリティ対策強化を迫られ、関連企業の信頼性や株価に短期的な影響が出る可能性があります。また、サプライチェーンの脆弱性を認識した投資家の警戒感が高まることも考えられます。",
+        "title": "Twin brothers wipe 96 gov't databases minutes after being fired",
+        "summary_2lines": "米国政府向けにソフトウェアを提供する企業で勤務していた双子のアクター兄弟が、解雇直後に96の政府データベースを消去したとされる事件が発覚。兄弟は過去にもサイバー犯罪で有罪判決を受けており、不正に大量のアカウント情報を収集し悪用していた。",
+        "why_it_matters": "政府関連の重要システムを扱う外部委託先の従業員が、解雇直後にシステムを破壊・不正アクセスしたことで、国家レベルの情報セキュリティの脆弱性と管理体制の問題が浮き彫りになった。民間企業に依存するシステムリスクの深刻さが示され、サイバーセキュリティ対策の強化が求められている。",
+        "market_impact": "本件により政府調達関連企業の信用低下や契約の見直しが懸念される。また、同種のセキュリティ事故が続発するリスクが市場全体のサイバー保険やセキュリティ投資を増加させ、IT関連企業の防御技術・サービスの需要増加を促す可能性がある。",
         "category": "Tech",
-        "source": "Hacker News",
-        "url": "https://github.com/TanStack/router/issues/7383"
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/"
       },
       {
-        "title": "Google says criminal hackers used AI to find a major software flaw",
-        "summary_2lines": "Googleは犯罪者がAIを活用して重大なソフトウェア脆弱性を発見したと報告。AIがサイバー攻撃の手法として悪用される新たなリスクを示した。",
-        "why_it_matters": "AI技術の進化により、サイバーセキュリティの脆弱性探査が自動化かつ効率化され、従来の防御策が追いつかなくなる恐れがある。これにより企業や個人の情報保護の難易度が上がり、セキュリティ対策の抜本的な見直しが求められる。",
-        "market_impact": "サイバーセキュリティ関連企業の製品需要が増加し、投資機会が拡大する一方、ソフトウェア企業はセキュリティ強化に追加コストが発生。投資家はAI悪用リスクを警戒し、関連株の価格変動要因となる可能性が高い。",
+        "title": "How to make your text look futuristic (2016)",
+        "summary_2lines": "この記事では、未来感を演出するタイポグラフィの6つのルールを紹介しており、映画ロゴ等での具体例を挙げて説明している。これらのデザイン手法は未来的な世界観を効果的に視覚化するためのガイドラインとなっている。",
+        "why_it_matters": "未来的なビジュアル表現は映画やゲーム、広告など多様なメディアで重要な役割を果たしており、視聴者に時間軸や世界観を直感的に伝える手段としてニーズが高まっている。この記事のルールはデザイナーやクリエイターにとって価値ある指標となり、ブランドや作品の差別化に貢献するため意義がある。",
+        "market_impact": "未来的フォントやデザインの需要増加は、デザインソフトウェアやフォント市場に新たなビジネスチャンスを生み出し、映像制作や広告業界のクリエイティブ投資を活性化させる可能性がある。また、ブランド認知や視覚的差別化が企業価値向上に繋がるため、幅広い業種に波及効果が期待される。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html"
+        "url": "https://typesetinthefuture.com/2016/02/18/futuristic/"
+      },
+      {
+        "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+        "summary_2lines": "CERTがdnsmasqの深刻な脆弱性6件についてCVEを公開。パッチ適用済みの新バージョン2.92rel2がリリースされ、2.93の安定版も間もなく公開予定。",
+        "why_it_matters": "dnsmasqは広く使われるネットワークツールであり、長期間放置されてきた脆弱性の存在はサイバー攻撃のリスクを高める。AIによる大量のバグ報告が示す通り、攻撃者も同様の脆弱性を悪用できるため迅速な対策と公開修正は極めて重要。",
+        "market_impact": "主要なLinuxディストリビューションやネットワーク機器ベンダーがパッチ適用を急ぐ必要があり、関連ソフト・ハードのアップデートやサポート運用コスト増が想定される。サイバーセキュリティ対策強化の需要増加と共に、脆弱性対応の迅速性が評価指標となる可能性が高い。",
+        "category": "Tech",
+        "source": "Hacker News",
+        "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html"
+      },
+      {
+        "title": "Googlebook",
+        "summary_2lines": "Googleは最新のAI技術Geminiを搭載した新型ラップトップを今秋発売予定。スマホとの連携機能やカスタムウィジェット作成など利便性が向上している。",
+        "why_it_matters": "AI技術Geminiを活用した製品展開は、ユーザー体験の革新を目指すGoogleの戦略の一環であり、モバイル・PC間のシームレスな統合が市場での競争力を強化するため重要である。",
+        "market_impact": "新ラップトップの投入によりGoogleはPC市場での存在感を高め、特にAndroidエコシステムと連携する強みで競合他社との差別化を図る見込み。これがハードウェア販売や関連サービスの拡大に繋がる可能性が高い。",
+        "category": "Tech",
+        "source": "Hacker News",
+        "url": "https://googlebook.google/"
       }
     ],
     "Markets": [
       {
-        "title": "JPMorgan Chase-led bank group reins in credit line to troubled KKR private credit fund as losses mount",
-        "summary_2lines": "JPMorgan主導の銀行グループは、KKRが共同管理するプライベートクレジットファンドFS KKR Capital Corp.への与信枠を約14%削減した。ファンドは損失が拡大し、KKRが3億ドルの資金注入と株式買戻しで支援に乗り出した。",
-        "why_it_matters": "プライベートクレジット市場は近年急成長してきたが、FSKの問題はその脆弱性を露呈し、投資家や金融機関のリスク認識を高めている。特に大手銀行の与信引き下げは、信用収縮や資金繰り悪化を招きかねないため、業界全体の信用環境に影響を与える可能性がある。",
-        "market_impact": "FSKの株価急落と格下げは、プライベートクレジットファンドへの投資家信頼を低下させ、他の類似ファンドの資金調達環境を悪化させる恐れがある。対して、JPMorgan等の銀行の与信削減は貸出条件の引き締めを示唆し、中小企業向けのプライベートクレジット市場全体にコスト上昇や資金供給減少を及ぼす可能性がある。",
+        "title": "UK borrowing costs jump as uncertainty over PM's future continues",
+        "summary_2lines": "英国の国債利回りが、首相の将来に関する不確実性の中で急上昇し、借入コストが金融危機以来の高水準に達した。投資家は財政規律の緩和リスクを懸念し、ポンドも対ドルで下落した。",
+        "why_it_matters": "英国の政府債務に対する市場の信用が揺らぐことで、政府の資金調達コストが上昇し、財政運営に大きな影響を及ぼす可能性がある。特に政権交代による公共支出拡大の可能性がインフレや利上げ圧力を強め、経済全体に波及するリスクがあるため、国内外の投資家にとって重要な動向である。",
+        "market_impact": "債券利回りの上昇は政府の財政負担増を意味し、銀行株の下落やポンド安を招いた。高金利は住宅ローン金利にも影響を及ぼし、消費や企業投資の減速を通じて経済活動にブレーキをかける可能性がある。加えて、海外投資家が求めるリスクプレミアムの上昇は長期的な資金調達環境の悪化を招く恐れがある。",
         "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/11/kkr-private-credit-fund-fsk-jpmorgan-chase-credit.html"
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cqjpqy19npxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Series of court decisions weaken Democrats' odds of winning the House",
-        "summary_2lines": "最近の連続した裁判判断により、民主党が11月の下院多数派を奪取する可能性が75%に低下。日程進行中の再区割りや州ごとの裁定が、民主党議席獲得の障害となっている。",
-        "why_it_matters": "アメリカの下院議席の区割りを巡る法的判断は、選挙結果に直接影響し政権運営の方向性を左右するため重要。特にラチェル・コール判決は人種を考慮した公平な区割りの制限を強め、民主党支持基盤である多数黒人地区を縮小させる。これにより来年以降の議会勢力図が大きく変わる可能性がある。",
-        "market_impact": "政治の不透明感が高まることで、金融市場では政策不確実性が増す。特に民主党が下院多数派を握れなくなると、中長期的な財政・規制政策の変化や大規模な社会政策実施の可能性が低下し、関連銘柄の動向や予測市場の投資判断に影響を与える。今後の選挙動向は市場のボラティリティ増加要因となる。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/11/series-of-court-decisions-weaken-democrats-odds-of-winning-the-house.html"
-      },
-      {
-        "title": "Michael Burry is not a believer: 'For any stocks going parabolic reduce positions almost entirely'",
-        "summary_2lines": "投資家マイケル・バリーは、テクノロジー株の急騰が過去のバブルのような危険水準に達したとして、ポジション縮小を呼びかけた。彼はショート戦略を推奨しつつもリスクが高いと警告している。",
-        "why_it_matters": "マイケル・バリーは2008年の金融危機を予見した著名投資家であり、彼の警告は市場の過熱感が極めて高いことを示唆している。特にAI関連銘柄や半導体株に対する過剰な熱狂がバブル崩壊を招く可能性があるため、投資家にとって重要な指標となる。",
-        "market_impact": "バリーの見解によると、テクノロジー株やAI銘柄の急激な価格上昇は持続不可能であり、近い将来に大幅な調整が起こるリスクが高い。これにより、投資家はリスク回避の姿勢を強め、資金を現金化して様子を見る動きが広がる可能性がある。結果として、半導体や大型テック企業の株価に下押し圧力がかかる恐れがある。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/11/michael-burry-is-not-a-believer-for-any-stocks-going-parabolic-reduce-positions-almost-entirely.html"
-      },
-      {
-        "title": "Testing for ‘Bad Cholesterol’ Doesn’t Tell the Whole Story",
-        "summary_2lines": "従来のLDLコレステロール検査は心臓リスクを完全には反映しておらず、アポリポ蛋白B（apoB）検査の方がより正確なリスク評価を可能にする。米欧のガイドラインはapoBの有用性を認めつつも、まだLDL検査が主流となっている。",
-        "why_it_matters": "心疾患は世界的な死因トップであり、リスク評価の精度向上は予防・治療戦略の合理化と医療コスト削減に直結する。apoB検査が主流になれば、より多くの心筋梗塞や脳卒中の予防が期待できるが、その普及には既存の慣習や医療現場の抵抗が課題である。",
-        "market_impact": "apoB検査の普及は、血液検査や診断機器の市場拡大につながりうる。製薬企業のスタチン需要にも影響が出る可能性があり、より精度の高いリスク指標の登場で新たな医薬品開発や保険適用拡大も予想される。検査技術や診療ガイドラインの変革は医療サービス市場の競争環境を変えるかもしれない。",
-        "category": "Markets",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/moving-beyond-bad-cholesterol-test/"
-      },
-      {
-        "title": "Here’s the next AI ‘battleground’ — and how investors can get in on the action",
-        "summary_2lines": "AIデータセンターの接続需要が急増しており、Lumentumの株価が好調。Bernsteinは、あまり知られていない投資機会も存在すると指摘している。",
-        "why_it_matters": "AI技術の進展に伴い、大量のデータを迅速に処理するためのインフラ整備が重要になっている。特にデータセンターの接続技術は、AIの性能向上や運用効率に直結するため、投資家に新たな成長分野を示唆している。",
-        "market_impact": "Lumentumをはじめとした接続機器関連企業の株価が上昇し、AI関連市場の資金流入が加速する可能性がある。これにより、データセンター関連産業全体にポジティブな影響が及び、投資家の関心が分散する動きも期待できる。",
+        "title": "Here’s the silver lining for stocks and 5% Treasury yields",
+        "summary_2lines": "5%の米国債利回りは一時的な水準であり、高金利は借り手のコスト増加を意味するものの長続きしにくい。株式市場には見方次第でポジティブな側面も存在する。",
+        "why_it_matters": "長期の5%債利回りは数十年ぶりの高水準で、借入コスト増加が経済活動や企業業績に影響を与える懸念がある。その一方で、利回りが永続しないと予想されているため、投資判断や政策運営の重要な指標となっている。",
+        "market_impact": "高金利は借入コストを押し上げ企業の資金調達や消費を抑制する可能性があるが、金利が一時的であれば市場の過剰な悲観を和らげ、株式市場への売り圧力が和らぐシナリオも考えられる。投資家は金利動向の見極めが鍵となる。",
         "category": "Markets",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/heres-the-next-ai-battleground-and-how-investors-can-get-in-on-the-action-24db158c?mod=mw_rss_topstories"
+        "url": "https://www.marketwatch.com/story/heres-the-silver-lining-for-stocks-and-5-treasury-yields-898f0be6?mod=mw_rss_topstories"
       },
       {
-        "title": "Oil price charts produced a pattern not seen in 36 years. What happened last time?",
-        "summary_2lines": "ブレント原油先物のチャートに36年ぶりのテクニカルパターンが出現した。過去の同様のパターンが示す今後の原油価格動向に注目が集まっている。",
-        "why_it_matters": "原油価格は世界経済やエネルギー市場に大きな影響を与えるため、36年ぶりの珍しいパターン出現は需給や投資家心理の変化を示す重要なシグナルとなりうる。過去のパターンから未来の価格変動を予測する手掛かりとなる。",
-        "market_impact": "原油価格の変動はエネルギー関連企業や産油国の収益に直結し、インフレ圧力や製造業コストにも影響を与える。市場参加者はこのパターンをもとに投資戦略を見直す可能性が高い。価格の急騰や急落は関連市場に波及効果を及ぼすだろう。",
+        "title": "Is AI power really the new oil? Soon it will trade like just like a commodity.",
+        "summary_2lines": "CMEグループが計算能力の価格に賭ける先物取引を開始予定。コンピューティングパワーが新たなコモディティとして注目されている。",
+        "why_it_matters": "AIの進展に伴い、大量計算能力の需要が爆発的に増加。計算資源を金融商品化することで、市場の透明性が向上し投資機会が拡大する。",
+        "market_impact": "計算能力の先物化により、AI関連企業やクラウドサービス企業の資金調達環境が変化。新たなトレーディング市場の創出により金融市場の構造も変貌する可能性がある。",
         "category": "Markets",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/oil-price-charts-produced-a-pattern-not-seen-in-36-years-what-happened-last-time-763cdc40?mod=mw_rss_topstories"
-      },
-      {
-        "title": "Trump says he will suspend petrol tax amid soaring US fuel prices",
-        "summary_2lines": "トランプ前大統領が急騰する米国のガソリン価格を受けて、18セントの連邦ガソリン税を一時停止すると表明。議会の承認が必要だが、共和党の有力議員が関連立法を提出予定。",
-        "why_it_matters": "ガソリン価格の高騰は一般消費者の負担増を招き、経済全体のインフレ圧力を強めている。連邦ガソリン税の停止は短期的な消費者支援策として注目されており、米国のエネルギー政策や政治的対応の方向性を示す。",
-        "market_impact": "ガソリン税停止の期待から原油価格は一時的な変動があるものの、地政学リスクによる需給逼迫で価格は高止まり。石油大手の株価は上昇傾向。航空業界は燃料高騰に苦しみ、運賃引き上げや一部企業の経営悪化も懸念される。",
-        "category": "Markets",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/5/11/trump-says-he-will-suspend-petrol-tax-amid-soaring-us-fuel-prices?traffic_source=rss"
+        "url": "https://www.marketwatch.com/story/is-ai-power-really-the-new-oil-soon-it-will-trade-like-just-like-a-commodity-42ce65cb?mod=mw_rss_topstories"
       }
     ],
     "Geopolitics": [
       {
-        "title": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
-        "summary_2lines": "トランプ米大統領の中国訪問に際し、アップルのティム・クックやテスラのイーロン・マスクら17名の米大手企業CEOが同行予定。訪問は米中間の貿易緊張緩和とイラン情勢を巡る外交交渉の重要な局面となる。",
-        "why_it_matters": "経済・技術分野で対立が続く米中関係の緊張緩和を目指す政府代表団として、主要企業トップの同行は両国の商業・技術協力推進のシグナルになる。加えて、イラン問題を巡る地政学リスクも絡むため国際経済・安全保障にも影響する重要な訪問である。",
-        "market_impact": "中国市場への米大手企業の影響力や投資環境が改善される可能性があり、ハイテク株や金融、製造業など幅広いセクターにプラス材料となる。一方で地政学リスクの高まりに伴う不透明感も残り、短期的には市場で変動要因となるだろう。",
+        "title": "Five things to watch in Asia as Trump prepares to meet China's Xi this week",
+        "summary_2lines": "トランプ大統領が中国の習近平国家主席と北京で会談する予定で、東アジアの地域動向や米中関係の重要課題が議題となる。会談に先立ち貿易交渉も韓国で行われ、台湾問題やイラン情勢が焦点となっている。",
+        "why_it_matters": "米中両国は世界の政治・経済に大きな影響力を持ち、両首脳会談は貿易・安全保障・地政学リスクの緩和を図る重要な機会となる。特に台湾の安全保障やイランホルムズ海峡情勢は地域の安定に直結し、世界の政治情勢やエネルギー供給にも波及効果をもたらすため注目されている。",
+        "market_impact": "今回の会談により中国の米国製大豆や牛肉、ボーイング機体の輸入増加が見込まれるが、テクノロジー分野の輸出規制は依然厳しく、急激な貿易回復は期待しづらい。米国主要企業の同行は経済協力強化の象徴的サポートとなり、一部セクターにはポジティブな影響が見込まれるが、市場の不確実性も継続しやすい。",
         "category": "Geopolitics",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/12/tump-xi-china-summit-taiwan-iran-trade.html"
       },
       {
-        "title": "EU, UK sanction Russians over deportations of Ukrainian children",
-        "summary_2lines": "EUと英国は、ウクライナの子供を組織的に強制移送・ロシア化しているとされるロシアの機関や関係者に制裁を課した。制裁は資産凍結や渡航禁止を含み、子供の強制移送を戦争犯罪と断じている。",
-        "why_it_matters": "本件はロシアによるウクライナ侵攻に伴う人権侵害、特に子供の強制移送と洗脳をめぐる重大な国際問題である。欧州連合と英国が連携して制裁を強化することで、ロシアの戦争犯罪を国際社会が強く非難し、侵略の代償を突きつける狙いがある。また、児童保護問題が地政学リスクとして注目され、世界の安全保障環境に影響を与える。",
-        "market_impact": "今回の制裁強化は金融市場に直接的な大きな影響は限定的だが、ロシアに対する持続的な経済制裁はエネルギーや資源セクターを含む企業の取引リスクを高める可能性がある。加えて、地政学リスクの高まりは世界的な投資環境の不透明化を招き、安全資産への逃避や資源価格の変動を生む要因となる。",
+        "title": "The real cost of the Iran war isn’t just higher prices — it’s market paralysis",
+        "summary_2lines": "イラン戦争による価格上昇は市場への影響の一部に過ぎず、本質的な問題は投資意欲を萎えさせる不確実性による市場の麻痺だ。投資の停滞が長期的な経済成長を抑制するリスクが高まっている。",
+        "why_it_matters": "価格変動は市場が対応可能な要素だが、不透明な地政学リスクが投資判断を困難にし、市場全体の停滞や経済の成長鈍化を招く。戦争という重大リスクが経済活動に与える波及効果を理解することは、政策立案や投資戦略において重要である。",
+        "market_impact": "不確実性の高まりにより企業や投資家は新たな資本投入や拡大計画を延期・中止し、市場の活力が低下する。これは株式市場のボラティリティ増大や長期的な経済成長率の減速を引き起こし、エネルギー価格上昇以外にも供給網や国際貿易に悪影響を及ぼす恐れがある。",
         "category": "Geopolitics",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/5/11/eu-and-uk-sanction-russians-over-deportations-of-ukrainian-children?traffic_source=rss"
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/the-iran-wars-costliest-tax-is-not-inflation-its-uncertainty-d2c8acaa?mod=mw_rss_topstories"
       },
       {
-        "title": "Hundreds displaced, medical services suspended amid gang violence in Haiti",
-        "summary_2lines": "ハイチの首都ポルトープランスでギャング同士の暴力が激化し、約800人が避難、医療支援組織MSFが病院業務を停止した。現在、紛争地域では病院が全て閉鎖されており、住民の医療アクセスが著しく制限されている。",
-        "why_it_matters": "2021年の大統領暗殺以降、治安悪化によりハイチの社会不安が深刻化している。暴力の激化は市民生活を直撃し、医療サービスの停止は人道的危機を招くため、国際社会の注目と支援が求められている。",
-        "market_impact": "今回の暴力激化による安定性の欠如は、外国投資の減少や経済活動の停滞を加速させる恐れがある。観光業や輸出入業務の悪影響、また国際援助機関の活動制限はハイチ経済全般の回復を阻害し、中長期的に地域経済の脆弱性を増大させる可能性が高い。",
+        "title": "Trump downplays US-Iran differences as he heads to Beijing to meet with Xi",
+        "summary_2lines": "トランプ米大統領は中国訪問に際しイランとの戦争問題を軽視する発言をしつつ、経済・貿易協議に重点を置く意向を示した。両国は部品輸出制限や関税問題を回避しつつ、対話再開を目指している。",
+        "why_it_matters": "米中は世界最大の経済大国同士であり、イラン情勢という地政学リスクと貿易問題の交錯が国際市場の安定に大きな影響を及ぼす。トランプ政権の外交姿勢が中東の軍事的緊張緩和や米中関係の今後の方向性を左右するため重要。",
+        "market_impact": "イラン問題の緊迫化は原油供給や価格に影響を与え、エネルギー市場のボラティリティを高める可能性がある。一方、米中貿易交渉の進展・悪化はテクノロジー企業や製造業などに直接影響し、投資家のリスク評価にも影響を及ぼすだろう。",
         "category": "Geopolitics",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/5/11/hundreds-displaced-medical-services-suspended-amid-gang-violence-in-haiti?traffic_source=rss"
+        "url": "https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi?traffic_source=rss"
       }
     ],
     "Economy": [
       {
+        "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
+        "summary_2lines": "4月の米インフレ率が3.8%に急上昇し、イラン戦争の影響でエネルギー価格が大幅に上昇した。ガソリン価格の高騰が消費者物価指数を押し上げ、3年ぶりの高水準となった。",
+        "why_it_matters": "エネルギー価格の高騰は生活必需品の価格上昇をもたらし、消費者の購買力を削ぐ。また、インフレ上昇は金融政策に影響を与え、連邦準備制度理事会の利下げ可能性を減らす。米中間選挙や2024年大統領選の政治的影響も大きく、経済政策の注目点となっている。",
+        "market_impact": "インフレ率の上昇によりFRBの利下げ期待は後退し、利上げ継続の可能性が強まったことで株式市場は下落。エネルギー関連のコスト増は航空運賃や食品価格にも波及し、消費者支出を圧迫する可能性がある。賃金の伸びを上回る物価上昇は実質所得の減少を示し、経済成長にマイナス要因となる。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Traders believe inflation could near 5% this year",
+        "summary_2lines": "2024年4月のインフレ率は3.8%に上昇し、エネルギー価格高騰が主因。トレーダーは今年のインフレ率が5%近くに達する可能性を約40%と見ている。",
+        "why_it_matters": "イラン・中東情勢による石油供給ショックでエネルギー価格が急増し、インフレ圧力が強まっている。中央銀行の金融政策や生活コストに直接影響し、経済全体の見通しを不透明にしているため重要。",
+        "market_impact": "原油価格の高止まりとインフレ加速は消費者物価と金利上昇圧力を増加させ、連邦準備制度理事会（FRB）が予想より早期の利上げを実施する可能性が高まる。これにより株式市場や企業収益に下振れリスクが生じるほか、消費者の実質購買力も低下する恐れがある。",
+        "category": "Economy",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/12/traders-believe-inflation-could-near-5percent-this-year.html"
+      },
+      {
         "title": "America faces another grocery-price shock",
-        "summary_2lines": "アメリカの食料品価格が再び上昇のリスクに直面している。主な原因はエネルギーコストの高騰であり、供給チェーンの各段階で影響が異なる。",
-        "why_it_matters": "食品価格の上昇は家計の支出負担増加を招き、インフレ圧力を強めるため、消費者の購買力低下や経済全体の安定に影響を及ぼす。特にエネルギーコストが高いことが、多様な食品供給チェーンを通じて波及効果を持つため注目されている。",
-        "market_impact": "エネルギー価格の上昇は食料品メーカーや流通業者のコスト増加を引き起こし、利益率の圧迫や価格転嫁による消費減少のリスクがある。これに伴い、食品関連株や消費者物価に敏感な市場のボラティリティが高まる可能性がある。",
+        "summary_2lines": "エネルギーコストの上昇が、食品供給チェーン全体に不均一に影響を与え、アメリカの食料品価格に新たなショックをもたらす見込み。これにより消費者物価のさらなる上昇が懸念されている。",
+        "why_it_matters": "エネルギー価格の上昇は、農産物の生産から流通、販売までの全工程にコスト増をもたらし、食料品価格の変動やインフレ圧力の一因となる。消費者の生活費に直結し、経済全体の景気動向にも影響を与えるため重要である。",
+        "market_impact": "食品関連企業のコスト構造が悪化し、利益率の低下や価格転嫁の難航を招く可能性がある。消費者物価指数（CPI）にもプラス圧力となり、中央銀行の金融政策対応や市場のインフレ期待に影響を及ぼすことが予想される。",
         "category": "Economy",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/05/10/america-faces-another-grocery-price-shock"
+      },
+      {
+        "title": "MAHA Keeps Being Weird as Hell About Fertility",
+        "summary_2lines": "トランプ政権は妊娠・出産支援策として体外受精保険適用の拡大を提案し、深刻な出生率低下問題に取り組む姿勢を示した。HHS長官は男性の精子数減少を「国家の危機」と位置づけたが、その科学的根拠には専門家から疑義も出ている。",
+        "why_it_matters": "少子化が経済成長や社会保障制度に深刻な影響を与える中、政府が出生率改善に乗り出すのは重要な政策的転換を意味する。特に妊娠・不妊治療支援の拡充は、女性の健康問題と労働参加にも関わるため広範な社会的インパクトがある。しかし、発言の内容や科学的根拠には議論があり、政策の信頼性と効果の検証が求められる。",
+        "market_impact": "不妊治療保険の拡大提案は医療保険業界や不妊治療関連企業の需要増加期待を生む可能性がある。一方で、出生率低下対策の本格化は長期的に消費構造や労働市場に影響し、住宅や育児関連市場の成長や社会保障財源の見直しなど経済全体に波及効果をもたらす。懸念される科学的根拠の弱さは政策の安定性に影響を与えるリスクもある。",
+        "category": "Economy",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/maha-is-still-creepily-obsessed-with-your-fertility/"
       }
     ],
     "Corporate": [
       {
-        "title": "British Steel nationalisation plans announced by Starmer",
-        "summary_2lines": "英国のスターmer首相はBritish Steelの完全国有化に向けた法案を今週提出すると発表した。これは、同社のスカンソープ製鉄所を中国企業から政府が管理している現状の次なる段階となる。",
-        "why_it_matters": "英国政府がBritish Steelを国有化する背景には、中国企業による経営悪化と重要な国内製造インフラの喪失リスクがある。国有化は国内の製鉄能力維持と国家の安全保障確保を目的としており、労働組合の支持も得て経済的・戦略的に重要な政策と言える。",
-        "market_impact": "政府による完全国有化によりBritish Steelの経営安定が期待され、従業員2700人の雇用継続と顧客の供給確保につながる。ただし、日々約100万ポンドの運営費がかかっており、今後の財政負担が増大する可能性がある。長期的には政府の投資計画次第で産業競争力の回復も見込まれるが、現時点では大規模な公的支出として市場に重くのしかかるリスクも孕む。",
+        "title": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
+        "summary_2lines": "Sam Altmanが法廷で証言し、Elon MuskはOpenAIの支配権を求め、死後は自身の子供に継がせる意向を示していたと明かした。MuskはOpenAIの非営利性を疑い、企業化と支配権を目指していたが最終的に離脱した。",
+        "why_it_matters": "OpenAIはAI分野で世界をリードする企業であり、その初期の経営権を巡る争いはAI産業のガバナンスや透明性に対する関心を高める。本件は、巨額の資金調達とAI開発の方向性を左右する支配権問題の重要性を浮き彫りにしているため注目される。",
+        "market_impact": "Muskの支配権への執着やOpenAIの企業化の動きは、AI業界の資金調達構造や経営方針に影響を与える可能性がある。また、著名起業家による経営陣との対立が業界の信頼性に影を落とし、関連株価や投資判断に波及するリスクも存在する。",
         "category": "Corporate",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Ovo energy customers urged not to panic as takeover planned",
-        "summary_2lines": "エネルギー供給会社OvoがE.Onに買収される計画が発表され、顧客にはサービスや料金は変わらないと安心が呼びかけられた。買収により英国の主要なエネルギー供給企業が誕生し、Octopus社とのシェア競争が激化する見込み。",
-        "why_it_matters": "エネルギー業界では競争激化と市場再編が進んでおり、大手企業の統合は消費者サービスの安定性や業界の投資力に影響を与える可能性がある。加えて、エネルギー移行期における供給の信頼性や顧客保護が重要視される中、利用者の不安解消が求められている。",
-        "market_impact": "今回の買収によりE.OnとOvoが合併すれば、国内最大級のエネルギー供給体制となり、市場でのシェア拡大や規模の経済効果が期待できる。一方で、消費者の選択肢減少による競争圧力低下や価格への影響、従業員の雇用維持に関する懸念も示されている。規制当局の承認取得が今後の焦点となる。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cn4pl91npjdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Can Mukesh Ambani pull off his biggest gamble yet?",
-        "summary_2lines": "ムケシュ・アンバニ率いるリライアンスが、従来の総合商社からテクノロジー大手への変革を目指している。これは同社にとって最大の賭けであり、事業戦略の大転換を示す動きだ。",
-        "why_it_matters": "リライアンスはインドでも有数の巨大企業であり、そのテクノロジー分野へのシフトは国内外の産業構造や競争環境に大きな影響を及ぼす可能性がある。特にインドのテック市場拡大やデジタル経済の発展と深く関連し、同時に既存の市場プレイヤーにも刺激を与えるだろう。",
-        "market_impact": "リライアンスの戦略転換は同社の株価や関連市場に注目を集め、テック分野への投資拡大を促すことが予想される。また、インド国内のテック投資環境やベンチャーキャピタルの活性化につながり、関連産業や国際的な投資家にも影響を与える可能性が高い。",
-        "category": "Corporate",
-        "source": "The Economist",
-        "url": "https://www.economist.com/business/2026/05/10/can-mukesh-ambani-pull-off-his-biggest-gamble-yet"
+        "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Can a beauty mega-deal save Estée Lauder?",
-        "summary_2lines": "アメリカの化粧品大手エスティ ローダーが業績回復を目指し大型買収を計画している。買収によって市場での競争力強化を図ろうとしている。",
-        "why_it_matters": "エスティ ローダーは世界的な化粧品ブランドであり、業績の低迷が業界全体の動向に影響を与える可能性がある。大型買収は同社の市場シェア拡大や成長戦略の重要な転換点となるため注目されている。",
-        "market_impact": "買収によりエスティ ローダーの競争力が強化されることで、競合他社との市場シェア争いが激化する可能性がある。また、投資家の期待感が高まり株価の変動要因にもなるだろう。化粧品・美容セクター全体にも追い風となり得る。",
+        "summary_2lines": "アメリカの化粧品大手エスティ ローダーが業績回復を目指し大型買収を検討している。買収によって市場での競争力強化を図る狙いがある。",
+        "why_it_matters": "化粧品業界は消費者の嗜好変化や新興ブランドの台頭で競争が激化している。エスティ ローダーの大型買収は成長戦略の転換点となる可能性があり、業界全体の再編を促す重要な動きだ。",
+        "market_impact": "買収が成功すればエスティ ローダーの売上や利益の増加が期待され、株価に好影響を及ぼす可能性がある。一方、買収コストや統合リスクも懸念材料となり得るため、投資家の注目が集まる。",
         "category": "Corporate",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/05/07/can-a-beauty-mega-deal-save-estee-lauder"
       },
       {
-        "title": "The FCC Received Hundreds of Complaints About Bad Bunny’s ‘Vulgar’ Super Bowl Performance",
-        "summary_2lines": "FCCに2,000件以上の苦情が寄せられたBad Bunnyのスーパーボウルハーフタイムショーは、主にスペイン語の歌詞やパフォーマンスの過激さが問題視された。最終的にFCCは違反なしと判断し調査を終了した。",
-        "why_it_matters": "このニュースは、言語の多様性や文化的表現が米国の公共放送でどのように受け入れられるかを示す社会的論争の一例である。さらに、政治的対立がエンターテインメントの内容にも影響を与えており、言論の自由や検閲の境界線が問われる重要な文脈を持つ。",
-        "market_impact": "今回の論議が放送業界や広告市場に直接的な経済的ダメージを与えたという証拠は見られない。NBCやNFLの視聴数は非常に高く、ブランド価値が下がったとは言い難い。だが政治的圧力が今後のコンテンツ規制に影響を及ぼす可能性はある。",
+        "title": "Can Mukesh Ambani pull off his biggest gamble yet?",
+        "summary_2lines": "ムケシュ・アンバニはリライアンスをテクノロジー大手へと変革しようとしている。これは彼のこれまでで最大の賭けとなる可能性がある。",
+        "why_it_matters": "リライアンスは従来エネルギーや小売を中心に事業を展開してきたが、テック分野への大規模な転換はインドの産業構造やテクノロジー市場に大きな影響を及ぼす。アンバニの動きはインドのデジタル経済加速の象徴ともなりうるからだ。",
+        "market_impact": "リライアンスがテクノロジー分野に本格参入すれば、国内外のテック企業との競争環境が変化し投資家の注目を集める可能性が高い。また、関連市場やインド株式市場におけるリライアンスの株価や評価にも影響を及ぼすと考えられる。",
         "category": "Corporate",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/bad-bunny-super-bowl-fcc-complaints/"
+        "source": "The Economist",
+        "url": "https://www.economist.com/business/2026/05/10/can-mukesh-ambani-pull-off-his-biggest-gamble-yet"
       },
       {
-        "title": "Audi has a new Q9 flagship coming soon: Here's its interior",
-        "summary_2lines": "Audiは今年夏に新型Q9フラッグシップSUVを発表予定。北米市場を重視し、全サイズSUVとして内装は多彩な素材とデジタル表示を採用。",
-        "why_it_matters": "SUV人気の高まりに対応し、従来のセダン型フラッグシップA8からSUVへシフト。北米需要を強く意識した戦略変更で、ブランドの競争力と市場適応力を示している。",
-        "market_impact": "AudiのQ9投入により高級SUV市場競争が激化し、特に北米のプレミアムSUVセグメントで販売拡大が期待される。これにより関連サプライヤーや販売チャネルにも好影響が見込まれる。",
-        "category": "Corporate",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/"
-      },
-      {
-        "title": "Bravo is creating unscripted microdramas for the Peacock app",
-        "summary_2lines": "PeacockがBravoと協力し、60秒前後の縦型動画のアンシナリオ・マイクロドラマを配信開始。マイクロドラマ市場が米国で拡大する中、同分野での主要ストリーミングプラットフォーム初の取り組みとなる。",
-        "why_it_matters": "中国発のマイクロドラマアプリ市場は米国でも急成長しており、Peacockの参入は新たな動画消費トレンドの主流化を示す。既存の低品質作品が多い中で、既存の人気ファン層を活用したBravoとの連携は差別化と収益化の鍵となるため重要である。",
-        "market_impact": "マイクロドラマは既に数十億ドル規模の市場に成長しつつあり、Peacockの取り組みは動画配信プラットフォーム間の新たな顧客獲得競争を加速させる可能性が高い。広告やサブスク収益の増大、他サービスとの差別化、若年層の視聴習慣変化に対抗する戦略的意義が大きい。",
+        "title": "Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup",
+        "summary_2lines": "元Tesla幹部のDrew Baglinoが熱ポンプ技術に特化した新スタートアップ「Sadi Thermal Machines」を設立。Tesla時代の熱管理技術を活かし、住宅・商業用熱ポンプ市場に参入する動きが注目される。",
+        "why_it_matters": "BaglinoはTeslaで車両用熱管理システムの特許を持ち、高度な熱ポンプ技術の開発に貢献した人物。彼の新会社は持続可能エネルギーへの移行を加速させる可能性があり、Teslaが構想した住宅用熱ポンプの実現にもつながる。気候変動対応や省エネ技術の進展に重要な意味を持つ。",
+        "market_impact": "住宅・商業用の熱ポンプ市場は再生可能エネルギーと省エネ政策で拡大中。Tesla出身の技術者が立ち上げたSadi Thermal Machinesは革新的製品開発で競争を激化させ、既存メーカーやエネルギー関連企業に影響を与える可能性がある。投資家や業界関係者の注目が高まるだろう。",
         "category": "Corporate",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/"
+        "url": "https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/"
       },
       {
-        "title": "AST SpaceMobile’s stock drops as earnings come with a big disappointment",
-        "summary_2lines": "AST SpaceMobileの株価は、期待されていた技術の進展にもかかわらず、決算発表で大幅な売上高の下振れを受けて下落した。投資家の期待と実績にギャップが生じ、市場は失望した。",
-        "why_it_matters": "AST SpaceMobileは衛星分野で革新的なサービスを提供しようとしており、技術ブレイクスルーは成長期待の源泉だった。しかし、収益の大幅な未達は企業の財務健全性や成長性への懸念を強めるため、投資判断に大きな影響を与える重要な指標となる。",
-        "market_impact": "売上が予測を大きく下回ったことで同社の株価が下落し、衛星通信分野や関連テック株全般に対する警戒感が広がる可能性がある。これにより投資資金の流出やバリュエーションの見直しが進み、市場全体のセンチメントに悪影響を与える恐れがある。",
+        "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+        "summary_2lines": "OpenAIの元共同創業者サム・アルトマンが、イーロン・マスクによる組織構造に関する訴訟で証言した。マスクはOpenAIの利益追求体制や安全性への懸念を示し、自身が経営するAI企業とも競合している。",
+        "why_it_matters": "OpenAIの企業構造とAI安全性の議論は、急速に成長するAI業界において倫理的かつ持続可能な開発体制の確立に直結する問題である。マスクによる訴訟は業界内の権力構造や経営戦略にも影響を及ぼし、AIの未来に関する重要な議論を喚起している。",
+        "market_impact": "この訴訟とその公開証言により、OpenAIをはじめAI関連企業のガバナンス透明性や経営方針への注目が高まる可能性がある。特に投資家やパートナー企業は、AI技術の安全性と商業化のバランスに敏感になり、資金調達や提携戦略に影響を及ぼすことが考えられる。",
         "category": "Corporate",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-on-the-rise-as-investors-gear-up-for-earnings-from-the-spacex-rival-2ba69b4c?mod=mw_rss_topstories"
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/"
       },
       {
-        "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
-        "summary_2lines": "GitLabは従業員削減および従来のCREDITバリューの終了を発表し、6月1日までに再構築計画を完了する予定です。戦略的にはAI時代に対応したプラットフォーム強化に注力し、今後の成長を図ります。",
-        "why_it_matters": "GitLabは過去の成長期に合わせた組織体制からの転換を図り、新たなソフトウェアエンジニアリングの時代に対応するための構造改革を実施しています。これはAI時代への適応が必須となるテック業界での競争力維持に直結しており、企業価値の維持・向上に重要な意味を持ちます。",
-        "market_impact": "今回の従業員削減は短期的にはコスト削減効果をもたらし、投資家からは経営効率化の前向きなシグナルと受け取られる可能性があります。一方、GitLabのAI時代におけるプラットフォーム強化の方針は、競合他社との差別化や市場シェア拡大に寄与し、中長期的な成長を促す要因となりえます。決算発表時に詳細な影響が明らかになるため、投資家の注目が集まります。",
+        "title": "FDA chief resigns after Trump admin forced approval of fruity e-cigs",
+        "summary_2lines": "FDAのマーティ・マカリー長官が、トランプ政権からの圧力で果実味の電子たばこを承認させられたことを理由に辞任した。トランプ氏はSNSでマカリーの辞任を認めつつ、後任暫定長官を発表した。",
+        "why_it_matters": "マカリー長官の辞任は、政治的圧力が公衆衛生の方針決定に影響を及ぼしたことを示す重要な事例である。特に若年層の電子たばこ利用増加リスクを巡る政策対立は、健康政策と産業保護のジレンマを浮き彫りにし、FDAの独立性と信頼性に関する議論を呼び起こす。",
+        "market_impact": "トランプ政権の支援による果実味電子たばこの承認は、たばこ業界や関連ベイプ製品市場の拡大を促す可能性がある。しかし、健康リスクへの懸念から規制強化の動きも予想され、市場の不安定化や製品イメージ低下につながるおそれがある。",
         "category": "Corporate",
-        "source": "Hacker News",
-        "url": "https://about.gitlab.com/blog/gitlab-act-2/"
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/health/2026/05/fda-chief-resigns-after-trump-admin-forced-approval-of-fruity-e-cigs/"
+      },
+      {
+        "title": "The Audemars Piguet x Swatch Collaboration Is Here for Real",
+        "summary_2lines": "Swatchは高級ブランドAudemars Piguetと初のコラボレーションで、ロイヤルオークデザインを基にしたカラー豊かなポケットウォッチ「Royal Pop Collection」を発表した。5月16日より限定店舗で販売され、毎日1人1点までの限定販売となる。",
+        "why_it_matters": "高級時計ブランドと大衆ブランドの異例のコラボは、両社のイメージ刷新と新規顧客層の獲得を狙った意欲的な試みであり、腕時計ではなくポケットウォッチという斬新なアプローチが市場の注目を集めている。特にSwatchの過去の成功例（Omega MoonSwatch）を踏まえ、話題性と販売促進効果が期待されている。",
+        "market_impact": "限定コラボ商品の発表によりスウォッチの店舗来客数増加や売上向上が見込まれ、特に高級時計市場と大衆市場の垣根が一部解消される可能性がある。注目度の高さから両ブランドのブランド価値向上やメディア露出増加につながり、今後のコラボ展開にも好影響を与えるだろう。投資家や市場参加者にとっても、ブランド戦略の成功例として注目される。",
+        "category": "Corporate",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/this-is-the-real-swatch-x-audemars-piguet-royal-pop-collaboration/"
+      },
+      {
+        "title": "Sam Altman says Elon Musk wanted 90 percent of OpenAI in high-stakes trial",
+        "summary_2lines": "OpenAI CEOサム・アルトマンは、イーロン・マスクがOpenAIの90％の株式を要求していたと証言し、マスクによる同社の理念の裏切りの主張を否定した。現在の裁判はOpenAIの将来やリーダーシップを左右し、最大1500億ドルの損害賠償請求も絡む重大な争いとなっている。",
+        "why_it_matters": "OpenAIはAI分野の世界的リーダーであり、今回の訴訟は同社の経営方針や収益モデル、さらには企業価値1兆ドルを超えるとされるIPOにも大きな影響を与える。マスクとアルトマンといったテック界の著名人物同士の対立は、AI業界の勢力図や技術開発の方向性を左右する可能性があるため世界的にも注目されている。",
+        "market_impact": "OpenAIの訴訟結果次第で、同社の経営体制や投資家の信頼性が揺らぎ、市場での評価やIPOのタイミング・規模にも影響を及ぼす可能性がある。また、マイクロソフトをはじめとした主要投資先企業の株価やAI関連株全体のセンチメントが変動するリスクも孕んでいる。",
+        "category": "Corporate",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/12/sam-altman-says-elon-musk-wanted-90-percent-of-openai-in-high-stakes-trial?traffic_source=rss"
+      },
+      {
+        "title": "Basketball star Brandon Clarke, Memphis Grizzlies forward, dies at age 29",
+        "summary_2lines": "メンフィス・グリズリーズのフォワード、ブラントン・クラーク選手が29歳で急逝した。死因は未発表であり、チームや関係者が哀悼の意を表している。",
+        "why_it_matters": "ブラントン・クラークはNBAの有望な若手選手であり、グリズリーズの重要な戦力だった。彼の突然の死はスポーツ界に衝撃を与え、チームやファンに大きな悲しみをもたらし、コミュニティへの影響も大きい。",
+        "market_impact": "NBAおよびグリズリーズのファンの感情に影響を与え、関連スポンサード企業やメディアの注目度が一時的に高まる可能性がある。ただし、直接的な経済的影響や企業収益へのインパクトは限定的と考えられる。",
+        "category": "Corporate",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/12/basketball-star-brandon-clarke-memphis-grizzlies-forward-dies-at-age-29?traffic_source=rss"
       }
     ]
   }
