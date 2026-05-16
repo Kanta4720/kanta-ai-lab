@@ -1,303 +1,304 @@
 {
-  "generated_at_jst": "2026-05-16 07:42",
+  "generated_at_jst": "2026-05-17 07:34",
   "todays_brief": [
     {
-      "title": "Berkshire Hathaway returns to airlines with $2.6 billion stake in Delta Air Lines",
-      "summary_2lines": "Berkshire Hathaway has re-entered the airline sector by acquiring a $2.6 billion stake in Delta Air Lines, its 14th-largest holding as of March. The company also adjusted other holdings, trimming Chevron, increasing Alphabet, initiating Macy's, and selling positions linked to former manager Todd Combs.",
-      "why_it_matters": "This marks Warren Buffett's return to the airline industry after a full exit during the Covid-19 pandemic, signaling renewed confidence in the sector's recovery. Additionally, Buffett's portfolio reshuffling, including unwinding Combs-related investments and managing capital amid a challenging environment, reflects strategic repositioning under new management while maintaining Buffett’s advisory role.",
-      "market_impact": "Berkshire’s significant investment in Delta may boost investor confidence in the airline sector, potentially driving airline stock prices higher. Its shift away from stocks like Mastercard, Visa, and Amazon could impact those companies’ perceived demand among institutional investors. The large cash reserves and resumed buybacks indicate cautious capital deployment amid uncertain market conditions, influencing broader market liquidity and sentiment.",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/15/berkshire-hathaway-returns-to-airlines-with-2point6-billion-stake-in-delta-air-lines.html"
-    },
-    {
-      "title": "'Biggest bottleneck in the AI buildup' fuels DRAM ETF to record",
-      "summary_2lines": "Roundhill Memory ETF（DRAM）は43日で98億ドルの資産を集め、史上最速の成長を遂げた。これはAI開発に不可欠なメモリーチップの供給不足が背景にある。",
-      "why_it_matters": "AI技術の進展には高帯域幅メモリ＝DRAMが不可欠であり、限られた生産企業数による供給不足が続くと見られているため、関連銘柄やETFが急速に注目されている。今後数年にわたって需給のアンバランスは続く見込みで、成長の根拠がしっかりしている点が重要だ。",
-      "market_impact": "DRAM関連の株式・ETFは急騰しており、投資家の資金流入が加速。これは半導体セクターの追い風となり、AI関連企業の成長期待を反映してテクノロジー市場全体の活性化につながる。需給の逼迫により価格上昇圧力が続き、中長期的な投資機会を生む可能性が高い。",
-      "category": "Tech",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/15/biggest-bottleneck-in-the-ai-buildup-fuels-dram-etf-to-record.html"
-    },
-    {
       "title": "UK borrowing costs rise and pound falls as leadership drama continues",
-      "summary_2lines": "英国の労働党リーダー選を巡る混乱で、アンディ・バーンハム氏の選挙参戦表明を受けて政府の借入コストが18年ぶりの高水準に上昇し、ポンドが下落した。バーンハム氏が左派色を強めるとの市場の懸念が影響している。",
-      "why_it_matters": "英国の政治不安と政策方向の不透明感が借入コストの急上昇と通貨安を招き、財政・金融市場の動揺を引き起こしている。これは英国経済の回復やインフレ対応に重大な影響を及ぼすため、投資家や政策決定者にとって重要な動きである。",
-      "market_impact": "10年および30年国債利回りが過去数十年で最高水準に達し、ポンドは対ドルで週内に1.5%下落。これは外国投資家のギルト市場離れを加速させる可能性があり、市場の不確実性が長引くことで株式市場も下落。エネルギー価格の上昇もインフレ懸念を強め、英国の公的債務コスト全般に上昇圧力をかけている。",
+      "summary_2lines": "英国の労働党リーダーシップ争いでアンディ・バーンハムが出馬を表明したことで、英国の国債利回りが18年ぶりの高水準に上昇し、ポンドも下落した。政治の不透明感とバーンハム氏の左派的姿勢が市場の懸念を強めた。",
+      "why_it_matters": "英国が直面する政治的混乱は国の借入コストや通貨価値に直結し、経済の安定性を損なうリスクがある。特にバーンハム氏がリーダーとなれば財政支出拡大の可能性が高まり、市場の信頼を揺るがすため金融市場に重要な影響を与えるからだ。",
+      "market_impact": "10年および30年国債利回りがそれぞれ18年・28年ぶりに上昇し、ポンドはドルに対して1.5%減価。外国人投資家の国債売却懸念が強まり、株式市場もFTSE100が1.7%下落するなど、不安定な政治情勢が英国金融市場にネガティブな影響を与えている。エネルギー価格の上昇もインフレ圧力を増す要因として市場の警戒感を高めている。",
       "category": "Markets",
       "source": "BBC Business",
       "url": "https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
-      "summary_2lines": "RJ Scaringeは過去10年未満で3つのスタートアップを通じて123億ドル以上の資金調達を達成。EVのRivianだけでなく、AIやマイクロモビリティ分野でも高額調達を続けている。",
-      "why_it_matters": "彼の例はシリアルアントレプレナーが複数ベンチャーで巨額資金を集める珍しい成功例であり、技術・起業家精神に基づく実行力とその資金力が、新興産業の成長や投資環境に大きな影響を与えるため注目される。",
-      "market_impact": "Rivianをはじめ、AlsoやMind Roboticsなど新興分野への資金流入が続くことで、電気自動車、産業AI、次世代モビリティ市場の競争激化と技術革新が加速。投資家のリスク許容度の向上や大型シード投資増加の潮流が促進される可能性が高い。",
-      "category": "Corporate",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/"
+      "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
+      "summary_2lines": "米中首脳会談で台湾問題は主要な議題とはならなかったが、習近平は台湾問題の扱いを誤れば米中関係に深刻な影響があると警告した。トランプ大統領は台湾独立に反対しつつも、米軍が台湾防衛に直接関与するかは明言を避け、『戦略的曖昧さ』を維持する姿勢を示した。",
+      "why_it_matters": "台湾問題は米中関係の最も繊細かつ危険な懸案であり、両国の政策や軍事的動きがアジア太平洋地域の安全保障と経済の安定に直結する。トランプ大統領の発言や武器売却の動向は、地政学的緊張の高まりや貿易・技術協力にも影響を与え、今後の国際情勢を占う重要な指標となる。",
+      "market_impact": "台湾が世界の半導体製造の要として重要な地位にあるため、米中関係の緊張は半導体サプライチェーンの混乱リスクを高める。加えて、武器売却の行方や軍事的緊張は地域の安定を不透明にし、アジア市場の投資環境や為替、株式市場のボラティリティ拡大を招く可能性がある。",
+      "category": "Geopolitics",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/16/trumps-meeting-with-chinas-xi-steers-the-us-away-from-taiwan-again.html"
     },
     {
-      "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
-      "summary_2lines": "Anthropicの15億ドルの著作権和解案について、複数の作家が弁護士報酬の高さや和解金の少なさを指摘し、連邦裁判官が承認を延期した。弁護士報酬が過大で、被害作家への還元が不十分との声が強まっている。",
-      "why_it_matters": "この和解は米国史上最大規模の著作権訴訟和解案であり、AIに対する著作権問題の先例となる。裁判所が和解条件の妥当性を精査し、被害者への適正な補償と弁護士費用の調整を求めたことで、今後のAI技術開発と著作権ルール形成に影響を与える可能性がある。",
-      "market_impact": "和解金の分配を巡る紛争が続くことで、AI関連企業のリスク評価が高まる可能性がある。著作権侵害問題が顕在化すると、AI訓練データの使用制限が強化され、AI技術開発コストや事業収益に影響が及ぶ恐れがある。また、法的リスクの不透明感から投資家の警戒感が強まる可能性もある。",
-      "category": "Tech",
+      "title": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates",
+      "summary_2lines": "新連邦準備制度理事会（FRB）議長ケビン・ウォーシュは、利下げを主張する中で、インフレ高進に対処するFOMC内の厳しい対立に直面している。彼の利下げ意向は短期的に受け入れられにくく、FRB内での家族喧嘩のような政策論争が予想される。",
+      "why_it_matters": "ウォーシュ新議長の利下げ主張は、インフレ抑制を最優先課題とするFOMCの多数派と対立するため、FRBの金融政策の方向性に混乱や不確実性をもたらす可能性がある。トランプ大統領の利下げ期待も絡み、中央銀行の独立性や市場の信頼感に影響を与える重要な局面である。",
+      "market_impact": "インフレ高進と米国債利回り上昇の中で利下げ期待が後退し、長期金利のさらなる上昇やドルの変動が懸念される。FRBの政策方向性の不透明さは株式市場のボラティリティを高め、企業の資金調達環境にも影響を及ぼす可能性がある。金融政策の迷走は経済全体の景気先行き不安を増幅させる恐れがある。",
+      "category": "Economy",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/16/kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-rates.html"
+    },
+    {
+      "title": "The US is betting on AI to catch insider trading in prediction markets",
+      "summary_2lines": "米商品先物取引委員会（CFTC）は、AI技術を活用して海外の予測市場でのインサイダー取引などの不正行為を監視し、摘発を強化している。ポリマーケットなどの暗号資産ベースの市場での疑わしい取引に対し、匿名アクセスを技術的に阻止しつつ捜査も進める方針だ。",
+      "why_it_matters": "予測市場は政治や国際情勢に関する事象を金融的に反映するため、不正行為が市場の公平性や信頼性を損なうリスクがある。特に規制の届きにくい暗号資産ベースのプラットフォームでの不正は摘発が困難だが、米国の監督機関がAIを駆使して積極的に対処を進めることで、市場の透明性維持と健全な取引環境の確保に繋がる。",
+      "market_impact": "AIとブロックチェーン分析ツールによる監視強化は予測市場全体の規制強化を示唆し、不正取引リスクの低減と投資家の信頼回復を促す。暗号資産取引関連企業や予測市場プラットフォームは透明性向上やコンプライアンス強化を迫られ、長期的には市場の健全な発展が期待される。",
+      "category": "Markets",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/"
+      "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/"
+    },
+    {
+      "title": "The strange Japanese companies minting money from AI",
+      "summary_2lines": "日本の意外な企業、MSGの創業者や世界最大のトイレットペーパー製造会社がAI技術を活用し、新たな収益源を確立している。これにより伝統的な産業がデジタル変革を通じて成長している様子が浮き彫りになった。",
+      "why_it_matters": "AI技術が先端テック企業だけでなく、多様な業種の日本企業にも浸透していることを示しており、従来のビジネスモデルを革新し、競争力強化や新市場開拓に寄与している。グローバル経済における日本企業の立ち位置や成長戦略を理解するうえで重要である。",
+      "market_impact": "これらの企業のAI活用は収益性の向上に直結し、株価や投資家の評価にプラス効果をもたらす可能性が高い。また、他の伝統産業にもAI導入の波が広がり、日本経済全体の生産性向上やデジタルシフト促進の追い風となるだろう。",
+      "category": "Tech",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/05/14/the-strange-japanese-companies-minting-money-from-ai"
     }
   ],
   "categories": {
     "Tech": [
       {
-        "title": "'Biggest bottleneck in the AI buildup' fuels DRAM ETF to record",
-        "summary_2lines": "Roundhill Memory ETF（DRAM）は43日で98億ドルの資産を集め、史上最速の成長を遂げた。これはAI開発に不可欠なメモリーチップの供給不足が背景にある。",
-        "why_it_matters": "AI技術の進展には高帯域幅メモリ＝DRAMが不可欠であり、限られた生産企業数による供給不足が続くと見られているため、関連銘柄やETFが急速に注目されている。今後数年にわたって需給のアンバランスは続く見込みで、成長の根拠がしっかりしている点が重要だ。",
-        "market_impact": "DRAM関連の株式・ETFは急騰しており、投資家の資金流入が加速。これは半導体セクターの追い風となり、AI関連企業の成長期待を反映してテクノロジー市場全体の活性化につながる。需給の逼迫により価格上昇圧力が続き、中長期的な投資機会を生む可能性が高い。",
-        "category": "Tech",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/15/biggest-bottleneck-in-the-ai-buildup-fuels-dram-etf-to-record.html"
-      },
-      {
         "title": "The strange Japanese companies minting money from AI",
-        "summary_2lines": "日本の意外な企業、MSGの開発者や世界最大のトイレメーカーがAI分野で大きな利益を上げている。伝統的産業から新たな収益源としてAI活用が進んでいる事例を示す。",
-        "why_it_matters": "AIが一部の先進的テック企業だけでなく、多様な産業分野に浸透しつつあることを示している。特に日本の伝統的企業がAI技術を取り入れ新たな収益モデルを構築する動きは、他企業や投資家にとって注目すべきトレンドだ。",
-        "market_impact": "AIを活用した収益増加により、これら企業の競争力や株価が向上する可能性がある。さらに、産業の垣根を超えたAI適用事例が増えれば、日本国内外のテック投資やパートナーシップ契約が活性化し、市場全体のAI関連株にプラスの影響を与えることが期待される。",
+        "summary_2lines": "日本の意外な企業、MSGの創業者や世界最大のトイレットペーパー製造会社がAI技術を活用し、新たな収益源を確立している。これにより伝統的な産業がデジタル変革を通じて成長している様子が浮き彫りになった。",
+        "why_it_matters": "AI技術が先端テック企業だけでなく、多様な業種の日本企業にも浸透していることを示しており、従来のビジネスモデルを革新し、競争力強化や新市場開拓に寄与している。グローバル経済における日本企業の立ち位置や成長戦略を理解するうえで重要である。",
+        "market_impact": "これらの企業のAI活用は収益性の向上に直結し、株価や投資家の評価にプラス効果をもたらす可能性が高い。また、他の伝統産業にもAI導入の波が広がり、日本経済全体の生産性向上やデジタルシフト促進の追い風となるだろう。",
         "category": "Tech",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/05/14/the-strange-japanese-companies-minting-money-from-ai"
       },
       {
-        "title": "A hotel check-in system left a million passports and driver’s licenses open for anyone to see",
-        "summary_2lines": "日本のスタートアップReqreaが運営するホテル向けチェックインシステムが、100万件以上の顧客のパスポートや運転免許証を含む個人情報を公開状態にしていた。セキュリティ研究者の指摘で問題は解決されたが、被害の全容把握と通知が進められている。",
-        "why_it_matters": "個人の重要な身分証明書類がインターネットに無防備に晒されることで、個人情報漏洩やなりすまし、詐欺などのリスクが高まる。こうした事故は、クラウド運用の誤設定など基本的なサイバーセキュリティ対策の不備によるもので、現在多くの業界でプライバシー保護・安全対策の重要性が増す中で深刻な問題とされている。",
-        "market_impact": "デジタル身分証明や本人確認サービス市場の信頼性低下を招き、利用者の離脱や導入企業の見直しが起こる可能性がある。特に、ホテル業界や関連分野でのクラウドサービス導入・セキュリティ強化が求められ、サイバーセキュリティ市場の需要増加が予想される一方で、類似事故により業界全体の評判リスクとなる恐れもある。",
+        "title": "The haves and have nots of the AI gold rush",
+        "summary_2lines": "現在のAIブームは一部の少数が巨額の富を得る一方、多くの技術者は将来的なキャリアや収入に不安を抱えている。リストラも進み、労働者の間に深い閉塞感が広がっている。",
+        "why_it_matters": "AI技術の急速な進展は経済や労働市場に大きな変化をもたらしており、富の集中やスキル価値の変容が社会的・経済的不均衡を拡大させる恐れがある。これにより技術者のキャリア戦略や労働市場全体の構造が問われている。",
+        "market_impact": "一部企業や関係者は巨額の資産形成を達成し投資意欲を高めている一方、AI関連企業の人材流動性とリストラによる労働市場の不安定化が進行。これが技術革新の加速と労働市場の分断を促し、中長期的に業界の競争構造や株価にも影響を与える可能性がある。",
         "category": "Tech",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/"
+        "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/"
+      },
+      {
+        "title": "How to Control Everything on Your Phone With Your Voice (iOS and Android)",
+        "summary_2lines": "iOSとAndroidで音声操作機能の設定方法を解説し、アプリ起動や文字入力など多彩な操作ができる。特に手がふさがっている時や障害を持つユーザーに便利な機能だ。",
+        "why_it_matters": "スマートフォンのユーザーインターフェースがタッチ操作中心から多様な入力手段へ進化している中で、音声操作は利便性とアクセシビリティを大幅に向上させる。これにより、高齢者や身体障害者もより簡単にスマホを利用できるようになり、デジタル社会の包摂性を高める。",
+        "market_impact": "GoogleやAppleが音声操作機能を強化・普及させることで、スマホのユーザー体験の差別化が進む。関連アプリやサービスの利用増加が期待され、音声認識技術市場の拡大や広告・サービス分野での新たなビジネス機会創出につながる可能性がある。",
+        "category": "Tech",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/control-everything-on-your-phone-with-your-voice-ios-android/"
+      },
+      {
+        "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+        "summary_2lines": "ArXivは、AI（大規模言語モデル）が生成した内容を著者が検証しなかった場合、1年間の投稿禁止処分を科す新ルールを発表した。著者はAIを使う場合でも内容に全責任を持つ必要があるという方針を明確化した。",
+        "why_it_matters": "科学研究の質を担保し、AIによる誤情報や偽造引用の蔓延を防ぐための重要な措置である。オープンな論文投稿プラットフォームであるArXivが取るこの対応は、AI活用の倫理的な指針設定と研究コミュニティの信頼維持に直結する。",
+        "market_impact": "主要な研究プラットフォームがAI乱用を取り締まることで、AI技術を使った論文の信頼性向上に繋がる。これにより、AI研究分野の健全な発展が促され、関連技術の市場価値や研究開発投資の質が高まる可能性がある。反面、AIツール提供企業や研究者コミュニティには利用ルール順守のコストが増加する。",
+        "category": "Tech",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/"
+      },
+      {
+        "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
+        "summary_2lines": "AI搭載のマーケティングプラットフォームNectar SocialがMenlo Ventures主導で3,000万ドルのシリーズA資金調達を完了。データ統合と自律型AIエージェントでブランドのソーシャル運用を効率化する。",
+        "why_it_matters": "SNS上での消費者の購買行動が増加する中、人手だけでは全てのチャネルを管理できない課題をAIで解決。Nectar Socialの技術により、企業は複数プラットフォームのデータを一元管理し、効果的なマーケティングが可能となる点が大きな注目となっている。",
+        "market_impact": "マーケティングの自動化と効率化が進み、SNSマーケティングの新たなスタンダード形成に寄与。AI活用が進むことで競争が激化し、広告やブランド管理の生産性向上による市場成長や関連サービス拡大が期待される。",
+        "category": "Tech",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/"
+      },
+      {
+        "title": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
+        "summary_2lines": "連邦契約者の元従業員である双子のハッカーが、解雇されたTeams会議の録画を消し忘れたことで自身のサイバー攻撃計画が暴露され、有罪を認めた。彼らは96の政府データベースを破壊し報復したとされる。",
+        "why_it_matters": "この事件は内部犯行によるサイバーセキュリティリスクの重大性と、リモートワークツールの管理不備がもたらす情報漏洩の危険性を示す。政府機関の重要データベースが攻撃されることで国家安全保障にも影響が及ぶ可能性がある。",
+        "market_impact": "今回の事件は政府外注先に対する信頼性低下を招き、関連セキュリティサービス需要の増加が見込まれる。サイバーセキュリティ業界にとってはリスク管理強化の必要性が認識され、専門企業の株価やサービス需要にプラス影響が及ぶ可能性がある。",
+        "category": "Tech",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/"
       },
       {
         "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
-        "summary_2lines": "Anthropicの15億ドルの著作権和解案について、複数の作家が弁護士報酬の高さや和解金の少なさを指摘し、連邦裁判官が承認を延期した。弁護士報酬が過大で、被害作家への還元が不十分との声が強まっている。",
-        "why_it_matters": "この和解は米国史上最大規模の著作権訴訟和解案であり、AIに対する著作権問題の先例となる。裁判所が和解条件の妥当性を精査し、被害者への適正な補償と弁護士費用の調整を求めたことで、今後のAI技術開発と著作権ルール形成に影響を与える可能性がある。",
-        "market_impact": "和解金の分配を巡る紛争が続くことで、AI関連企業のリスク評価が高まる可能性がある。著作権侵害問題が顕在化すると、AI訓練データの使用制限が強化され、AI技術開発コストや事業収益に影響が及ぶ恐れがある。また、法的リスクの不透明感から投資家の警戒感が強まる可能性もある。",
+        "summary_2lines": "Anthropicの15億ドル規模の著作権侵害和解案が、著者らの異議申立てにより連邦裁判所が承認を延期した。異議は弁護士報酬が過大で、和解金の配分が不公平だと主張している。",
+        "why_it_matters": "史上最大級とされる著作権和解案が法的な妥当性と公平性に疑問を持たれたことで、AI開発に用いられたデータの権利問題の扱いが注目されている。著作権保護とAI技術の発展とのバランスが問われている事例だ。",
+        "market_impact": "Anthropicの和解案遅延はAI企業の著作権リスクを顕在化させ、AI関連投資や技術採用の慎重姿勢を促す可能性がある。法的コスト増加が企業の収益性や資金調達にも影響を及ぼしかねず、業界全体の規制環境にも波及効果が予想される。",
         "category": "Tech",
         "source": "Ars Technica",
         "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/"
       },
       {
-        "title": "Project Gutenberg – keeps getting better",
-        "summary_2lines": "Project Gutenbergは75,000以上の無料電子書籍を提供する、50年以上続くボランティア運営のデジタル図書館です。ユーザーは登録不要でウェブブラウザや電子書籍リーダーで手軽に利用可能です。",
-        "why_it_matters": "著作権切れの古典文学を中心に、無料で高品質な電子書籍を誰でも利用できる環境を提供しているため、教育や研究、文化普及において貴重な資源となっています。ボランティアによる持続的な活動により、デジタル図書館の公共性とアクセスの平等性を支えています。",
-        "market_impact": "特定の市場や企業に直接的な影響は少ないものの、無料・オープンアクセスの電子書籍サービスが増加することで、従来の有料電子書籍市場や出版業界における価格競争やデジタルコンテンツ流通のあり方に影響を及ぼす可能性があります。また、教育機関や公共図書館のデジタル化推進にも寄与しています。",
+        "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
+        "summary_2lines": "Kioxiaの高容量QLC SSDを搭載したDellのPowerEdge R7725xdサーバーは、わずか2RUの筐体に約10PBのストレージを実現。高速なネットワーク対応でAIインフラの拡張に最適化されている。",
+        "why_it_matters": "超高密度の大容量NVMe SSDを用いたサーバーは、データセンターの物理スペースと消費電力を大幅に削減しつつ、AIやビッグデータ解析のための膨大なストレージニーズに応える。これにより、データの大規模取り込みやバックアップ、データレイク構築が効率化され、TCO（総保有コスト）低減に寄与するため重要である。",
+        "market_impact": "データセンター向けストレージ市場での高容量SSDの競争が激化し、DellやKioxiaはAIやクラウド企業の大容量ストレージ需要を取り込むことで市場シェア拡大が見込まれる。その他競合のMicronやSamsungも大型SSDの開発を進めており、将来的にHDDからSSDへの置き換えが加速しストレージ業界全体の競争と技術革新を促進する。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://www.gutenberg.org/"
+        "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574"
       },
       {
-        "title": "Mitchellh – I strongly believe there are entire companies now under AI psychosis",
-        "summary_2lines": "記事本文が表示されず、内容の詳細が不明であるため、分析が困難。タイトルからはAIに関連した企業の異常行動を指摘している可能性がある。",
-        "why_it_matters": "もし企業がAIによる過剰な影響下にあるとすれば、経営判断や市場の動向に深刻な混乱をもたらす可能性があり、投資家や関係者にとって重要な警鐘となる。",
-        "market_impact": "具体的な影響は不明だが、AI関連技術の適用に過信や誤用があれば、企業価値の変動や業績悪化、市場の不安定化に繋がるリスクがある。",
+        "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+        "summary_2lines": "SANA-WMは、1分間の720p動画を処理できる26億パラメータのオープンソース世界モデルである。高解像度動画解析のオープンソース化により、映像理解の研究と応用が加速する可能性がある。",
+        "why_it_matters": "本モデルの公開により、動画解析分野で一般的に求められる大規模リソースを必要とせず、高品質な映像認識・理解が可能になる。研究者や企業が手軽に先端AI技術を活用でき、AI技術普及の裾野拡大につながるため重要である。",
+        "market_impact": "映像解析・監視、メディア、エンターテインメント業界におけるAI活用が促進され、競争力の強化や新規サービスの創出が期待される。オープンソースによる技術革新で既存企業は開発コスト削減や迅速なプロダクト改良が可能になり、市場競争に影響を与える可能性がある。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://twitter.com/mitchellh/status/2055380239711457578"
+        "url": "https://nvlabs.github.io/Sana/WM/"
       },
       {
-        "title": "WinCE64 – Windows CE 2.11 for N64",
-        "summary_2lines": "Windows CE 2.11が未改造のカーネルコードを用い、任天堂64上で動作することを実現。オープンソースのリバースエンジニアリングプロジェクトとして、実機での起動や外部SDカードからのアプリ実行を可能にしている。",
-        "why_it_matters": "Windows CEは組み込み機器で広く使われたOSであり、これを任天堂64に移植することで、レトロゲーム機の新たな活用法や組み込みOSの理解促進につながる。公式サポート外のプラットフォームで動作させる技術的挑戦はエンジニア・ホビイスト両者にとって意義深い。",
-        "market_impact": "本プロジェクトは趣味の範囲にとどまり商用影響は限定的だが、組み込みOSのカスタマイズやレトロゲーム機の利用拡大に関心を持つ技術者コミュニティの活性化が期待できる。将来的に関連ツールやライブラリの開発促進、サードパーティ製品の需要喚起も見込まれる。",
+        "title": "Windows 9x Subsystem for Linux",
+        "summary_2lines": "WSL9xはWindows 9x上で最新のLinuxカーネルを協調動作させるサブシステムで、両OSの機能をシームレスに利用可能にする。再起動不要でWindows 9x環境にLinuxの利便性をもたらす技術的成果だ。",
+        "why_it_matters": "このプロジェクトは古いWindows 9x環境でも現代的なLinuxカーネルを動作させることで、レガシーシステムの活用や遺産ソフトウェアの互換性を大幅に拡張する可能性がある。特に組み込み用途やレガシーマシンの保守での柔軟性向上に寄与し、OS間の融合の一形態として興味深い技術的挑戦を示している。",
+        "market_impact": "直接の商業市場への影響は限定的と考えられるものの、レガシーシステムの活用価値を高めることで特定ニッチ市場や産業分野におけるITコスト削減や運用効率化につながる可能性がある。また、オープンソース技術の活用例としてLinuxとWindowsの融合技術開発の新たな動機付けになるかもしれない。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://github.com/ThroatyMumbo/WinCE64"
+        "url": "https://codeberg.org/hails/wsl9x"
       }
     ],
     "Markets": [
       {
-        "title": "Berkshire Hathaway returns to airlines with $2.6 billion stake in Delta Air Lines",
-        "summary_2lines": "Berkshire Hathaway has re-entered the airline sector by acquiring a $2.6 billion stake in Delta Air Lines, its 14th-largest holding as of March. The company also adjusted other holdings, trimming Chevron, increasing Alphabet, initiating Macy's, and selling positions linked to former manager Todd Combs.",
-        "why_it_matters": "This marks Warren Buffett's return to the airline industry after a full exit during the Covid-19 pandemic, signaling renewed confidence in the sector's recovery. Additionally, Buffett's portfolio reshuffling, including unwinding Combs-related investments and managing capital amid a challenging environment, reflects strategic repositioning under new management while maintaining Buffett’s advisory role.",
-        "market_impact": "Berkshire’s significant investment in Delta may boost investor confidence in the airline sector, potentially driving airline stock prices higher. Its shift away from stocks like Mastercard, Visa, and Amazon could impact those companies’ perceived demand among institutional investors. The large cash reserves and resumed buybacks indicate cautious capital deployment amid uncertain market conditions, influencing broader market liquidity and sentiment.",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/15/berkshire-hathaway-returns-to-airlines-with-2point6-billion-stake-in-delta-air-lines.html"
-      },
-      {
         "title": "UK borrowing costs rise and pound falls as leadership drama continues",
-        "summary_2lines": "英国の労働党リーダー選を巡る混乱で、アンディ・バーンハム氏の選挙参戦表明を受けて政府の借入コストが18年ぶりの高水準に上昇し、ポンドが下落した。バーンハム氏が左派色を強めるとの市場の懸念が影響している。",
-        "why_it_matters": "英国の政治不安と政策方向の不透明感が借入コストの急上昇と通貨安を招き、財政・金融市場の動揺を引き起こしている。これは英国経済の回復やインフレ対応に重大な影響を及ぼすため、投資家や政策決定者にとって重要な動きである。",
-        "market_impact": "10年および30年国債利回りが過去数十年で最高水準に達し、ポンドは対ドルで週内に1.5%下落。これは外国投資家のギルト市場離れを加速させる可能性があり、市場の不確実性が長引くことで株式市場も下落。エネルギー価格の上昇もインフレ懸念を強め、英国の公的債務コスト全般に上昇圧力をかけている。",
+        "summary_2lines": "英国の労働党リーダーシップ争いでアンディ・バーンハムが出馬を表明したことで、英国の国債利回りが18年ぶりの高水準に上昇し、ポンドも下落した。政治の不透明感とバーンハム氏の左派的姿勢が市場の懸念を強めた。",
+        "why_it_matters": "英国が直面する政治的混乱は国の借入コストや通貨価値に直結し、経済の安定性を損なうリスクがある。特にバーンハム氏がリーダーとなれば財政支出拡大の可能性が高まり、市場の信頼を揺るがすため金融市場に重要な影響を与えるからだ。",
+        "market_impact": "10年および30年国債利回りがそれぞれ18年・28年ぶりに上昇し、ポンドはドルに対して1.5%減価。外国人投資家の国債売却懸念が強まり、株式市場もFTSE100が1.7%下落するなど、不安定な政治情勢が英国金融市場にネガティブな影響を与えている。エネルギー価格の上昇もインフレ圧力を増す要因として市場の警戒感を高めている。",
         "category": "Markets",
         "source": "BBC Business",
         "url": "https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "NFL wants certain trading contracts banned from prediction markets like 'first play of game,' injuries",
-        "summary_2lines": "NFLはスポーツ関連の予測市場において操作が容易な契約や年齢制限の引き上げを求める提言をCFTCに提出。選手のパフォーマンス契約の認証強化やマージントレード禁止も要望している。",
-        "why_it_matters": "スポーツ予測市場は急速に成長しつつあるものの、操作リスクや倫理面の問題が顕在化し始めている。NFLの提言は、スポーツの公正性維持と消費者保護の観点から市場規制のあり方を左右する重要な議論の一環であり、法規制の枠組み形成に大きな影響を与える。",
-        "market_impact": "NFLの提言が実現すれば、予測市場プラットフォームは取引可能な契約の制限や参加者の年齢制限強化、内部者取引防止策を講じる必要が生じるため、プラットフォーム運営のコスト増加や取引量の変動が予想される。また、ドラフトキングスやファンデュエルなどスポーツベット関連企業の事業環境にも影響し、株価や競争構造に波及効果を及ぼす可能性がある。",
+        "title": "Berkshire Hathaway returns to airlines with $2.6 billion stake in Delta Air Lines",
+        "summary_2lines": "バークシャー・ハサウェイがデルタ航空に26億ドル相当の出資をし、パンデミック後に航空業界への復帰を果たした。投資の見直しでシェブロンを若干減らし、アルファベットの保有を大幅に増やしている。",
+        "why_it_matters": "バークシャーの航空株からの完全撤退はパンデミック期のリスク回避の象徴であったが、今回の再参入は航空業界の回復期待とバフェット氏の見方の変化を示唆する。また、トップマネージャーの交代に伴うポートフォリオの大幅な売却・調整も投資戦略の転換を映しているため重要である。",
+        "market_impact": "デルタ航空の大口株主としての復帰は同社株の信認を高める可能性がある。一方、バークシャーの大型保有株の調整は、Chevronの株価に一時的な影響を与え、Alphabetの株価には買い圧力を強めると予想される。ポートフォリオ売却による市場流動性の変化も注目される。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/15/prediction-markets-nfl-letter-wants-certain-betting-contracts-banned.html"
+        "url": "https://www.cnbc.com/2026/05/15/berkshire-hathaway-returns-to-airlines-with-2point6-billion-stake-in-delta-air-lines.html"
       },
       {
-        "title": "This hedge fund just dumped the ‘big three’ airline stocks, as the industry faces soaring fuel costs",
-        "summary_2lines": "ヘッジファンドのAppaloosaは燃料コストの高騰を背景に、デルタ、アメリカン、ユナイテッドの『ビッグスリー』航空株を全売却。代わりにAmazonやUberの株を大量に購入した。",
-        "why_it_matters": "燃料費の増加が航空業界の利益圧迫要因となっているため、Appaloosaの動きは業界全体の見通しに対する慎重な姿勢を示している。また、注目企業であるAmazonやUberへのシフトは市場トレンドの変化を映し出している。",
-        "market_impact": "主要航空株の大量売却は短期的にこれら銘柄の株価下落圧力となり得る。加えて、成長期待の高いテクノロジーおよび配車サービス株への資金流入が進み、投資資金のシフトが明確化する可能性がある。",
+        "title": "The US is betting on AI to catch insider trading in prediction markets",
+        "summary_2lines": "米商品先物取引委員会（CFTC）は、AI技術を活用して海外の予測市場でのインサイダー取引などの不正行為を監視し、摘発を強化している。ポリマーケットなどの暗号資産ベースの市場での疑わしい取引に対し、匿名アクセスを技術的に阻止しつつ捜査も進める方針だ。",
+        "why_it_matters": "予測市場は政治や国際情勢に関する事象を金融的に反映するため、不正行為が市場の公平性や信頼性を損なうリスクがある。特に規制の届きにくい暗号資産ベースのプラットフォームでの不正は摘発が困難だが、米国の監督機関がAIを駆使して積極的に対処を進めることで、市場の透明性維持と健全な取引環境の確保に繋がる。",
+        "market_impact": "AIとブロックチェーン分析ツールによる監視強化は予測市場全体の規制強化を示唆し、不正取引リスクの低減と投資家の信頼回復を促す。暗号資産取引関連企業や予測市場プラットフォームは透明性向上やコンプライアンス強化を迫られ、長期的には市場の健全な発展が期待される。",
         "category": "Markets",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/this-hedge-fund-just-dumped-the-big-three-airline-stocks-as-the-industry-faces-soaring-fuel-costs-4ae4f9ba?mod=mw_rss_topstories"
-      },
-      {
-        "title": "Berkshire’s Abel sours on some of Warren Buffett’s picks, while betting big on Delta",
-        "summary_2lines": "ウォーレン・バフェットは2020年に米国航空株から撤退したが、後任のグレッグ・アベルはデルタ航空に28億ドルの大型投資を行った。アベルは一部のバフェットの選択に否定的な見解を示している。",
-        "why_it_matters": "バフェットからアベルへの経営・投資方針の転換を示す重要な動きであり、米主要航空株への大規模投資は業界見通しへの自信を反映している。また、著名投資家の意見変化は市場の注目を集めるため、投資家行動に影響を及ぼす可能性がある。",
-        "market_impact": "デルタ航空の株価や米航空株全体に好影響を与える可能性が高い。一方で、バフェットが見切った銘柄への資金シフトは他の投資家によるポートフォリオ再評価を促し、航空業界の競争環境や資金流入に変化をもたらす可能性がある。",
-        "category": "Markets",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/berkshires-abel-sours-on-some-of-warren-buffetts-picks-while-betting-big-on-delta-7ad679f7?mod=mw_rss_topstories"
-      },
-      {
-        "title": "George Soros’s fund buys Berkshire Hathaway stock — now that Buffett is gone",
-        "summary_2lines": "ジョージ・ソロスの運用ファンドがバークシャー・ハサウェイ株を購入し、1Qにナビディアやアップルの保有株も増やした。バフェット氏の引退後、ソロスが保有を強化したことが注目されている。",
-        "why_it_matters": "バークシャー・ハサウェイはウォーレン・バフェット氏の率いる投資の象徴であり、その株をジョージ・ソロスのような著名投資家が買い増したことは市場にとって重要なシグナルとなる。市場悪化局面でも積極運用を行う姿勢は投資家心理に影響を与える。",
-        "market_impact": "ソロスファンドの保有増加はバークシャー・ハサウェイや関連銘柄への買い圧力となりうる。加えて、ナビディアやアップルの株も増やしていることから、テクノロジー株の下支え要因となり、短期的にはこれらの株価の安定や上昇が期待される。",
-        "category": "Markets",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/george-soross-fund-buys-berkshire-hathaway-stock-now-that-buffett-is-gone-48a247e3?mod=mw_rss_topstories"
-      },
-      {
-        "title": "What are World Cup 2026 national team base camps and their locations?",
-        "summary_2lines": "2026年ワールドカップに参加する48チームの拠点キャンプ場所が発表され、各国は大会前のトレーニングや滞在準備を進めている。拠点キャンプは宿泊施設やトレーニング場などを備えており、グループステージ期間中の活動拠点となる。",
-        "why_it_matters": "ワールドカップは世界最大規模のスポーツイベントであり、チームの準備状況や拠点の選定は試合パフォーマンスに直結する。開催国の施設やインフラ投資にも大きく影響し、スポーツツーリズムや地域経済の活性化にも寄与するため、関係者や地域にとって重要な情報となる。",
-        "market_impact": "大会開催に向けた施設整備やホテルの稼働率向上が見込まれ、ホスピタリティやスポーツインフラ関連企業の収益増加が期待される。さらに、開催地域の経済活動活性化や関連する観光・サービス業にも好影響を及ぼす見込みで、多国籍企業のスポンサーシップ活動やメディア権利取引にも影響を与える可能性がある。",
-        "category": "Markets",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/5/15/world-cup-2026-base-camps-argentina-portugal-brazil-england-spain-where-will-they-stay?traffic_source=rss"
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/"
       }
     ],
     "Geopolitics": [
       {
-        "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
-        "summary_2lines": "南大西洋のクルーズ船MV Hondiusでのハンタウイルス感染者数は、米国の1例が偽陽性と判明し11例から10例に減少した。米国の医師は抗体検査や再検査で陰性が確認され、感染は否定された。",
-        "why_it_matters": "ハンタウイルスは重篤な疾患であり、感染者数の正確な把握は公衆衛生の対応や感染拡大防止に重要である。偽陽性の訂正により、実際の感染状況が明確になり、誤った恐怖や混乱の軽減につながる。",
-        "market_impact": "今回の訂正により、感染拡大懸念が幾分和らぐため、特に旅行業界やクルーズ事業者の株価や予約動向に短期的にポジティブな影響が見込まれる。ただし、感染例自体は依然存在するため大きな市場変動には至らない。",
+        "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
+        "summary_2lines": "米中首脳会談で台湾問題は主要な議題とはならなかったが、習近平は台湾問題の扱いを誤れば米中関係に深刻な影響があると警告した。トランプ大統領は台湾独立に反対しつつも、米軍が台湾防衛に直接関与するかは明言を避け、『戦略的曖昧さ』を維持する姿勢を示した。",
+        "why_it_matters": "台湾問題は米中関係の最も繊細かつ危険な懸案であり、両国の政策や軍事的動きがアジア太平洋地域の安全保障と経済の安定に直結する。トランプ大統領の発言や武器売却の動向は、地政学的緊張の高まりや貿易・技術協力にも影響を与え、今後の国際情勢を占う重要な指標となる。",
+        "market_impact": "台湾が世界の半導体製造の要として重要な地位にあるため、米中関係の緊張は半導体サプライチェーンの混乱リスクを高める。加えて、武器売却の行方や軍事的緊張は地域の安定を不透明にし、アジア市場の投資環境や為替、株式市場のボラティリティ拡大を招く可能性がある。",
         "category": "Geopolitics",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/"
-      },
-      {
-        "title": "Spencer Pratt Is Creating Panic Over ‘Super Meth.’ It’s Not Even Real",
-        "summary_2lines": "ロサンゼルスの市長選に出馬しているスペンサー・プラットが「スーパー・メス」という架空の薬物を使い、現実とは異なるドラッグ問題を煽っている。専門家は「スーパー・メス」は実在せず、現状のメタンフェタミンの変種にすぎないと指摘している。",
-        "why_it_matters": "このニュースは政治家が事実に基づかない誇張で有権者の不安を煽り、公共政策や治安問題に誤解を生む可能性があることを示している。薬物問題は複雑で、経済的・社会的背景理解が重要なため、正確な情報提供が必要とされる背景がある。",
-        "market_impact": "直接的な市場や企業への即時影響は限定的だが、薬物問題を過度に政治利用することで、地域の治安悪化懸念が強まり不動産市場や観光業のイメージに悪影響を与えるリスクがある。また、薬物治療関連産業や法執行機関の予算配分にも間接的影響が生じる可能性がある。",
-        "category": "Geopolitics",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/spencer-pratt-is-creating-panic-over-super-meth-the-drug-trope-that-wont-die/"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/16/trumps-meeting-with-chinas-xi-steers-the-us-away-from-taiwan-again.html"
       },
       {
         "title": "Russia pressures university students to become wartime drone pilots",
-        "summary_2lines": "ロシアの大学は学生を戦時中のドローン操縦士として軍に1年間派遣することで、学費免除や多額の報酬を約束している。だが、戦場での死者も出ており学生の志望は低い状況だ。",
-        "why_it_matters": "ロシアは長期化するウクライナ侵攻で人的資源を確保するため、新たな世代の若者を軍事利用しようとしている。これは国内の人材流出や教育労働力の減少を招き、国の将来の技術力や経済発展に影響を与える恐れがある。",
-        "market_impact": "戦争による若年層の人材流出はロシアの技術産業・教育機関の競争力を弱め、中長期的には経済成長を阻害する可能性が高い。また、国際的な制裁や戦争継続に伴う不確実性が企業・資本市場にも悪影響を与える見込み。",
+        "summary_2lines": "ロシア政府は大学生に対し、軍用ドローン操縦士として1年間の兵役を条件に学費無料や最大7万ドルの報酬を提供し、前線戦闘の危険回避を謳っている。だが、既に戦死例も確認され、学生や技術者の将来の人材流出リスクが高まっている。",
+        "why_it_matters": "この動きはロシアの人的資源不足を示すと同時に、若年層への軍事動員による教育・技術力の損失、さらには国内の反戦意識や社会不安の高まりを示唆している。長期的にはロシアの科学技術競争力に悪影響を及ぼし、戦争の継続や社会構造にも影響を与える可能性がある。",
+        "market_impact": "ロシアの技術系人材流出と教育機関の軍事化は、国内IT産業やハイテク分野の発展を阻害し、国際市場での競争力低下につながる恐れがある。さらに、戦争継続のリスクが増加することで、エネルギー価格や資源需給にも不透明感が生じ、世界市場に波及する可能性がある。",
         "category": "Geopolitics",
         "source": "Ars Technica",
         "url": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/"
       },
       {
-        "title": "Mahmoud Khalil calls for deportation to be halted in light of new evidence",
-        "summary_2lines": "コロンビア大学出身のマフムード・カリール氏の強制送還手続きに対し、新証拠をもとに弁護団が送還停止と事件再検討を求めている。証拠はトランプ政権が政治的理由で手続きを操作した可能性を示唆している。",
-        "why_it_matters": "米国における移民司法の独立性と政治的介入の問題を浮き彫りにしており、言論の自由や政治的意見を理由とした移民取り締まりの濫用が国際的な注目を集めている。今回のケースは移民裁判の透明性と公正性を問う重要な事例である。",
-        "market_impact": "直接的な金融市場への影響は限定的と考えられるが、米国の政治リスクや人権問題への批判が高まることで、企業のリスクマネジメントやグローバル展開に影響を与える可能性がある。特に人権・政治リスクを重視する投資家は監視を強めるだろう。",
+        "title": "Poll shows Lula and Bolsonaro tied before Brazil’s presidential election",
+        "summary_2lines": "ブラジル大統領選挙を控え、左派の現職ルラと右派のフラビオ・ボルソナロが世論調査で並ぶ結果に。フラビオには映画資金調達に関するスキャンダルが浮上し、選挙戦に影響が出る可能性がある。",
+        "why_it_matters": "ブラジルの次期大統領選は国内外の政策に大きな影響を及ぼすため注目されている。特に、前大統領ジャイル・ボルソナロの息子であるフラビオのスキャンダルは右派の支持基盤に打撃を与え、選挙の行方を左右しかねない重要な情勢である。",
+        "market_impact": "選挙の不透明感が高まることで不確実性が増し、ブラジルの為替市場や株式市場に短期的なボラティリティが拡大する恐れがある。特に保守派支持の経済政策変更期待が後退すると、投資家のリスク選好に変化が生じる可能性がある。",
         "category": "Geopolitics",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/5/15/mahmoud-khalil-calls-for-deportation-to-be-halted-in-light-of-new-evidence?traffic_source=rss"
+        "url": "https://www.aljazeera.com/news/2026/5/16/poll-shows-lula-and-bolsonaro-tied-before-brazils-presidential-election?traffic_source=rss"
       },
       {
-        "title": "Activists hang Palestinian flag on the Eiffel Tower for Nakba Day",
-        "summary_2lines": "フランスの環境・社会活動グループ、Extinction Rebellionのメンバーがナクバ記念日に合わせてエッフェル塔にパレスチナの旗を掲げた。これはガザでのイスラエルの行為に対する抗議の意図を持つ。",
-        "why_it_matters": "この行動はイスラエル・パレスチナ問題の国際的な関心の高さと、社会運動が象徴的な場所で政治的主張を行う手法を示している。ナクバ記念日はパレスチナ難民問題の象徴であり、抗議行動は緊張を増幅させる可能性がある。",
-        "market_impact": "直接的な市場への影響は限定的だが、イスラエル・パレスチナ紛争に関連した抗議や緊張の高まりは、地域の安定性に影響し、中東のエネルギー供給やグローバルリスクの観点から投資家心理に波及効果を与える可能性がある。",
+        "title": "Taiwan says it is an independent nation after Trump arms sale remarks",
+        "summary_2lines": "台湾は、トランプ大統領による武器販売に関する不確実な発言を受けて、自らを主権独立国家と強調した。中国政府は米国との安全保障協力強化を約束しつつ、台湾への領有権主張を改めて否定した。",
+        "why_it_matters": "台湾問題は米中関係の核心的対立点であり、米国の武器販売は地域の軍事バランスと地政学的緊張を左右する要因である。トランプ発言が不透明感を生み、地域の安全保障情勢に重要な影響を与えるため注目されている。",
+        "market_impact": "台湾の独立主張と米中間の摩擦が激化すれば、台湾関連の半導体企業や防衛関連株にボラティリティ拡大や調達コスト上昇が懸念される。加えて、地域の緊張激化は投資家心理を冷やし、アジア市場全般にリスクプレミアムが上乗せされる可能性がある。",
         "category": "Geopolitics",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/activists-hang-palestinian-flag-on-the-eiffel-tower-for-nakba-day?traffic_source=rss"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/taiwan-says-it-is-an-independent-nation-after-trump-arms-sale-remarks?traffic_source=rss"
+      },
+      {
+        "title": "Two presidential campaign staffers killed in Colombia as elections near",
+        "summary_2lines": "コロンビアで大統領選挙を目前に控え、右派候補の選挙スタッフ2名が殺害される事件が発生。政治的暴力が選挙の民主的参加に悪影響を及ぼす懸念が高まっている。",
+        "why_it_matters": "この事件は、コロンビアの長年続く内戦や犯罪問題が依然として政治的不安定要因となっていることを示し、選挙の公平性と安全な政治活動の実施に対する深刻なリスクを浮き彫りにしている。政治的暗殺や脅迫は民主主義の根幹を揺るがし、有権者の政治参加意欲を減退させる可能性がある。",
+        "market_impact": "政治的暴力の激化は政治・社会の不安定化を招き、外国直接投資の減少や資本市場のボラティリティ増加をもたらす恐れがある。特に銃撃事件の多発や治安悪化は観光・インフラ投資に悪影響を及ぼし得るため、金融市場や企業活動のリスク要因として注視される。",
+        "category": "Geopolitics",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/16/two-presidential-campaign-staffers-killed-in-colombia-as-elections-near?traffic_source=rss"
       }
     ],
-    "Economy": [],
+    "Economy": [
+      {
+        "title": "'They took £20,000 I didn't owe': Parents hit by child maintenance errors",
+        "summary_2lines": "Child Maintenance Service（CMS）が過去の未払いと誤って判断し、複数の親の銀行口座から数万ポンドを不当に差し引いた事例が報告された。被害者は法的手続きで返金を勝ち取ったが、多大な精神的・金銭的負担を負っている。",
+        "why_it_matters": "CMSは子どもの生活費を確保する重要な公的機関だが、誤算や旧CSAからの引き継ぎの不備により、本来支払義務のない親から過剰な額を徴収し、多くのトラブルを引き起こしている。これにより制度の信頼性と公正さが疑問視され、被害者救済のための制度改善が求められている。",
+        "market_impact": "直接的な金融市場への影響は限定的だが、CMSを運営する政府機関の対応不備が明らかになることで、行政コストの増大や法的紛争増加による公共支出圧迫のリスクがある。個人の法的支出増加は消費者の可処分所得低下に繋がりうるため、間接的に消費動向に影響を与える可能性がある。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cq8wjn98y85o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates",
+        "summary_2lines": "新連邦準備制度理事会（FRB）議長ケビン・ウォーシュは、利下げを主張する中で、インフレ高進に対処するFOMC内の厳しい対立に直面している。彼の利下げ意向は短期的に受け入れられにくく、FRB内での家族喧嘩のような政策論争が予想される。",
+        "why_it_matters": "ウォーシュ新議長の利下げ主張は、インフレ抑制を最優先課題とするFOMCの多数派と対立するため、FRBの金融政策の方向性に混乱や不確実性をもたらす可能性がある。トランプ大統領の利下げ期待も絡み、中央銀行の独立性や市場の信頼感に影響を与える重要な局面である。",
+        "market_impact": "インフレ高進と米国債利回り上昇の中で利下げ期待が後退し、長期金利のさらなる上昇やドルの変動が懸念される。FRBの政策方向性の不透明さは株式市場のボラティリティを高め、企業の資金調達環境にも影響を及ぼす可能性がある。金融政策の迷走は経済全体の景気先行き不安を増幅させる恐れがある。",
+        "category": "Economy",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/16/kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-rates.html"
+      },
+      {
+        "title": "Old Oil and Gas Wells Could Find Second Life Producing Clean Energy",
+        "summary_2lines": "米国の放棄された油ガス井戸を地熱エネルギー生産に転用する動きが複数州で進展している。技術的・規制的課題はあるが、環境負荷軽減とクリーンエネルギーの確保に寄与する可能性がある。",
+        "why_it_matters": "膨大な数の未使用油ガス井戸は環境リスクを抱えつつも、既存の掘削コストを省いた地熱エネルギー源として再活用可能である。化石燃料の負の遺産を有効活用する新たなクリーンエネルギー戦略として、気候変動対策やエネルギー需給安定化の文脈で注目されている。",
+        "market_impact": "地熱エネルギー産業の成長促進に加え、油ガス業界の関連技術と地元規制の変革を促す。新規プロジェクトへの投資増加、環境リスク対応コスト削減、地域経済活性化につながり得る。政府支援による技術革新とパイプライン整備も期待される。",
+        "category": "Economy",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/oil-wells-second-life-clean-energy/"
+      },
+      {
+        "title": "5 money moves that made this 32-year-old dad a millionaire in just 9 years",
+        "summary_2lines": "32歳の父親であるBlake Edwardsさんが、低賃金やパンデミック、住宅難などの逆境を乗り越え9年で資産を1億円以上に増やした。彼の資産形成の秘訣は5つの効果的なマネームーブにある。",
+        "why_it_matters": "経済的に厳しい環境下でも計画的かつ戦略的な資産運用が可能であることを示し、若い世代の資産形成や金融リテラシー向上に参考となる事例だから重要。特にパンデミックや高騰する住宅市場が一般家庭の経済に大きな影響を与える現状を背景にしている。",
+        "market_impact": "個人の資産形成成功例は長期的な投資や節約、収入多様化の重要性を投資市場参加者に訴え、個人投資家の増加や金融商品への関心向上につながる可能性がある。また、労働市場の低賃金問題や住宅市場の課題も改めて注目される。",
+        "category": "Economy",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/5-money-moves-that-made-this-32-year-old-dad-a-millionaire-in-just-9-years-3725c0ed?mod=mw_rss_topstories"
+      },
+      {
+        "title": "‘I’m already feeling anxious’: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?",
+        "summary_2lines": "元夫が養育費として3万ドルの一括支払いを提案したが、最後の2ヶ月は未払いであり、裁判所命令もないとのことで不安を感じている。支払い条件に何か裏があるのではないかと疑念が生じている。",
+        "why_it_matters": "養育費の取り決めは離婚後の家族の生活に直結する重要な問題であり、一括支払いの提案は一見便利に見えても、未払いの履歴や法的拘束力の欠如から受け取り側にリスクをもたらす可能性がある。特に法的保護がない状態では、支払いの継続性や子どもの福祉に影響を与えるため背景理解が重要である。",
+        "market_impact": "本件は個別の家族間の問題であり、直接的に市場や企業、経済に与える影響は限定的である。ただし、養育費未払いが多数発生すれば社会福祉コストの増加や関連法制度への見直し機運が高まり、不動産市場や消費行動に間接的に影響を与える可能性がある。",
+        "category": "Economy",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/im-already-feeling-anxious-my-ex-husband-offered-to-give-me-a-30-000-lump-sum-for-child-support-is-there-a-catch-b1a20e20?mod=mw_rss_topstories"
+      },
+      {
+        "title": "Inflation will likely be higher for longer. Your retirement plan isn’t built for that.",
+        "summary_2lines": "公式の消費者物価指数（CPI）は医療、保険、エネルギーの二桁の価格上昇を隠している。一方で、従来の退職プランはこうした高インフレ環境に対応できず、資産を徐々に減らしている。",
+        "why_it_matters": "インフレが予想以上に長期間高止まりする可能性があり、特に医療・保険・エネルギー分野での価格上昇が大きい。これにより現行の退職資金運用戦略が機能せず、多くの個人の老後の資産形成に深刻な影響を及ぼすリスクがあるため重要である。",
+        "market_impact": "医療やエネルギー、保険分野のコスト上昇が企業収益や消費者購買力を圧迫し、長期的な消費鈍化や投資戦略の見直しを招く可能性が高い。さらに、退職プランの再設計需要が増し、金融商品や資産運用サービス業界にも影響を与えるだろう。",
+        "category": "Economy",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/why-3-8-inflation-actually-feels-like-an-8-hit-to-your-retirement-savings-9e0ba615?mod=mw_rss_topstories"
+      }
+    ],
     "Corporate": [
       {
         "title": "British Gas pays £20m over prepayment meter force-fitting scandal",
-        "summary_2lines": "British Gasは、顧客の同意なくプリペイドメーターを強制設置した問題で2,000万ポンドの和解金を支払うことに合意した。これにより最大1億1,200万ポンドの支払い・補償・債務免除が行われる予定。",
-        "why_it_matters": "このスキャンダルは、特に脆弱な顧客に対する不適切な対応とプライバシー侵害の問題であり、エネルギー業界全体の消費者保護体制の見直しを促した。規制強化が求められ、公正な顧客対応の重要性が改めて浮き彫りになった。",
-        "market_impact": "British Gasおよび親会社Centricaの財務負担が増加し、最大1億1,200万ポンドの損失計上が見込まれる。業界全体での信頼低下や規制強化により、他エネルギー企業の経営リスクも高まる可能性がある。顧客補償と債務免除はブランドイメージ回復のための必要コストと位置づけられる。",
+        "summary_2lines": "British Gasは脆弱な顧客の同意なくプリペイドメーターを無理やり設置した問題で、2000万ポンドの賠償金を支払うことでエネルギー規制当局と和解した。累計で最大1億1200万ポンドの支出が見込まれている。",
+        "why_it_matters": "エネルギー業界全体に広がった強制設置のスキャンダルは、消費者保護の観点から重大な問題であり、特に経済的に脆弱な顧客の権利侵害が指摘されている。規制当局が厳格な措置を講じることで業界のガバナンス強化と消費者信頼回復を促す意味を持つ。",
+        "market_impact": "British Gasおよび親会社Centricaは巨額の賠償金支払いと顧客債務帳消しにより財務負担が増大し、イメージダウンによる顧客離れが懸念される。業界全体で同様の問題が露呈し、他の大手エネルギー企業にも賠償請求や規制強化の圧力が高まる見通し。",
         "category": "Corporate",
         "source": "BBC Business",
         "url": "https://www.bbc.com/news/articles/cq8p7l1y59lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Heathrow rival could lead expansion, watchdog says",
-        "summary_2lines": "英国の民間航空規制当局CAAは、ヒースロー空港の第3滑走路と新ターミナル建設にライバル企業が入札できるよう提案し、建設費抑制を目指す。これにより、ヒースローの独占的な拡張計画に競争がもたらされる可能性がある。",
-        "why_it_matters": "ヒースロー空港の拡張は英国の航空需要と経済成長に直結する重要プロジェクトであるが、建設費の高騰と独占的状態がコスト増や経済効率の悪化を招いている。CAAの提案は競争を促進し、サービス向上や費用抑制を図る狙いがあるため、英国航空業界の将来や競争環境を大きく変える可能性がある。",
-        "market_impact": "規制強化と競争導入により、ヒースロー空港の巨大な拡張事業のコスト構造が見直され、航空会社の費用負担軽減や消費者サービスの向上が期待される。競合の参入は建設・運営市場にも新規参入者を促す可能性があり、関連建設業界や航空会社に影響を及ぼす。政府承認や計画遅延リスクのほか、投資回収計画の見直しも懸念材料となる。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cqxpz4q5vdvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Introducing “Velocity pivot”",
-        "summary_2lines": "記事は「Velocity pivot」という新しい概念や取り組みを紹介しています。ただし、本文は不完全なため詳細は不明です。",
-        "why_it_matters": "『Velocity pivot』の具体的内容が不明なため重要性は判断できませんが、新たな企業戦略や技術導入が示唆されている可能性があります。",
-        "market_impact": "情報不足のため市場や経済への影響は特定できません。追加情報が必要です。",
+        "summary_2lines": "記事は“Velocity pivot”という新たなコンセプトを紹介しています。詳細は明らかではなく、企業界の文脈での話題です。",
+        "why_it_matters": "本文が抽象的かつ不明瞭なため具体的な重要性は示されていません。しかし、タイトルから推測するに企業改革や経営戦略の転換点となり得る可能性があります。",
+        "market_impact": "内容の具体性が不足しているため、現時点で市場や経済に直接的な影響を分析することは困難です。今後の発表や詳細情報の確認が必要です。",
         "category": "Corporate",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/05/14/introducing-velocity-pivot"
       },
       {
         "title": "Samsung has staged a stunning comeback",
-        "summary_2lines": "Samsungが劇的な復活を遂げた。しかし、政治的な問題が今後の成長に影響を及ぼす可能性がある。",
-        "why_it_matters": "Samsungは世界的なテクノロジー企業として市場をリードしており、その復活は関連業界や市場全体にとって重要なシグナルとなる。一方で政治的なトラブルは企業の戦略や収益にリスクをもたらし、不透明感を増すため注視が必要である。",
-        "market_impact": "Samsungの復活は半導体やスマートフォン市場の競争環境を活性化させ、関連株価やサプライチェーンにプラスの影響を与える可能性が高い。一方で政治問題が長引けば、投資家心理の悪化やプロジェクト遅延を招き、市場にネガティブな影響も及ぼすリスクがある。",
+        "summary_2lines": "Samsungが劇的な復活を遂げたが、政治的な問題が浮上している。企業の成長とリスクが同時に存在する状況だ。",
+        "why_it_matters": "Samsungはテクノロジー業界の重要なプレイヤーであり、その成長は半導体やスマートフォン市場に大きな影響を与える。一方、政治的な問題が将来的な事業環境やサプライチェーンに影響を与える可能性があるため注目される。",
+        "market_impact": "Samsungの業績回復により関連株や半導体市場にポジティブな影響が期待される。しかし、政治リスクが高まることで投資家の警戒感が強まり、短期的には株価の変動や市場の不安定化も懸念される。",
         "category": "Corporate",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/05/14/samsung-has-staged-a-stunning-comeback"
-      },
-      {
-        "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
-        "summary_2lines": "General Catalystがa16z（Andreessen Horowitz）を風刺した動画をSNSに投稿し話題となった。a16z陣営も反応し、VC業界の投資スタンスの違いを象徴する出来事となった。",
-        "why_it_matters": "この騒動は有力ベンチャーキャピタル同士のスタンスや文化の違いを鮮明にし、VC業界の競争やイメージ戦略が公開の場で展開される新たなトレンドを示す。特にa16zは先進的かつ論争的なスタートアップに積極投資する一方、General Catalystは責任感を強調し差別化を図ろうとしている背景がある。",
-        "market_impact": "現状では直接的な市場への影響は限定的だが、両VCのイメージ戦略と公開ディスカッションは投資先の評価やスタートアップの資金調達環境に影響を与える可能性がある。業界内の透明性や競争激化が加速し、投資テーマや倫理観の議論も活発化しそうだ。",
-        "category": "Corporate",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/"
-      },
-      {
-        "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
-        "summary_2lines": "RJ Scaringeは過去10年未満で3つのスタートアップを通じて123億ドル以上の資金調達を達成。EVのRivianだけでなく、AIやマイクロモビリティ分野でも高額調達を続けている。",
-        "why_it_matters": "彼の例はシリアルアントレプレナーが複数ベンチャーで巨額資金を集める珍しい成功例であり、技術・起業家精神に基づく実行力とその資金力が、新興産業の成長や投資環境に大きな影響を与えるため注目される。",
-        "market_impact": "Rivianをはじめ、AlsoやMind Roboticsなど新興分野への資金流入が続くことで、電気自動車、産業AI、次世代モビリティ市場の競争激化と技術革新が加速。投資家のリスク許容度の向上や大型シード投資増加の潮流が促進される可能性が高い。",
-        "category": "Corporate",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/"
-      },
-      {
-        "title": "The Best Outdoor Deals From the REI Anniversary Sale 2026",
-        "summary_2lines": "REIが2026年5月15日からメモリアルデーまで年次記念セールを開催し、多くのアウトドア用品が最大30％オフになる。会員はさらに割引を受けられ、キャンプ用電源ステーションやテント、アウトドア時計などの人気商品がお得に購入可能。",
-        "why_it_matters": "アウトドア市場は成長を続けており、REIの大規模セールは消費者の購買意欲を刺激するとともに、競合他社との価格競争を促進する。セールを通じてアウトドア用品の普及が進み、生活様式やレジャー業界にも影響を与えるため重要。",
-        "market_impact": "REIの周年セールによる値下げは短期的に売上増加が見込まれ、アウトドア関連商品の需要を喚起する。また、REI Co-op会員向けの割引は会員数増加や顧客ロイヤルティ向上に寄与し、アウトドア小売市場の競争環境に影響を与える可能性が高い。関連メーカーの製品の販促効果も期待できる。",
-        "category": "Corporate",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/rei-anniversary-sale-2026/"
-      },
-      {
-        "title": "Tesla Reveals New Details About Robotaxi Crashes—and the Humans Involved",
-        "summary_2lines": "Teslaが2025年7月～2026年3月に発生した17件のロボタクシークラッシュの詳細を公表。特に2件では遠隔操作の人間の介入が衝突原因となったことが明らかになった。  ",
-        "why_it_matters": "テスラのロボタクシーは自動運転技術の象徴的存在であり、遠隔操作の安全性や技術課題が自動運転普及を左右する。本件は自動運転車の安全性に対する社会的懸念と規制強化の議論を促すため重要である。  ",
-        "market_impact": "テスラのロボタクシーサービスにおける遠隔操作問題が明らかになったことで、投資家は自動運転技術の成熟度に対して慎重になる可能性がある。競合他社と比較してテスラの技術リスクが再認識され、中長期的には同社の成長見通しに影響を及ぼす可能性がある。  ",
-        "category": "Corporate",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/tesla-reveals-new-details-about-robotaxi-crashes-and-the-humans-involved/"
       }
     ]
   }
