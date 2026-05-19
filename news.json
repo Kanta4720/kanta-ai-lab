@@ -1,303 +1,304 @@
 {
-  "generated_at_jst": "2026-05-19 07:45",
+  "generated_at_jst": "2026-05-20 07:55",
   "todays_brief": [
     {
+      "title": "Fed to hike? When traders see a rate increase coming",
+      "summary_2lines": "トレーダーの間で2027年7月までに米連邦準備制度（Fed）が利上げを行う確率が64％に上昇している。中東情勢や米長期国債利回りの上昇に伴い、早ければ今年中の利上げも43％の可能性と見られている。",
+      "why_it_matters": "トランプ前大統領が利下げ志向のFed議長を指名したものの、経済指標やインフレ圧力の強まりにより利上げ観測が強まっている。特に30年国債利回りの急騰や中東の地政学リスクは金融政策の見通しに大きな影響を与え、市場と政策決定者にとって重要な指標となっている。",
+      "market_impact": "利上げ観測の高まりは債券利回りの上昇を促進し、企業の資金調達コスト増や株式市場のボラティリティを高める可能性がある。また、インフレ抑制のための金融引き締めは消費や投資活動に影響を及ぼし、景気動向にも大きく関与する。さらに、地政学リスクが長引けば原油価格の高止まりを通じてインフレ圧力が持続し、金融市場の不安定化を招く恐れがある。",
+      "category": "Economy",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/19/fed-to-hike-when-traders-see-a-rate-increase-coming.html"
+    },
+    {
       "title": "Nvidia earnings call drama: Will Jensen Huang talk 'Trump' and China chips after Xi summit?",
-      "summary_2lines": "Nvidiaが2024年第1四半期決算発表を控え、CEO黄仁勳の中国訪問や米中貿易問題、トランプ大統領の発言の有無に市場の注目が集まっている。特に中国向けH200チップの販売状況や関税問題、台湾やヒューマノイドロボット関連の言及可能性が注目されている。",
-      "why_it_matters": "世界最大のAI半導体企業であるNvidiaの決算は、米中間の技術貿易摩擦や地政学リスクを反映し、グローバルな半導体供給やAI産業の方向性を示すため重要。CEOがトランプ大統領と行動を共にしたことで経営判断や対中方針のヒントが得られるため、市場参加者は注視している。",
-      "market_impact": "Nvidiaの決算内容や経営コメントは半導体セクター全体の投資判断に影響を与えうる。特に中国市場向けのH200チップ販売許可問題や関税動向は収益見通しを左右し、台湾関連の言及減少は地政学リスクの低減期待を示唆。加えて、ヒューマノイドロボットの話題が出れば新たな成長分野として市場評価が変動する可能性がある。",
+      "summary_2lines": "Nvidiaが中国の習近平主席とトランプ前大統領のサミット後に決算発表を控え、関連する政治的・経済的テーマに言及する可能性が注目されている。特に中国市場でのH200チップ販売の不透明感や関税、台湾問題、さらに今年注力するロボット技術に関する発言が予測されている。",
+      "why_it_matters": "Nvidiaは世界有数のAI・半導体企業であり、その決算内容と経営陣の発言は半導体市場やグローバルサプライチェーンに大きな影響を与える。米中関係の緊張や貿易政策が企業業績に直結するため、政治的な言及の有無は投資家の注目ポイントとなっている。",
+      "market_impact": "中国でのH200チップ販売に関する不確実性や25%の輸入関税の話題がマーケットに波及する可能性がある。トランプ元大統領や台湾関連の言及が少ない見込みでも、NvidiaのAIおよびロボット分野への言及増加は技術革新期待を高め、株価のボラティリティに影響を与えるだろう。",
       "category": "Corporate",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html"
     },
     {
-      "title": "Faisal Islam: Burnham seeks to calm markets by committing to fiscal rules",
-      "summary_2lines": "グレーター・マンチェスター市長アンドリュー・バーンハムは政府の借入制限（財政ルール）を遵守すると明言し、市場の混乱を鎮静化させた。これにより英国の10年物国債利回りが低下し、債券市場の安定化に寄与した。",
-      "why_it_matters": "英国は財政ルールに基づき公的借入を抑制し、国の債務水準の悪化を防ごうとしている。バーンハムの発言は政治的不確実性が高まる中で市場の動揺を抑え、英国経済の信用力維持に重要な役割を果たす。また、IMFも財政ルールの堅持を求めるなど国際的な注目も集めている。",
-      "market_impact": "バーンハムが財政ルール遵守を表明したことで、英国債利回りが低下し、借入コストの上昇圧力が和らいだ。これは投資家の信頼を若干回復させ、市場のボラティリティ軽減に繋がった。一方で、今後の公共投資や増税など財政政策の選択肢が制約される可能性があり、中長期的には成長戦略との調整が求められる。",
-      "category": "Markets",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c0e2dl455d5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Oil climbs as Trump warns the ‘clock is ticking’ on Iran, but there’s a bigger danger lurking on the horizon",
-      "summary_2lines": "原油先物価格はトランプ大統領がイランに対し「時間が迫っている」と警告したことで上昇した。供給の緩衝材が失われることが、さらなる価格上昇の引き金になる可能性がある。",
-      "why_it_matters": "イランとの緊張が高まると原油供給の不安定化が懸念され、世界のエネルギー市場に大きな影響を及ぼす。特に、供給を安定させるための緩衝材が減少していることは原油価格の急騰リスクを増大させるため重要である。",
-      "market_impact": "原油価格の上昇はエネルギー関連企業の利益を押し上げる一方で、エネルギーコスト増加を通じて広範な経済にインフレ圧力をかける可能性がある。投資家は地政学リスクを織り込みつつポートフォリオの調整を迫られるだろう。",
-      "category": "Markets",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oil-climbs-as-trump-warns-the-clock-is-ticking-on-iran-but-theres-a-bigger-danger-lurking-on-the-horizon-9dfa8129?mod=mw_rss_topstories"
-    },
-    {
-      "title": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected",
-      "summary_2lines": "コンゴ民主共和国発のエボラ出血熱が急速に多国へ拡大し、WHOは国際的な公衆衛生緊急事態を宣言。感染者と死亡者が増加し、米国は渡航制限を実施した。",
-      "why_it_matters": "エボラは致死率が高く、特に今回の流行は治療法・ワクチンの未確立なバンディブジョ株によるため拡大リスクが高い。WHOの緊急事態宣言は国際社会に即時対応を促し、公衆衛生と経済活動に大きな影響を及ぼす可能性がある。",
-      "market_impact": "感染拡大を防ぐための渡航制限や人の移動制約により、地域経済や国際貿易が停滞するリスクが高まる。医療関連銘柄や安全保障関連企業は注目される一方、観光・輸送・消費分野にはマイナス影響が予想される。",
-      "category": "Geopolitics",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/"
-    },
-    {
-      "title": "AI super-apps are remaking China’s internet",
-      "summary_2lines": "中国のインターネットがAIスーパーアプリによって大きく変革されつつある。これにより、ユーザー体験の高度化と新たなビジネスモデルの創出が期待されている。",
-      "why_it_matters": "AIスーパーアプリの普及は、中国のデジタルエコシステムの中心的競争力を強化し、国際的なテック産業の勢力図に影響を与える可能性がある。特に、ユーザーの行動や消費パターンに変化をもたらし、企業間の競争環境も激化するため重要だ。",
-      "market_impact": "AIスーパーアプリの台頭により、中国のIT企業や関連サービス産業の成長が加速し、投資機会が増大する。一方で、既存のプラットフォームや広告市場には競争圧力が強まるため、短期的には業績の変動も予想される。",
+      "title": "Google to release first smart glasses since Google Glass flop",
+      "summary_2lines": "Googleが10年以上前のGoogle Glassの失敗を経て、新たなスマートグラスを秋に発売予定。小型カメラとスピーカーを搭載し、AI「Gemini」との連携が特徴で、Android・iOS両対応。",
+      "why_it_matters": "スマートグラス市場はMetaやSnap、Appleといった大手が競う成長領域であり、Googleの再参入は技術革新とユーザー体験の進化を促す重要な動き。プライバシー問題も依然として注目されており、産業全体の規制やユーザーの受け入れに影響を与える。",
+      "market_impact": "Googleの新スマートグラスは競合他社の製品と市場競争を激化させ、スマートグラス関連技術の開発投資やアプリケーションエコシステムの拡大を促進。これに伴い新たなハードウェア需要やAI連携サービスの成長が期待され、関連スタートアップやベンチャーへの資金流入も活性化する可能性がある。",
       "category": "Tech",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/05/17/ai-super-apps-are-remaking-chinas-internet"
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Google just declared itself a contender in AI design at IO 2026",
+      "summary_2lines": "GoogleはI/O 2026で、AI搭載のデザインアプリ『Pics』を発表。Google Workspaceに統合され、誰でも簡単に画像やデザインを生成・編集可能となる。",
+      "why_it_matters": "AI技術を活用したデザインツールは、ビジュアルコンテンツ作成の効率化を促進し、クリエイティブ市場での競争を激化させる。Googleの参入は、既存のデザインプラットフォームやAIネイティブ企業にとって脅威となり、AI活用の主流化を象徴している。",
+      "market_impact": "PicsのリリースはCanvaなどの既存デザインサービスに競争圧力を与え、AIデザイン分野でのシェア争いを加速させる。Google Workspaceとの連携も企業ユーザーの採用を促進し、ビジネスコミュニケーションやマーケティングのあり方に影響を与える可能性が高い。AIによる画像編集の高度化は新たな市場創出や投資機会も生むだろう。",
+      "category": "Tech",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/"
+    },
+    {
+      "title": "US authorities say missionary who contracted Ebola en route to Germany",
+      "summary_2lines": "米当局はエボラウイルスに感染した医療宣教師ピーター・スタッフォード氏が治療のためドイツに移送されると発表した。流行はコンゴ民主共和国やウガンダで拡大し、死者は134人以上に達している。",
+      "why_it_matters": "エボラウイルスの感染拡大は世界的な公衆衛生の脅威となっており、治療やワクチン供給の国際的協力が重要視されている。感染者の欧州移送や高リスク接触者の隔離は感染拡大防止策の一環であり、引き続き流行の動向に注目が必要だ。",
+      "market_impact": "直ちに広範な市場混乱は想定されないものの、感染拡大の長期化は医療関連株や製薬企業のワクチン・治療薬開発に注目を集める可能性がある。また、流行地域の経済活動停滞は地域市場にマイナス影響を及ぼす恐れがある。",
+      "category": "Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/19/us-authorities-say-missionary-who-contracted-ebola-en-route-to-germany?traffic_source=rss"
     }
   ],
   "categories": {
     "Tech": [
       {
-        "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
-        "summary_2lines": "カリフォルニアの陪審員は、イーロン・マスクのOpenAIとサム・アルトマンに対する訴訟を時効により却下した。マスクの非営利契約違反の主張は認められず、マイクロソフトに対する訴えも棄却された。",
-        "why_it_matters": "この訴訟は、OpenAIの非営利から営利企業への転換過程の透明性や倫理性が問われており、AI業界の健全な発展や投資家・寄付者の権利保護に関わる重要判例となる。マスクとOpenAI、テック業界の巨頭間の緊張関係も注目されている。",
-        "market_impact": "OpenAIおよび提携するマイクロソフトへの信頼は陪審判断で大きく揺るがず、AI投資環境の安定に寄与する。一方、マスクが提起した訴訟の失敗は彼の法的影響力の減少を示し、テック業界の競争構図に一定の影響を与えうる。",
+        "title": "Google to release first smart glasses since Google Glass flop",
+        "summary_2lines": "Googleが10年以上前のGoogle Glassの失敗を経て、新たなスマートグラスを秋に発売予定。小型カメラとスピーカーを搭載し、AI「Gemini」との連携が特徴で、Android・iOS両対応。",
+        "why_it_matters": "スマートグラス市場はMetaやSnap、Appleといった大手が競う成長領域であり、Googleの再参入は技術革新とユーザー体験の進化を促す重要な動き。プライバシー問題も依然として注目されており、産業全体の規制やユーザーの受け入れに影響を与える。",
+        "market_impact": "Googleの新スマートグラスは競合他社の製品と市場競争を激化させ、スマートグラス関連技術の開発投資やアプリケーションエコシステムの拡大を促進。これに伴い新たなハードウェア需要やAI連携サービスの成長が期待され、関連スタートアップやベンチャーへの資金流入も活性化する可能性がある。",
         "category": "Tech",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Google just declared itself a contender in AI design at IO 2026",
+        "summary_2lines": "GoogleはI/O 2026で、AI搭載のデザインアプリ『Pics』を発表。Google Workspaceに統合され、誰でも簡単に画像やデザインを生成・編集可能となる。",
+        "why_it_matters": "AI技術を活用したデザインツールは、ビジュアルコンテンツ作成の効率化を促進し、クリエイティブ市場での競争を激化させる。Googleの参入は、既存のデザインプラットフォームやAIネイティブ企業にとって脅威となり、AI活用の主流化を象徴している。",
+        "market_impact": "PicsのリリースはCanvaなどの既存デザインサービスに競争圧力を与え、AIデザイン分野でのシェア争いを加速させる。Google Workspaceとの連携も企業ユーザーの採用を促進し、ビジネスコミュニケーションやマーケティングのあり方に影響を与える可能性が高い。AIによる画像編集の高度化は新たな市場創出や投資機会も生むだろう。",
+        "category": "Tech",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/"
       },
       {
         "title": "AI super-apps are remaking China’s internet",
-        "summary_2lines": "中国のインターネットがAIスーパーアプリによって大きく変革されつつある。これにより、ユーザー体験の高度化と新たなビジネスモデルの創出が期待されている。",
-        "why_it_matters": "AIスーパーアプリの普及は、中国のデジタルエコシステムの中心的競争力を強化し、国際的なテック産業の勢力図に影響を与える可能性がある。特に、ユーザーの行動や消費パターンに変化をもたらし、企業間の競争環境も激化するため重要だ。",
-        "market_impact": "AIスーパーアプリの台頭により、中国のIT企業や関連サービス産業の成長が加速し、投資機会が増大する。一方で、既存のプラットフォームや広告市場には競争圧力が強まるため、短期的には業績の変動も予想される。",
+        "summary_2lines": "中国のインターネットはAIスーパ―アプリの台頭により大きく変革している。これらのアプリは利用者の多様なニーズを一つのプラットフォームで実現し、新たなエージェント時代を迎えている。",
+        "why_it_matters": "AIスーパ―アプリはユーザー体験を革新し、中国のデジタル経済の競争力強化に貢献する。政府の技術振興政策と連動し、国内外でのテック覇権争いに影響を与える可能性がある。",
+        "market_impact": "これにより中国の主要テック企業は収益ポートフォリオの多様化が進み、ユーザーロイヤルティ強化や新規収益源の創出が期待される。投資家にとっては中国ITセクターの成長機会を示唆し、関連銘柄の株価上昇も見込まれる。",
         "category": "Tech",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/05/17/ai-super-apps-are-remaking-chinas-internet"
       },
       {
         "title": "The strange Japanese companies minting money from AI",
-        "summary_2lines": "MSGの創業者と世界最大のトイレ製造会社が、AI技術を活用して新たな収益源を創出している。日本の異色の企業がAIを活用し、伝統的事業を超えた収益多様化を進めている事例を示す。",
-        "why_it_matters": "AI技術が単なるIT企業だけでなく、伝統的産業にも浸透し、関連企業の収益構造を変えつつあることを示している。特に日本企業が独自の強みを活かし、世界的なAIブームに乗り遅れずビジネスチャンスを掴む重要な兆候である。",
-        "market_impact": "これら企業の成功は、日本市場のAI関連銘柄への投資機運を高め、他企業のAI導入加速を促す可能性がある。さらに、異業種間の技術融合によるイノベーション拡大や競争力強化が進むことで、日本企業全体の国際競争力向上に寄与すると予想される。",
+        "summary_2lines": "日本の意外な企業がAI技術を活用し、大きな収益を上げている。MSGの製造者やトイレ大手など多様な業種がAIで収益化を実現している事例を紹介。",
+        "why_it_matters": "AIの普及が進む中、従来はテクノロジー企業以外がAIを活用して収益を生み出す事例が増加している。日本企業の多様な業態でのAI活用は技術革新の波と新ビジネスモデルの創出を示すため注目される。",
+        "market_impact": "これら企業のAI活用成功は他業界への波及効果を促進し、関連テクノロジー株や投資家の関心を高める可能性がある。日本国内の産業構造変化や新たなサービス開発にも影響を与えるだろう。",
         "category": "Tech",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/05/14/the-strange-japanese-companies-minting-money-from-ai"
       },
       {
-        "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-        "summary_2lines": "SandboxAQは、製薬や素材科学の研究者が専門知識なしで使える対話型AIインターフェース上で、物理法則に基づく量子化学シミュレーションモデルを提供。AnthropicのClaudeと連携し、薬剤開発のコストと時間の削減を目指す。",
-        "why_it_matters": "薬物発見は時間と費用が膨大で失敗率も高い分野であり、従来は専門的な技術インフラが必要だった。SandboxAQの対話型インターフェースは技術の敷居を下げ、より多くの研究者が先端的な物理ベースAIモデルを活用できるため、革新的な研究開発効率化が期待される。",
-        "market_impact": "SandboxAQが提供するLQMモデルの手軽な利用環境が広がることで、製薬・素材業界の研究開発プロセスが効率化し、新薬や新材料の市場投入が加速。結果として巨大な$50兆超の量的経済セクターにおける競争環境や成長機会に影響を与え、関連企業の投資価値や市場戦略にも波及すると見られる。",
+        "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+        "summary_2lines": "GoogleはGmailに対話型AI機能『Gmail Live』を導入し、自然言語でメール内容の検索や問い合わせが可能に。音声操作にも対応し、今年夏から一部の有料ユーザーに展開する予定。",
+        "why_it_matters": "この機能は膨大なメール情報から必要な情報を素早く見つけ出す課題をAIで解決し、ユーザーの利便性を大幅に向上させる。AI技術の実用的な応用例として、AIへの懐疑や抵抗感がある中でも消費者の日常生活に根付かせる狙いがある。",
+        "market_impact": "GoogleのAI搭載製品強化は競合するAIチャットツールやメールサービスとの差別化を促進し、企業のサブスクリプション収益拡大にも寄与。ユーザーのAI技術受容が進めば広告収入増加やクラウドサービス利用拡大にも波及する可能性が高い。",
         "category": "Tech",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/"
+        "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/"
       },
       {
-        "title": "These 11 Automatic Cat Feeders Were the Best We Tested in 2026",
-        "summary_2lines": "2026年版の最良の自動猫用給餌器11製品を比較評価し、Wi-Fi接続やAI搭載モデルなど最新技術搭載の製品を紹介。低価格のシンプルモデルから多機能なスマートフィーダーまで幅広く解説している。",
-        "why_it_matters": "自動給餌器はペットの健康管理や親の負担軽減に寄与し、ペットの飼育環境に革新をもたらしている。特にIoTやAI技術の応用が進み、遠隔での給餌や食習慣のモニタリングが可能となってペットケアの質が向上しているため重要。",
-        "market_impact": "ペット関連市場におけるスマート家電の需要拡大を示しており、IoTやAI技術を活用した新製品開発が競争を激化させる。低価格帯の製品も含め多様な選択肢が市場を広げ、飼い主層の裾野拡大に繋がる可能性が高い。",
+        "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
+        "summary_2lines": "GoogleがI/O 2026で新型AIモデルGemini 3.5やジェネレーティブAIによる検索機能、音声編集対応のスマートグラスなどを発表。AIを全サービスに統合し、ユーザー体験を革新することを目指す。  ",
+        "why_it_matters": "GoogleはAI技術を軸に検索やYouTube、ドキュメント作成まで幅広く製品群を強化し、ユーザーのデジタル生活をよりシームレスかつ効率的に変革しようとしている。特にジェネレーティブAIの実用化が一般消費者へのAI浸透を加速させ、市場競争の構図に大きな影響を与えるタイミングでの発表であるため注目される。",
+        "market_impact": "GoogleがAIを全サービスに組み込み、広告やクラウド事業の収益拡大の可能性を高めることで、テック市場全体のAIへの投資が活発化すると予想される。また、スマートグラスなど新たなハードウェア製品の展開はAR/VR市場に刺激を与え、競合他社も追随を強いられる可能性が高い。これらの動きはGoogleの事業多角化と成長戦略を加速させ、株価や関連市場にポジティブな影響をもたらすと見られる。",
         "category": "Tech",
         "source": "Wired",
-        "url": "https://www.wired.com/gallery/best-automatic-cat-feeders/"
+        "url": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/"
       },
       {
-        "title": "Leica Cine Play 1 Review: Pricey but Worth Every Penny",
-        "summary_2lines": "Leicaの新型短焦点レーザープロジェクターCine Play 1は高価格ながら鮮やかな色彩と高画質で映画鑑賞に最適。Hisenseとの初の共同開発製品で、高級カメラの技術が投影性能に活かされている。",
-        "why_it_matters": "高級カメラブランドのLeicaがホームシネマ市場に参入し、技術的優位性を持つレーザープロジェクターを提供することで、プレミアム市場に新たな競争をもたらす。映像体験の質を求める消費者ニーズの高まりを背景に、映像機器業界の製品差別化やブランド戦略の重要性が増している。",
-        "market_impact": "Leicaの映像機器市場参入は、SonyやEpsonなど既存大手プロジェクターメーカーへの競争圧力を強める可能性がある。高価格帯ながら独自の光学技術を持つ製品が消費者の関心を引きつけることで、プレミアムホームシアター市場の活性化につながり、関連企業の製品開発や価格戦略にも影響を与えるだろう。",
-        "category": "Tech",
-        "source": "Wired",
-        "url": "https://www.wired.com/review/review-leica-cine-play-1/"
-      },
-      {
-        "title": "Legal fail: Don’t use AI to sue Facebook users for calling you a bad date",
-        "summary_2lines": "Metaの批判投稿削除を求めた訴訟が、AIによる偽造法的根拠の疑いで退けられた。AI活用と謳う法律事務所の戦略が司法に受け入れられなかった事例。",
-        "why_it_matters": "AIの導入が法的手続きや弁護士の戦略に変革をもたらすと期待される中で、技術頼みの訴訟手法の限界とリスクが明らかになった。特に大手プラットフォームに対するSection 230条項の法的防御は依然強固であり、AIのみで対抗することの難しさを示す重要なケースだ。",
-        "market_impact": "AI活用を掲げるリーガルテックの信用に対する疑念が強まり、投資家や顧客の慎重姿勢が増す可能性がある。Metaなどプラットフォーム企業の法的地位が確認されたことで、同社の株価やテック株全般の安定感に繋がる可能性もあるが、AIの実用化と信頼構築に課題も浮き彫りとなった。",
+        "title": "FBI seeks US-wide access to license plate cameras, wants \"data in near real time\"",
+        "summary_2lines": "FBIが全米のナンバープレート読み取りカメラへのリアルタイムに近いアクセス権を取得するため、新たに契約先を募集すると発表。75%以上の地域カバーと多様な検索機能を備えたシステムの導入を目指している。",
+        "why_it_matters": "この動きは、FBIが犯罪捜査やテロ対策などの治安維持強化のために広範囲かつ即時性の高い交通情報取得を目指していることを示している。公共・民間の監視技術の連携強化により、個人の監視やプライバシー問題、技術の進展と適正利用の議論が加速する可能性がある。",
+        "market_impact": "関連技術を持つ監視機器メーカーやデータプラットフォーム提供企業には大規模な契約機会が生まれることで売上増加が期待される。一方、プライバシー規制強化や社会的反発が高まれば、市場での技術採用や拡大に制約が生じるリスクもある。",
         "category": "Tech",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/"
+        "url": "https://arstechnica.com/tech-policy/2026/05/fbi-seeks-us-wide-access-to-license-plate-cameras-wants-data-in-near-real-time/"
       },
       {
-        "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-        "summary_2lines": "GitHubのパブリックリポジトリでAIボットによるスパム投稿が急増し、開発環境が荒らされたため、commitのauthor情報を使い事前貢献者以外のコメントやPRを制限する対策を導入した。これにより、質の高いオープンソース貢献環境の維持を目指している。",
-        "why_it_matters": "AI技術の発展に伴い、オープンソースコミュニティにAIボットが大量に無意味なコメントやPRを送りつけ、開発現場のノイズが増大。これが正当な貢献者の作業や意欲を阻害し、オープンソースの健全な成長を脅かしている。対処策はオープンソースの品質維持と健全なコミュニティ運営にとって今後の指針となる。",
-        "market_impact": "オープンソースプラットフォームの健全性が維持されなければ、開発効率低下や優秀なエンジニアの離脱を招き、テック企業のプロダクト開発やイノベーションに悪影響が出る可能性がある。GitHubや関連サービスにも信頼性維持のための運営方針強化圧力が高まり、競争環境やサービス価値にも影響し得る。",
+        "title": "Gemini 3.5 Flash",
+        "summary_2lines": "Googleは最新AIモデルファミリー「Gemini 3.5」を発表し、その第一弾「3.5 Flash」をリリース。高速かつ高性能なコード生成と長期的なタスク遂行能力を持ち、幅広いユーザーと企業に提供される。",
+        "why_it_matters": "Gemini 3.5 Flashは、AIエージェントとコーディング性能で従来モデルを大きく上回り、リアルワールドでの複雑な長期タスクを効率的に処理できる。この進化は業務効率化やコスト削減に直結し、AI活用の新たなスタンダードを提示するため、技術革新の重要なマイルストーンとなる。",
+        "market_impact": "数十億ユーザーと大量の開発者、企業に向けて即時提供されることで、AI搭載製品やサービスの競争力が強化される。特に金融、ソフトウェア開発、データ分析分野での自動化推進により運用コストの低減と生産性向上が期待され、AI市場および関連企業の成長を加速させる可能性が高い。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://archestra.ai/blog/only-responsible-ai"
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"
       },
       {
-        "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-        "summary_2lines": "この記事はCommon Lisp、Racket、Clojure、Emacs Lispの各Lisp方言の基本文法、実行方法、識別子の扱い、変数の宣言・削除等の比較リファレンスを提供している。各言語のREPL利用法やコメント記法などの詳細も紹介されている。",
-        "why_it_matters": "Lisp言語群はプログラミング言語設計やAI研究などで重要な役割を果たしており、多様なLisp方言の違いや特徴を理解することは、開発効率向上とコード移植性の観点から意義が大きい。開発者や研究者が複数のLisp環境を横断的に活用する際の指針となるため重要である。",
-        "market_impact": "本記事はテクニカルな言語比較資料であり、直接的な金融市場や経済への影響は限定的だが、Lispを基盤にしたAIや自動化ソリューションの開発支援に資すると長期的にはテック企業の技術競争力向上に寄与しうる。また、開発者教育や言語普及に間接的な効果が期待される。",
+        "title": "\"I'll buy 10 of those\"—NASA science chief yearns for mass-produced satellites",
+        "summary_2lines": "NASAの科学ミッション予算は現状維持のまま、従来の大型ミッションよりも低コストで多数の探査機打ち上げを目指す方針に転換。NASA長官アイザックマンは10機の1億ドル規模ミッションを優先したい意向を示している。",
+        "why_it_matters": "民間ロケット技術の進展により宇宙アクセスが拡大している中、NASAは効率的かつ迅速なミッション遂行を求められている。予算が大幅に増えないなかで、小型で数多くのミッションを展開する戦略は、宇宙科学の発展と米国の宇宙競争力維持に直結する。",
+        "market_impact": "SpaceXをはじめとした商業ロケット市場の需要増が期待され、低コストでの多数打ち上げ戦略は宇宙関連産業の成長を後押しする可能性が高い。一方、大型プロジェクトが減ることで一部受注企業の売上に影響が出る可能性もあるが、中長期的な市場拡大に寄与する。",
+        "category": "Tech",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/space/2026/05/ill-buy-10-of-those-nasa-science-chief-yearns-for-mass-produced-satellites/"
+      },
+      {
+        "title": "Google changes its search box",
+        "summary_2lines": "Googleは検索ボックスを25年ぶりにAI搭載で全面刷新し、最新のGemini 3.5 Flashモデルを搭載したAIモードを全世界へ展開開始。さらに、常時稼働の情報エージェントや予約代行機能など新機能も追加した。",
+        "why_it_matters": "検索の利便性向上はユーザーの情報接触体験を根本的に変化させ、Googleの検索プラットフォームの競争力をさらに強化する動き。AI技術の深化により、単なる検索からパーソナライズ・自動化された情報収集・行動支援へ進化し、ユーザーニーズの多様化に対応するため重要な一歩である。",
+        "market_impact": "GoogleによるAI強化検索の展開は、検索広告市場の活性化やデジタルマーケティング手法の変革を促進。競合の検索サービスやAI企業にもプレッシャーをかけ、AI対応機能の差別化競争を激化させる可能性が高い。またエージェントサービスはサブスクリプション収益拡大に寄与し、新たな収益源創出が期待される。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://hyperpolyglot.org/lisp"
+        "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/"
+      },
+      {
+        "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+        "summary_2lines": "『Virtual OS Museum』はQEMUやVirtualBox上で歴史的なOSをエミュレーションし、主要からマイナーまで幅広いOSを手軽に体験可能とした仮想博物館。最新のノートPCやデスクトップ上で設定不要で動作し、OSの歴史的変遷を追体験できる。",
+        "why_it_matters": "このプロジェクトは、膨大な歴史的OSを一元的にエミュレーション環境として提供することで、技術研究者や教育者、レトロコンピューティング愛好家にとって貴重な資料・ツールとなる。OSの発展や多様性の理解を促進し、技術文化保存の一助となる点で意義深い。",
+        "market_impact": "直接的な商用市場への即時影響は限定的だが、IT教育分野やレトロゲーミング市場など、エミュレーション関連の技術・サービス需要増加に寄与する可能性がある。またOSや仮想化技術への関心喚起が、新規開発や研究投資の活性化を間接的に促す効果も期待できる。",
+        "category": "Tech",
+        "source": "Hacker News",
+        "url": "https://virtualosmuseum.org/"
+      },
+      {
+        "title": "Here’s why Astera Labs’ stock just staged a big gain",
+        "summary_2lines": "Astera Labsが新しいスイッチの確実な開発スケジュールと光ネットワーキング分野での収益機会を示唆し、株価が大幅に上昇した。投資家はこれらの成長期待を好感した。",
+        "why_it_matters": "Astera Labsは高速データ通信に重要な光ネットワーキング技術を強化しており、新製品の開発計画が明確になることは同社の成長期待を高める要因となる。これにより、半導体・通信インフラ分野での競争力向上と今後の収益基盤強化が期待される。",
+        "market_impact": "同社の株価上昇は、半導体関連市場やテクノロジー株全般にプラスのシグナルとなりうる。Astera Labsの成長に伴い光ネットワーク技術への投資が活発化し、関連企業やサプライチェーンにも波及効果が見込まれる。",
+        "category": "Tech",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/heres-why-astera-labs-stock-just-staged-a-big-gain-ddb2139b?mod=mw_rss_topstories"
+      },
+      {
+        "title": "How to use Google’s new AI agents to go beyond your standard searches",
+        "summary_2lines": "Googleは、ユーザーが複数のAIエージェントを作成・管理し、継続的に関心のある情報を自動で追跡できる新機能を発表。従来の検索より進化した対話型で背景で動くエージェントが夏から限定的に提供開始される。",
+        "why_it_matters": "この新しいエージェント機能は検索のあり方を根本から変え、単発の検索や通知を超えた継続的で文脈を理解した情報提供を実現。情報取得の効率化や個人化を大幅に進め、AI活用の次の段階へと進む重要な一歩となる。",
+        "market_impact": "Googleの強力なAI検索エージェントの導入は、従来の検索サービスに競争優位をもたらし、広告収益やサブスクリプション収入の拡大に貢献。個人投資家の市場情報収集の変化や、関連するAI・検索技術開発企業の株価に刺激を与える可能性が高い。",
+        "category": "Tech",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/"
       }
     ],
     "Markets": [
       {
-        "title": "Warren Buffett teased to CNBC a ‘tiny purchase’ in March. Berkshire filing may have revealed it",
-        "summary_2lines": "ウォーレン・バフェットは3月に「小さな買い物」と発言したが、バークシャー・ハサウェイがマシーズ株に約5500万ドルのポジションを新たに取得したことが規制当局への報告で判明した。バフェットは依然として積極的に投資決定に関与している。",
-        "why_it_matters": "バークシャーの巨額ポートフォリオにおける“わずかな”新規投資が明らかになったことで、バフェットの投資戦略の変化や市場環境に対する慎重な姿勢が浮き彫りになった。加えてCEO交代後もバフェット本人が投資判断に深く関与していることは投資家に安心感を与える。",
-        "market_impact": "約5500万ドルのマシーズ投資はバークシャー全体からみて小規模だが、バフェットの動向に市場が注目するため、同銘柄や関連小売株への期待感や警戒感が一時的に高まる可能性がある。また、大規模なデルタ航空株取得も航空業界に一定の好材料となる。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/18/warren-buffett-teased-to-cnbc-a-tiny-purchase-in-march-berkshire-filing-may-have-revealed-it.html"
-      },
-      {
-        "title": "Faisal Islam: Burnham seeks to calm markets by committing to fiscal rules",
-        "summary_2lines": "グレーター・マンチェスター市長アンドリュー・バーンハムは政府の借入制限（財政ルール）を遵守すると明言し、市場の混乱を鎮静化させた。これにより英国の10年物国債利回りが低下し、債券市場の安定化に寄与した。",
-        "why_it_matters": "英国は財政ルールに基づき公的借入を抑制し、国の債務水準の悪化を防ごうとしている。バーンハムの発言は政治的不確実性が高まる中で市場の動揺を抑え、英国経済の信用力維持に重要な役割を果たす。また、IMFも財政ルールの堅持を求めるなど国際的な注目も集めている。",
-        "market_impact": "バーンハムが財政ルール遵守を表明したことで、英国債利回りが低下し、借入コストの上昇圧力が和らいだ。これは投資家の信頼を若干回復させ、市場のボラティリティ軽減に繋がった。一方で、今後の公共投資や増税など財政政策の選択肢が制約される可能性があり、中長期的には成長戦略との調整が求められる。",
-        "category": "Markets",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c0e2dl455d5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Oil climbs as Trump warns the ‘clock is ticking’ on Iran, but there’s a bigger danger lurking on the horizon",
-        "summary_2lines": "原油先物価格はトランプ大統領がイランに対し「時間が迫っている」と警告したことで上昇した。供給の緩衝材が失われることが、さらなる価格上昇の引き金になる可能性がある。",
-        "why_it_matters": "イランとの緊張が高まると原油供給の不安定化が懸念され、世界のエネルギー市場に大きな影響を及ぼす。特に、供給を安定させるための緩衝材が減少していることは原油価格の急騰リスクを増大させるため重要である。",
-        "market_impact": "原油価格の上昇はエネルギー関連企業の利益を押し上げる一方で、エネルギーコスト増加を通じて広範な経済にインフレ圧力をかける可能性がある。投資家は地政学リスクを織り込みつつポートフォリオの調整を迫られるだろう。",
+        "title": "These charts offer a warning to the next generation — a new era of higher Treasury yields may be coming",
+        "summary_2lines": "トレジャリー（米国債）利回りが今後大幅に上昇する可能性を示す「ペナント」チャートパターンが示されています。利回りの上昇は経済や市場に大きな影響を与えるリスクがあります。",
+        "why_it_matters": "米国債利回りは金融市場の基準金利として機能しており、上昇すれば借入コストの増加や株式市場の調整圧力となるため、投資家や企業、政策決定者にとって重要な指標です。現在の利回りの動向は今後の経済環境を占う上でも関心が高まっています。",
+        "market_impact": "利回り上昇は株式市場の下落リスクを高め、企業の借入コストを押し上げ、消費や投資を抑制する可能性があります。一方で債券市場は利回り変動に敏感で、ポートフォリオの調整が迫られるでしょう。長期的には金融政策やインフレ期待にも影響を与えるため、経済全体に波及効果があります。",
         "category": "Markets",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/oil-climbs-as-trump-warns-the-clock-is-ticking-on-iran-but-theres-a-bigger-danger-lurking-on-the-horizon-9dfa8129?mod=mw_rss_topstories"
-      },
-      {
-        "title": "ServiceNow’s stock notches best day in a year — flashing a green light for the software sector",
-        "summary_2lines": "ServiceNowの株価が過去1年で最高の上昇を記録し、ソフトウェアセクター全体の注目度が高まっている。アプリケーションソフトウェア株に対するウォール街の関心が強まっていることを示している。",
-        "why_it_matters": "ServiceNowはクラウドベースのITサービス管理のリーダーであり、その好調な株価はソフトウェアセクターの成長期待と投資家心理の改善を反映している。テクノロジー分野の重要企業が好調な動きを見せることは、業界全体の収益拡大や新規投資の促進につながる。",
-        "market_impact": "ServiceNowの株価上昇は、同セクターの他企業の株価にもポジティブな影響を与え、ソフトウェア関連株の買いを促す可能性がある。これにより、テクノロジー株の資金流入が加速し、投資家のリスク志向を高めることが期待される。結果として、テックセクターの市場活性化や時価総額の拡大に寄与する。",
-        "category": "Markets",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/servicenows-stock-heads-for-best-day-in-a-year-flashing-a-green-light-for-the-software-sector-2d916cfd?mod=mw_rss_topstories"
+        "url": "https://www.marketwatch.com/story/these-charts-offer-a-warning-to-the-next-generation-a-new-era-of-higher-rates-may-be-coming-ee913d36?mod=mw_rss_topstories"
       }
     ],
     "Geopolitics": [
       {
-        "title": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected",
-        "summary_2lines": "コンゴ民主共和国発のエボラ出血熱が急速に多国へ拡大し、WHOは国際的な公衆衛生緊急事態を宣言。感染者と死亡者が増加し、米国は渡航制限を実施した。",
-        "why_it_matters": "エボラは致死率が高く、特に今回の流行は治療法・ワクチンの未確立なバンディブジョ株によるため拡大リスクが高い。WHOの緊急事態宣言は国際社会に即時対応を促し、公衆衛生と経済活動に大きな影響を及ぼす可能性がある。",
-        "market_impact": "感染拡大を防ぐための渡航制限や人の移動制約により、地域経済や国際貿易が停滞するリスクが高まる。医療関連銘柄や安全保障関連企業は注目される一方、観光・輸送・消費分野にはマイナス影響が予想される。",
-        "category": "Geopolitics",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/"
-      },
-      {
-        "title": "Is the US trying to force regime change in Cuba?",
-        "summary_2lines": "アメリカはキューバへの石油供給を停止し、電力不足を引き起こす中、政権交代を促すための支援を条件付きで提供している。キューバの将来をアメリカが支配しようとする動きが続いている。",
-        "why_it_matters": "冷戦時代から続く米キューバ関係の緊張が再燃し、エネルギー供給の停止によりキューバ国内の社会・経済の不安定化が進んでいる。国際的な影響や地域の安定性に関わる重大な地政学的リスクを示しているため重要である。",
-        "market_impact": "米国の対キューバ制裁強化は中南米のエネルギー市場に影響を及ぼし、特に石油供給の途絶が地域のエネルギー価格を不安定化させる可能性がある。加えて、地政学リスクの高まりにより投資家のリスク回避姿勢が強まる恐れがある。",
+        "title": "US authorities say missionary who contracted Ebola en route to Germany",
+        "summary_2lines": "米当局はエボラウイルスに感染した医療宣教師ピーター・スタッフォード氏が治療のためドイツに移送されると発表した。流行はコンゴ民主共和国やウガンダで拡大し、死者は134人以上に達している。",
+        "why_it_matters": "エボラウイルスの感染拡大は世界的な公衆衛生の脅威となっており、治療やワクチン供給の国際的協力が重要視されている。感染者の欧州移送や高リスク接触者の隔離は感染拡大防止策の一環であり、引き続き流行の動向に注目が必要だ。",
+        "market_impact": "直ちに広範な市場混乱は想定されないものの、感染拡大の長期化は医療関連株や製薬企業のワクチン・治療薬開発に注目を集める可能性がある。また、流行地域の経済活動停滞は地域市場にマイナス影響を及ぼす恐れがある。",
         "category": "Geopolitics",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/is-the-us-trying-to-force-regime-change-in-cuba?traffic_source=rss"
+        "url": "https://www.aljazeera.com/news/2026/5/19/us-authorities-say-missionary-who-contracted-ebola-en-route-to-germany?traffic_source=rss"
       },
       {
-        "title": "A redistricting re-do? What to know about Alabama’s primary elections",
-        "summary_2lines": "アラバマ州で赤istrictingの再実施に伴い、8月に特別予備選挙が予定されている。現行の州知事は2026年の再選不可で、代替候補者を巡る多様な予備選が注目されている。",
-        "why_it_matters": "このニュースは、米国中間選挙に向けて共和党が議会の支配を維持しようと赤istrictingを推進している重要な政治的動向を示している。最高裁判決により人種的に民主党支持層を一つの選挙区に集約する地図が認められたことで、選挙結果に大きく影響を与える可能性がある。",
-        "market_impact": "政治的な不確実性が高まることで地元企業の投資判断や州の経済政策に影響を及ぼす可能性がある。また、共和党優勢の州政策は規制緩和や税政策に影響し、特定産業への追い風となる可能性があるが、一方で社会政策の過激さが社会的対立や不安定化を招くリスクもある。",
+        "title": "US to let DR Congo football team in for World Cup despite Ebola restrictions",
+        "summary_2lines": "米国はエボラ出血熱に伴う入国制限に例外を設け、コンゴ民主共和国代表サッカーチームのワールドカップ参加を認めた。一般のコンゴ出身の観客にはこの例外は適用されない。",
+        "why_it_matters": "エボラ出血熱の感染拡大防止のため米国は一部アフリカ3カ国からの渡航者を制限しているが、世界的スポーツイベントの重要性から例外措置を講じた。これは感染症対策と国際的な外交調整のバランスを示す事例である。",
+        "market_impact": "直接的な市場への影響は限定的だが、パンデミック時の国際イベント運営の柔軟性や渡航制限の例外措置は、スポーツ関連産業や渡航・観光セクターに対して一部プラス材料となる可能性がある。また同様の措置が他国でのイベントにも波及する可能性があり、関連企業のリスク評価に影響を与える可能性がある。",
         "category": "Geopolitics",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/5/18/a-redistricting-re-do-what-to-know-about-alabamas-primary-elections?traffic_source=rss"
+        "url": "https://www.aljazeera.com/sports/2026/5/19/us-to-let-dr-congo-team-in-for-world-cup-despite-ebola-restrictions?traffic_source=rss"
       }
     ],
-    "Economy": [],
+    "Economy": [
+      {
+        "title": "Supermarkets urged to limit food prices by government",
+        "summary_2lines": "英国政府はスーパーに主要食品の価格凍結を自発的に求め、規制緩和と引き換えに価格抑制を促している。業界側からは反発の声が強く、政府は詳細発表を控えている段階。",
+        "why_it_matters": "食品価格の上昇が家計負担を圧迫する中、政府は価格抑制策で生活費の高騰を抑えようとしている。一方、業界はコスト増加の根本要因解決が必要と反発し、食品価格とインフレの今後の動向に影響を与える重要な政策提案であるため。",
+        "market_impact": "価格凍結が実施されれば、スーパーマーケットの利益率低下や損失発生のリスクが高まる。価格上昇圧力が続く場合は供給網コストや労働賃金上昇が圧迫され、消費者物価の動向やインフレ率にも影響を与える可能性がある。業界の競争環境も価格規制を巡り変化が予想される。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Fed to hike? When traders see a rate increase coming",
+        "summary_2lines": "トレーダーの間で2027年7月までに米連邦準備制度（Fed）が利上げを行う確率が64％に上昇している。中東情勢や米長期国債利回りの上昇に伴い、早ければ今年中の利上げも43％の可能性と見られている。",
+        "why_it_matters": "トランプ前大統領が利下げ志向のFed議長を指名したものの、経済指標やインフレ圧力の強まりにより利上げ観測が強まっている。特に30年国債利回りの急騰や中東の地政学リスクは金融政策の見通しに大きな影響を与え、市場と政策決定者にとって重要な指標となっている。",
+        "market_impact": "利上げ観測の高まりは債券利回りの上昇を促進し、企業の資金調達コスト増や株式市場のボラティリティを高める可能性がある。また、インフレ抑制のための金融引き締めは消費や投資活動に影響を及ぼし、景気動向にも大きく関与する。さらに、地政学リスクが長引けば原油価格の高止まりを通じてインフレ圧力が持続し、金融市場の不安定化を招く恐れがある。",
+        "category": "Economy",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/19/fed-to-hike-when-traders-see-a-rate-increase-coming.html"
+      },
+      {
+        "title": "California’s Wildfire Season Is Already Overactive",
+        "summary_2lines": "カリフォルニア州で5月にしてすでに大規模な山火事が発生し、約41,000エーカーが焼失。絶滅危惧種のトーリーパインの生息地も被害を受けているが、最悪の状況は回避されそうだ。 早期の大規模火災は記録的な高温と雪解け減少に起因しており、西部地域全体の過酷な山火事シーズンの到来を示唆している。",
+        "why_it_matters": "カリフォルニア州の山火事はインフラや希少植物の生態系に甚大な被害をもたらすだけでなく、気候変動による異常気象の影響が顕著だ。これらの火災は地域社会の安全や環境保護、経済活動にも深刻な影響を及ぼし、将来的な自然災害対策の必要性を浮き彫りにしている。",
+        "market_impact": "山火事の激化は保険業界における損失リスクの増大、エネルギー供給の不安定化、観光業の落ち込みを招く可能性がある。また、農業・林業関連企業の収益悪化や災害復旧関連の需要増加をもたらし、地域経済全体に波及効果を及ぼすと予想される。これにより、関連株式や保険料率にも影響が及ぶ可能性がある。",
+        "category": "Economy",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/californias-wildfire-season-already-overactive/"
+      },
+      {
+        "title": "Buckle up for $120 oil changes. Why car care is about to get more expensive.",
+        "summary_2lines": "車のメンテナンス費用が上昇し、例えばオイル交換が120ドルに達する。整備を先延ばしにすると、後々より高額な修理につながるリスクがある。",
+        "why_it_matters": "燃料費や部品コストの上昇、また物流の問題などが車の維持費を押し上げている。これによりドライバーは日常的なメンテナンスを躊躇しがちで、結果的に車両寿命の短縮や事故リスク増大が懸念されるため重要な問題である。",
+        "market_impact": "整備関連サービスや自動車部品メーカーの需要増加、一方で消費者のメンテナンス回避による長期的な新車販売への影響も予想される。サービス価格の上昇はインフレ圧力にもつながり、経済全体の消費動向に影響を与える可能性がある。",
+        "category": "Economy",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/buckle-up-for-120-oil-changes-why-car-care-is-about-to-get-more-expensive-c542615c?mod=mw_rss_topstories"
+      },
+      {
+        "title": "Thousands of protesters demand president’s resignation in Bolivia’s La Paz",
+        "summary_2lines": "ボリビアのラパスで数千人の抗議者が大統領の辞任を要求し、経済危機と燃料価格高騰に抗議しています。暴力衝突や多数の拘束者が出るなど社会不安が激化しています。",
+        "why_it_matters": "ボリビアは40年ぶりの深刻な経済危機に直面し、インフレや生活費高騰が国民の不満を高めています。大統領の政策変更が混乱を招き、政治的不安定化が地域全体の安定に影響する恐れがあります。",
+        "market_impact": "激化する抗議行動と燃料供給の混乱は経済活動の停滞を招き、投資環境が悪化する可能性があります。インフレ圧力は国内通貨の価値下落を加速させ、輸出入や外貨準備に悪影響を及ぼす懸念があります。",
+        "category": "Economy",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/5/19/thousands-of-protesters-demand-presidents-resignation-in-bolivias-la-paz?traffic_source=rss"
+      }
+    ],
     "Corporate": [
       {
+        "title": "NS&I to begin contacting victims of lost funds scandal",
+        "summary_2lines": "NS&Iが亡くなった顧客の遺産に関する誤支払問題で影響を受けた遺族に連絡を開始する。約3億6700万ポンドの未払い資金が対象で、数カ月内に全額が返還される予定。",
+        "why_it_matters": "政府保証の貯蓄・投資商品を扱うNS&Iで大規模な資金未払い問題が発覚し、数万人の遺族が長期間にわたり資金にアクセスできない状態が続いていた。本件は公的金融機関の信頼性とサービス品質の問題を浮き彫りにし、影響を受けた利用者救済策が重要となっている。",
+        "market_impact": "直接的な市場への大規模な影響は限定的だが、NS&Iの信頼回復に向けた対応とイメージダウンが金融セクター全体の顧客信頼にも波及する可能性がある。また、行政的な監督強化や手続きの見直しが進むことで、金融機関の運営コスト増加やサービス改善が求められる動きにつながる。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cvgzrz59yz2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Standard Chartered to cut over 15% of corporate functions roles as it targets higher returns",
+        "summary_2lines": "Standard Charteredは2030年までにコーポレートファンクション部門の人員を15%以上削減し、2028年までに従業員あたり収益を約20%増加させることを目指す。2028年には有形自己資本利益率を15%、2030年には約18%に引き上げる中期収益目標を設定した。",
+        "why_it_matters": "投資家や市場は効率化と収益性の向上を重視しており、Standard Charteredの大胆な人員削減と高収益目標の設定は競争優位性を高める重要な戦略を示す。また、同銀行が成長を見込むアジア・中東・アフリカ市場での事業展開やリスク管理強化も、中長期的な持続可能な成長に寄与するため注目される。",
+        "market_impact": "株価はこの発表を好感し、香港市場で2%以上上昇した。利益成長の見通しやコスト削減策が投資家の信頼を強め、中期的な株価上昇につながる可能性が高い。加えて、アフリカのサプライチェーン強化に向けた国際ファシリティ設立は、地域の金融インフラ拡充と取引量増加を促進し、銀行の収益多様化に寄与する。",
+        "category": "Corporate",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/19/standard-chartered-job-cuts-corporate-roles-profit-targets.html"
+      },
+      {
+        "title": "Chanel’s creative revival is paying off",
+        "summary_2lines": "シャネルはクリエイティブな改革によって再び注目を集めている。世界で2番目に大きなラグジュアリーブランドとしての存在感を強めている。",
+        "why_it_matters": "ラグジュアリーブランド業界は競争が激しく、消費者の嗜好が変化する中で、ブランドの創造性や革新性が市場シェアの維持・拡大に直結するため、シャネルのクリエイティブ revival は注目される。また、高価格帯商品を扱うため経済動向のバロメーターともなる。",
+        "market_impact": "シャネルのクリエイティブ revival によりブランド価値が向上すれば、売上増加や競争優位の強化に繋がる。これが同業他社の戦略にも影響を与え、ラグジュアリーマーケット全体の活性化を促す可能性がある。",
+        "category": "Corporate",
+        "source": "The Economist",
+        "url": "https://www.economist.com/business/2026/05/19/chanels-creative-revival-is-paying-off"
+      },
+      {
         "title": "Nvidia earnings call drama: Will Jensen Huang talk 'Trump' and China chips after Xi summit?",
-        "summary_2lines": "Nvidiaが2024年第1四半期決算発表を控え、CEO黄仁勳の中国訪問や米中貿易問題、トランプ大統領の発言の有無に市場の注目が集まっている。特に中国向けH200チップの販売状況や関税問題、台湾やヒューマノイドロボット関連の言及可能性が注目されている。",
-        "why_it_matters": "世界最大のAI半導体企業であるNvidiaの決算は、米中間の技術貿易摩擦や地政学リスクを反映し、グローバルな半導体供給やAI産業の方向性を示すため重要。CEOがトランプ大統領と行動を共にしたことで経営判断や対中方針のヒントが得られるため、市場参加者は注視している。",
-        "market_impact": "Nvidiaの決算内容や経営コメントは半導体セクター全体の投資判断に影響を与えうる。特に中国市場向けのH200チップ販売許可問題や関税動向は収益見通しを左右し、台湾関連の言及減少は地政学リスクの低減期待を示唆。加えて、ヒューマノイドロボットの話題が出れば新たな成長分野として市場評価が変動する可能性がある。",
+        "summary_2lines": "Nvidiaが中国の習近平主席とトランプ前大統領のサミット後に決算発表を控え、関連する政治的・経済的テーマに言及する可能性が注目されている。特に中国市場でのH200チップ販売の不透明感や関税、台湾問題、さらに今年注力するロボット技術に関する発言が予測されている。",
+        "why_it_matters": "Nvidiaは世界有数のAI・半導体企業であり、その決算内容と経営陣の発言は半導体市場やグローバルサプライチェーンに大きな影響を与える。米中関係の緊張や貿易政策が企業業績に直結するため、政治的な言及の有無は投資家の注目ポイントとなっている。",
+        "market_impact": "中国でのH200チップ販売に関する不確実性や25%の輸入関税の話題がマーケットに波及する可能性がある。トランプ元大統領や台湾関連の言及が少ない見込みでも、NvidiaのAIおよびロボット分野への言及増加は技術革新期待を高め、株価のボラティリティに影響を与えるだろう。",
         "category": "Corporate",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html"
       },
       {
-        "title": "Elon Musk just lost another lawsuit. Will he keep fighting?",
-        "summary_2lines": "イーロン・マスクがOpenAIとの訴訟で敗訴し、最近の複数の裁判での敗訴や和解が続いている。彼は依然として訴訟を辞める気配はなく、今後も法廷闘争を続ける見込みだ。",
-        "why_it_matters": "マスクは世界屈指の富豪であり、彼の訴訟戦略や経営手法は多くの注目を集めている。彼の裁判上の敗訴が増えることで、彼の企業運営や今後の市場活動にどのような影響が出るかが投資家や業界関係者にとって重要な示唆となる。",
-        "market_impact": "マスクの訴訟敗訴は短期的には彼の関連企業の株価にネガティブな影響を与える可能性があるものの、彼の巨額の資産と影響力により、大幅な経済的ダメージや企業価値の低下には繋がりにくい。SpaceXのIPO予定も控えており、投資家は彼の今後の動向を注視している。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Introducing “Velocity pivot”",
-        "summary_2lines": "新たに「Velocity pivot」というコンセプトが紹介された。詳細な内容は明示されていないが、企業活動に関連していることが示唆されている。",
-        "why_it_matters": "「Velocity pivot」という新概念は、企業の戦略や運営に変革をもたらす可能性があり、競争環境の変化に適応する上で重要な示唆を含んでいると考えられる。",
-        "market_impact": "記事内容が抽象的なため具体的な市場影響を特定しにくいものの、企業の意思決定や組織運営の改善につながれば、長期的に業績改善や株価動向にポジティブな影響を与える可能性がある。",
-        "category": "Corporate",
-        "source": "The Economist",
-        "url": "https://www.economist.com/business/2026/05/14/introducing-velocity-pivot"
-      },
-      {
-        "title": "OSHA probing worker death at SpaceX’s Starbase site",
-        "summary_2lines": "テキサスのSpaceXのStarbase拠点で労働者が死亡し、OSHAが調査を開始した。過去から同拠点では安全問題や労働災害が多発している。",
-        "why_it_matters": "SpaceXのStarbaseは同社の主力ロケットStarshipの開発・打ち上げ拠点であり、工事現場かつ試験場として多くの作業員が従事している。労働安全上の課題が続く中での死亡事故は企業の安全管理体制や労働環境に対する懸念を再燃させるとともに、今後のプロジェクトの進行や社会的信用に影響を及ぼす可能性が高い。",
-        "market_impact": "SpaceXは近々大型IPOを予定しており、安全問題によるイメージ悪化や調査結果のリスクが投資家心理に影響を与える可能性がある。また、連鎖的に規制強化や罰金が続けば経営コストの増加やプロジェクト遅延を招き、市場評価にマイナス要因となる可能性がある。",
-        "category": "Corporate",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/"
-      },
-      {
-        "title": "JPMorgan's summer reading list for the wealthy includes books on AI, leadership and lemons",
-        "summary_2lines": "JPMorganが富裕層向けに最新の夏の読書リストを発表し、AIやリーダーシップ、レモンレシピなど多彩なテーマの14冊を紹介。クライアントの関心事項を反映し、特にAIと家族経営の世代交代に関連する書籍が注目されている。",
-        "why_it_matters": "この読書リストは、富裕層の関心や優先課題を示す指標であり、JPMorganのクライアントアドバイザーの知見を集約したもの。AIの台頭や富裕層の資産継承問題といった重要テーマへの理解を深める動きが顕著で、資産運用やファミリーオフィスが注目する分野を示唆している点で重要である。",
-        "market_impact": "AI関連書籍のトップランク入りは、AI技術や関連投資への富裕層の関心が高まっていることを示唆し、テクノロジー分野への資金流入がさらに加速する可能性がある。また、資産継承やリーダーシップに関する書籍の注目は、ファミリーオフィスやプライベートウェルスマネジメントにおける戦略的対応の強化を後押しし、富裕層の長期的な資産維持に寄与すると予想される。",
-        "category": "Corporate",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/18/jpmorgan-summer-reading-list.html"
-      },
-      {
-        "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-        "summary_2lines": "Anthropicが、OpenAIやGoogleなどの競合も利用する開発ツールスタートアップStainlessを買収した。これによりStainlessのツールはAnthropic専用となり、競合は利用できなくなる。",
-        "why_it_matters": "Stainlessの自動SDK生成技術は、APIの更新に即応でき開発効率を大幅に向上させるため、多くのAI企業が採用していた。Anthropicがこの重要インフラを独占することで、AI開発の競争力と差別化が強化される。",
-        "market_impact": "Anthropicの競争優位性が増し、OpenAIやGoogleなどの競合が同様のツールを自社開発または代替品を探す必要が生じる。AIエコシステム内の開発環境や連携が再編され、市場の技術競争が激化すると予想される。",
-        "category": "Corporate",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/"
-      },
-      {
-        "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
-        "summary_2lines": "Elon MuskのOpenAIに対する訴訟は、裁判所が時効を理由に却下し敗訴となった。裁判はOpenAI側の明確な証拠を背景に短時間で終結した。",
-        "why_it_matters": "この訴訟は、AI業界での競争と影響力を巡る重要な争いであり、MuskがOpenAIの非営利から営利への転換に異議を唱えたことが注目された。判決は訴訟の遅延が問題とされたが、AI分野のリーダー企業の評判と今後の戦略に影響を及ぼすため重視されている。",
-        "market_impact": "OpenAIの評判には一時的な悪影響が見られるものの、Microsoftとの協力関係は継続しており、市場混乱は限定的。裁判結果は直接的な財務影響を及ぼさないが、AI業界内の競争や知的財産の取り扱いに影響を与える可能性がある。",
+        "title": "Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs",
+        "summary_2lines": "Metaは従業員の約10％を対象とする大規模リストラを水曜日に実施予定で、社員は残る福利厚生の消化に急いでいる。AI投資のための資金確保が目的である一方、社内の士気は非常に低下している。",
+        "why_it_matters": "世界有数のテック企業Metaが利益を上げているにもかかわらず大規模リストラを行うことで、AI技術の台頭に伴う労働市場の変化や企業の経営戦略のシフトを象徴している。また、従業員の心理や企業文化にも深刻な影響を及ぼしている点が注目される。",
+        "market_impact": "MetaのリストラはAI関連投資強化の一環であり、テック業界全体の人員構造見直しや効率化の動きと連動している。短期的にはMetaの株価やテック市場にネガティブな影響を与える可能性があるが、長期的にはAI分野での競争力強化に繋がると見られる。企業の再編やリストラの波が他の大手テック企業にも波及するおそれがある。",
         "category": "Corporate",
         "source": "Wired",
-        "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/"
+        "url": "https://www.wired.com/story/meta-employees-scramble-benefits-layoffs-ai/"
       },
       {
-        "title": "One Mars spacecraft, two senators, and a cloud of questions",
-        "summary_2lines": "NASAが火星周回通信中継衛星の建造・打ち上げ契約を公募開始。7億ドルの予算が割り当てられ、競争は米国企業限定でサンプルリターンミッション関連企業に絞られる可能性がある。",
-        "why_it_matters": "通信衛星の老朽化に伴う火星通信インフラ刷新のための重要案件であると同時に、議会が突然巨額の資金を投入しつつ競争範囲を限定したことで、透明性や公平性に疑問が生じている。さらに取消された火星サンプルリターン計画の再燃の兆しも含み、宇宙開発政策の今後を占う注目案件となっている。",
-        "market_impact": "米国の宇宙関連企業、とくに火星サンプルリターンに関与していた企業にとって重要なビジネス機会となり得るため、株価や契約獲得競争に影響を与える可能性がある。また、大型政府契約の配分を巡る競合や政治的駆け引きが業界の動向に波及する恐れもある。",
+        "title": "Spider-Noir final trailer gives us a classic villain",
+        "summary_2lines": "Prime Videoがニコラス・ケイジ主演の実写シリーズ『Spider-Noir』の最終予告編を公開。1930年代ニューヨークを舞台にしたノワール調のスパイダーマン物語で、個性豊かなキャストも発表された。",
+        "why_it_matters": "『Spider-Noir』はマーベルの人気スパイダーマンのダークな別世界を描き、ニコラス・ケイジのキャスティングや映像表現のユニークさで話題を集めている。Marvel Cinematic Universe（MCU）関連作品として、ファンの期待が高まっており、ストリーミング市場におけるPrime Videoの競争力強化にも寄与する可能性がある。",
+        "market_impact": "人気キャラクターの新たな展開と著名俳優の参加は、Prime Videoの視聴者獲得に貢献し加入者増加を促進する可能性が高い。これによりAmazonのストリーミングサービス事業の収益拡大が期待され、エンターテインメント市場での競争優位性向上に繋がるだろう。",
         "category": "Corporate",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/space/2026/05/one-mars-spacecraft-two-senators-and-a-cloud-of-questions/"
-      },
-      {
-        "title": "Lululemon hits back at its founder after months of attacks, saying he’s just jealous",
-        "summary_2lines": "Lululemonは創業者のChip Wilsonからの批判に対し、彼は会社を妬んでいると反論した。Wilsonの企業に対するビジョンは時代遅れだと指摘している。",
-        "why_it_matters": "創業者と現在の経営陣の対立は、企業のブランドイメージや投資家の信頼に影響を与える可能性がある。特にLululemonのような成長著しいブランドにおいては、内部対立が経営の一貫性を問われる重要なシグナルとなる。",
-        "market_impact": "この対立が表面化することで、株価が一時的に揺れる可能性がある。また、ブランド価値や消費者の信頼に影響を与え、競合他社との市場シェア争いにも波及するリスクがある。投資家は経営の安定性を注視するだろう。",
-        "category": "Corporate",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/lululemon-hits-back-at-its-founder-after-months-of-attacks-saying-hes-just-jealous-e22522ec?mod=mw_rss_topstories"
-      },
-      {
-        "title": "Anthropic acquires Stainless",
-        "summary_2lines": "AnthropicはSDKやMCPサーバーツールのリーダー企業Stainlessを買収し、エージェントの接続能力を強化した。これにより、Claudeプラットフォームの開発者体験とエージェント接続性が大幅に向上する見込み。",
-        "why_it_matters": "AI業界では回答にとどまらず行動するエージェントの能力強化が課題となっており、そのエージェントが接続できるシステムの範囲が重要になる。AnthropicはStainlessの技術を取り込むことで、エージェントがより多様な言語でAPIにアクセスできる環境を整え、AI活用の幅を広げる戦略的ステップを踏んだ。",
-        "market_impact": "AnthropicがStainlessを買収することで、Claudeプラットフォームの開発者コミュニティや企業の利用環境が整い、AIエージェントの実用化や普及が加速する可能性が高い。これによりAI開発競争が活発化し、関連SDKや接続ツール市場が拡大、さらにはAI活用企業の効率向上や新サービス創出にも波及効果をもたらすと予想される。",
-        "category": "Corporate",
-        "source": "Hacker News",
-        "url": "https://www.anthropic.com/news/anthropic-acquires-stainless"
-      },
-      {
-        "title": "Guardiola on verge of Manchester City exit at end of Premier League season",
-        "summary_2lines": "マンチェスター・シティの指揮を執るペップ・グアルディオラ監督が今シーズン終了後に退任する見込み。後任には元チェルシー監督のエンツォ・マレスカが有力視されている。",
-        "why_it_matters": "グアルディオラ監督はマンチェスター・シティで10年間にわたり数々のタイトルを獲得し、クラブ史上最も成功した時代を築いた。彼の退任はクラブの将来の競争力やプレミアリーグの勢力図に大きな影響を及ぼす可能性があるため注目されている。",
-        "market_impact": "フットボールクラブとしてのマンチェスター・シティはグアルディオラの存在がブランド力やファン離れ防止に寄与してきた。彼の退任がファンやスポンサーの反応に影響し、クラブの商業的価値や関連する経済活動にも波及効果をもたらす可能性がある。後任のマレスカの実績によっては長期的な競争力の維持に対する評価に変動が生じるだろう。",
-        "category": "Corporate",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/5/18/guardiola-on-verge-of-manchester-city-exit-at-end-of-premier-league-season?traffic_source=rss"
+        "url": "https://arstechnica.com/culture/2026/05/spider-noirs-final-trailer-leans-into-the-deadpan-humor/"
       }
     ]
   }
