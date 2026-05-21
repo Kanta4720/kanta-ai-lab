@@ -1,304 +1,304 @@
 {
-  "generated_at_jst": "2026-05-21 08:03",
+  "generated_at_jst": "2026-05-22 07:57",
   "todays_brief": [
     {
-      "title": "Fed officials see rate hike ahead if inflation stays elevated, minutes show",
-      "summary_2lines": "連邦準備制度理事会（FRB）の多数の関係者は、イラン戦争によるインフレ圧力が続く限り利上げが必要と予測している。会合では政策の方向性をめぐり異論があり、追加利下げを示唆する文言が残ったものの意見は割れた。",
-      "why_it_matters": "イラン戦争によるエネルギー価格の高騰などの影響でインフレが持続的に上昇しており、FRBの金融政策決定に不透明感が増している。市場は利下げよりも利上げを織り込み始めており、FRBの今後の動向が世界経済に大きな影響を与えるため重要である。",
-      "market_impact": "インフレ抑制のため利上げが継続される可能性が高まり、債券利回りの上昇や株式市場のボラティリティ増加が予想される。エネルギー価格の高騰を背景としたコアインフレ上昇は企業収益の圧迫要因となり、景気の先行きに対する警戒感が強まるだろう。",
-      "category": "Economy",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/20/fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show.html"
-    },
-    {
-      "title": "SpaceX files for IPO that could make Elon Musk a trillionaire",
-      "summary_2lines": "SpaceXが米国でのIPOを申請し、これによりイーロン・マスクはトリリオネア（1兆ドル長者）になる可能性がある。IPOは史上最大級で、SpaceXはロケット製造や衛星インターネット、AI企業xAIを傘下に持つ。\n",
-      "why_it_matters": "SpaceXの上場はテクノロジー業界における重要な資金調達の節目となり、マスク氏の資産規模が飛躍的に拡大することが予想される。さらに、宇宙開発や衛星通信といった先端技術分野の成長およびAI競争の新たな局面を示しており、業界全体に大きな影響を与える可能性がある。",
-      "market_impact": "IPOによってSpaceXが大規模な資金を獲得し、ロケット事業やStarlinkの拡大、AI分野での競争力強化が見込まれる。また、投資家の注目が宇宙関連市場やAIスタートアップに集まり、関連株価の上昇や資金流入を促進すると予想される。一方、巨額の負債や継続的な損失も懸念材料となり、不透明感も残る。",
+      "title": "A new mega-deal shows how AI has turned utilities into hot property",
+      "summary_2lines": "NextEraとDominionが大規模なM&Aを進めており、規制当局の承認を得る必要がある。AIの進展によりユーティリティ企業の価値が高まり、注目の的となっている。",
+      "why_it_matters": "AI技術の発展がエネルギー業界の価値評価を変革し、従来のインフラ企業が成長分野として投資家や企業にとって魅力的な存在になったことを示す。これにより、大手ユーティリティ間の統合が促進され、業界再編が加速する可能性がある。",
+      "market_impact": "今回の大型M&Aはユーティリティ業界の競争環境を大きく変え、株式市場では関連企業の株価に影響を与えるだろう。また、エネルギー分野でのAI活用が浸透することで効率化やコスト削減が期待され、長期的には企業価値の向上につながると見られる。",
       "category": "Corporate",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss"
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/05/21/a-new-mega-deal-shows-how-ai-has-turned-utilities-into-hot-property"
     },
     {
-      "title": "Elon Musk’s SpaceX unveils filing for blockbuster IPO",
-      "summary_2lines": "Elon MuskのSpaceXが歴史的規模のIPO申請を公開し、時価総額は1.75兆ドルに達する可能性がある。これにより、Muskは史上初の兆万長者になる見込みである。",
-      "why_it_matters": "SpaceXのIPOは宇宙開発やAI技術の発展に資金を集め、宇宙産業の経済構造を大きく変える可能性がある。加えて、Muskの企業群における時価総額1兆ドル超えの企業が2つ目となり、その影響力と市場評価の大幅な拡大を示しているため注目される。",
-      "market_impact": "史上最大規模となるIPOは、株式市場における投資マインドを刺激し、宇宙関連企業やAI関連企業の市場評価を押し上げる可能性が高い。加えて、SpaceXの資金調達により再利用ロケットなどの技術革新が進み、競争激化が予想される。これにより既存の宇宙ビジネス競合他社や新興テック企業の動向にも影響を与えるだろう。",
-      "category": "Corporate",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/20/elon-musks-spacex-unveils-filing-for-blockbuster-ipo?traffic_source=rss"
-    },
-    {
-      "title": "Nvidia posts another record quarter, reveals $43 billion of holdings in startups",
-      "summary_2lines": "Nvidiaが第2四半期に816億ドルの売上高を記録し、データセンター分野で過去最高の752億ドルを達成。非公開企業への投資を大幅に拡大し、現四半期で430億ドルとなった。",
-      "why_it_matters": "NvidiaはAIやクラウドインフラの中核技術であるBlackwellアーキテクチャを広範囲に採用されており、その成長を背景に大規模な株式買戻しを実施。さらにスタートアップ投資を急増させており、半導体・AI分野での影響力拡大を狙っている。また、中国向け輸出問題にも言及し、地政学リスクへの対応も鮮明にしている。",
-      "market_impact": "データセンター需要の強さとAI関連技術の採用拡大が投資家の期待を高め、Nvidiaの株価にはプラス要因となる。大規模な株式買戻しは株主還元姿勢を示し市場に好感されるだろう。一方、新興企業への多額投資は将来的な成長の種まきと捉えられ、テックセクター全体の資金流入を促進する可能性がある。",
+      "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
+      "summary_2lines": "SpaceXのIPOで最も恩恵を受けるのは創業者イーロン・マスクとその親しい関係者である。IPOは約750億ドルの調達、評価額は1.7兆ドルと予測されている。",
+      "why_it_matters": "SpaceXのIPOは宇宙関連企業として史上最大級の規模となり、マスク氏の圧倒的な支配力と大株主構成が明確になった。これにより、今後の宇宙開発やテクノロジー分野での資金調達や企業ガバナンスの在り方に大きな影響を与える可能性がある。",
+      "market_impact": "巨額の資金調達によりSpaceXは更なる技術開発と事業拡大が期待される一方、市場ではマスク氏の経営支配力が投資リスクと捉えられる可能性がある。IPO後の株価動向は宇宙産業全体の投資熱を左右し、関連企業にも波及効果をもたらすことが想定される。",
       "category": "Corporate",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/"
+      "url": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/"
     },
     {
-      "title": "OpenAI takes the lead in AI IPO horse race: 'Getting to public markets first is very important'",
-      "summary_2lines": "OpenAIが近くIPO申請を予定しており、AI分野の公開市場への最初の上場企業になる可能性が高まっている。これにより、同じくIPOを目指すAnthropicよりも優位に立つと見られている。",
-      "why_it_matters": "AI業界における上場競争は企業価値の評価や投資誘引に直結し、最初に公開市場へ参入することがブランド力や資金調達面で大きなアドバンテージを生む。OpenAIのIPO動向は業界全体の成長見通しや競争状況を左右するため重要である。",
-      "market_impact": "OpenAIのIPOはAI関連企業への投資熱を再燃させ、市場の期待を集めるだろう。波及効果でAnthropicなど競合の動向にも影響を与え、AI技術の商業化や資金調達競争が激化する見込み。投資家は収益性や成長戦略を改めて精査することとなる。",
+      "title": "SpaceX, OpenAI valuations could mean they leapfrog Berkshire Hathaway on first day of trading",
+      "summary_2lines": "SpaceXとOpenAIが近日中に大型IPOを予定しており、初日の取引で時価総額が1兆ドル超えを見込む。これらの企業はバークシャー・ハサウェイを凌ぐ可能性があると市場で注目されている。",
+      "why_it_matters": "近年、企業の未公開期間が長期化し、資金調達方法が多様化する中での大型テックIPOは市場の注目を集める。特に時価総額1兆ドル超のデビューは非常に稀で、既存の大手企業との競争や市場の資金吸収力に影響を与える重要な指標となるため、投資家や市場関係者にとって極めて重要な動きとなっている。",
+      "market_impact": "もしSpaceXやOpenAI、AnthropicのIPOが想定通りの高評価で初日の取引を終えれば、米株式市場の大型銘柄構成が大きく変わり、バークシャー・ハサウェイを上回る時価総額規模となる。これにより、投資資金の分配や大型新規株の流動性が活発化し、テクノロジーセクターの勢力図にも変化が予想される。一方で、高値維持の持続性に市場の懸念もあるが、米国市場の巨大さから吸収力自体は十分と見られている。",
       "category": "Corporate",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/20/openai-takes-the-lead-in-ai-ipo-horse-race-getting-to-public-markets-first-is-very-important.html"
+      "url": "https://www.cnbc.com/2026/05/21/spacex-openai-valuations-to-leapfrog-berkshire-hathaway-traders-say.html"
+    },
+    {
+      "title": "Prediction markets are fueling a high-stakes brawl between states and federal regulators",
+      "summary_2lines": "予測市場の急成長を背景に、連邦商品先物取引委員会（CFTC）が16州の規制強化に対抗し、州と連邦の管轄権を巡る法廷闘争が激化している。ミネソタ州は国内初の予測市場全面禁止法を可決し、CFTCが提訴した最新の州となった。",
+      "why_it_matters": "予測市場は金融デリバティブとして成長しつつあるが、州は違法なギャンブルとして規制を強化している。一方、CFTCは自らの独占的規制権限を主張し、連邦と州の権限の境界を争うこの事案は、金融規制の今後の枠組みや州と連邦の力関係に大きな影響を与えるため重要である。",
+      "market_impact": "規制の不確実性は予測市場プラットフォームの事業運営に直接的なリスクをもたらし、投資家とユーザーの信頼も揺らぐ可能性がある。連邦と州の規制対立が解消されなければ、市場成長の鈍化や法的コスト増が予想され、関連金融テクノロジー分野の展望にも影響を与える。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/21/where-the-feds-are-fighting-states-over-prediction-markets.html"
+    },
+    {
+      "title": "Nvidia can deliver chips — but it can’t buy Big Tech out of its credit and power-grid crisis",
+      "summary_2lines": "Nvidiaは半導体供給力を持つが、中国との貿易戦争や信用コストの上昇、AIインフラの限界といった課題は解決できない。企業利益だけではこれら複雑な問題を乗り越えるのは困難だ。",
+      "why_it_matters": "世界的な半導体不足やAI分野の成長期待にもかかわらず、米中間の貿易摩擦や信用リスクの高まり、インフラ制約が企業の成長を阻害している。これらはグローバルサプライチェーンや技術革新の進展に影響を与え、テック企業の将来を左右する重大なリスクである。",
+      "market_impact": "Nvidiaをはじめとするテック企業は半導体需要の拡大を享受する一方、貿易摩擦による供給網混乱や資金調達コスト増加は業績リスクとして意識される。AIインフラ限界は成長ペースの鈍化要因となり、市場全体の期待調整を促す可能性がある。",
+      "category": "Tech",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories"
     }
   ],
   "categories": {
     "Tech": [
       {
-        "title": "Google is dethroning OpenAI as the king of consumer AI",
-        "summary_2lines": "Googleが消費者向けAI分野でOpenAIの地位を脅かしている。ユーザーは月間で膨大なトークンを消費している。",
-        "why_it_matters": "AI分野での競争激化は技術革新とサービスの質向上を促進し、消費者や企業への影響が大きい。Googleの台頭は市場の勢力図を変える可能性がある。",
-        "market_impact": "Googleの優位性によってAI関連製品・サービスの市場シェア争いが加速し、OpenAIを含む競合他社の戦略見直しや投資動向に影響を与えるだろう。AI産業全体の成長を後押しすることも期待される。",
-        "category": "Tech",
-        "source": "The Economist",
-        "url": "https://www.economist.com/business/2026/05/20/google-is-dethroning-openai-as-the-king-of-consumer-ai"
-      },
-      {
-        "title": "AI super-apps are remaking China’s internet",
-        "summary_2lines": "中国のインターネットはAIスーパープラットフォームにより劇的に変化しつつある。新たなエージェント型アプリの登場が時代の潮流を示している。",
-        "why_it_matters": "中国市場でのAI技術の進展は、単なる技術革新ではなく、ユーザー体験やビジネスモデルを根本的に変える可能性があるため重要である。これにより中国のインターネット産業の競争力が強化され、世界的なAI競争において影響力を高めることが期待される。",
-        "market_impact": "AIスーパープラットフォームの台頭により、中国のテック企業は新たな収益源を獲得し、ユーザーエンゲージメントを増加させるだろう。結果として関連企業の株価上昇や投資増加が見込まれ、テクノロジーセクター全体の活性化につながる。",
-        "category": "Tech",
-        "source": "The Economist",
-        "url": "https://www.economist.com/business/2026/05/17/ai-super-apps-are-remaking-chinas-internet"
-      },
-      {
-        "title": "Clouted wants to take the guesswork out of making short videos go viral",
-        "summary_2lines": "Cloutedは、AIと100,000人以上のクリエイターのネットワークを活用し、短尺動画の編集と最適なソーシャルメディア配信を自動化するプラットフォームを提供。7百万ドルのシード資金調達を完了し、マーケティング効率の向上を目指している。",
-        "why_it_matters": "短尺動画は現在のデジタルマーケティングで非常に効果的かつコスト効率の高い手法となっているが、クリップの選定と配信戦略には高い運用コストと難易度が伴う。Cloutedの自動化技術は、この課題を解決し、マーケティングの精度と効率を飛躍的に高める可能性があるため、広告業界にとって革新的な動きと言える。",
-        "market_impact": "CloutedのAI駆使による継続的なテストと最適化は、企業の短尺コンテンツマーケティングのROIを向上させ、市場における動画広告の効果測定と運用手法の標準化を促進する。これにより、従来の手作業中心の動画編集アウトソース市場やマーケティングインフラ市場に競争圧力を与え、さらなるテクノロジー投資やサービス多様化を加速させる可能性がある。",
-        "category": "Tech",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/"
-      },
-      {
-        "title": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
-        "summary_2lines": "米下院議員が連邦高速道路資金受領者に対し、自動ナンバープレート認識（ALPR）を通行料徴収以外の目的で使用禁止とする修正案を提出予定。成立すれば全米の州・地方自治体のALPRプログラムが即座に終了する可能性がある。",
-        "why_it_matters": "ALPR技術の普及により、広範な監視社会化とプライバシー侵害の懸念が深まっている。今回の超党派修正案は、州や地方の公共資金利用を通じて監視技術の規制を強化し、市民のプライバシー保護と監視の濫用防止を目指す重要な動きである。",
-        "market_impact": "連邦資金受領を条件にALPR使用が制限されることで、ALPRシステムを運営・販売する企業（例：Flock Group）には業務縮小や事業モデル再構築が迫られる可能性がある。監視技術やスマート交通システム分野の企業には逆風となり、関連市場の成長見通しにネガティブに働く可能性がある。",
+        "title": "‘Creepy’ Listening Tool for Targeted Ads Didn’t Actually Work, FTC Says",
+        "summary_2lines": "FTCは、Cox Media Groupなど3社が、消費者の音声データを使ったターゲット広告サービスが実際には機能していなかったとして約93万ドルの和解金を支払うことを発表した。これらの企業は顧客である企業を誤解させたとして処分を受けた。",
+        "why_it_matters": "音声データを用いた広告の透明性やプライバシー保護がますます重要となる中で、本件は企業の虚偽広告による顧客欺瞞や消費者保護の観点から警鐘を鳴らす事件であり、業界の信頼性や規制強化の方向性に影響を与える。",
+        "market_impact": "音声データ広告の効果に疑義が生じることで同種サービスの信用失墜が懸念され、関連企業の営業活動や顧客獲得にマイナス影響を及ぼす可能性がある。また、FTCの取り締まり強化によりマーケティング業界全体でコンプライアンス強化が求められる。",
         "category": "Tech",
         "source": "Wired",
-        "url": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/"
+        "url": "https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/"
       },
       {
-        "title": "NASA's Psyche spacecraft returns unfamiliar views of a familiar world",
-        "summary_2lines": "NASAのPsyche探査機が火星の重力アシストを利用し、2029年の小惑星Psyche着陸に向けた軌道を修正した。飛行中に搭載機器の試験も兼ねて火星を観測し、ミッション成功に向けた準備を進めている。",
-        "why_it_matters": "このニュースは、NASAの長期的な小惑星探査ミッションにおける重要なマイルストーンを示している。火星の重力アシストを利用することで燃料効率を高め、2.2億マイルの長距離宇宙飛行の軌道を適切に調整できるため、将来的な宇宙探査技術の向上や金属惑星の起源解明に繋がる科学的知見を得る期待がある。",
-        "market_impact": "直接的な市場インパクトは限定的だが、SpaceXのFalcon Heavyロケットの採用とプラズマエンジン利用の成功は宇宙商業分野の信頼性向上に寄与しうる。これにより宇宙開発関連企業への投資や連携が促進され、宇宙ビジネス市場の拡大に繋がる可能性がある。",
+        "title": "Project Hail Mary – Stellar Navigation Chart",
+        "summary_2lines": "記事は「Project Hail Mary」に関連するスター航行図についての言及のみで、具体的な内容や分析は含まれていません。リンク先のコメントページが示されているが、本文自体は情報不足です。",
+        "why_it_matters": "Project Hail Maryは人気SF作品に関連した話題であり、宇宙航行や科学技術への関心を高める可能性がありますが、今回の記事は具体的な解説や新情報を提供していません。",
+        "market_impact": "本文からは市場や企業、経済への直接的な影響を読み取ることはできません。エンターテインメントや科学コミュニティ内での注目にとどまると推測されます。",
+        "category": "Tech",
+        "source": "Hacker News",
+        "url": "https://valhovey.github.io/gaia-mary/"
+      },
+      {
+        "title": "IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app",
+        "summary_2lines": "AcuRiteは旧アプリ『My AcuRite』を廃止し、より新しいプラットフォーム上の『AcuRite NOW』に完全移行する。新アプリは機能面で一部制限があるものの、将来的な拡張性やスマートホーム連携を強化している。",
+        "why_it_matters": "既存ユーザーにとって使い慣れたアプリが使えなくなることはユーザー体験に影響を与える一方、IoT機器の進化に伴い柔軟で拡張性の高いプラットフォームへの移行は業界全体で求められる潮流。特にスマートホーム連携強化やクラウド基盤の近代化は競争力維持に不可欠である。",
+        "market_impact": "AcuRiteの移行に伴うアプリ機能の制限や有料オプション導入は一時的にユーザーの離反リスクがあるが、長期的にはスマートデバイス市場での差別化とサブスクリプション収益の拡大を狙う戦略と見られる。IoT分野で競合他社との差別化を図る動きとして注目され、関連市場にも影響を与える可能性がある。",
         "category": "Tech",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/space/2026/05/nasas-psyche-spacecraft-returns-unfamiliar-views-of-a-familiar-world/"
+        "url": "https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/"
       },
       {
-        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-        "summary_2lines": "OpenAIのモデルが、80年以上未解決だった平面上の単位距離問題に関するエルデシュの重要な予想を反証する証明を提示した。これはAIが数学の最前線の難問を自律的に解決した初の例となる。",
-        "why_it_matters": "この成果はAIの高度な推論能力を示す画期的なもので、数学分野における難解な未解決問題をAIが独力で解決し得ることを実証した。数学が論理の厳密性からAIの理解力・創造力を評価する格好の場であるため、今後のAI研究や応用における信頼性・可能性を大きく広げる。",
-        "market_impact": "直接的な経済・金融市場への影響は小さいが、AIの高度推論能力の進展を示し、AI関連技術の価値向上や研究開発投資の増加を促進する可能性がある。長期的には複雑問題の自動解決が産業や金融の課題解決にも波及し、技術革新と新ビジネスの創出につながると予想される。",
+        "title": "Flipper One – we need your help",
+        "summary_2lines": "Flipper Oneは、完全にオープンでドキュメント化されたARMベースのLinuxプラットフォームを目指す新プロジェクト。多彩なネットワーク接続と拡張性を持ち、Flipper Zeroとは異なる方向性のデバイスである。",
+        "why_it_matters": "現在のARM Linux環境は閉鎖的なベンダー依存が強く、オープンソースの開発・教育に障壁がある。Flipper Oneはメインラインカーネル対応とバイナリブロブ排除を推進し、真にオープンなLinuxプラットフォーム構築を目指すため、オープンソースコミュニティと技術開発に大きな意義がある。",
+        "market_impact": "オープンなLinuxプラットフォームの提供により、ハードウェアベンダーやソフトウェア企業がARM環境での開発を加速。特にネットワークやAI搭載機器の市場拡大に寄与し、ARM関連エコシステムの成長促進や既存の閉鎖的ベンダー支配の緩和につながる可能性がある。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/"
+        "url": "https://blog.flipper.net/flipper-one-we-need-your-help/"
       },
       {
-        "title": "Starship's Twelfth Flight Test",
-        "summary_2lines": "SpaceXのStarshipが12回目の飛行試験を実施した。技術的な進展と課題が明らかになり、宇宙開発の次期ステップとして注目されている。",
-        "why_it_matters": "Starshipは大型の再利用可能ロケットとして、宇宙輸送コストを大幅に削減し、火星探査などの長期的な宇宙開発計画を実現する鍵を握っているため、この飛行試験の成果は宇宙産業全体にとって重要な節目となる。",
-        "market_impact": "成功が続けばSpaceXの技術的優位性が強化され、宇宙開発関連の投資意欲や関連企業の株価上昇が期待される。一方で飛行試験の失敗や技術的課題は市場の不安要素となり得る。",
+        "title": "Nvidia can deliver chips — but it can’t buy Big Tech out of its credit and power-grid crisis",
+        "summary_2lines": "Nvidiaは半導体供給力を持つが、中国との貿易戦争や信用コストの上昇、AIインフラの限界といった課題は解決できない。企業利益だけではこれら複雑な問題を乗り越えるのは困難だ。",
+        "why_it_matters": "世界的な半導体不足やAI分野の成長期待にもかかわらず、米中間の貿易摩擦や信用リスクの高まり、インフラ制約が企業の成長を阻害している。これらはグローバルサプライチェーンや技術革新の進展に影響を与え、テック企業の将来を左右する重大なリスクである。",
+        "market_impact": "Nvidiaをはじめとするテック企業は半導体需要の拡大を享受する一方、貿易摩擦による供給網混乱や資金調達コスト増加は業績リスクとして意識される。AIインフラ限界は成長ペースの鈍化要因となり、市場全体の期待調整を促す可能性がある。",
         "category": "Tech",
-        "source": "Hacker News",
-        "url": "https://www.spacex.com/launches/starship-flight-12"
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories"
       },
       {
-        "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-        "summary_2lines": "GitHubは従業員が悪意のあるVS Code拡張機能をインストールしたことで約3,800の内部リポジトリが侵害されたことを確認した。攻撃グループTeamPCPがデータを公開すると脅迫している。",
-        "why_it_matters": "GitHubは世界中の開発者や企業が依存する主要なコード管理プラットフォームであり、今回の侵害はソフトウェア開発のサプライチェーン全体のセキュリティリスクを浮き彫りにした。悪意ある拡張機能による攻撃が開発現場に与える影響が大きく、同様の脅威の防止が求められている。",
-        "market_impact": "GitHubへの信頼低下により開発ツール市場全体に不安が波及する可能性がある。特にMicrosoft（GitHubの親会社）のブランドリスクが顕在化し、顧客企業のセキュリティ投資増加や競合サービスへの移行が発生するかもしれない。サイバーセキュリティ関連企業の需要増加が予想される。",
+        "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+        "summary_2lines": "10年以上稼働したUbuntu 16.04の古いVPSを、より安価で高性能なHetznerの仮想マシンに移行し、OSをFreeBSDに刷新した。移行の背景には長期間のサポート切れによるセキュリティリスクとコスト削減があった。",
+        "why_it_matters": "長期にわたり使われ続けたサーバーOSのサポート終了はセキュリティリスクを高め、運用コストの見直しが求められる。この事例はオープンソースのFreeBSDを含む多様なOS選択肢やインフラコスト低減策に対する注目を示している。また、技術者の多様なチャレンジ精神がITインフラの刷新を促す一例でもある。",
+        "market_impact": "個人や中小規模のウェブサイト運営者がコストパフォーマンスの高いクラウドサービスや異なるOS環境を積極的に採用する傾向が強まる。これは従来のメジャーなLinuxディストリビューションに依存しない分散化を促し、クラウド業界における競争激化やサービス多様化を後押しする可能性がある。特にHetznerのような低価格のVPSプロバイダーの利用が増加し、中価格帯VPS市場の成長が期待される。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/"
+        "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/"
       }
     ],
     "Markets": [
       {
-        "title": "Investors are flocking to an offshore crypto platform for an early shot at trading the SpaceX IPO",
-        "summary_2lines": "投資家がオフショアの暗号資産プラットフォームで、未公開のSpaceXのIPOを早期に取引する機会に殺到している。これにより伝統的なウォール街を介さずに世界中から参入が可能となっている。",
-        "why_it_matters": "SpaceXは史上最大規模のIPOと期待され、その取引機会を従来の証券取引所を介さずに先取りできることは、金融取引の新たな形態を示している。特に暗号資産技術を活用することで、国際的な資金流動性とアクセスの壁が大きく変わる可能性がある点が重要だ。",
-        "market_impact": "オフショアや暗号資産を活用した新たな取引市場の拡大は従来の株式市場の枠組みを揺るがし、中間業者や規制の役割に影響を与える。SpaceXのような注目企業のIPOを従来の株式市場外で取引できるようになることは、投資の多様化とグローバル市場の形成を加速させる効果が期待される。",
+        "title": "Prediction markets are fueling a high-stakes brawl between states and federal regulators",
+        "summary_2lines": "予測市場の急成長を背景に、連邦商品先物取引委員会（CFTC）が16州の規制強化に対抗し、州と連邦の管轄権を巡る法廷闘争が激化している。ミネソタ州は国内初の予測市場全面禁止法を可決し、CFTCが提訴した最新の州となった。",
+        "why_it_matters": "予測市場は金融デリバティブとして成長しつつあるが、州は違法なギャンブルとして規制を強化している。一方、CFTCは自らの独占的規制権限を主張し、連邦と州の権限の境界を争うこの事案は、金融規制の今後の枠組みや州と連邦の力関係に大きな影響を与えるため重要である。",
+        "market_impact": "規制の不確実性は予測市場プラットフォームの事業運営に直接的なリスクをもたらし、投資家とユーザーの信頼も揺らぐ可能性がある。連邦と州の規制対立が解消されなければ、市場成長の鈍化や法的コスト増が予想され、関連金融テクノロジー分野の展望にも影響を与える。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/21/where-the-feds-are-fighting-states-over-prediction-markets.html"
+      },
+      {
+        "title": "The bond market just flipped the script on investors — Wall Street is acting like nothing’s wrong",
+        "summary_2lines": "債券市場が示すシグナルと株式市場の動きが乖離している。債券市場はリスクの警戒を示している一方で、ウォール街は楽観的な姿勢を崩していない。",
+        "why_it_matters": "通常、信用（債券）市場の動向は実体経済のリスクや問題点を敏感に反映するため、信用市場のシグナルは重要な警告を意味する。今回の乖離は、市場の過度な楽観視や潜在的なリスクの見落としを示唆しており、投資家や政策決定者にとって重要な注意点となる。",
+        "market_impact": "債券市場がリスク増大を示唆している中で株式市場が過度に強気を維持すると、投資家のポジション調整やボラティリティの拡大を招く可能性がある。これにより、資金の流れが混乱し、金融市場全般の不安定化や企業の資金調達コスト上昇、経済成長の鈍化にも繋がりうる。",
         "category": "Markets",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/investors-are-flocking-to-an-offshore-crypto-platform-for-an-early-shot-at-trading-the-spacex-ipo-4ec49f10?mod=mw_rss_topstories"
+        "url": "https://www.marketwatch.com/story/the-bond-market-just-flipped-the-script-on-investors-wall-street-is-acting-like-nothings-wrong-f321cc5b?mod=mw_rss_topstories"
+      },
+      {
+        "title": "Your bond portfolio is facing a ‘termite’ infestation far worse than Jamie Dimon’s ‘cockroaches’",
+        "summary_2lines": "JPモルガン・チェースのCEOが警告した信用市場の『ゴキブリ』問題に加え、不透明なAI関連融資や過剰なレバレッジという『信用シロアリ』が経済を侵食している。これらの新たな信用リスクが債券ポートフォリオに深刻なダメージを与える可能性がある。",
+        "why_it_matters": "金融システムの透明性低下や過剰レバレッジは、信用市場の脆弱性を高め、経済全体の安定性を損なう恐れがある。特にAI関連の曖昧な貸付はリスクの把握を難しくし、投資家の信頼を揺るがす重要な懸念材料となっているため、市場の健全な成長を阻害する可能性がある。",
+        "market_impact": "債券市場では信用リスクの高まりによる価格下落や流動性の低下が懸念される。金融機関は不良債権の増加に直面し、貸出基準の引き締めやリスク管理強化が求められる。結果として企業の資金調達コストが上昇し、経済全体の投資活動が減退する可能性がある。",
+        "category": "Markets",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/credit-termites-are-lurking-in-the-bond-market-and-eating-away-at-your-portfolio-3f6be6e9?mod=mw_rss_topstories"
       }
     ],
     "Geopolitics": [
       {
-        "title": "UK agrees £3.7bn trade deal with six Gulf states",
-        "summary_2lines": "英国政府は湾岸6カ国と年間5億8,000万ポンド相当の関税撤廃を含む37億ポンド規模の貿易協定を締結。複数の英国製品の輸出が有利になるが、人権・労働権保護の欠如を権利団体が批判。",
-        "why_it_matters": "英国がG7で初めて湾岸協力会議（GCC）と包括的自由貿易協定を結んだことは、Brexit後の新たな経済圏開拓と輸出市場の多様化を狙う戦略である。中東の重要なエネルギー・製品市場へのアクセス強化は、英国経済の成長と雇用拡大に寄与する一方、協定相手国の人権問題が国際世論の注目を集めている。",
-        "market_impact": "英国製品の関税撤廃はチーズやバター、チョコレートなど農産品の輸出拡大を促し、食品産業や関連企業の収益向上が期待される。加えて、英国企業の現地事業展開が促進され、雇用創出に結びつく可能性がある。ただし、GCC諸国の経済依存度の高い石油産業の動向と国際的な環境規制も絡み、リスク評価が必要となる。",
+        "title": "Miner Perpetua Resources secures $2.9 billion U.S. loan for Idaho gold, antimony project",
+        "summary_2lines": "鉱業会社Perpetua Resourcesは米輸出入銀行から29億ドルの融資を受け、アイダホ州の金・アンチモン鉱山プロジェクトを推進する。アンチモンは米国防に不可欠な重要鉱物であり、国内供給強化の一環として注目される。",
+        "why_it_matters": "米国は中国が支配する重要鉱物の供給網から自国の依存を減らす戦略を進めている。アンチモンは軍事用途や半導体、再生可能エネルギーに必須で、国内に事実上唯一の供給源を形成することで安全保障や産業競争力の強化につながるため重要である。",
+        "market_impact": "Perpetuaの株価は12%以上上昇し、関連鉱業株も買われている。政府の資金援助と連携強化により、重要鉱物の国内生産能力拡大が期待され、関連鉱山や資源企業の評価が高まる。長期的にはサプライチェーンの安定化と米国の重要資源自立が経済・防衛面でプラスに働く可能性がある。",
         "category": "Geopolitics",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/21/miner-perpetua-resources-secures-2point9-billion-us-loan-for-idaho-gold-antimony-project.html"
       },
       {
-        "title": "Trump admin didn't want Ebola-exposed Americans, sent them to Berlin, Prague",
-        "summary_2lines": "トランプ政権はエボラウイルスに曝露した米国人の帰国を拒否し、治療をドイツ・ベルリンとチェコ・プラハに委ねた。これにより、患者の早期治療が遅れ健康リスクが高まった可能性がある。",
-        "why_it_matters": "米国政府が自国民の危険な感染症対策で帰国を拒否したことは、感染症拡大防止や国民の安全確保に対する政治的判断の問題を浮き彫りにし、公衆衛生の危機管理体制や国際的な感染症対応に影響を与える。エボラの早期治療が生命に直結するため、対応の遅れは深刻な健康リスクを招く。",
-        "market_impact": "直接的な市場への影響は限定的であるが、公衆衛生や感染症対応の不備は医療・製薬セクターにおける危機対応需要を高める可能性がある。また、政府の感染症管理への信頼低下は保険やヘルスケア関連企業の評価に影響を及ぼす恐れがある。",
-        "category": "Geopolitics",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/health/2026/05/trump-admin-didnt-want-ebola-exposed-americans-sent-them-to-berlin-prague/"
-      },
-      {
-        "title": "US lawyers say man on death row could be executed with expired lethal drugs",
-        "summary_2lines": "テネシー州の死刑囚の弁護士が、執行に使用される麻酔薬が期限切れである可能性を指摘し、州当局に説明を求めている。薬剤の秘密保持と期限切れ問題は全米で死刑執行の透明性と人道性に疑問を呼んでいる。",
-        "why_it_matters": "死刑執行に使用される薬剤の品質や有効期限は、受刑者の苦痛の度合いや人道的処遇に直結する重要な問題である。薬剤の秘密保持が進む中で期限切れの薬物使用疑惑が浮上し、死刑制度の公正性や適正な司法手続きが問われている。さらに、これに伴い死刑執行の遅延や停止が生じ、司法システム全体への影響も懸念される。",
-        "market_impact": "本件は直接的な金融市場への影響は限定的であるものの、死刑関連薬剤の調達困難や規制強化が医薬品製造会社の営業戦略や供給チェーンに影響を与える可能性がある。また、州政府の透明性欠如や法的論争は公共政策関連の市場信頼に微小な影響を及ぼすことも考えられる。",
+        "title": "Board of Peace envoy warns ‘permanent’ Gaza divide under current status quo",
+        "summary_2lines": "国連安保理でガザの和平代表ニコライ・ムラデノフ氏が、現状のままではガザ地区の分断が恒久化すると警告。イスラエルとハマス双方に恒久停戦の履行とハマスの武装解除を求めた。",
+        "why_it_matters": "ガザ地区の長期的な分断と戦闘状態の継続は、中東地域の安定を著しく損ない、多くの民間人の生活と安全が脅かされている。停戦の履行とハマスの武装解除は、地域の人道的危機の緩和や持続的和平への第一歩であり、国際社会の調整努力が求められている。",
+        "market_impact": "中東の不安定化は原油供給リスクを高め、世界のエネルギー市場に価格変動をもたらす可能性がある。また、安全保障への懸念から海外投資が減少し、関連地域の経済活動やグローバル市場のボラティリティが上昇する恐れがある。国際的な支援と和平進展の遅延が経済回復の足かせとなる可能性もある。",
         "category": "Geopolitics",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/5/20/us-lawyers-say-man-on-death-row-could-be-executed-with-expired-lethal-drugs?traffic_source=rss"
+        "url": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss"
       },
       {
-        "title": "US condemns Israel’s Ben-Gvir while sanctioning Gaza flotilla organisers",
-        "summary_2lines": "米国の駐イスラエル大使ハッカビーが、イスラエルの極右安全保障相ベン・ギヴルの挑発的動画を非難しつつも、ガザ支援船団の主催者に対する制裁を実施。これにより米国の対イスラエル政策の二面性が国際的に浮き彫りとなっている。",
-        "why_it_matters": "本件は米国が長年支持してきたイスラエル右派勢力に対する批判と制裁措置の矛盾を示し、国際法上の自由航行権や人権問題をめぐる外交的摩擦を深刻化させている。バイデン政権の制裁回避からトランプ政権関係者まで、超党派的に注目される中、米イスラエル関係の将来的な不透明さと中東情勢の複雑化を示唆している。",
-        "market_impact": "直近では中東地域の政治的不安定化が投資家心理に影響を及ぼし、リスクオフの動きや資源価格（特にエネルギー関連）の変動を招く可能性がある。米国の対イスラエル政策の曖昧さは防衛関連株や中東市場に不確実性をもたらし、グローバルサプライチェーンや国際金融情勢にも波及する恐れがある。",
+        "title": "Ronaldo scores twice to seal Saudi Pro League at last with Al-Nassr",
+        "summary_2lines": "クリスティアーノ・ロナウドがアル・ナスルでサウジ・プロリーグ優勝を決める2ゴールを挙げ、待望の国内タイトルを獲得した。彼の加入がサウジリーグの国際的注目度向上と大物選手の誘致を後押ししている。",
+        "why_it_matters": "ロナウドのサウジリーグ参戦は、同国が2034年ワールドカップ開催権を獲得し、スポーツを通じて経済多角化と国際イメージの変革を図る戦略の一環。高額契約と著名選手の誘致はリーグの競技レベルや商業価値向上を目指しており、サウジのスポーツ界への投資動向を象徴する重要な出来事である。",
+        "market_impact": "ロナウドの成功はサウジのスポーツ市場への注目を高め、サウジ公共投資基金によるスポーツ関連への投資魅力を高める可能性がある。一方で過去の過剰投資の見直しや経済多角化の調整も示唆されており、今後の投資動向と市場の反応には注意が必要だ。スポーツ経由での観光・ビジネス誘致の効果も長期的に期待される。",
         "category": "Geopolitics",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/5/20/us-condemns-israels-ben-gvir-while-sanctioning-gaza-flotilla-organisers?traffic_source=rss"
+        "url": "https://www.aljazeera.com/sports/2026/5/21/ronaldo-scores-twice-to-seal-saudi-pro-league-at-last-with-al-nassr?traffic_source=rss"
+      },
+      {
+        "title": "Ebola treatment hospital burned down in DRC as outbreak spreads",
+        "summary_2lines": "コンゴ民主共和国でエボラ治療病院が抗議者により焼失した。エボラの最新の感染拡大が深刻で、当局は全力での対策を呼びかけている。",
+        "why_it_matters": "エボラの感染拡大は公衆衛生上の危機であり、治療拠点の破壊は感染抑制の妨げとなる。地域の不安定化や感染拡大リスクの増大につながり、国際社会の支援体制にも影響を与える可能性がある。",
+        "market_impact": "地域の医療インフラ破壊は保健関連支出の増加を招き、国内経済の混乱要因となる。国際援助の強化や感染拡大による貿易・投資環境の悪化も懸念されるが、グローバル市場への直接的影響は限定的と考えられる。",
+        "category": "Geopolitics",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/ebola-treatment-hospital-burned-down-in-drc-as-outbreak-spreads?traffic_source=rss"
       }
     ],
     "Economy": [
       {
-        "title": "Supermarkets hit back over pressure to cap price of milk, bread and eggs",
-        "summary_2lines": "英国政府は乳製品やパン、卵の価格凍結を小売業界に要請するも、強制的な価格上限導入は否定。主要スーパー経営者はこの提案を強く批判し、自由市場維持を主張している。",
-        "why_it_matters": "食料品価格の上昇が家計の負担を増やす中、政府が物価安定策を模索している。だが価格統制は競争原理を阻害し、インフレ対策として逆効果の懸念も強い。小売業界と政府の攻防は政策の方向性や消費者物価に直結するため重要とされる。",
-        "market_impact": "小売業界は価格凍結要請に反発しており、競争制限のリスクを指摘。実現すれば利益率圧迫や法的リスクを招く可能性が高い。また、価格上昇圧力は飼料や肥料の高騰を背景に続く見込みで、食料品セクターのコスト転嫁と消費者購買行動に影響を与えるだろう。",
+        "title": "Chris Mason: VAT cut on summer fun - the announcement that didn't leak",
+        "summary_2lines": "英国政府は夏の娯楽施設にかかるVATを20%から5%に引き下げる政策を発表したが、冬のエネルギー支援については現時点で大規模介入を見送る方針を示した。経済支援の規模は限定的で、公共財政の制約を背景にしている。",
+        "why_it_matters": "物価高騰に苦しむ国民に向けた生活費軽減策としてVAT減税が打ち出されたが、エネルギー価格の不確実性が高い中で財政負担を抑えるため冬の支援策は限定的なターゲット型になる見込みで、政府の政策方針と財政健全化のバランスが問われている。",
+        "market_impact": "消費関連の価格引き下げは夏季の家計支援として消費活動を一定程度刺激する可能性があるものの、エネルギー支援の限定的な対応により冬季の需要動向は不透明。公共支出抑制は国債発行ペースに影響を与え、金融市場の安定性にも一定の注意が必要となる。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/c4g9r92n3eqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Fed officials see rate hike ahead if inflation stays elevated, minutes show",
-        "summary_2lines": "連邦準備制度理事会（FRB）の多数の関係者は、イラン戦争によるインフレ圧力が続く限り利上げが必要と予測している。会合では政策の方向性をめぐり異論があり、追加利下げを示唆する文言が残ったものの意見は割れた。",
-        "why_it_matters": "イラン戦争によるエネルギー価格の高騰などの影響でインフレが持続的に上昇しており、FRBの金融政策決定に不透明感が増している。市場は利下げよりも利上げを織り込み始めており、FRBの今後の動向が世界経済に大きな影響を与えるため重要である。",
-        "market_impact": "インフレ抑制のため利上げが継続される可能性が高まり、債券利回りの上昇や株式市場のボラティリティ増加が予想される。エネルギー価格の高騰を背景としたコアインフレ上昇は企業収益の圧迫要因となり、景気の先行きに対する警戒感が強まるだろう。",
+        "title": "Cheaper theme park tickets and children's meals as VAT to be cut for some attractions this summer",
+        "summary_2lines": "イギリス政府は夏季期間中、テーマパークや子ども向け飲食のVATを20％から5％に一時的に引き下げると発表。これにより家族連れのレジャー費用が安くなる見込み。 物価高騰に対する生活支援策の一環として、無料バス運行や食料品輸入税の削減も実施される。",
+        "why_it_matters": "英国では燃料費やエネルギー価格の高騰、食料品価格の上昇が家計を圧迫している。今回のVAT減税や関連支援策は、家族のレジャーコスト軽減や外食産業の支援を目的とし、生活費上昇を緩和し、消費喚起と経済安定を図る重要な政府の対応策である。",
+        "market_impact": "テーマパークや外食、娯楽業界では短期的に集客促進と売上増加が期待されるが、業者の割引適用は任意なため効果にはばらつきがある。食料品の輸入関税削減も供給コスト抑制につながるが、消費者価格への影響は不確実。全体として約18億ポンドの財政負担が見込まれ、政府の財政赤字に影響する可能性がある。",
         "category": "Economy",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/20/fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show.html"
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?",
-        "summary_2lines": "相続した家を1年以内に売却すべきかどうか、CPAがキャピタルゲイン税回避の観点から助言している。売却は別の家族へ評価額での譲渡を検討しているとのこと。",
-        "why_it_matters": "相続資産の売却タイミングはキャピタルゲイン税の課税に大きく影響するため、適切な税務判断が必要。特に家族間売買の場合は評価額での譲渡が税務上の問題となりやすく、注意が求められる。",
-        "market_impact": "個人の不動産売買に関する税務戦略の影響は限定的だが、相続不動産の売却増加が不動産市場の流動性や価格形成に局所的な影響を及ぼす可能性がある。家族間売買の普及が税収にも影響を与える可能性がある。",
+        "title": "The benefits—and dangers—of optimism",
+        "summary_2lines": "楽観主義には人生のポジティブな側面を見るメリットがあるが、過度の楽観はリスク管理を怠る危険も伴う。バランスの取れた楽観主義が重要とされている。",
+        "why_it_matters": "個人や企業の意思決定において、適切な optimism はストレス軽減や創造性向上に寄与しつつ、不注意や過剰リスクを防ぐため、経済活動や市場の動向にも影響を与えるため重要である。",
+        "market_impact": "投資家や経営者の楽観主義は市場のリスク許容度に影響し、資産価格の変動や企業の成長戦略に反映される。過度の楽観はバブル形成やリスク過小評価を招く可能性もある。",
         "category": "Economy",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories"
+        "source": "The Economist",
+        "url": "https://www.economist.com/business/2026/05/21/the-benefits-and-dangers-of-optimism"
+      },
+      {
+        "title": "What to Do in LA if You’re Here for Business (2025)",
+        "summary_2lines": "ロサンゼルスのビジネス滞在者向けに街の魅力や宿泊先を紹介し、効率的に街を楽しむ方法を提案している。独特の文化・自然・ホテル選びを通じて充実した滞在をサポートする内容。",
+        "why_it_matters": "ロサンゼルスは多様で広大な都市であり、ビジネス目的の訪問者が効率良く移動しつつ文化体験を最大化する情報は重要。訪問者に対する街の理解を深め、観光や出張の質向上に寄与する。",
+        "market_impact": "本記事は特定の企業や金融市場への直接的な影響は限定的だが、観光やホテル業界にポジティブな注目を集める可能性がある。文化・飲食業界も含めたロサンゼルスの地域経済活性化に繋がると期待される。",
+        "category": "Economy",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/los-angeles-tech-travel-guide/"
       }
     ],
     "Corporate": [
       {
-        "title": "OpenAI takes the lead in AI IPO horse race: 'Getting to public markets first is very important'",
-        "summary_2lines": "OpenAIが近くIPO申請を予定しており、AI分野の公開市場への最初の上場企業になる可能性が高まっている。これにより、同じくIPOを目指すAnthropicよりも優位に立つと見られている。",
-        "why_it_matters": "AI業界における上場競争は企業価値の評価や投資誘引に直結し、最初に公開市場へ参入することがブランド力や資金調達面で大きなアドバンテージを生む。OpenAIのIPO動向は業界全体の成長見通しや競争状況を左右するため重要である。",
-        "market_impact": "OpenAIのIPOはAI関連企業への投資熱を再燃させ、市場の期待を集めるだろう。波及効果でAnthropicなど競合の動向にも影響を与え、AI技術の商業化や資金調達競争が激化する見込み。投資家は収益性や成長戦略を改めて精査することとなる。",
-        "category": "Corporate",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/20/openai-takes-the-lead-in-ai-ipo-horse-race-getting-to-public-markets-first-is-very-important.html"
-      },
-      {
-        "title": "Chanel’s creative revival is paying off",
-        "summary_2lines": "世界で2番目に大きいラグジュアリーブランドであるシャネルが、クリエイティブな刷新により再び注目を集めている。ブランドの魅力と競争力が向上している兆しが見られる。",
-        "why_it_matters": "ラグジュアリーブランドは市場競争が激しく、消費者のトレンドや価値観の変化に敏感であるため、シャネルのクリエイティブな復活は業界全体に影響を与えうる。ブランドイメージの刷新は売上や利益の回復に直結し、ラグジュアリー市場の動向を示す重要な指標となる。",
-        "market_impact": "シャネルの復活は同業他社への競争圧力を高め、高級ブランドセクター全体の活性化を促す可能性がある。消費者の購買意欲を刺激し、株価や業績拡大につながることが期待される。また、関連サプライチェーンや広告戦略にも追い風となるだろう。",
-        "category": "Corporate",
-        "source": "The Economist",
-        "url": "https://www.economist.com/business/2026/05/19/chanels-creative-revival-is-paying-off"
-      },
-      {
-        "title": "Fintech firm Mercury hits $5.2 billion valuation after funding round, up 49% in 14 months",
-        "summary_2lines": "フィンテック企業MercuryがシリーズDで2億ドルを調達し、評価額は5.2億ドルに達した。連邦銀行認可取得に向けた動きも進めており、AI活用でスタートアップ支援を加速している。",
-        "why_it_matters": "Mercuryはパンデミックのバリュエーション崩壊後も成長を持続し、AI技術を活用した新ビジネス創出を牽引することでフィンテック業界の新たな成功例となっている。連邦銀行認可を目指す動きは、規制対応の強化と収益拡大を可能にし、フィンテックと伝統的金融の融合の先駆けになる点でも重要だ。",
-        "market_impact": "Mercuryの評価額上昇は投資家のフィンテックに対する信頼回復を示し、同社が連邦銀行としての地位を確立すれば、事業基盤の安定化やローン提供拡大を通じて市場競争力が高まる。これによりスタートアップ支援が強化され、AI関連の新規起業機会も広がると期待される。",
-        "category": "Corporate",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/20/fintech-mercury-valuation-fundraise-bank-charter.html"
-      },
-      {
-        "title": "xAI burned $6.4B last year. SpaceX’s IPO filing shows why the spending is far from over",
-        "summary_2lines": "Elon MuskのxAIは2025年に64億ドルの巨額赤字を計上し、SpaceXのIPO申請で今後も支出が増加する見込みが明らかに。AIモデルGrokを“数兆パラメータ”に拡大する計画で、さらに多額の投資が必要となる。  ",
-        "why_it_matters": "xAIとSpaceXの統合および上場計画は、AIと宇宙事業の融合という新たな技術融合の象徴であり、莫大な赤字にもかかわらず先端AI技術への競争力を維持するために巨額投資を継続する意向が示された点が重要。これにより、テクノロジーの進化と市場期待の変化を示唆している。",
-        "market_impact": "SpaceXのIPOは史上最大級の可能性を持ち、xAIの巨額損失と急増するキャピタル支出は投資家のリスク感覚にも影響する。競合のAnthropicが収益増と黒字転換を報告する中、xAIの大規模投資は業界内の競争激化を促し、AI市場の成長および技術革新の牽引役となるが、資金調達コストや株価ボラティリティを高める可能性もある。",
-        "category": "Corporate",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/"
-      },
-      {
-        "title": "Nvidia posts another record quarter, reveals $43 billion of holdings in startups",
-        "summary_2lines": "Nvidiaが第2四半期に816億ドルの売上高を記録し、データセンター分野で過去最高の752億ドルを達成。非公開企業への投資を大幅に拡大し、現四半期で430億ドルとなった。",
-        "why_it_matters": "NvidiaはAIやクラウドインフラの中核技術であるBlackwellアーキテクチャを広範囲に採用されており、その成長を背景に大規模な株式買戻しを実施。さらにスタートアップ投資を急増させており、半導体・AI分野での影響力拡大を狙っている。また、中国向け輸出問題にも言及し、地政学リスクへの対応も鮮明にしている。",
-        "market_impact": "データセンター需要の強さとAI関連技術の採用拡大が投資家の期待を高め、Nvidiaの株価にはプラス要因となる。大規模な株式買戻しは株主還元姿勢を示し市場に好感されるだろう。一方、新興企業への多額投資は将来的な成長の種まきと捉えられ、テックセクター全体の資金流入を促進する可能性がある。",
-        "category": "Corporate",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/"
-      },
-      {
-        "title": "SpaceX files for IPO that could make Elon Musk a trillionaire",
-        "summary_2lines": "SpaceXが米国でのIPOを申請し、これによりイーロン・マスクはトリリオネア（1兆ドル長者）になる可能性がある。IPOは史上最大級で、SpaceXはロケット製造や衛星インターネット、AI企業xAIを傘下に持つ。\n",
-        "why_it_matters": "SpaceXの上場はテクノロジー業界における重要な資金調達の節目となり、マスク氏の資産規模が飛躍的に拡大することが予想される。さらに、宇宙開発や衛星通信といった先端技術分野の成長およびAI競争の新たな局面を示しており、業界全体に大きな影響を与える可能性がある。",
-        "market_impact": "IPOによってSpaceXが大規模な資金を獲得し、ロケット事業やStarlinkの拡大、AI分野での競争力強化が見込まれる。また、投資家の注目が宇宙関連市場やAIスタートアップに集まり、関連株価の上昇や資金流入を促進すると予想される。一方、巨額の負債や継続的な損失も懸念材料となり、不透明感も残る。",
+        "title": "EasyJet boss says summer flights won't be hit by jet fuel shortages",
+        "summary_2lines": "EasyJetのCEOは夏のフライトはジェット燃料の不足で影響を受けないとし、燃料供給に問題はないと強調した。一方で、中東情勢の不安定化により予約が遅れる傾向が続いている。",
+        "why_it_matters": "中東の紛争によるホルムズ海峡の封鎖で欧州へのジェット燃料供給が不安視され、燃料価格が高騰している中、主要航空会社が安定供給を確保していることは業界と消費者に安心感をもたらす。遅延予約の増加は消費者心理や旅行需要の変化を示し、航空業界の今後の収益見通しに影響を与えるため注目される。",
+        "market_impact": "ジェット燃料価格の高騰は航空業界のコスト増加を引き起こし、EasyJetは4～9月の燃料の72%を事前契約で価格固定しているが、それ以外の期間はコスト増の影響を受ける可能性がある。燃料コスト上昇と需要変動により今後の利益率は圧迫される見込みであり、航空株には下方リスクが存在する。加えて燃料供給の安定宣言は市場の過度な懸念を和らげる役割を果たす。",
         "category": "Corporate",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "SpaceX IPO Filing Reveals Anthropic Is Paying $15 Billion a Year to Access Its Data Centers",
-        "summary_2lines": "AnthropicはSpaceXのデータセンター利用料として年間約150億ドルを支払う契約を締結。SpaceXのIPO申請資料で初めてその契約内容が明らかになった。",
-        "why_it_matters": "AI開発における計算資源の重要性が増す中、膨大な資金がインフラ利用に投じられていることを示している。これによりAI分野の競争構造や資本集中の実態が浮き彫りになった。また、SpaceXのIPOを通じて巨大な資金調達が予想される背景が理解できる。",
-        "market_impact": "Anthropicによる多額の支払いはAIクラウドインフラ市場の拡大を示唆し、スペースXの収益構造多様化に寄与する。大規模IPOに向けて投資家の注目が増す一方、ムスクの経営支配リスクや株主の権限の限定はガバナンス面の懸念材料となる可能性がある。AI競争激化により関連企業の株価変動や資金調達環境にも波及効果が想定される。",
+        "title": "Can an Italian company disrupt Germany’s broken railway industry?",
+        "summary_2lines": "イタリアの企業がドイツの鉄道業界に挑戦し、長年の課題を抱えるDeutsche Bahnに競争相手が現れる可能性がある。鉄道業界の改革や競争促進が期待されている。",
+        "why_it_matters": "ドイツの鉄道インフラは運行の遅延やサービス品質の低下といった問題を抱えており、国内最大手のDeutsche Bahnの独占状態が続いている。イタリア企業の参入により、競争が活性化してサービス向上やコスト削減につながる可能性があるため重要である。",
+        "market_impact": "競争の激化によってDeutsche Bahnがサービス改善や価格競争を迫られる一方、新規参入企業は市場シェア拡大のチャンスを得る。鉄道関連事業者や投資家にとって、業界構造の変化が中長期的なビジネス機会やリスク見直しの契機となるだろう。",
+        "category": "Corporate",
+        "source": "The Economist",
+        "url": "https://www.economist.com/business/2026/05/21/can-an-italian-company-disrupt-germanys-broken-railway-industry"
+      },
+      {
+        "title": "A new mega-deal shows how AI has turned utilities into hot property",
+        "summary_2lines": "NextEraとDominionが大規模なM&Aを進めており、規制当局の承認を得る必要がある。AIの進展によりユーティリティ企業の価値が高まり、注目の的となっている。",
+        "why_it_matters": "AI技術の発展がエネルギー業界の価値評価を変革し、従来のインフラ企業が成長分野として投資家や企業にとって魅力的な存在になったことを示す。これにより、大手ユーティリティ間の統合が促進され、業界再編が加速する可能性がある。",
+        "market_impact": "今回の大型M&Aはユーティリティ業界の競争環境を大きく変え、株式市場では関連企業の株価に影響を与えるだろう。また、エネルギー分野でのAI活用が浸透することで効率化やコスト削減が期待され、長期的には企業価値の向上につながると見られる。",
+        "category": "Corporate",
+        "source": "The Economist",
+        "url": "https://www.economist.com/business/2026/05/21/a-new-mega-deal-shows-how-ai-has-turned-utilities-into-hot-property"
+      },
+      {
+        "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
+        "summary_2lines": "SpaceXのIPOで最も恩恵を受けるのは創業者イーロン・マスクとその親しい関係者である。IPOは約750億ドルの調達、評価額は1.7兆ドルと予測されている。",
+        "why_it_matters": "SpaceXのIPOは宇宙関連企業として史上最大級の規模となり、マスク氏の圧倒的な支配力と大株主構成が明確になった。これにより、今後の宇宙開発やテクノロジー分野での資金調達や企業ガバナンスの在り方に大きな影響を与える可能性がある。",
+        "market_impact": "巨額の資金調達によりSpaceXは更なる技術開発と事業拡大が期待される一方、市場ではマスク氏の経営支配力が投資リスクと捉えられる可能性がある。IPO後の株価動向は宇宙産業全体の投資熱を左右し、関連企業にも波及効果をもたらすことが想定される。",
+        "category": "Corporate",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/"
+      },
+      {
+        "title": "SpaceX, OpenAI valuations could mean they leapfrog Berkshire Hathaway on first day of trading",
+        "summary_2lines": "SpaceXとOpenAIが近日中に大型IPOを予定しており、初日の取引で時価総額が1兆ドル超えを見込む。これらの企業はバークシャー・ハサウェイを凌ぐ可能性があると市場で注目されている。",
+        "why_it_matters": "近年、企業の未公開期間が長期化し、資金調達方法が多様化する中での大型テックIPOは市場の注目を集める。特に時価総額1兆ドル超のデビューは非常に稀で、既存の大手企業との競争や市場の資金吸収力に影響を与える重要な指標となるため、投資家や市場関係者にとって極めて重要な動きとなっている。",
+        "market_impact": "もしSpaceXやOpenAI、AnthropicのIPOが想定通りの高評価で初日の取引を終えれば、米株式市場の大型銘柄構成が大きく変わり、バークシャー・ハサウェイを上回る時価総額規模となる。これにより、投資資金の分配や大型新規株の流動性が活発化し、テクノロジーセクターの勢力図にも変化が予想される。一方で、高値維持の持続性に市場の懸念もあるが、米国市場の巨大さから吸収力自体は十分と見られている。",
+        "category": "Corporate",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/21/spacex-openai-valuations-to-leapfrog-berkshire-hathaway-traders-say.html"
+      },
+      {
+        "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
+        "summary_2lines": "ニューヨーク市長のゾーハン・マンダニが、若年層に直接語りかけるためにTwitchで定期ライブ配信『Talk with the People』を開始した。これにより政治とオンライン世代の新たな接点を築く試みが注目されている。",
+        "why_it_matters": "政治家が若年層とのコミュニケーション手段を伝統的メディアからデジタルプラットフォームへ移行していることは、政治情報の入手経路や世論形成の構造変化を示す。マンダニ市長は、ラジオ時代のFDRのように、現代の主要コミュニケーション媒体を活用して政治へのアクセスを民主化し、特に従来無視されがちだった若者層への政治参加を促進している点で画期的だ。",
+        "market_impact": "現時点で直接的な経済市場や企業業績への影響は限定的と考えられるが、政治家のソーシャルメディア活用拡大はデジタル広告市場やオンラインプラットフォームの活性化を後押しする可能性がある。また、若年層の政策関与が深まることで、将来的な都市政策や税制変更、市公共交通機関の改善などを通じた地域経済の変化も予測されるため注視が必要である。",
+        "category": "Corporate",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/"
+      },
+      {
+        "title": "Waymo halts freeway rides after robotaxis struggle in construction zones",
+        "summary_2lines": "Waymoは高速道路の建設区域でロボタクシーが苦戦したため、サンフランシスコやロサンゼルスなどの都市で高速道路でのロボタクシー運行を一時停止した。現在は市街地での運行を継続し、ソフトウェアの改良を進めている。",
+        "why_it_matters": "Waymoはロボタクシーの高速道路運用を拡大することで利便性向上と都市間移動の効率化を目指しているが、建設現場などの複雑な環境下での運行安定性が課題となっている。この問題は自動運転技術全体の信頼性に直結し、技術普及のスピードを左右する重要な要素である。",
+        "market_impact": "主要都市でのサービス停止はWaymoの事業拡大計画に短期的なブレーキとなり、投資家の信頼や株価に影響を及ぼす可能性がある。一方で問題を的確に解決し品質を高められれば、将来的にはより広範な市場での競争優位性を獲得し、ロボタクシー市場全体の成長を促進する契機にもなる。",
+        "category": "Corporate",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/"
+      },
+      {
+        "title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
+        "summary_2lines": "Metaが約8,000人のレイオフを発表し、社員の士気低下が深刻化している。Googleは年次カンファレンスで検索機能を大幅刷新し、AIへの期待と反発が混在している状況が浮き彫りに。",
+        "why_it_matters": "テック大手Metaの大規模なリストラは、同社がAI開発やデータセンター投資に資源を集中する中での組織的な苦境を示している。一方、Googleの検索機能改革は検索市場の競争構造に影響を与え、AI普及への社会的な反発も表面化しており、テクノロジーの将来と労働環境に重要な示唆を与える。",
+        "market_impact": "Metaの人員削減はコスト管理とAI戦略への投資シフトを示唆し、短期的には同社の株価や社員の信頼感にマイナス影響を与える可能性がある。Googleの検索技術の革新は、広告収益や検索エンジンシェアにポジティブな影響を与え、AI関連ビジネスの拡大を促進するだろう。社会的なAIへの懸念は、企業の採用戦略や製品受容にリスクをもたらす可能性がある。",
         "category": "Corporate",
         "source": "Wired",
-        "url": "https://www.wired.com/story/spacex-ipo-anthropic-compute-finances-risks/"
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/"
       },
       {
-        "title": "Masters of the Universe final trailer brings the '80s nostalgia",
-        "summary_2lines": "Amazon MGM Studiosが『Masters of the Universe』の最新予告編を公開。1980年代の人気シリーズを実写映画化し、豪華キャストが出演している。",
-        "why_it_matters": "『He-Man and the Masters of the Universe』は1980年代に大ヒットしたマテルのフランチャイズであり、そのリブート作品はファンの期待が高い。Amazonが同作品に注力することで、ストリーミング市場や映画興行収入に新たな成長機会を生み出す可能性があるため注目されている。",
-        "market_impact": "Amazon MGM Studiosの本作は、競争の激しい映像コンテンツ市場において差別化を図る重要作品となる。成功すれば、関連グッズの販売やクロスメディア展開も活発化し、マテルおよびAmazonの収益拡大につながる可能性がある。また、80年代リバイバル市場を取り込むことで、ノスタルジー消費を喚起し経済効果が期待できる。",
+        "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
+        "summary_2lines": "SpaceXはAI市場を会社の将来の中心事業と位置づけており、xAIの買収を通じてGrok AIモデルを展開している。だが、市場シェアはOpenAIなど競合に大きく遅れをとっている状況だ。  ",
+        "why_it_matters": "AI市場は今後の巨大な経済成長分野であり、トランプルドル規模の市場機会を見込むSpaceXの参入は業界再編につながる可能性がある。特にBig Tech勢との競争激化は技術開発や市場支配の勝敗を左右するため重要だ。  ",
+        "market_impact": "SpaceXがAI事業への注力を鮮明にしたことで、宇宙ビジネス中心からAI競争へのシフトが示された。市場規模見積もりは他機関よりも過大であるが、IPO前の戦略として投資家の関心を引く狙いもある。Groｋ AIの利用率低下は即座の商業的成功を難しくし、競合との差別化や顧客獲得の課題が浮き彫りになっている。  ",
         "category": "Corporate",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/culture/2026/05/masters-of-the-universe-final-trailer-brings-the-80s-nostalgia/"
+        "url": "https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/"
       },
       {
-        "title": "Gen Z may be shying away from cosmetics, as higher gas prices hit spending",
-        "summary_2lines": "E.l.f. Beautyは、昨年の関税による価格上昇とガソリン価格の高騰を受け、一部商品の値下げを発表した。ガソリン価格の上昇がZ世代の化粧品消費を抑制している可能性が指摘されている。",
-        "why_it_matters": "ガソリン価格の上昇は消費者の可処分所得を圧迫し、特に若年層の消費行動に影響を及ぼす。化粧品業界における主要ターゲット層の消費減退は、企業の収益に直接的な影響を及ぼすため重要である。",
-        "market_impact": "E.l.f. Beautyが値下げに踏み切ることで、価格競争が激化し収益率が圧迫される可能性がある。消費者支出が絞られる中、同業他社にも価格戦略や販促強化の圧力がかかり、化粧品市場全体の成長鈍化が懸念される。",
+        "title": "AT&T sues California in attempt to shut off old phone network",
+        "summary_2lines": "AT&Tはカリフォルニア州が電話網のサービス停止を認めないことに対し訴訟を提起。州の規制が旧式の銅線ネットワークの維持を強いていると主張し、連邦通信委員会にも救済を求めている。",
+        "why_it_matters": "全国的に旧来の電話網から新しい通信技術への移行が進む中、カリフォルニア州のみが古い銅線網の維持を強いる規制を続けていることが、通信事業者の設備更新や効率化を妨げている。これは技術進歩に逆行する規制の例として、他州や産業界にも波及する可能性がある重要な問題である。",
+        "market_impact": "AT&Tがカリフォルニア州の規制により旧電話網廃止が遅延すると、同社のインフラ投資効率が低下しコスト負担が増加。通信サービスの近代化遅れが競争力にも影響し、同社の収益性や株価に下押し圧力となる可能性がある。一方で規制緩和は通信関連の資本支出拡大やサービス改善を促進し、通信市場全体の発展に寄与する可能性がある。",
         "category": "Corporate",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/gen-z-may-be-shying-away-from-cosmetics-as-higher-gas-prices-hit-spending-9f9ccbf8?mod=mw_rss_topstories"
-      },
-      {
-        "title": "Elon Musk’s SpaceX unveils filing for blockbuster IPO",
-        "summary_2lines": "Elon MuskのSpaceXが歴史的規模のIPO申請を公開し、時価総額は1.75兆ドルに達する可能性がある。これにより、Muskは史上初の兆万長者になる見込みである。",
-        "why_it_matters": "SpaceXのIPOは宇宙開発やAI技術の発展に資金を集め、宇宙産業の経済構造を大きく変える可能性がある。加えて、Muskの企業群における時価総額1兆ドル超えの企業が2つ目となり、その影響力と市場評価の大幅な拡大を示しているため注目される。",
-        "market_impact": "史上最大規模となるIPOは、株式市場における投資マインドを刺激し、宇宙関連企業やAI関連企業の市場評価を押し上げる可能性が高い。加えて、SpaceXの資金調達により再利用ロケットなどの技術革新が進み、競争激化が予想される。これにより既存の宇宙ビジネス競合他社や新興テック企業の動向にも影響を与えるだろう。",
-        "category": "Corporate",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/5/20/elon-musks-spacex-unveils-filing-for-blockbuster-ipo?traffic_source=rss"
-      },
-      {
-        "title": "The Best Outdoor Deals From the REI Anniversary Sale 2026",
-        "summary_2lines": "REIの2026年記念セールが5月15日から25日まで開催され、最大30％オフの屋外用品が多数登場。特に会員は追加割引も利用可能で、テントや寝袋、アパレルなど豊富なアウトドアギアがお得に購入できる。",
-        "why_it_matters": "アウトドア市場は季節ごとの需要変動が大きく、REIの年次最大セールは消費者の購買活動を促進し、業界全体のトレンドや競合他社の価格戦略に影響を与える重要なイベントである。特に会員向けの優遇措置は顧客ロイヤルティ向上と収益強化に寄与する。",
-        "market_impact": "このセールはREIの売上拡大に直結し、特に夏季のアウトドア需要を取り込みやすくする。アウトドア用品市場全体の活性化や他小売業者の競争激化も促すため、関連企業の販売戦略や株価にも影響を及ぼす可能性が高い。会員制割引によるリピーター増加も中長期的な利益安定に寄与する。",
-        "category": "Corporate",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/rei-anniversary-sale-2026/"
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/05/att-sues-california-in-attempt-to-shut-off-old-phone-network/"
       }
     ]
   }
