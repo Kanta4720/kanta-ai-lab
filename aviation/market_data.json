@@ -1,0 +1,29 @@
+{
+  "updated_at_jst": "2025-05-23 07:05",
+  "lessor_stocks": [
+    {"symbol": "AER",     "name": "AerCap",      "currency": "USD", "price": 95.28, "change": 0.76,  "change_pct": 0.80,  "date": "2025-05-22"},
+    {"symbol": "AL",      "name": "Air Lease",   "currency": "USD", "price": 47.35, "change": -0.19, "change_pct": -0.40, "date": "2025-05-22"},
+    {"symbol": "2588.HK", "name": "BOC Aviation","currency": "HKD", "price": 58.60, "change": 0.15,  "change_pct": 0.26,  "date": "2025-05-22"}
+  ],
+  "airline_stocks": [
+    {"symbol": "UAL",    "name": "United",   "currency": "USD", "price": 74.85, "change": 0.88,   "change_pct": 1.19,  "date": "2025-05-22"},
+    {"symbol": "DAL",    "name": "Delta",    "currency": "USD", "price": 49.24, "change": -0.31,  "change_pct": -0.63, "date": "2025-05-22"},
+    {"symbol": "AAL",    "name": "American", "currency": "USD", "price": 12.43, "change": 0.06,   "change_pct": 0.48,  "date": "2025-05-22"},
+    {"symbol": "RYAAY",  "name": "Ryanair",  "currency": "USD", "price": 35.62, "change": 0.32,   "change_pct": 0.91,  "date": "2025-05-22"},
+    {"symbol": "9202.T", "name": "ANA",      "currency": "JPY", "price": 3024,  "change": -9.0,   "change_pct": -0.30, "date": "2025-05-22"},
+    {"symbol": "9201.T", "name": "JAL",      "currency": "JPY", "price": 2681,  "change": 5.0,    "change_pct": 0.19,  "date": "2025-05-22"}
+  ],
+  "mfr_stocks": [
+    {"symbol": "BA",     "name": "Boeing",  "currency": "USD", "price": 168.54, "change": -1.87, "change_pct": -1.10, "date": "2025-05-22"},
+    {"symbol": "AIR.PA", "name": "Airbus",  "currency": "EUR", "price": 152.44, "change": 0.60,  "change_pct": 0.40,  "date": "2025-05-22"}
+  ],
+  "commodities": [
+    {"name": "Brent原油", "unit": "USD/bbl", "price": 82.34, "change_pct": -0.78, "date": "2025-05-22"},
+    {"name": "WTI原油",   "unit": "USD/bbl", "price": 78.47, "change_pct": -0.85, "date": "2025-05-22"}
+  ],
+  "rates": [
+    {"name": "SOFR",    "value": 5.31, "unit": "%", "change": 0.0,   "date": "2025-05-22"},
+    {"name": "米10年債", "value": 4.34, "unit": "%", "change": 0.018, "date": "2025-05-22"},
+    {"name": "米3ヶ月債","value": 5.22, "unit": "%", "change": -0.01, "date": "2025-05-22"}
+  ]
+}

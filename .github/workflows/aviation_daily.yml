@@ -18,7 +18,11 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install feedparser trafilatura openai requests
+        run: pip install feedparser trafilatura openai requests yfinance
+
+      - name: Fetch Market Data
+        working-directory: aviation
+        run: python scripts/fetch_market_data.py
 
       - name: Fetch and Analyze Aviation News
         env:
@@ -65,7 +69,7 @@ jobs:
         run: |
           git config user.name "kanta-news-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add aviation/news.json aviation/world_topic.json aviation/features.json aviation/archive/
+          git add aviation/news.json aviation/world_topic.json aviation/features.json aviation/market_data.json aviation/archive/
           git diff --cached --quiet || (git commit -m "Aviation daily update: $(TZ=Asia/Tokyo date +%Y-%m-%d)" && git push)
 
       - name: Notify failure
