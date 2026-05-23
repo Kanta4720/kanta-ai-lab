@@ -519,6 +519,8 @@
       main { padding: 20px 14px 60px; }
 
       /* 読みやすいテキストサイズ */
+      .card-date, .source-label { font-size: 0.78rem; }
+      .tag { font-size: 0.72rem; }
       .card-summary { font-size: 0.92rem; line-height: 1.8; }
       .card-background { font-size: 0.86rem; line-height: 1.75; }
       .article-row-summary { font-size: 0.9rem; line-height: 1.8; }
@@ -697,7 +699,7 @@ function briefCard(article, idx) {
   const tc       = tagClass(article.category);
   const featured = idx === 0 ? 'featured' : '';
   const dateStr  = article.published_at ? `<span class="card-date">🕐 ${timeAgo(article.published_at)}</span>` : '';
-  const summary  = article.summary || article.summary_2lines || '';
+  const summary  = article.summary || '';
   const bg       = article.background ? `<div class="card-background">${article.background}</div>` : '';
   const { html: insHtml, btn: insBtn } = insightsBlock(article, `ins-${idx}`);
   return `
@@ -721,7 +723,7 @@ function briefCard(article, idx) {
 function articleRow(article, idx) {
   const tc      = tagClass(article.category);
   const dateStr = article.published_at ? `<span class="card-date">🕐 ${timeAgo(article.published_at)}</span>` : '';
-  const summary = article.summary || article.summary_2lines || '';
+  const summary = article.summary || '';
   const bg      = article.background ? `<div class="card-background">${article.background}</div>` : '';
   const { html: insHtml, btn: insBtn } = insightsBlock(article, `row-ins-${idx}`);
   return `
