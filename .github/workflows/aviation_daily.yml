@@ -51,12 +51,26 @@ jobs:
         working-directory: aviation
         run: python scripts/fetch_aviation_features.py
 
+      - name: Validate aviation features.json
+        run: |
+          python - <<'EOF'
+          import json, sys
+          with open("aviation/features.json", encoding="utf-8") as f:
+              data = json.load(f)
+          count = len(data.get("features", []))
+          if count == 0:
+              print("ERROR: features が空です。コミットを中断します。")
+              sys.exit(1)
+          print(f"Validation OK: features に {count} 本の記事があります。")
+          EOF
+
       - name: Archive today's data
         run: |
           DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)
           mkdir -p aviation/archive
-          cp aviation/news.json     aviation/archive/news_${DATE}.json
-          cp aviation/features.json aviation/archive/features_${DATE}.json
+          cp aviation/news.json        aviation/archive/news_${DATE}.json
+          cp aviation/features.json    aviation/archive/features_${DATE}.json
+          cp aviation/market_data.json aviation/archive/market_${DATE}.json
           python3 aviation/scripts/update_archive_index.py
 
       - name: Commit changes
@@ -64,7 +78,19 @@ jobs:
           git config user.name "kanta-news-bot"
           git config user.email "actions@users.noreply.github.com"
           git add aviation/news.json aviation/features.json aviation/market_data.json aviation/archive/
-          git diff --cached --quiet || (git commit -m "Aviation daily update: $(TZ=Asia/Tokyo date +%Y-%m-%d)" && git push)
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Aviation daily update: $(TZ=Asia/Tokyo date +%Y-%m-%d)"
+            WAIT=2
+            for i in 1 2 3 4; do
+              git push && break || {
+                echo "Push attempt $i failed, retrying in ${WAIT}s..."
+                sleep $WAIT
+                WAIT=$((WAIT * 2))
+              }
+            done
+          fi
 
       - name: Notify failure
         if: failure()

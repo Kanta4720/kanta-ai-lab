@@ -119,6 +119,34 @@
     nav a:hover { color: var(--text); border-bottom-color: var(--border); }
     nav a.active { color: var(--accent2); border-bottom-color: var(--accent2); }
 
+    /* ===== Date nav ===== */
+    .date-nav {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 14px;
+      padding: 9px 20px;
+      flex-wrap: wrap;
+    }
+    .date-nav-btn {
+      font-size: 0.78rem;
+      font-weight: 500;
+      color: var(--accent2);
+      padding: 4px 12px;
+      border: 1px solid rgba(37,137,255,0.3);
+      border-radius: 6px;
+      transition: var(--transition);
+      white-space: nowrap;
+    }
+    .date-nav-btn:hover { background: rgba(37,137,255,0.1); }
+    .date-nav-btn.disabled { color: var(--text-muted); border-color: var(--border); cursor: default; pointer-events: none; opacity: 0.5; }
+    .date-nav-current { font-size: 0.85rem; font-weight: 700; color: var(--text); white-space: nowrap; }
+    .date-nav-archive { font-size: 0.72rem; color: var(--text-muted); border-left: 1px solid var(--border); padding-left: 14px; }
+    .date-nav-archive a { color: var(--accent2); }
+    .date-nav-archive a:hover { text-decoration: underline; }
+
     /* ===== Hero ===== */
     .hero {
       background: linear-gradient(135deg, #040b16 0%, #081630 50%, #0a1e45 100%);
@@ -289,10 +317,12 @@
   </div>
 </nav>
 
+<div id="date-nav"></div>
+
 <div class="hero">
   <div class="hero-label">MARKET DATA</div>
   <h2 class="hero-title">航空業界<span>マーケット概況</span></h2>
-  <p class="hero-desc">リース会社・主要航空株・原油・金利指標を毎朝更新</p>
+  <p class="hero-desc">リース会社・主要航空株・原油・金利・為替を毎朝更新</p>
 </div>
 
 <main>
@@ -373,6 +403,17 @@
     </div>`;
   }
 
+  function fxCard(f) {
+    const dp = f.symbol === 'USD/JPY' ? 2 : 4;
+    return `<div class="metric-card">
+      <div class="mc-symbol">${f.symbol}</div>
+      <div class="mc-name">${f.name}</div>
+      <div class="mc-price">${f.price.toFixed(dp)}</div>
+      ${changeHtml(f.change_pct, null, null)}
+      <div class="mc-date">${f.date || ''}</div>
+    </div>`;
+  }
+
   function section(label, note, cards) {
     if (!cards || cards.length === 0) return '';
     return `<div class="market-section">
@@ -385,11 +426,47 @@
     </div>`;
   }
 
+  // ---- Date nav ----
+  function renderDateNav(currentDate, dates) {
+    const el = document.getElementById('date-nav');
+    if (!el) return;
+    if (dates.length === 0 && !currentDate) { el.style.display = 'none'; return; }
+
+    const idx = currentDate ? dates.indexOf(currentDate) : -1;
+    const prevDate = currentDate ? (dates[idx + 1] || null) : (dates[0] || null);
+    const nextDate = currentDate ? (idx > 0 ? dates[idx - 1] : null) : null;
+
+    const fmt = d => { if (!d) return '最新'; const [y,m,dd] = d.split('-').map(Number); return `${y}年${m}月${dd}日`; };
+    const prevHtml = prevDate
+      ? `<a class="date-nav-btn" href="./market.html?date=${prevDate}">← 前の日</a>`
+      : `<span class="date-nav-btn disabled">← 前の日</span>`;
+    const nextHtml = currentDate
+      ? (nextDate
+          ? `<a class="date-nav-btn" href="./market.html?date=${nextDate}">次の日 →</a>`
+          : `<a class="date-nav-btn" href="./market.html">最新へ →</a>`)
+      : `<span class="date-nav-btn disabled">次の日 →</span>`;
+
+    el.innerHTML = `<div class="date-nav">
+      ${prevHtml}
+      <span class="date-nav-current">${fmt(currentDate)}</span>
+      ${nextHtml}
+      <span class="date-nav-archive"><a href="./archive.html">📅 一覧</a></span>
+    </div>`;
+  }
+
   // ---- Load & render ----
   async function loadMarket() {
     const app = document.getElementById('app');
+    const params    = new URLSearchParams(window.location.search);
+    const dateParam = params.get('date');
+    const jsonUrl   = dateParam ? `./archive/market_${dateParam}.json` : './market_data.json';
+
+    fetch('./archive/index.json').then(r => r.json()).then(d => {
+      renderDateNav(dateParam, d.dates || []);
+    }).catch(() => renderDateNav(dateParam, []));
+
     try {
-      const res = await fetch('./market_data.json');
+      const res = await fetch(jsonUrl);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const d = await res.json();
 
@@ -402,12 +479,14 @@
           (d.airline_stocks || []).map(stockCard).join('')) +
         section('製造会社株', 'NYSE / Euronext前日終値',
           (d.mfr_stocks     || []).map(stockCard).join('')) +
-        section('金利・レート', 'SOFR: NY Fed / 米国債: CBOE',
+        section('金利・レート', 'SOFR: NY Fed / EURIBOR: ECB / 米国債: CBOE',
           (d.rates          || []).map(rateCard).join('')) +
+        section('為替', '前営業日終値',
+          (d.fx_rates       || []).map(fxCard).join('')) +
         section('原油先物', 'NYMEX前日終値（航空燃料コストの代替指標）',
           (d.commodities    || []).map(commodityCard).join('')) +
         `<div class="disclaimer">
-          ※ 株価・金利は前営業日終値。原油はNYMEX先物。為替レートは考慮されていません。<br>
+          ※ 株価・金利・為替は前営業日終値。原油はNYMEX先物。<br>
           本データは情報提供のみを目的としており、投資判断の根拠への使用はご遠慮ください。
         </div>`;
 

@@ -3,6 +3,7 @@
 
 import os
 import json
+import sys
 import requests
 import trafilatura
 from openai import OpenAI
@@ -218,12 +219,12 @@ def main():
     candidates = fetch_candidates()
     if not candidates:
         print("ERROR: 候補記事を取得できませんでした。")
-        return
+        sys.exit(1)
 
     features = select_and_summarize(candidates)
     if not features:
         print("ERROR: 特集記事の生成に失敗しました。")
-        return
+        sys.exit(1)
 
     now = datetime.now(JST).strftime("%Y-%m-%d %H:%M")
     output = {
@@ -243,5 +244,6 @@ def main():
 if __name__ == "__main__":
     if "OPENAI_API_KEY" not in os.environ:
         print("Error: OPENAI_API_KEY environment variable not set.")
+        sys.exit(1)
     else:
         main()

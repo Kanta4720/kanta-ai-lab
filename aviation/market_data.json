@@ -22,8 +22,14 @@
     {"name": "WTI原油",   "unit": "USD/bbl", "price": 78.47, "change_pct": -0.85, "date": "2025-05-22"}
   ],
   "rates": [
-    {"name": "SOFR",    "value": 5.31, "unit": "%", "change": 0.0,   "date": "2025-05-22"},
-    {"name": "米10年債", "value": 4.34, "unit": "%", "change": 0.018, "date": "2025-05-22"},
-    {"name": "米3ヶ月債","value": 5.22, "unit": "%", "change": -0.01, "date": "2025-05-22"}
+    {"name": "SOFR",      "value": 5.31,  "unit": "%", "change": 0.0,    "date": "2025-05-22"},
+    {"name": "EURIBOR 3M","value": 3.641, "unit": "%", "change": -0.003, "date": "2025-05-22"},
+    {"name": "米10年債",   "value": 4.34,  "unit": "%", "change": 0.018,  "date": "2025-05-22"},
+    {"name": "米3ヶ月債",  "value": 5.22,  "unit": "%", "change": -0.01,  "date": "2025-05-22"}
+  ],
+  "fx_rates": [
+    {"symbol": "EUR/USD", "name": "ユーロ/米ドル",    "price": 1.0843, "change_pct": -0.12, "date": "2025-05-22"},
+    {"symbol": "USD/JPY", "name": "米ドル/円",        "price": 156.48, "change_pct": 0.31,  "date": "2025-05-22"},
+    {"symbol": "USD/HKD", "name": "米ドル/香港ドル",  "price": 7.8095, "change_pct": 0.01,  "date": "2025-05-22"}
   ]
 }

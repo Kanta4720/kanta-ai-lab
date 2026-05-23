@@ -4,7 +4,9 @@
 航空業界関連マーケットデータを収集し market_data.json に書き出す
 - リース会社株・主要航空株・製造会社株: yfinance
 - SOFR: NY Fed 公開 API
-- 米10年国債利回り: yfinance (^TNX)
+- EURIBOR 3M: ECB 公開 API
+- 米国債利回り: yfinance (^TNX, ^IRX)
+- 為替 (EUR/USD, USD/JPY, USD/HKD): yfinance
 - Brent / WTI 原油先物: yfinance
 """
 
@@ -85,6 +87,60 @@ def fetch_commodity(info):
         return None
 
 
+FX_TICKERS = [
+    {"symbol": "EURUSD=X", "name": "EUR/USD", "desc": "ユーロ/米ドル"},
+    {"symbol": "JPY=X",    "name": "USD/JPY", "desc": "米ドル/円"},
+    {"symbol": "USDHKD=X", "name": "USD/HKD", "desc": "米ドル/香港ドル"},
+]
+
+
+def fetch_fx(info):
+    try:
+        hist = yf.Ticker(info["symbol"]).history(period="5d")
+        if hist.empty:
+            return None
+        price_now  = float(hist.iloc[-1]["Close"])
+        price_prev = float(hist.iloc[-2]["Close"]) if len(hist) >= 2 else None
+        change_pct = round((price_now - price_prev) / price_prev * 100, 3) if price_prev else None
+        return {
+            "symbol":     info["name"],
+            "name":       info["desc"],
+            "price":      round(price_now, 4),
+            "change_pct": change_pct,
+            "date":       hist.index[-1].strftime("%Y-%m-%d"),
+        }
+    except Exception as e:
+        print(f"  [SKIP FX] {info['symbol']}: {e}")
+        return None
+
+
+def fetch_euribor_3m():
+    try:
+        url = (
+            "https://data-api.ecb.europa.eu/service/data/"
+            "FM/B.U2.EUR.RT0.MM.EURIBOR3MD_.HSTA"
+            "?format=jsondata&lastNObservations=2"
+        )
+        resp = requests.get(url, timeout=15, headers={"Accept": "application/json"})
+        data = resp.json()
+        obs     = data["dataSets"][0]["series"]["0:0:0:0:0:0"]["observations"]
+        keys    = sorted(obs.keys(), key=int)
+        val_now  = float(obs[keys[-1]][0])
+        val_prev = float(obs[keys[-2]][0]) if len(keys) >= 2 else None
+        periods  = data["structure"]["dimensions"]["observation"][0]["values"]
+        date_str = periods[int(keys[-1])]["id"]
+        return {
+            "name":   "EURIBOR 3M",
+            "value":  round(val_now, 3),
+            "unit":   "%",
+            "change": round(val_now - val_prev, 3) if val_prev else None,
+            "date":   date_str,
+        }
+    except Exception as e:
+        print(f"  [SKIP] EURIBOR 3M: {e}")
+        return None
+
+
 def fetch_sofr():
     try:
         url  = "https://markets.newyorkfed.org/api/rates/sofr/last/1.json"
@@ -131,11 +187,14 @@ def main():
 
     rates = []
     for fn in [fetch_sofr,
+               fetch_euribor_3m,
                lambda: fetch_yield("^TNX", "米10年債"),
                lambda: fetch_yield("^IRX", "米3ヶ月債")]:
         r = fn()
         if r:
             rates.append(r)
+
+    fx_rates = [r for t in FX_TICKERS for r in [fetch_fx(t)] if r]
 
     now    = datetime.now(JST).strftime("%Y-%m-%d %H:%M")
     output = {
@@ -145,6 +204,7 @@ def main():
         "mfr_stocks":     mfr_stocks,
         "commodities":    commodities,
         "rates":          rates,
+        "fx_rates":       fx_rates,
     }
 
     script_dir  = os.path.dirname(os.path.abspath(__file__))
