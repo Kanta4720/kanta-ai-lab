@@ -739,6 +739,22 @@
       return map[cat] || 'tag-Business';
     }
 
+    function timeAgo(str) {
+      if (!str) return '';
+      const d = new Date(str.replace(' ', 'T') + '+09:00');
+      if (isNaN(d)) return '';
+      const diff = (Date.now() - d) / 1000;
+      if (diff < 60)     return 'たった今';
+      if (diff < 3600)   return `${Math.floor(diff / 60)}分前`;
+      if (diff < 86400)  return `${Math.floor(diff / 3600)}時間前`;
+      if (diff < 172800) return '昨日';
+      const parts = new Intl.DateTimeFormat('ja-JP', {
+        timeZone: 'Asia/Tokyo', month: 'numeric', day: 'numeric'
+      }).formatToParts(d);
+      const get = t => (parts.find(p => p.type === t) || {}).value || '';
+      return `${get('month')}月${get('day')}日`;
+    }
+
     /* ===== Dark Mode ===== */
     const toggle = document.getElementById('theme-toggle');
     const tIcon  = document.getElementById('theme-icon');
@@ -780,10 +796,14 @@
             </div>` : ''}
         </div>` : '';
 
+      const dateStr = article.published_at
+        ? `<span style="font-size:11px;color:var(--text-muted);margin-left:auto;">🕐 ${timeAgo(article.published_at)}</span>`
+        : '';
       const body = `
         <div class="card-meta">
           <span class="card-source">${esc(article.source)}</span>
           <span class="card-tag ${tc}">${esc(article.category)}</span>
+          ${dateStr}
         </div>
         <h3 class="card-title">${esc(article.title)}</h3>
         <p class="card-summary">${esc(article.summary_2lines || article.summary || '')}</p>
@@ -815,6 +835,7 @@
           <div class="card-meta">
             <span class="card-source">${esc(article.source)}</span>
             <span class="card-tag ${tc}">${esc(article.category)}</span>
+            ${article.published_at ? `<span style="font-size:11px;color:var(--text-muted);margin-left:auto;">🕐 ${timeAgo(article.published_at)}</span>` : ''}
           </div>
           <h3 class="card-title" style="font-size:15px;">${esc(article.title)}</h3>
           <p class="card-summary">${esc(article.summary_2lines || article.summary || '')}</p>
