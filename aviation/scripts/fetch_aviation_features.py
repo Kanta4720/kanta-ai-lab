@@ -148,19 +148,27 @@ def select_and_summarize(candidates):
         if not content:
             continue
 
-        summary_prompt = f"""以下の航空業界記事を日本語で要約してください。
+        summary_prompt = f"""以下の航空業界記事を、日本語の雑誌特集記事として書き直してください。
 
 記事タイトル: {art['title']}
 記事内容:
-{content[:4000]}
+{content[:6000]}
+
+【出力要件】
+原文の情報を最大限活用し、各セクションを指定の深度・文字数で執筆すること。
+数字・企業名・日付・固有名詞・技術用語を積極的に使い、表面的な言い換えは不可。
+読者が原文を読まなくても「この記事を読んだ」と感じられるレベルで書くこと。
 
 出力形式:
 {{
-  "title_ja": "日本語の見出し（読者が思わず読みたくなるような魅力的なタイトル、30文字以内）",
-  "summary": "記事の内容を5〜7文で詳しく要約（日本語）。背景・経緯・なぜ重要か・今後の展望まで含めて書く。読者が原文を読まなくても十分理解できるレベルで",
-  "key_points": ["要点1（日本語）", "要点2（日本語）", "要点3（日本語）"],
+  "title_ja": "読者が思わず読みたくなる日本語見出し（35文字以内、数字や驚きのある表現を使う）",
+  "lead": "【2〜3文】記事の核心を伝える導入文。何が起きたか・なぜ重要かを端的に示し、読者を引き込むリード文（日本語）",
+  "body": "【8〜12文】詳細な本文。いつ・誰が・何を・なぜ・どのようにを網羅し、背景・経緯・具体的な数字・企業や国の動き・技術的詳細を盛り込んで雑誌の特集記事レベルで書く。段落は改行（\\n）で区切ること（日本語）",
+  "analysis": "【3〜5文】専門家による深掘り分析。この出来事が航空業界全体に与える影響・意義・表面に見えない論点・業界構造の変化への示唆を書く（日本語）",
+  "outlook": "【2〜3文】今後の見通し。今後起こりうる展開・注目すべきマイルストーン・読者が何に注目すべきかを具体的に書く（日本語）",
+  "key_points": ["要点1（日本語、1〜2文）", "要点2（日本語、1〜2文）", "要点3（日本語、1〜2文）", "要点4（日本語、1〜2文）"],
   "category": "Industry Analysis / Future of Aviation / Airline Strategy / Aircraft Technology / Airport & Infrastructure / People & Culture のいずれか1つ",
-  "reading_minutes": 記事を読むのにかかる推定分数（整数）
+  "reading_minutes": 記事全体を読むのにかかる推定分数（整数）
 }}
 """
         try:
@@ -168,25 +176,38 @@ def select_and_summarize(candidates):
                 model=OPENAI_MODEL,
                 response_format={"type": "json_object"},
                 messages=[
-                    {"role": "system", "content": "You are an aviation journalist who writes for a Japanese audience. Always respond in Japanese."},
-                    {"role": "user",   "content": summary_prompt},
+                    {
+                        "role": "system",
+                        "content": (
+                            "You are a senior aviation journalist with 15+ years of experience writing "
+                            "in-depth feature articles for Japanese aviation and business magazines. "
+                            "Your writing is precise, engaging, rich with facts and context, and assumes "
+                            "a professional readership. You never summarize superficially — you explain "
+                            "the 'why' and 'so what' behind every development. Always write in fluent, "
+                            "natural Japanese suitable for a business magazine."
+                        ),
+                    },
+                    {"role": "user", "content": summary_prompt},
                 ],
             )
             result = json.loads(resp.choices[0].message.content)
             features.append({
-                "title":          result.get("title_ja", art["title"]),
-                "original_title": art["title"],
-                "source":         art["source"],
-                "url":            art["url"],
-                "published_at":   art["published_at"],
-                "category":       result.get("category", "Industry Analysis"),
-                "reading_minutes": result.get("reading_minutes", 3),
-                "summary":        result.get("summary", ""),
-                "key_points":     result.get("key_points", []),
+                "title":           result.get("title_ja", art["title"]),
+                "original_title":  art["title"],
+                "source":          art["source"],
+                "url":             art["url"],
+                "published_at":    art["published_at"],
+                "category":        result.get("category", "Industry Analysis"),
+                "reading_minutes": result.get("reading_minutes", 5),
+                "lead":            result.get("lead", ""),
+                "body":            result.get("body", ""),
+                "analysis":        result.get("analysis", ""),
+                "outlook":         result.get("outlook", ""),
+                "key_points":      result.get("key_points", []),
             })
-            print(f"  ✓ 要約完了: {result.get('title_ja', '')[:40]}")
+            print(f"  ✓ 執筆完了: {result.get('title_ja', '')[:40]}")
         except Exception as e:
-            print(f"  ✗ 要約失敗 '{art['title'][:50]}': {e}")
+            print(f"  ✗ 執筆失敗 '{art['title'][:50]}': {e}")
 
     return features
 
