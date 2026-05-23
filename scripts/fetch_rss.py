@@ -6,6 +6,7 @@ import sys
 import json
 import re
 import difflib
+import calendar
 import feedparser
 import trafilatura
 from openai import OpenAI
@@ -182,6 +183,18 @@ def process_entry(entry, feed_source):
         if not ai_analysis:
             return None
 
+        pub_date = None
+        for attr in ('published_parsed', 'updated_parsed'):
+            parsed = getattr(entry, attr, None)
+            if parsed:
+                try:
+                    ts = calendar.timegm(parsed)
+                    pub_dt = datetime.fromtimestamp(ts, tz=timezone.utc).astimezone(JST)
+                    pub_date = pub_dt.strftime("%Y-%m-%d %H:%M")
+                except Exception:
+                    pass
+                break
+
         return {
             "title": entry.title,
             "summary_2lines": ai_analysis.get("summary_2lines", ""),
@@ -189,7 +202,8 @@ def process_entry(entry, feed_source):
             "market_impact": ai_analysis.get("market_impact", ""),
             "category": ai_analysis.get("category", feed_source["category"]),
             "source": feed_source["source"],
-            "url": entry.link
+            "url": entry.link,
+            "published_at": pub_date
         }
     except Exception as e:
         print(f"Error processing entry '{entry.title}': {e}")

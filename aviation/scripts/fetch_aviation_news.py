@@ -6,6 +6,7 @@ import sys
 import json
 import re
 import difflib
+import calendar
 import feedparser
 import trafilatura
 from openai import OpenAI
@@ -17,13 +18,17 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 JST = timezone(timedelta(hours=9))
 
 FEEDS = [
+    # 航空専門メディア
     {"source": "Simple Flying", "category": "Fleet & Orders", "url": "https://simpleflying.com/feed/"},
     {"source": "AeroTime", "category": "Airline Finance", "url": "https://aerotime.aero/feed"},
     {"source": "Airways Magazine", "category": "Sustainability", "url": "https://airwaysmag.com/feed/"},
     {"source": "Leeham News", "category": "Fleet & Orders", "url": "https://leehamnews.com/feed/"},
+    {"source": "Aviation Week", "category": "Fleet & Orders", "url": "https://aviationweek.com/rss"},
+    {"source": "The Air Current", "category": "Lease Market", "url": "https://theaircurrent.com/feed/"},
+    # ビジネス・金融（航空関連を含む）
     {"source": "Reuters", "category": "Airline Finance", "url": "https://feeds.reuters.com/reuters/businessNews"},
-    {"source": "CNBC", "category": "Airline Finance", "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html"},
-    {"source": "APEX", "category": "Sustainability", "url": "https://apex.aero/feed/"},
+    {"source": "Reuters Transport", "category": "Geopolitics", "url": "https://feeds.reuters.com/reuters/UStransportation"},
+    {"source": "Bloomberg Markets", "category": "Lease Market", "url": "https://feeds.bloomberg.com/markets/news.rss"},
 ]
 
 CATEGORIES = ["Lease Market", "Fleet & Orders", "Airline Finance", "Regulations", "Geopolitics", "Sustainability"]
@@ -157,6 +162,18 @@ def process_entry(entry, feed_source):
         if not ai_analysis:
             return None
 
+        pub_date = None
+        for attr in ('published_parsed', 'updated_parsed'):
+            parsed = getattr(entry, attr, None)
+            if parsed:
+                try:
+                    ts = calendar.timegm(parsed)
+                    pub_dt = datetime.fromtimestamp(ts, tz=timezone.utc).astimezone(JST)
+                    pub_date = pub_dt.strftime("%Y-%m-%d %H:%M")
+                except Exception:
+                    pass
+                break
+
         return {
             "title": entry.title,
             "summary_2lines": ai_analysis.get("summary_2lines", ""),
@@ -164,7 +181,8 @@ def process_entry(entry, feed_source):
             "lease_impact": ai_analysis.get("lease_impact", ""),
             "category": ai_analysis.get("category", feed_source["category"]),
             "source": feed_source["source"],
-            "url": entry.link
+            "url": entry.link,
+            "published_at": pub_date
         }
     except Exception as e:
         print(f"Error processing entry '{entry.title}': {e}")
