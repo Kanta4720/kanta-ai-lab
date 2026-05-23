@@ -16,11 +16,12 @@ jobs:
         with:
           python-version: "3.11"
       - name: Install dependencies
-        run: pip install feedparser trafilatura openai
+        run: pip install feedparser trafilatura openai requests
 
       - name: Fetch and Analyze News
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         run: python scripts/fetch_rss.py
       - name: Validate news.json
         run: |

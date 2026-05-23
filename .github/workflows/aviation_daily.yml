@@ -18,11 +18,12 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install feedparser trafilatura openai
+        run: pip install feedparser trafilatura openai requests
 
       - name: Fetch and Analyze Aviation News
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         working-directory: aviation
         run: python scripts/fetch_aviation_news.py
 
