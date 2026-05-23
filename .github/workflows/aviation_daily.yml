@@ -53,12 +53,20 @@ jobs:
         working-directory: aviation
         run: python scripts/fetch_aviation_features.py
 
+      - name: Archive today's data
+        run: |
+          DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)
+          mkdir -p aviation/archive
+          cp aviation/news.json     aviation/archive/news_${DATE}.json
+          cp aviation/features.json aviation/archive/features_${DATE}.json
+          python3 aviation/scripts/update_archive_index.py
+
       - name: Commit changes
         run: |
           git config user.name "kanta-news-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add aviation/news.json aviation/world_topic.json aviation/features.json
-          git diff --cached --quiet || (git commit -m "Aviation daily update: news + world topic + features" && git push)
+          git add aviation/news.json aviation/world_topic.json aviation/features.json aviation/archive/
+          git diff --cached --quiet || (git commit -m "Aviation daily update: $(TZ=Asia/Tokyo date +%Y-%m-%d)" && git push)
 
       - name: Notify failure
         if: failure()
