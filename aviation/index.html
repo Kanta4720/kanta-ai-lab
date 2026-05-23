@@ -120,15 +120,22 @@
       max-width: 1100px;
       margin: 0 auto;
       display: flex;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
     }
+    .nav-inner::-webkit-scrollbar { display: none; }
     nav a {
-      display: inline-block;
-      padding: 11px 24px;
+      display: inline-flex;
+      align-items: center;
+      padding: 11px 20px;
       color: var(--text-muted);
       font-size: 0.86rem;
       font-weight: 500;
       border-bottom: 2px solid transparent;
       transition: var(--transition);
+      white-space: nowrap;
+      flex-shrink: 0;
     }
     nav a:hover { color: var(--text); border-bottom-color: var(--border); }
     nav a.active { color: var(--accent2); border-bottom-color: var(--accent2); }
@@ -507,9 +514,28 @@
       nav { position: sticky; top: 0; z-index: 100; }
       .update-time { display: none; }
       .logo-area p { display: none; }
-      nav a { padding: 10px 14px; font-size: 0.82rem; }
+      nav a { padding: 11px 13px; font-size: 0.8rem; }
       .header-inner { padding: 10px 16px; }
       main { padding: 20px 14px 60px; }
+
+      /* 読みやすいテキストサイズ */
+      .card-summary { font-size: 0.92rem; line-height: 1.8; }
+      .card-background { font-size: 0.86rem; line-height: 1.75; }
+      .article-row-summary { font-size: 0.9rem; line-height: 1.8; }
+      .card-title a, .card-title { font-size: 1.04rem; }
+      .article-row-title { font-size: 1.0rem; }
+      .insight-text { font-size: 0.86rem; line-height: 1.7; }
+
+      /* タップしやすいボタン（最小44px） */
+      .expand-btn { min-height: 44px; padding: 10px 18px; font-size: 0.82rem; }
+      .filter-btn { min-height: 44px; padding: 10px 16px; font-size: 0.84rem; }
+      .read-link  { min-height: 44px; padding: 10px 18px; }
+
+      /* カード余白 */
+      .brief-card { padding: 18px 16px; gap: 14px; }
+      .article-row { padding: 16px; }
+      .hero { padding: 32px 16px 26px; }
+      .hero-title { font-size: 1.5rem; }
     }
   </style>
 </head>
@@ -536,6 +562,7 @@
     <a href="./index.html" class="active">📰 ニュース</a>
     <a href="./world.html">🌍 航空トピック</a>
     <a href="./features.html">📖 特集記事</a>
+    <a href="./market.html">📊 マーケット</a>
     <a href="./archive.html">📅 アーカイブ</a>
   </div>
 </nav>

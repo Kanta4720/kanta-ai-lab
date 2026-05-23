@@ -90,16 +90,23 @@
       max-width: 900px;
       margin: 0 auto;
       display: flex;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
     }
+    .nav-inner::-webkit-scrollbar { display: none; }
     nav a {
-      display: inline-block;
-      padding: 12px 24px;
+      display: inline-flex;
+      align-items: center;
+      padding: 11px 18px;
       color: var(--text-muted);
       text-decoration: none;
-      font-size: 0.88rem;
+      font-size: 0.86rem;
       font-weight: 500;
       border-bottom: 2px solid transparent;
       transition: all 0.2s;
+      white-space: nowrap;
+      flex-shrink: 0;
     }
     nav a:hover { color: var(--text); border-bottom-color: var(--border); }
     nav a.active { color: var(--accent2); border-bottom-color: var(--accent2); }
@@ -318,6 +325,7 @@
     <a href="./index.html">📰 ニュース</a>
     <a href="./world.html" class="active">🌍 航空トピック</a>
     <a href="./features.html">📖 特集記事</a>
+    <a href="./market.html">📊 マーケット</a>
     <a href="./archive.html">📅 アーカイブ</a>
   </div>
 </nav>

@@ -106,10 +106,14 @@
       background: var(--surface);
       border-bottom: 1px solid var(--border);
     }
-    .nav-inner { max-width: 900px; margin: 0 auto; display: flex; }
+    .nav-inner { max-width: 900px; margin: 0 auto; display: flex; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+    .nav-inner::-webkit-scrollbar { display: none; }
     nav a {
-      display: inline-block;
-      padding: 11px 22px;
+      display: inline-flex;
+      align-items: center;
+      padding: 11px 18px;
+      white-space: nowrap;
+      flex-shrink: 0;
       color: var(--text-muted);
       font-size: 0.86rem;
       font-weight: 500;
@@ -382,13 +386,24 @@
     @media (max-width: 640px) {
       .card-header { flex-direction: column; gap: 8px; }
       .card-num { font-size: 1.8rem; }
-      .card-title { font-size: 1.05rem; }
-      .feature-card { padding: 22px; }
+      .card-title { font-size: 1.1rem; line-height: 1.4; }
+      .feature-card { padding: 20px 16px; }
       header { position: static; }
       nav { position: sticky; top: 0; z-index: 100; }
       .update-time { display: none; }
       .logo-area p { display: none; }
-      nav a { padding: 10px 14px; font-size: 0.82rem; }
+      nav a { padding: 11px 13px; font-size: 0.8rem; }
+      .header-inner { padding: 10px 16px; }
+      main { padding: 20px 14px 60px; }
+
+      /* 読みやすいテキストサイズ */
+      .card-lead { font-size: 1.0rem; line-height: 1.8; }
+      .card-body { font-size: 0.94rem; line-height: 1.9; }
+      .card-analysis, .card-outlook { font-size: 0.92rem; line-height: 1.8; }
+      .key-points li { font-size: 0.9rem; line-height: 1.65; }
+
+      /* タップしやすいリンク */
+      .read-link { min-height: 48px; padding: 12px 20px; font-size: 0.88rem; }
     }
   </style>
 </head>
@@ -415,6 +430,7 @@
     <a href="./index.html">📰 ニュース</a>
     <a href="./world.html">🌍 航空トピック</a>
     <a href="./features.html" class="active">📖 特集記事</a>
+    <a href="./market.html">📊 マーケット</a>
     <a href="./archive.html">📅 アーカイブ</a>
   </div>
 </nav>
