@@ -1,0 +1,61 @@
+name: Aviation Daily Update
+on:
+  schedule:
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install feedparser trafilatura openai
+
+      - name: Fetch and Analyze Aviation News
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        working-directory: aviation
+        run: python scripts/fetch_aviation_news.py
+
+      - name: Validate aviation news.json
+        run: |
+          python - <<'EOF'
+          import json, sys
+          with open("aviation/news.json", encoding="utf-8") as f:
+              data = json.load(f)
+          count = len(data.get("todays_brief", []))
+          if count == 0:
+              print("ERROR: todays_brief が空です。コミットを中断します。")
+              sys.exit(1)
+          print(f"Validation OK: todays_brief に {count} 件の記事があります。")
+          EOF
+
+      - name: Generate Aviation World Topic
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        working-directory: aviation
+        run: python scripts/fetch_aviation_topic.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "kanta-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add aviation/news.json aviation/world_topic.json
+          git diff --cached --quiet || (git commit -m "Aviation daily update: news + world topic" && git push)
+
+      - name: Notify failure
+        if: failure()
+        run: |
+          echo "::error::航空業界日次更新ワークフローが失敗しました。ログを確認してください。"
+          echo "## ❌ 航空ニュース日次更新失敗" >> $GITHUB_STEP_SUMMARY
+          echo "実行日時: $(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "失敗したステップのログをActions画面で確認してください。" >> $GITHUB_STEP_SUMMARY
