@@ -44,12 +44,6 @@ jobs:
           print(f"Validation OK: todays_brief に {count} 件の記事があります。")
           EOF
 
-      - name: Generate Aviation World Topic
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        working-directory: aviation
-        run: python scripts/fetch_aviation_topic.py
-
       - name: Generate Aviation Features
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -69,7 +63,7 @@ jobs:
         run: |
           git config user.name "kanta-news-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add aviation/news.json aviation/world_topic.json aviation/features.json aviation/market_data.json aviation/archive/
+          git add aviation/news.json aviation/features.json aviation/market_data.json aviation/archive/
           git diff --cached --quiet || (git commit -m "Aviation daily update: $(TZ=Asia/Tokyo date +%Y-%m-%d)" && git push)
 
       - name: Notify failure
