@@ -415,7 +415,18 @@
       gap: 8px;
       flex-wrap: wrap;
     }
-    .article-row-summary { font-size: 0.8rem; color: var(--text-muted); line-height: 1.55; }
+    .article-row-summary { font-size: 0.84rem; color: var(--text-muted); line-height: 1.7; }
+    .card-background {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      line-height: 1.65;
+      border-left: 2px solid var(--border);
+      padding-left: 10px;
+      margin-top: 2px;
+    }
+    [data-theme="light"] .card-background { color: #4a6a8a; }
+    [data-theme="light"] .card-summary { color: #2a3a50; }
+    [data-theme="light"] .article-row-summary { color: #2a3a50; }
 
     /* ===== Lease focus section ===== */
     .lease-section {
@@ -601,20 +612,33 @@ function toggleCard(btn, id) {
   if (label) label.textContent = open ? '閉じる' : '分析を見る';
 }
 
+function insightsBlock(article, id) {
+  const has = article.why_it_matters || article.lease_impact;
+  if (!has) return { html: '', btn: '' };
+  const html = `
+    <div class="card-insights" id="${id}">
+      ${article.why_it_matters ? `<div class="insight-block">
+        <span class="insight-label">業界的重要性・今後の展開</span>
+        <span class="insight-text">${article.why_it_matters}</span>
+      </div>` : ''}
+      ${article.lease_impact ? `<div class="insight-block">
+        <span class="insight-label">リース市場への影響</span>
+        <span class="insight-text">${article.lease_impact}</span>
+      </div>` : ''}
+    </div>`;
+  const btn = `<button class="expand-btn" onclick="toggleCard(this,'${id}')">
+    <span class="expand-label">詳細分析を見る</span> <span class="expand-icon">&#9660;</span>
+  </button>`;
+  return { html, btn };
+}
+
 function briefCard(article, idx) {
-  const tc = tagClass(article.category);
+  const tc       = tagClass(article.category);
   const featured = idx === 0 ? 'featured' : '';
-  const dateStr = article.published_at ? `<span class="card-date">🕐 ${timeAgo(article.published_at)}</span>` : '';
-  const hasInsights = article.why_it_matters || article.lease_impact;
-  const insights = hasInsights ? `
-    <div class="card-insights" id="ins-${idx}">
-      ${article.why_it_matters ? `<div class="insight-block"><span class="insight-label">なぜ重要か</span><span class="insight-text">${article.why_it_matters}</span></div>` : ''}
-      ${article.lease_impact  ? `<div class="insight-block"><span class="insight-label">リース業界への影響</span><span class="insight-text">${article.lease_impact}</span></div>` : ''}
-    </div>` : '';
-  const expandBtn = hasInsights ? `
-    <button class="expand-btn" onclick="toggleCard(this,'ins-${idx}')">
-      <span class="expand-label">分析を見る</span> <span class="expand-icon">&#9660;</span>
-    </button>` : '';
+  const dateStr  = article.published_at ? `<span class="card-date">🕐 ${timeAgo(article.published_at)}</span>` : '';
+  const summary  = article.summary || article.summary_2lines || '';
+  const bg       = article.background ? `<div class="card-background">${article.background}</div>` : '';
+  const { html: insHtml, btn: insBtn } = insightsBlock(article, `ins-${idx}`);
   return `
     <div class="brief-card ${featured}">
       <div class="card-number">${idx + 1}</div>
@@ -625,26 +649,20 @@ function briefCard(article, idx) {
           ${dateStr}
         </div>
         <div class="card-title"><a href="${article.url}" target="_blank" rel="noopener">${article.title}</a></div>
-        <div class="card-summary">${article.summary_2lines || ''}</div>
-        ${insights}
-        ${expandBtn}
+        <div class="card-summary">${summary}</div>
+        ${bg}
+        ${insHtml}
+        ${insBtn}
       </div>
     </div>`;
 }
 
 function articleRow(article, idx) {
-  const tc = tagClass(article.category);
+  const tc      = tagClass(article.category);
   const dateStr = article.published_at ? `<span class="card-date">🕐 ${timeAgo(article.published_at)}</span>` : '';
-  const hasInsights = article.why_it_matters || article.lease_impact;
-  const insights = hasInsights ? `
-    <div class="card-insights" id="row-ins-${idx}">
-      ${article.why_it_matters ? `<div class="insight-block"><span class="insight-label">なぜ重要か</span><span class="insight-text">${article.why_it_matters}</span></div>` : ''}
-      ${article.lease_impact  ? `<div class="insight-block"><span class="insight-label">リース業界への影響</span><span class="insight-text">${article.lease_impact}</span></div>` : ''}
-    </div>` : '';
-  const expandBtn = hasInsights ? `
-    <button class="expand-btn" onclick="toggleCard(this,'row-ins-${idx}')">
-      <span class="expand-label">分析を見る</span> <span class="expand-icon">&#9660;</span>
-    </button>` : '';
+  const summary = article.summary || article.summary_2lines || '';
+  const bg      = article.background ? `<div class="card-background">${article.background}</div>` : '';
+  const { html: insHtml, btn: insBtn } = insightsBlock(article, `row-ins-${idx}`);
   return `
     <div class="article-row" data-cat="${article.category}">
       <div class="article-row-top">
@@ -655,9 +673,10 @@ function articleRow(article, idx) {
         <span class="source-label">${article.source || ''}</span>
         ${dateStr}
       </div>
-      <div class="article-row-summary">${article.summary_2lines || ''}</div>
-      ${insights}
-      ${expandBtn}
+      <div class="article-row-summary">${summary}</div>
+      ${bg}
+      ${insHtml}
+      ${insBtn}
     </div>`;
 }
 
