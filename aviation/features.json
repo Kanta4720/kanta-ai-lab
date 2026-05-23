@@ -1,0 +1,50 @@
+{
+  "generated_at_jst": "2025-05-23 07:00",
+  "features": [
+    {
+      "title": "エンジン不足が航空業界を直撃：なぜ飛べる飛行機が飛ばないのか",
+      "original_title": "The Engine Shortage Crisis: Why Perfectly Good Planes Are Sitting on the Ground",
+      "source": "Aviation Week",
+      "url": "https://aviationweek.com/",
+      "published_at": "2025-05-22 15:30",
+      "category": "Industry Analysis",
+      "reading_minutes": 4,
+      "summary": "P&WのGTFエンジンに金属疲労の問題が発覚し、世界中のA320neoファミリー約200機が地上待機を余儀なくされている。航空会社は代替機材の確保に奔走しているが、ボーイングの生産遅延も重なり供給不足は深刻だ。欠航・遅延が続く路線では旅客の不満が高まる一方、エンジンメーカーは交換部品の生産を急ピッチで拡大している。業界全体の正常化には2026年末までかかるとの見方が専門家の間で広まっている。",
+      "key_points": [
+        "GTFエンジンの問題は粉末冶金製ディスクの耐久性不足が原因で、全数検査・交換が必要",
+        "世界の航空席供給量の約2%が失われており、特に欧州・アジア路線に影響が大きい",
+        "P&Wは2025年末までにエンジン交換プログラムを完了すると表明しているが、遅延の見方も"
+      ]
+    },
+    {
+      "title": "エアバスが描く「2040年の空」：水素機・SAFで航空はどう変わるか",
+      "original_title": "Airbus Outlines Its Vision for Sustainable Aviation by 2040",
+      "source": "Simple Flying",
+      "url": "https://simpleflying.com/",
+      "published_at": "2025-05-22 09:00",
+      "category": "Future of Aviation",
+      "reading_minutes": 5,
+      "summary": "エアバスが2040年に向けた「グリーン航空」の青写真を発表した。水素燃料電池機「ZEROe」の2035年商業運航を目指すとともに、既存A320neoを使ったSAF100%燃焼試験にも成功している。航空業界は全世界のCO2排出量の約2.5%を占めており、脱炭素プレッシャーへの対応が急務となっている。エアバスCEOは「技術は準備できている。あとは燃料インフラと規制の整備次第だ」と述べ、業界全体での取り組みを呼びかけた。",
+      "key_points": [
+        "ZEROe水素機は短〜中距離路線（最大2,000km）を想定。液体水素タンクを機体後部に搭載",
+        "SAFはジェット燃料と比べてCO2排出を最大80%削減できるが、コストは現在の3〜5倍",
+        "EUは2025年から段階的にSAF混合義務化を開始。2050年には混合率70%を目標とする"
+      ]
+    },
+    {
+      "title": "中国の航空会社はなぜ急成長できるのか：CAAC規制と国内市場の恩恵",
+      "original_title": "How China's Airlines Keep Growing While Western Carriers Struggle",
+      "source": "Leeham News",
+      "url": "https://leehamnews.com/",
+      "published_at": "2025-05-21 22:00",
+      "category": "Airline Strategy",
+      "reading_minutes": 5,
+      "summary": "中国の三大国有航空（中国国際航空・中国東方航空・中国南方航空）がコロナ禍からの回復で世界最速の成長を遂げている。政府の手厚い補助金、14億人の国内旅客市場、そして欧米路線を迂回するロシア上空飛行の恩恵が主な要因だ。一方、燃料費や人件費の上昇で収益性の課題も抱える。中国の航空市場は2035年までに米国を抜いて世界最大になるとIATAは予測しており、グローバルな業界勢力図の塗り替えが進んでいる。",
+      "key_points": [
+        "中国国内旅客数は2024年に7.7億人に達し、コロナ前比で120%を超える過去最高を更新",
+        "中国政府は国有航空への資本注入と低利融資で財務支援を継続、競争環境に歪みとの批判も",
+        "欧州への直行便はロシア上空を使えないため飛行時間が2〜3時間増加、コスト競争で不利に"
+      ]
+    }
+  ]
+}
