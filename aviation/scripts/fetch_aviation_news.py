@@ -187,17 +187,21 @@ def analyze_with_ai(content, title):
     if not content:
         return None
 
-    prompt = f"""以下の航空業界ニュース記事を分析し、指定されたJSON形式で出力してください。
+    prompt = f"""以下の航空業界ニュース記事を精読し、航空機リース業界のプロフェッショナル向けに詳細な分析レポートをJSON形式で出力してください。
 
 記事タイトル: {title}
 記事内容:
-{content[:4000]}
+{content[:5000]}
+
+【出力要件】
+各フィールドは必ず指定された文字数・深度を満たすこと。表面的な言い換えは不可。数字・企業名・日付・固有名詞を積極的に使うこと。
 
 出力形式:
 {{
-  "summary_2lines": "2行で理解できる簡潔な要約（日本語）",
-  "why_it_matters": "このニュースが航空・リース業界にとってなぜ重要なのか（日本語）",
-  "lease_impact": "航空機リース市場・リース会社への具体的な影響分析（日本語）",
+  "summary": "【3〜5文】記事の核心を詳しく要約。何が起きたか・いつ・誰が関与しているか・規模や数字・経緯を網羅し、原文を読まなくても全体像が把握できる水準で書く（日本語）",
+  "background": "【2〜3文】この事象が生まれた業界的背景・歴史的経緯。なぜ今このニュースが重要になっているのかの文脈（日本語）",
+  "why_it_matters": "【3〜4文】航空業界全体への影響と重要性。今後起こりうる展開の予測、他社・他市場への波及効果、見落とされがちな論点を専門家視点で解説（日本語）",
+  "lease_impact": "【2〜3文】航空機リース市場への具体的な影響。リース料率・機材価値・需給バランス・リース会社の経営への波及を定量的・定性的に分析（日本語）",
   "category": "Lease Market / Fleet & Orders / Airline Finance / Regulations / Geopolitics / Sustainability のいずれか1つ"
 }}
 """
@@ -206,8 +210,18 @@ def analyze_with_ai(content, title):
             model=OPENAI_MODEL,
             response_format={"type": "json_object"},
             messages=[
-                {"role": "system", "content": "You are an expert aviation and aircraft leasing industry analyst. Respond in Japanese."},
-                {"role": "user",   "content": prompt},
+                {
+                    "role": "system",
+                    "content": (
+                        "You are a senior aviation industry analyst with 20+ years of experience covering "
+                        "commercial aviation, aircraft leasing, airline finance, and global aviation markets "
+                        "for institutional investors and leasing companies. "
+                        "Your analysis is precise, data-driven, uses correct industry terminology, "
+                        "and provides actionable insights beyond what is directly stated in the article. "
+                        "Always write in fluent, professional Japanese suitable for C-suite business readers."
+                    ),
+                },
+                {"role": "user", "content": prompt},
             ],
         )
         return json.loads(resp.choices[0].message.content)
@@ -221,11 +235,10 @@ def process_article(raw):
     try:
         content = raw["content"]
 
-        # コンテンツが短い場合は trafilatura でフル本文を取得
-        if len(content) < 200:
-            full = fetch_full_content(raw["url"])
-            if full:
-                content = full
+        # trafilatura で常にフル本文取得を試みる（NewsAPI は本文が切り捨てられるため）
+        full = fetch_full_content(raw["url"])
+        if full and len(full) > len(content):
+            content = full
 
         if not content:
             print(f"  → コンテンツ取得失敗、スキップ")
@@ -237,7 +250,8 @@ def process_article(raw):
 
         return {
             "title":          raw["title"],
-            "summary_2lines": analysis.get("summary_2lines", ""),
+            "summary":        analysis.get("summary", ""),
+            "background":     analysis.get("background", ""),
             "why_it_matters": analysis.get("why_it_matters", ""),
             "lease_impact":   analysis.get("lease_impact", ""),
             "category":       analysis.get("category", raw["default_category"]),
@@ -254,7 +268,7 @@ def select_top5(articles):
     if not articles:
         return []
 
-    listing = [f"{i}: [{a['category']}] {a['title']} — {a['summary_2lines']}" for i, a in enumerate(articles)]
+    listing = [f"{i}: [{a['category']}] {a['title']} — {a.get('summary', '')[:80]}" for i, a in enumerate(articles)]
     prompt  = f"""以下の航空業界ニュースから、航空機リース業界のプロにとって最重要な5件を選び、インデックス番号をJSON配列で返してください。
 リース市場・機材動向・航空会社財務・規制リスクを重視してください。
 
