@@ -1,0 +1,107 @@
+{
+  "generated_at_jst": "2025-05-23 07:00",
+  "todays_brief": [
+    {
+      "title": "AerCap Q1 2025 Results: Record Lease Revenue Amid Strong Demand",
+      "summary_2lines": "AerCapが2025年第1四半期に過去最高のリース収益を達成。旺盛な需要と機材不足を背景に、レート上昇が続いている。",
+      "why_it_matters": "世界最大の航空機リース会社AerCapの好調な決算は、リース市場全体の健全性を示す指標となる。供給制約が続く中でレートが上昇しており、リース会社に有利な環境が継続している。",
+      "lease_impact": "リース料率の上昇トレンドが継続。新規契約の交渉力がリース会社に有利に働いており、既存ポートフォリオの再評価も進んでいる。",
+      "category": "Airline Finance",
+      "source": "Simple Flying",
+      "url": "https://simpleflying.com/"
+    },
+    {
+      "title": "Boeing Delays 737 MAX Deliveries Again, Lessors Reassess Portfolios",
+      "summary_2lines": "ボーイングが737 MAXの納入をさらに遅延。リース会社は代替機材の確保に向けてエアバスA320neoへの切り替えを加速している。",
+      "why_it_matters": "737 MAXの継続的な納入遅延は、航空会社の機材計画に深刻な影響を与えており、リース会社もポートフォリオ再編を余儀なくされている。エアバス機材への需要が一層高まる可能性がある。",
+      "lease_impact": "737 MAX依存のポートフォリオを持つリース会社にとってリスクが増大。A320neoファミリーの市場価値・リース料率がさらに上昇する見込み。セール＆リースバック案件でも影響が出ている。",
+      "category": "Fleet & Orders",
+      "source": "Leeham News",
+      "url": "https://leehamnews.com/"
+    },
+    {
+      "title": "Spirit Airlines Emerges from Bankruptcy, Fleet Restructuring Underway",
+      "summary_2lines": "スピリット航空が破産手続きから再出発。A320ファミリー機材の返却・再リースが活発化し、中古機市場に影響。",
+      "why_it_matters": "LCCの経営破綻と再建は中古機市場に大量の返却機材をもたらし、リース会社の再リース戦略を試す。一方、健全な航空会社にとっては好条件での機材調達機会となる。",
+      "lease_impact": "A320family中古機の市場価値・リース料率への下押し圧力。返却機材の再配置先確保が急務。メンテナンス状態の確認・修繕費用の回収が課題となっている。",
+      "category": "Airline Finance",
+      "source": "AeroTime",
+      "url": "https://aerotime.aero/"
+    },
+    {
+      "title": "EASA Issues Airworthiness Directive for Pratt & Whitney GTF Engines",
+      "summary_2lines": "EASAがP&W GTFエンジンに対する耐空性指令を発行。影響を受けるA320neoファミリー運航者はエンジン点検・交換が必要となる。",
+      "why_it_matters": "GTFエンジン問題は2023年から続く業界課題であり、今回の新たなADはさらなる地上待機（AOG）機材の増加につながる可能性がある。リース会社は保有機材への影響評価が必要。",
+      "lease_impact": "GTF搭載A320neo系保有リース会社は追加コストリスクに直面。AOG期間中のリース収益損失・エンジン交換費用負担の問題が生じる。代替エンジン確保が市場の焦点に。",
+      "category": "Regulations",
+      "source": "Simple Flying",
+      "url": "https://simpleflying.com/"
+    },
+    {
+      "title": "EU Mandates SAF Blending Requirements from 2025, Airlines Seek Clarity",
+      "summary_2lines": "EUが持続可能な航空燃料（SAF）の混合義務化を開始。航空会社はコスト増への対応と燃料調達戦略の見直しを迫られている。",
+      "why_it_matters": "SAF義務化はヨーロッパを発着する全航空便に影響し、燃料コストの大幅な上昇が見込まれる。航空会社の財務に直接影響し、リース条件や機材選定にも波及する可能性がある。",
+      "lease_impact": "燃費効率の高い新世代機（A320neo、787等）の需要が一層高まり、旧型機のリース価値が低下するリスク。SAF対応コストが航空会社の支払い能力に影響する可能性があり、リース会社はクレジットリスク評価の見直しが必要。",
+      "category": "Sustainability",
+      "source": "Airways Magazine",
+      "url": "https://airwaysmag.com/"
+    }
+  ],
+  "categories": {
+    "Lease Market": [],
+    "Fleet & Orders": [
+      {
+        "title": "Boeing Delays 737 MAX Deliveries Again, Lessors Reassess Portfolios",
+        "summary_2lines": "ボーイングが737 MAXの納入をさらに遅延。リース会社は代替機材の確保に向けてエアバスA320neoへの切り替えを加速している。",
+        "why_it_matters": "737 MAXの継続的な納入遅延は、航空会社の機材計画に深刻な影響を与えており、リース会社もポートフォリオ再編を余儀なくされている。エアバス機材への需要が一層高まる可能性がある。",
+        "lease_impact": "737 MAX依存のポートフォリオを持つリース会社にとってリスクが増大。A320neoファミリーの市場価値・リース料率がさらに上昇する見込み。セール＆リースバック案件でも影響が出ている。",
+        "category": "Fleet & Orders",
+        "source": "Leeham News",
+        "url": "https://leehamnews.com/"
+      }
+    ],
+    "Airline Finance": [
+      {
+        "title": "AerCap Q1 2025 Results: Record Lease Revenue Amid Strong Demand",
+        "summary_2lines": "AerCapが2025年第1四半期に過去最高のリース収益を達成。旺盛な需要と機材不足を背景に、レート上昇が続いている。",
+        "why_it_matters": "世界最大の航空機リース会社AerCapの好調な決算は、リース市場全体の健全性を示す指標となる。供給制約が続く中でレートが上昇しており、リース会社に有利な環境が継続している。",
+        "lease_impact": "リース料率の上昇トレンドが継続。新規契約の交渉力がリース会社に有利に働いており、既存ポートフォリオの再評価も進んでいる。",
+        "category": "Airline Finance",
+        "source": "Simple Flying",
+        "url": "https://simpleflying.com/"
+      },
+      {
+        "title": "Spirit Airlines Emerges from Bankruptcy, Fleet Restructuring Underway",
+        "summary_2lines": "スピリット航空が破産手続きから再出発。A320ファミリー機材の返却・再リースが活発化し、中古機市場に影響。",
+        "why_it_matters": "LCCの経営破綻と再建は中古機市場に大量の返却機材をもたらし、リース会社の再リース戦略を試す。一方、健全な航空会社にとっては好条件での機材調達機会となる。",
+        "lease_impact": "A320family中古機の市場価値・リース料率への下押し圧力。返却機材の再配置先確保が急務。メンテナンス状態の確認・修繕費用の回収が課題となっている。",
+        "category": "Airline Finance",
+        "source": "AeroTime",
+        "url": "https://aerotime.aero/"
+      }
+    ],
+    "Regulations": [
+      {
+        "title": "EASA Issues Airworthiness Directive for Pratt & Whitney GTF Engines",
+        "summary_2lines": "EASAがP&W GTFエンジンに対する耐空性指令を発行。影響を受けるA320neoファミリー運航者はエンジン点検・交換が必要となる。",
+        "why_it_matters": "GTFエンジン問題は2023年から続く業界課題であり、今回の新たなADはさらなる地上待機（AOG）機材の増加につながる可能性がある。リース会社は保有機材への影響評価が必要。",
+        "lease_impact": "GTF搭載A320neo系保有リース会社は追加コストリスクに直面。AOG期間中のリース収益損失・エンジン交換費用負担の問題が生じる。代替エンジン確保が市場の焦点に。",
+        "category": "Regulations",
+        "source": "Simple Flying",
+        "url": "https://simpleflying.com/"
+      }
+    ],
+    "Geopolitics": [],
+    "Sustainability": [
+      {
+        "title": "EU Mandates SAF Blending Requirements from 2025, Airlines Seek Clarity",
+        "summary_2lines": "EUが持続可能な航空燃料（SAF）の混合義務化を開始。航空会社はコスト増への対応と燃料調達戦略の見直しを迫られている。",
+        "why_it_matters": "SAF義務化はヨーロッパを発着する全航空便に影響し、燃料コストの大幅な上昇が見込まれる。航空会社の財務に直接影響し、リース条件や機材選定にも波及する可能性がある。",
+        "lease_impact": "燃費効率の高い新世代機（A320neo、787等）の需要が一層高まり、旧型機のリース価値が低下するリスク。SAF対応コストが航空会社の支払い能力に影響する可能性があり、リース会社はクレジットリスク評価の見直しが必要。",
+        "category": "Sustainability",
+        "source": "Airways Magazine",
+        "url": "https://airwaysmag.com/"
+      }
+    ]
+  }
+}
