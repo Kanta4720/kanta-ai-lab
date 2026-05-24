@@ -87,6 +87,7 @@ jobs:
               git push && break || {
                 echo "Push attempt $i failed, retrying in ${WAIT}s..."
                 sleep $WAIT
+                git pull --rebase origin main
                 WAIT=$((WAIT * 2))
               }
             done
