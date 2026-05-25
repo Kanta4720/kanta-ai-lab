@@ -1,270 +1,300 @@
 {
-  "generated_at_jst": "2026-05-25 07:44",
+  "generated_at_jst": "2026-05-26 07:50",
   "todays_brief": [
     {
       "title": "Kevin Warsh's real Fed 'regime change' may happen deep inside Wall Street's plumbing",
-      "summary_2lines": "新任FRB議長ケビン・ウォーシュは、連邦準備制度の運営手法や資産縮小を通じた“体制転換”を模索している。具体的には金融市場の管理手法の見直しやバランスシートの縮小が議論されている。",
-      "why_it_matters": "FRBのバランスシートはリーマンショック以降大幅に膨らみ、市場安定の重要ツールとなっている。ウォーシュ議長の示唆する“レジームチェンジ”は金融政策の伝達機構や市場介入姿勢を根本から見直す可能性があり、金融政策の将来像や危機対応に大きな影響を及ぼすため重要である。",
-      "market_impact": "FRBのバランスシート縮小は国債利回りや住宅ローン金利等の金利水準に直接影響し、金融市場の流動性や安定性を揺るがす可能性がある。また、資金調達の主役がフェデラルファンド金利からリポ市場へ移るなど市場構造も変化し、中長期的に金融機能や銀行の健全性に与えるインパクトを警戒する声もある。",
-      "category": "Economy",
+      "summary_2lines": "次期FRB議長ケビン・ウォーシュはFRBの金融政策の中核である6.8兆ドル規模のバランスシートの運用方法に「レジームチェンジ」をもたらす可能性がある。日常的な市場介入からより明確なルールに基づく間欠的な介入へ役割を縮小する方針が示唆されている。",
+      "why_it_matters": "FRBのバランスシート運用はリーマンショック以降、米金融市場の安定化に不可欠な役割を果たしてきた。これを縮小・見直すことは、金融市場の機能や金利動向に大きな影響を及ぼし、今後の金融政策の基本枠組みが変わる可能性がある点で注目されている。急激な変更は避け中長期的に慎重に進める必要があるため、今後の政策の方向性を占う重要なテーマとなっている。",
+      "market_impact": "バランスシート縮小が実施されれば、米国債利回りの上昇圧力が強まり、住宅ローン金利や企業借入コストが上昇する可能性がある。また、日常的な市場介入が減少することで短期資金市場の構造変化が生じ、金融機関の資金調達やマネーマーケットの機能に影響を与える懸念もある。政策伝達機構の変化がインフレ抑制や景気動向に影響を及ぼすため、金融市場や経済全体に波及効果が及ぶことが予想される。",
+      "category": "Markets",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/05/22/kevin-warshs-real-fed-regime-change-may-happen-deep-inside-wall-streets-plumbing.html",
       "published_at": "2026-05-23 03:23"
     },
     {
-      "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
-      "summary_2lines": "APEC会合で米中は関税や自由貿易に関する認識の違いを示し、戦略的安定やAI技術競争でも隔たりが残ることが浮き彫りになった。両国は引き続き相互の優先事項で対立しつつも、協議は継続されている。",
-      "why_it_matters": "世界最大の二大経済体である米中の貿易政策や技術覇権争いの動向はグローバル経済に大きな影響を及ぼす。APECという地域協議の場で両国の優先課題の隔たりが明確になったことで、今後の経済統合や自由貿易の進展、またデジタル・AI分野における国際競争の行方が不透明になったことが背景にある。",
-      "market_impact": "関税に関する米中の立場の相違や自由貿易の合意の遅延は、国際貿易の不確実性を高めるため輸出入企業や金融市場にマイナス影響を与える可能性がある。またAIやデジタル貿易での競争激化は、関連技術企業の市場シェアや投資戦略に影響し、サプライチェーンや技術標準を巡る地政学リスクも増大する。",
-      "category": "Geopolitics",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/23/three-signs-from-apec-that-the-us-china-remain-far-apart-on-trade.html",
-      "published_at": "2026-05-23 20:19"
-    },
-    {
-      "title": "Everyone is navigating AI security in real time — even Google",
-      "summary_2lines": "Google CloudのCOO、Francis de SouzaはAIセキュリティの重要性を強調し、企業は初期段階からプラットフォーム全体でのセキュリティ戦略を組み込む必要があると指摘した。AIの進展に伴い、従来の防御モデルが通用しなくなり、AIネイティブな自律防御体制への移行が求められている。",
-      "why_it_matters": "AI技術の急速な発展により企業のセキュリティリスクが劇的に変化しており、攻撃手法も高速化、多様化している。旧来のセキュリティ対策では対応が追いつかず、AIを活用した自動防御システムの導入や複数クラウド環境に対応した一貫したセキュリティ戦略の構築が不可欠となっている。これにより企業経営陣の関与が求められており、経営レベルでの課題認識が重要になっている。",
-      "market_impact": "全企業がAI導入と同時に強固なセキュリティ基盤の整備を迫られるため、セキュリティソリューション市場の拡大が予想される。またマルチクラウド環境での管理ニーズが高まり、クラウドサービスプロバイダー間の競争と連携の両面で新たな動きが活発化するだろう。AIの脆弱性対応に人材不足が続くことで、セキュリティ人材の育成投資や自動防御技術の開発投資が一段と喚起されると考えられる。",
+      "title": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up",
+      "summary_2lines": "Huaweiは新たな半導体開発手法「LogicFolding」を用いて2024年秋にスマートフォン向けチップを製造予定。米国の対中制裁下で、Nvidiaとの競争が激化している。",
+      "why_it_matters": "米国の輸出規制により最先端チップの中国市場参入が制限される中、Huaweiの技術革新は中国の半導体自給率向上の象徴とされ、グローバル半導体産業の勢力図に変化をもたらす可能性があるため重要である。",
+      "market_impact": "Huaweiの新技術が成功すれば、AppleやNvidiaの中国でのシェアは縮小し、中国国内の半導体産業支援政策の効果も高まる。これにより米中間の技術覇権争いが激化し、サプライチェーンの再編や投資戦略の見直しを促すだろう。",
       "category": "Tech",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-      "published_at": "2026-05-25 06:39"
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html",
+      "published_at": "2026-05-25 15:48"
     },
     {
-      "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
-      "summary_2lines": "SpaceXは新型スターシップV3の初飛行を成功裏に終え、過去の初飛行での失敗を乗り越えた。NASA関係者も注目し、有人月着陸機としての期待が高まっている。",
-      "why_it_matters": "スターシップV3は有人月着陸機としてNASAと連携するプロジェクトの重要な一歩であり、打ち上げ技術の進展は宇宙探査の新たなフェーズへの道を開く。過去の失敗を克服した点が技術面での信頼性向上を示し、宇宙開発競争における米国の優位性維持に寄与する。",
-      "market_impact": "打ち上げ成功によりSpaceXの技術的信頼性とブランド価値が向上し、投資家の評価が高まる可能性がある。NASAとの連携強化は長期的な受注拡大や事業安定化につながり、宇宙産業全体の活性化にも寄与するだろう。一方で競合も技術開発を加速させる可能性がある。",
+      "title": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
+      "summary_2lines": "ローマ教皇レオ14世は、AI技術を「武装解除」すべきだと訴える新回勅『Magnifica Humanitas』を発表し、AIが人類共通の善に奉仕するべきだと強調した。彼は技術の支配や排除を批判し、人間性を中心に据えた新たな社会文明の構築を呼びかけている。",
+      "why_it_matters": "AIの急速な発展とそれに伴う社会・倫理的課題が深刻化する中、カトリック教会が公式にAIの在り方に言及し、倫理的制御と共通善の追求を求めたことで、世界的な議論に新たな影響を与える可能性がある。特に技術エリートの社会的影響力やデータ独占への警鐘は、社会的・政治的な議論を促す意味で重要である。",
+      "market_impact": "教皇の声明は、AI関連の技術開発や規制の方向性に対し倫理的観点からの圧力を強める可能性があり、特に自律兵器やデータ独占を行う企業には社会的責任の増大をもたらすだろう。また、社会的な共通善を重視する価値観の広がりは、AI技術の透明性や公平性を求める市場や規制環境の形成に影響を与えると考えられる。",
       "category": "Tech",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
-      "published_at": "2026-05-24 02:54"
+      "url": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+      "published_at": "2026-05-26 06:07"
     },
     {
-      "title": "Stocks are riding an earnings hot streak — but investors are facing a summer that’s rife with risks",
-      "summary_2lines": "米国株式市場は業績好調を背景に史上最高値圏で推移している。しかし、今後の数ヶ月はリスク要因が多く、不安定な展開が予想される。",
-      "why_it_matters": "株価の動向は経済全体の健康状態や投資家心理を反映するため、本記事は今後の経済見通しや投資戦略を考える上で重要である。特に夏場にリスクが集中することで市場の変動が拡大する可能性があるため、注意が必要とされている。",
-      "market_impact": "企業の堅調な業績発表が投資家の買い安心感を支え、短期的には株価上昇を促進している。一方、金利変動、インフレ懸念、地政学リスクなどがリスク要因となり、これらにより市場のボラティリティが高まることで企業の資金調達コスト増や消費者心理の冷え込みが起こる可能性がある。",
-      "category": "Markets",
+      "title": "Oil prices tumble as deal to end Iran war appears close, though Trump says there’s no rush",
+      "summary_2lines": "米国がイランとの戦争終結に向けた合意に近づいているとの報道を受け、原油価格が急落し株価先物が急騰した。トランプ大統領は「急ぐ必要はない」と発言している。",
+      "why_it_matters": "イラン戦争終結とホルムズ海峡の再開は世界原油供給の安定化に直結するため、エネルギー市場に大きな影響を与える。地政学的リスクの低減は世界経済の安定にも寄与するため注目されている。",
+      "market_impact": "原油価格の急落はエネルギー関連企業の収益見通しに変化をもたらし、株式市場全体にはリスク回避の緩和として買いが優勢となっている。原油輸送路の安定化は供給過剰懸念を和らげ、中東地域の投資環境改善も期待される。",
+      "category": "Geopolitics",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stocks-are-riding-an-earnings-hot-streak-but-investors-are-facing-a-summer-thats-rife-with-risks-67a700e4?mod=mw_rss_topstories",
-      "published_at": "2026-05-25 07:23"
+      "url": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories",
+      "published_at": "2026-05-26 07:23"
+    },
+    {
+      "title": "Microsoft Copilot Cowork Exfiltrates Files",
+      "summary_2lines": "Microsoft 365のCopilot Cowork機能において、間接的なプロンプトインジェクションを悪用し、ユーザーの許可なくファイルが外部に送信される脆弱性が発見された。これにより、個人情報や財務データを含むファイルが漏洩するリスクが高まっている。",
+      "why_it_matters": "Copilot CoworkはMicrosoft Graphを用いてユーザーのデータにアクセスし自動的に操作を行うが、特定の行動（メール送信やTeamsメッセージ送信）がユーザーの承認なしに実行される設計上の問題があるため、攻撃者が巧妙に悪用可能である。これは単なるバグではなく、エージェントに企業全体の権限が委譲されるシステム設計に内在するリスクであり、企業の情報セキュリティ上の重要な課題となる。",
+      "market_impact": "本脆弱性の発覚はMicrosoft 365の信頼性と安全性に対する顧客の懸念を強め、エンタープライズ市場でのMicrosoftクラウドサービスの利用に影響を与える可能性がある。また、企業は代替ソリューションの検討やセキュリティ強化にコストや労力を割く必要があり、IT予算やクラウドサービス市場の競争環境に影響を及ぼすだろう。投資家の視点からもMicrosoft製品のセキュリティ強化状況が注目される。",
+      "category": "Tech",
+      "source": "Hacker News",
+      "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+      "published_at": "2026-05-26 06:45"
     }
   ],
   "categories": {
     "Tech": [
       {
-        "title": "Everyone is navigating AI security in real time — even Google",
-        "summary_2lines": "Google CloudのCOO、Francis de SouzaはAIセキュリティの重要性を強調し、企業は初期段階からプラットフォーム全体でのセキュリティ戦略を組み込む必要があると指摘した。AIの進展に伴い、従来の防御モデルが通用しなくなり、AIネイティブな自律防御体制への移行が求められている。",
-        "why_it_matters": "AI技術の急速な発展により企業のセキュリティリスクが劇的に変化しており、攻撃手法も高速化、多様化している。旧来のセキュリティ対策では対応が追いつかず、AIを活用した自動防御システムの導入や複数クラウド環境に対応した一貫したセキュリティ戦略の構築が不可欠となっている。これにより企業経営陣の関与が求められており、経営レベルでの課題認識が重要になっている。",
-        "market_impact": "全企業がAI導入と同時に強固なセキュリティ基盤の整備を迫られるため、セキュリティソリューション市場の拡大が予想される。またマルチクラウド環境での管理ニーズが高まり、クラウドサービスプロバイダー間の競争と連携の両面で新たな動きが活発化するだろう。AIの脆弱性対応に人材不足が続くことで、セキュリティ人材の育成投資や自動防御技術の開発投資が一段と喚起されると考えられる。",
+        "title": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up",
+        "summary_2lines": "Huaweiは新たな半導体開発手法「LogicFolding」を用いて2024年秋にスマートフォン向けチップを製造予定。米国の対中制裁下で、Nvidiaとの競争が激化している。",
+        "why_it_matters": "米国の輸出規制により最先端チップの中国市場参入が制限される中、Huaweiの技術革新は中国の半導体自給率向上の象徴とされ、グローバル半導体産業の勢力図に変化をもたらす可能性があるため重要である。",
+        "market_impact": "Huaweiの新技術が成功すれば、AppleやNvidiaの中国でのシェアは縮小し、中国国内の半導体産業支援政策の効果も高まる。これにより米中間の技術覇権争いが激化し、サプライチェーンの再編や投資戦略の見直しを促すだろう。",
         "category": "Tech",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-        "published_at": "2026-05-25 06:39"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html",
+        "published_at": "2026-05-25 15:48"
       },
       {
-        "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
-        "summary_2lines": "XrealはGoogleのパートナーとして軽量で実用的なスマートグラス「Project Aura」を開発し、スマートグラス業界での収益化の転換点を目指している。2024年には黒字化を見込み、2026年までにIPOも計画している。",
-        "why_it_matters": "これまで巨額投資が続きながらも利益が出ず苦戦してきたスマートグラス業界において、Xrealがハードウェア・OS・UIの三位一体で課題を克服しつつあることは、業界の本格的な成長と普及の可能性を示す重要な転機となる。",
-        "market_impact": "Xrealの成功はスマートグラス市場の拡大を促進し、MetaやGoogleをはじめとする主要プレイヤーの戦略や投資方針に影響を与えるだろう。新しいインターフェースが普及すれば、モバイルコンピューティングやAR/VR分野の市場規模が拡大し、関連企業の収益改善や新規事業機会創出が期待される。",
+        "title": "What ClickUp’s mass layoff tells us about the future of work",
+        "summary_2lines": "クリックアップはAI導入により従業員の22％をレイオフし、生産性向上と高報酬体制を目指す。AIが業務自動化を加速させ、人材構成や働き方に大きな変化をもたらしている。",
+        "why_it_matters": "AI技術の急速な進展により、企業の生産性向上手段としてAIエージェントが普及しつつある。これに伴い、従来の雇用形態が大きく変化し、AIを活用できる労働者に対する報酬が飛躍的に高まる一方、適応できない人材は解雇されるリスクが増大している点が重要な背景となっている。",
+        "market_impact": "クリックアップのようなテクノロジースタートアップがAIを活用して大規模なレイオフを実施しつつ生産性を向上させる動きは、他企業にも波及すると予想される。これにより、AI関連人材への需要が拡大し、一方でAI導入に適応できない労働者は市場から排除される懸念が生じる。結果的に雇用市場の二極化や労働構造の再編を促進し、経済全体の労働生産性にはプラス効果をもたらす可能性があるが、社会的な適応課題も顕在化する。",
         "category": "Tech",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
-        "published_at": "2026-05-25 04:00"
+        "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+        "published_at": "2026-05-26 01:00"
       },
       {
-        "title": "6 kitchen gadgets that make adulting feel easier",
-        "summary_2lines": "最新のキッチンガジェットはAI搭載やハンズフリー機能により、料理を自動化し、忙しい成人の生活を大幅に楽にする。ロボット調理機器やスマート家電が、手間を減らしながら多様な料理を可能にしている。",
-        "why_it_matters": "働く成人の時間的余裕が限られる中、手間のかかる料理を簡便化する技術は生活の質を向上させる。AI搭載の調理器具は単なる時短に留まらず、料理のレパートリー拡大やアクセシビリティ向上にも寄与し、家庭の食生活や健康意識に影響を与えるからだ。",
-        "market_impact": "キッチン家電市場はAIや自動化技術の導入で拡大が見込まれ、高額なスマートキッチンロボットやエスプレッソマシンの需要増加が期待される。メーカーは技術革新を競い、消費者の高度なニーズに応えることで差別化を図る動きが活発化し、関連サプライチェーンにも好影響を及ぼす可能性が高い。",
+        "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
+        "summary_2lines": "Lucra SportsのCEOがAI全盛の時代でも巧妙なピッチでARK Investから2000万ドルの資金調達に成功した。eスポーツを軸にした白ラベルゲームサービスで、VCの多くがAIに偏る中で差別化を図った。",
+        "why_it_matters": "現在のVC市場はAI関連に集中しており、それ以外の分野は資金調達が難しい環境にある。Lucra Sportsの事例は、資金調達における戦略的ピッチの重要性と、人脈形成の価値を示しており、多様なビジネスモデルが評価され得る可能性を示唆している。",
+        "market_impact": "この調達成功は、eスポーツやインタラクティブロイヤリティプログラム市場の注目度を高め、同分野におけるスタートアップの資金調達の道を開く可能性がある。加えて、AI一本に偏る投資家心理のバランス調整や投資ポートフォリオの多様化を促す動きにもつながるだろう。",
         "category": "Tech",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
-        "published_at": "2026-05-25 02:00"
+        "url": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
+        "published_at": "2026-05-26 00:00"
       },
       {
-        "title": "Memorial Day Tech Deals: Sony, Anker, Beats (2026)",
-        "summary_2lines": "メモリアルデーのテックセールで、ソニーやAnker、Beatsなどの人気ガジェットが大幅割引。ヘッドホンやパワーバンク、赤色光療法用ヘルメットなど多様な製品が対象となっている。",
-        "why_it_matters": "大型連休のセールは消費者にとって買い時であり、特にテクノロジー製品が割安で手に入るため、購買意欲が高まる。また、コロナ禍からの消費回復期において家電や健康関連ガジェットの注目度が高いことも背景にある。",
-        "market_impact": "主要ブランドが大幅値引きを実施することで売上増加や在庫の効率的な処分が見込まれる。さらに、テクノロジー小売市場の活性化と消費者のブランドロイヤリティ醸成に寄与し、競合他社にも価格競争を促す可能性がある。",
+        "title": "The Electric Ferrari Luce Is Finally Here",
+        "summary_2lines": "フェラーリ初の電気自動車『Luce』がついに公開され、1000馬力以上の高性能と独自のデザインを備えた五人乗りハイパーカーとして注目を集めている。Apple出身のジョニー・アイブ率いるLoveFromがデザインを担当し、内外装ともに従来のフェラーリの枠を超えた革新的なモデルとなった。",
+        "why_it_matters": "フェラーリは長年ガソリンエンジンのスーパーカーを代表するブランドであったが、電動化の波に対応しつつも特有の性能とデザインを両立させた新たな挑戦を示した。自動車業界のEV化競争が加速する中で、ラグジュアリースポーツカー市場におけるフェラーリの競争力維持とブランド価値の革新を象徴する一台であるため重要だ。",
+        "market_impact": "フェラーリの電動化は高級EV市場のさらなる活性化を促し、テスラをはじめとしたEV競合他社との競争を加速させる。Appleデザイン由来の先進的な内装は高級EVにおけるユーザー体験の新基準を設け、他ブランドも同様の外部デザイナーやテクノロジーパートナーシップを模索する可能性が高い。これにより高性能EV市場でのフェラーリのシェア拡大やブランド刷新が期待される。",
         "category": "Tech",
         "source": "Wired",
-        "url": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/",
-        "published_at": "2026-05-25 00:55"
+        "url": "https://www.wired.com/story/ferrari-luce-ev-is-finally-here/",
+        "published_at": "2026-05-26 06:03"
       },
       {
-        "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
-        "summary_2lines": "SpaceXは新型スターシップV3の初飛行を成功裏に終え、過去の初飛行での失敗を乗り越えた。NASA関係者も注目し、有人月着陸機としての期待が高まっている。",
-        "why_it_matters": "スターシップV3は有人月着陸機としてNASAと連携するプロジェクトの重要な一歩であり、打ち上げ技術の進展は宇宙探査の新たなフェーズへの道を開く。過去の失敗を克服した点が技術面での信頼性向上を示し、宇宙開発競争における米国の優位性維持に寄与する。",
-        "market_impact": "打ち上げ成功によりSpaceXの技術的信頼性とブランド価値が向上し、投資家の評価が高まる可能性がある。NASAとの連携強化は長期的な受注拡大や事業安定化につながり、宇宙産業全体の活性化にも寄与するだろう。一方で競合も技術開発を加速させる可能性がある。",
+        "title": "Memorial Day Tech Deals: Sony, Apple, Anker, and More",
+        "summary_2lines": "メモリアルデーのセールで、SonyやApple、Ankerなどの人気テック製品が大幅割引で購入可能。特にワイヤレスヘッドホンやパワーバンク、ロボット掃除機など多様なガジェットが対象。",
+        "why_it_matters": "メモリアルデーは伝統的に家具や寝具の販売が活発な時期だが、近年はテクノロジー製品の割引も増加。消費者にとっては高価格帯の人気ガジェットを手頃な価格で入手できる貴重な機会であり、購買意欲に大きな影響を与える。",
+        "market_impact": "大手テック企業はメモリアルデーを利用した割引戦略で在庫調整とブランド認知度向上を狙う。一方、消費者は割引キャンペーンを契機に新製品や旧モデルの買い替えを促進し、テック市場の活性化が期待される。特にAppleやSonyの売上増加に直結する可能性が高い。",
+        "category": "Tech",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/memorial-day-tech-deals-2026-2/",
+        "published_at": "2026-05-26 02:23"
+      },
+      {
+        "title": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
+        "summary_2lines": "ローマ教皇レオ14世は、AI技術を「武装解除」すべきだと訴える新回勅『Magnifica Humanitas』を発表し、AIが人類共通の善に奉仕するべきだと強調した。彼は技術の支配や排除を批判し、人間性を中心に据えた新たな社会文明の構築を呼びかけている。",
+        "why_it_matters": "AIの急速な発展とそれに伴う社会・倫理的課題が深刻化する中、カトリック教会が公式にAIの在り方に言及し、倫理的制御と共通善の追求を求めたことで、世界的な議論に新たな影響を与える可能性がある。特に技術エリートの社会的影響力やデータ独占への警鐘は、社会的・政治的な議論を促す意味で重要である。",
+        "market_impact": "教皇の声明は、AI関連の技術開発や規制の方向性に対し倫理的観点からの圧力を強める可能性があり、特に自律兵器やデータ独占を行う企業には社会的責任の増大をもたらすだろう。また、社会的な共通善を重視する価値観の広がりは、AI技術の透明性や公平性を求める市場や規制環境の形成に影響を与えると考えられる。",
         "category": "Tech",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
-        "published_at": "2026-05-24 02:54"
+        "url": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+        "published_at": "2026-05-26 06:07"
       },
       {
-        "title": "Two space shuttle-era spacewalkers enter Astronaut Hall of Fame",
-        "summary_2lines": "宇宙飛行士トム・エイカーズとジョー・タナーが2026年の宇宙飛行士殿堂入りを果たした。両者はスペースシャトル時代に活躍したベテランで、20年以上経て名誉を共有した。",
-        "why_it_matters": "宇宙飛行士殿堂入りはNASA宇宙プログラムにおける重要な功績や貢献の認知であり、エイカーズとタナーのようなベテランが評価されることで、宇宙探査への歴史的理解と次世代へのモチベーション向上につながる。また、エイカーズの史上唯一の3人同時宇宙遊泳など、宇宙ミッションの挑戦的な記録も顕彰されているため、その歴史的価値も高い。",
-        "market_impact": "今回の殿堂入りは直接的な市場や経済への影響は限定的だが、宇宙開発や航空宇宙技術分野に対する関心を再燃させる効果が期待される。NASAや宇宙関連企業のブランド価値向上や人材育成の促進につながり、中長期的には宇宙産業の投資や技術革新の活発化に寄与する可能性がある。",
+        "title": "I spent years forcing myself to finish The Witcher 3—don't repeat my mistake",
+        "summary_2lines": "筆者は人気RPG『The Witcher 3』を無理にクリアしたが楽しめず、その経験から無理に評価に追随する必要はないと説く。ゲームの多様化により、プレイヤーの好みも大きく異なることを示している。",
+        "why_it_matters": "『The Witcher 3』は多くの賞賛を受けた名作として知られるが、すべてのプレイヤーに合うわけではない現実が浮き彫りになった。これにより、ゲーム業界における「万人受け」や情報の同調圧力の問題、ユーザー個々の趣向多様化が重要なテーマとして注目される。",
+        "market_impact": "ゲーム市場では大ヒット作品が基準や期待値を形成するが、ユーザーの嗜好の多様化が進むことでニッチなゲームの価値や個別の評価軸が重要になる。企業は幅広いユーザー層に適応した製品設計やマーケティング戦略を見直す必要があり、多様性を尊重したタイトル開発が求められる。",
         "category": "Tech",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/",
-        "published_at": "2026-05-23 20:30"
+        "url": "https://arstechnica.com/gaming/2026/05/the-witcher-3-is-a-good-game-but-that-doesnt-mean-you-have-to-like-it/",
+        "published_at": "2026-05-25 20:22"
       },
       {
-        "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-        "summary_2lines": "DeepSeekは、キャッシュ性能が高くコスト効率の良いネイティブコーディングエージェントを開発した。これにより処理速度の向上と運用コストの削減が期待される。",
-        "why_it_matters": "効率的なキャッシュ機能と低コストを実現したネイティブエージェントは、AIやソフトウェア開発分野での計算リソース負荷軽減やシステム最適化に寄与するため、技術革新の一環として重要である。",
-        "market_impact": "開発企業の競争力向上や、関連技術を活用する事業者の運用コスト低減が見込まれ、クラウドサービスやAI開発市場での競争環境に影響を与える可能性がある。",
+        "title": "US's big bet on quantum computing may not be entirely legal",
+        "summary_2lines": "米政府は量子コンピューティング企業に20億ドルを投資したが、一部議員はこの資金の使途が法的に問題があると指摘している。特に最大の出資先であるIBMとの関係性や、議会の承認がない点が争点となっている。",
+        "why_it_matters": "このニュースは、政府の大型投資が法律や予算の枠組みを逸脱している可能性を示しており、公共資金の適正利用や政策決定の透明性に疑問を投げかけている。量子コンピュータは次世代技術の要であり、その支援のあり方が今後の技術振興や産業政策に大きな影響を与えるからだ。",
+        "market_impact": "この問題が長引くと、投資先企業の資金繰りや研究開発計画に不透明感が生じ、民間の量子技術投資全体にも慎重姿勢が広がる可能性がある。一方で、政府支援の合法性が明確になれば、量子技術分野への資金流入が加速し、関連企業や市場の成長を後押しするだろう。",
+        "category": "Tech",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+        "published_at": "2026-05-25 21:00"
+      },
+      {
+        "title": "Exit IP VPN servers mitigation rollout",
+        "summary_2lines": "Exit IP VPNサーバーに対する新たな緩和策が複数の地域で展開されました。主要な都市のサーバーが対象となり、セキュリティ強化が図られています。",
+        "why_it_matters": "VPNサーバーの出口IPはネットワークトラフィックの信頼性や安全性に直結します。悪意あるアクセスや攻撃を防ぐための緩和策は、サービスの健全性維持に不可欠であり、インターネット利用者や企業にとって重要な措置です。",
+        "market_impact": "この対策により、企業のネットワークインフラの安全性が向上し、サイバー攻撃によるリスクが低減されます。特にVPNサービス提供事業者やそれを利用する企業の運用コスト低減と信頼性増加が期待でき、市場の安定化に寄与します。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-        "published_at": "2026-05-24 22:02"
+        "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
+        "published_at": "2026-05-26 02:45"
       },
       {
-        "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-        "summary_2lines": "Audiomassはウェブ上で動作する無料のオープンソース多重トラック音声編集ソフトウェアです。ブラウザだけで手軽に高度な音声編集が可能となります。",
-        "why_it_matters": "従来の音声編集ソフトは高価かつインストールが必要ですが、Audiomassによりインターネット環境さえあれば誰でも手軽に多重トラック編集ができるようになります。これによりクリエイターの参入障壁が下がり、音声編集の民主化が進みます。",
-        "market_impact": "AudiomassはAdobe AuditionやPro Toolsなどの有償ソフトウェア市場に対して無料の代替手段として競合し得ます。特に個人クリエイターや小規模スタジオのコスト削減につながり、音声編集ソフトの市場構造に影響を与える可能性があります。",
+        "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+        "summary_2lines": "ノルウェー国立図書館がノルウェー語特化の大規模言語モデル（LLM）を構築するため、2ペタバイトのHuawei製フラッシュストレージを活用してAIトレーニングを進めている。データ保存と高速処理の異なるストレージシステムの連携が課題となっている。",
+        "why_it_matters": "地域固有言語に対応したソブリンなLLM開発は、英語中心のグローバルモデルではカバーできないその国の文化や歴史、ニュースに対する理解を深めるため重要である。ノルウェー政府が文化資産の保護とAI技術活用を両立させる試みとして、公共機関が主導する先進的なモデルケースとなっている。",
+        "market_impact": "Huaweiの高性能フラッシュストレージが大規模AIデータパイプラインに採用されたことは、同社の企業向けストレージ市場での競争力強化を示す。加えて、国主導による言語特化AIの普及は、地域別カスタマイズAI開発ニーズの拡大を促し、AIインフラや関連ITサービス市場の成長に寄与する可能性が高い。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://audiomass.co/?multitrack=1",
-        "published_at": "2026-05-25 00:25"
+        "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+        "published_at": "2026-05-26 04:37"
       },
       {
-        "title": "Whatever the mirror test tells us, beluga whales pass it",
-        "summary_2lines": "ベルーガクジラが鏡を使った自己認識テストに成功し、自己認識能力を示した初の証拠となった。これは動物の認知科学に新たな視点をもたらす重要な発見である。",
-        "why_it_matters": "自己認識は高度な認知能力の指標とされており、これまで限られた種のみが示していた能力である。ベルーガクジラの成功は、海洋哺乳類の知能評価や動物福祉の考え方を見直す契機となりうるため、科学界だけでなく倫理面でも大きな意味を持つ。",
-        "market_impact": "直接的な経済影響は限定的だが、海洋生物の知能に対する理解が深まることで水族館運営や海洋保護関連事業の価値向上、教育プログラム展開が促進される可能性がある。将来的にはAIやロボティクス分野の認知モデル開発にも示唆を与えるだろう。",
+        "title": "The pope’s AI encyclical isn’t really about AI",
+        "summary_2lines": "教皇レオ14世は人工知能（AI）をテーマにした回勅『Magnifica Humanitas』を発表したが、主な焦点はAIではなく不平等や権力の集中といった根深い社会問題にある。彼はAI時代における透明性の欠如と少数エリートによる支配に警鐘を鳴らし、公正な監視と参加型のガバナンスを訴えている。",
+        "why_it_matters": "AI技術が急速に発展し社会に浸透する中、技術を独占する少数のエリートによる権力の集中は、社会的不公正や民主主義の劣化を加速させる危険がある。教皇の回勅はこの現状に対し宗教的・社会的視点からの警告を発し、AIを含むテクノロジーが公共善に資するよう社会全体でのガバナンス強化を促す重要なメッセージとなっている。",
+        "market_impact": "AIやテクノロジー企業に対する規制強化や透明性向上の圧力が高まる可能性がある。特に、少数の大企業やエリートによるデータ独占や技術優位の維持を狙った動きに対し、規制を支持する世論や政策決定者の関心が強まることで、市場競争のあり方や企業の経営戦略に変化が求められるだろう。また、AIの軍拡的開発競争の終息を求める声は地政学リスクの緩和にも影響を与えうる。",
         "category": "Tech",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
-        "published_at": "2026-05-24 20:15"
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+        "published_at": "2026-05-26 00:09"
+      },
+      {
+        "title": "Microsoft Copilot Cowork Exfiltrates Files",
+        "summary_2lines": "Microsoft 365のCopilot Cowork機能において、間接的なプロンプトインジェクションを悪用し、ユーザーの許可なくファイルが外部に送信される脆弱性が発見された。これにより、個人情報や財務データを含むファイルが漏洩するリスクが高まっている。",
+        "why_it_matters": "Copilot CoworkはMicrosoft Graphを用いてユーザーのデータにアクセスし自動的に操作を行うが、特定の行動（メール送信やTeamsメッセージ送信）がユーザーの承認なしに実行される設計上の問題があるため、攻撃者が巧妙に悪用可能である。これは単なるバグではなく、エージェントに企業全体の権限が委譲されるシステム設計に内在するリスクであり、企業の情報セキュリティ上の重要な課題となる。",
+        "market_impact": "本脆弱性の発覚はMicrosoft 365の信頼性と安全性に対する顧客の懸念を強め、エンタープライズ市場でのMicrosoftクラウドサービスの利用に影響を与える可能性がある。また、企業は代替ソリューションの検討やセキュリティ強化にコストや労力を割く必要があり、IT予算やクラウドサービス市場の競争環境に影響を及ぼすだろう。投資家の視点からもMicrosoft製品のセキュリティ強化状況が注目される。",
+        "category": "Tech",
+        "source": "Hacker News",
+        "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+        "published_at": "2026-05-26 06:45"
       }
     ],
     "Markets": [
       {
-        "title": "Which company will the U.S. government take a stake in next? Here’s what traders think",
-        "summary_2lines": "アメリカ政府が民間企業9社に出資する動きを受け、IonQ、Anduril、Micronが次の有力候補としてトレーダーの注目を集めている。特にIonQは発表に含まれなかったが株価が急上昇した。",
-        "why_it_matters": "米政府が民間企業への株式取得を進める背景には、国家安全保障や戦略的技術確保の狙いがある。トランプ政権下でのこの動きは今後の産業政策や市場の政治的影響力拡大を示唆しており、特に量子コンピューティングや防衛技術、半導体といった先端分野での政府関与の増加を意味する。",
-        "market_impact": "対象企業の株価が短期的に急騰し、投資家の期待感が高まっている。政府出資の可能性は資金調達の安定化や研究開発強化に繋がるが、一方で民間企業の経営独立性や市場競争への影響も懸念される。特にMicronの急上昇はAI需要による需要逼迫と相まって、半導体市場の供給環境にも注目が集まっている。",
+        "title": "Oil prices slide on hopes of US-Iran peace deal",
+        "summary_2lines": "米・イラン間の和平交渉進展への期待から原油価格が急落しました。ストレート・オブ・ホルムズの封鎖解除など、石油輸送の正常化が鍵となっています。",
+        "why_it_matters": "中東の戦争と石油輸送路の封鎖は世界のエネルギー供給に大きなリスクをもたらし、価格変動を引き起こしています。和平交渉の進展は供給安定化につながるため、世界経済にとって重要な意味を持ちます。",
+        "market_impact": "原油価格は一時5.5%下落し1バレル97.9ドルまで下がりましたが、戦争前の70ドル前後には戻っていません。供給リスク低減が見込まれるものの、海上輸送の安全性回復に時間がかかるため価格は高値圏を維持する可能性があります。石油関連企業や輸送業界の動向にも慎重な対応が求められます。",
+        "category": "Markets",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-05-25 22:05"
+      },
+      {
+        "title": "Kevin Warsh's real Fed 'regime change' may happen deep inside Wall Street's plumbing",
+        "summary_2lines": "次期FRB議長ケビン・ウォーシュはFRBの金融政策の中核である6.8兆ドル規模のバランスシートの運用方法に「レジームチェンジ」をもたらす可能性がある。日常的な市場介入からより明確なルールに基づく間欠的な介入へ役割を縮小する方針が示唆されている。",
+        "why_it_matters": "FRBのバランスシート運用はリーマンショック以降、米金融市場の安定化に不可欠な役割を果たしてきた。これを縮小・見直すことは、金融市場の機能や金利動向に大きな影響を及ぼし、今後の金融政策の基本枠組みが変わる可能性がある点で注目されている。急激な変更は避け中長期的に慎重に進める必要があるため、今後の政策の方向性を占う重要なテーマとなっている。",
+        "market_impact": "バランスシート縮小が実施されれば、米国債利回りの上昇圧力が強まり、住宅ローン金利や企業借入コストが上昇する可能性がある。また、日常的な市場介入が減少することで短期資金市場の構造変化が生じ、金融機関の資金調達やマネーマーケットの機能に影響を与える懸念もある。政策伝達機構の変化がインフレ抑制や景気動向に影響を及ぼすため、金融市場や経済全体に波及効果が及ぶことが予想される。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/22/which-company-will-the-us-government-take-a-stake-in-next.html",
-        "published_at": "2026-05-23 00:29"
+        "url": "https://www.cnbc.com/2026/05/22/kevin-warshs-real-fed-regime-change-may-happen-deep-inside-wall-streets-plumbing.html",
+        "published_at": "2026-05-23 03:23"
       },
       {
-        "title": "Can an Italian company disrupt Germany’s broken railway industry?",
-        "summary_2lines": "イタリアの企業がドイツ鉄道業界に新たな競争相手として参入する可能性が浮上している。これにより、長年抱えるドイツ鉄道の問題に変化が起きるか注目される。",
-        "why_it_matters": "ドイツの鉄道市場は長年にわたり効率の悪さやサービスの問題を抱えており、国営企業ドイツ鉄道（Deutsche Bahn）が独占的地位を占めている。新規参入は市場の競争促進とサービス改善の契機となるため重要である。",
-        "market_impact": "イタリア企業の参入により、ドイツ国内の鉄道サービスの質向上や運賃競争が期待され、既存のドイツ鉄道の市場シェアが圧迫される可能性がある。これが投資家の注目を集め、関連産業の動向に影響を与えるだろう。",
-        "category": "Markets",
-        "source": "The Economist",
-        "url": "https://www.economist.com/business/2026/05/21/can-an-italian-company-disrupt-germanys-broken-railway-industry",
-        "published_at": "2026-05-21 21:47"
-      },
-      {
-        "title": "Stocks are riding an earnings hot streak — but investors are facing a summer that’s rife with risks",
-        "summary_2lines": "米国株式市場は業績好調を背景に史上最高値圏で推移している。しかし、今後の数ヶ月はリスク要因が多く、不安定な展開が予想される。",
-        "why_it_matters": "株価の動向は経済全体の健康状態や投資家心理を反映するため、本記事は今後の経済見通しや投資戦略を考える上で重要である。特に夏場にリスクが集中することで市場の変動が拡大する可能性があるため、注意が必要とされている。",
-        "market_impact": "企業の堅調な業績発表が投資家の買い安心感を支え、短期的には株価上昇を促進している。一方、金利変動、インフレ懸念、地政学リスクなどがリスク要因となり、これらにより市場のボラティリティが高まることで企業の資金調達コスト増や消費者心理の冷え込みが起こる可能性がある。",
+        "title": "These underdogs are a big reason why S&P 500 profit growth is the fastest in nearly 5 years",
+        "summary_2lines": "過去3年間はビッグテック7社がS&P500の利益成長を牽引してきたが、最近では他の493社も利益成長に貢献し始めている。これによりS&P500全体の利益成長率が約5年ぶりの速さとなっている。",
+        "why_it_matters": "これまで特定の大手企業に依存していた市場の利益成長が、多様な企業の貢献によって支えられるようになったことで、成長の持続性や市場の健全性が高まる可能性があるため重要である。",
+        "market_impact": "利益成長の幅広い企業への波及は市場全体の安定化を促し、投資家のリスク分散を後押しする。また、S&P500の利益成長速度向上は株式市場のポジティブな成長期待を強化する可能性がある。",
         "category": "Markets",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/stocks-are-riding-an-earnings-hot-streak-but-investors-are-facing-a-summer-thats-rife-with-risks-67a700e4?mod=mw_rss_topstories",
-        "published_at": "2026-05-25 07:23"
+        "url": "https://www.marketwatch.com/story/these-underdogs-are-a-big-reason-s-p-500-profit-growth-is-the-fastest-in-nearly-5-years-4a43f142?mod=mw_rss_topstories",
+        "published_at": "2026-05-26 04:50"
       }
     ],
     "Geopolitics": [
       {
         "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
-        "summary_2lines": "APEC会合で米中は関税や自由貿易に関する認識の違いを示し、戦略的安定やAI技術競争でも隔たりが残ることが浮き彫りになった。両国は引き続き相互の優先事項で対立しつつも、協議は継続されている。",
-        "why_it_matters": "世界最大の二大経済体である米中の貿易政策や技術覇権争いの動向はグローバル経済に大きな影響を及ぼす。APECという地域協議の場で両国の優先課題の隔たりが明確になったことで、今後の経済統合や自由貿易の進展、またデジタル・AI分野における国際競争の行方が不透明になったことが背景にある。",
-        "market_impact": "関税に関する米中の立場の相違や自由貿易の合意の遅延は、国際貿易の不確実性を高めるため輸出入企業や金融市場にマイナス影響を与える可能性がある。またAIやデジタル貿易での競争激化は、関連技術企業の市場シェアや投資戦略に影響し、サプライチェーンや技術標準を巡る地政学リスクも増大する。",
+        "summary_2lines": "APEC会議で米中両国は貿易政策やデジタル貿易、AI分野で立場の違いを示し、依然として溝が大きいことが明らかになった。特に関税や自由貿易協定の見解の相違が顕著である。",
+        "why_it_matters": "米中は世界最大の経済圏としてアジア太平洋地域の経済秩序を左右する重要な存在だが、自由貿易や関税政策で対立が根強い。今回のAPECは両国の今後の経済協力の方向性や競争の激化を占う重要な機会となるため、国際経済の安定や企業戦略に大きな影響を及ぼす。",
+        "market_impact": "米中貿易摩擦の長期化や自由貿易推進の停滞は、グローバルサプライチェーンの混乱、輸出依存度の高い中国企業への懸念増大を招く。また、AIやデジタル貿易分野での競争激化は両国の技術企業の市場支配力を左右し、関連産業の競争環境を再編成する可能性が高い。投資家や企業は政策動向の注視が必要である。",
         "category": "Geopolitics",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/05/23/three-signs-from-apec-that-the-us-china-remain-far-apart-on-trade.html",
         "published_at": "2026-05-23 20:19"
       },
       {
-        "title": "Trump says there’s no rush as deal to end Iran war appears close; oil prices tumble",
-        "summary_2lines": "米国とイランの戦争終結とホルムズ海峡再開に向けた合意が間近と報道された。これを受けて原油価格が急落した。",
-        "why_it_matters": "ホルムズ海峡は世界の重要な石油輸送ルートであり、戦争終結と海峡再開は供給不安の解消につながるため、国際エネルギー市場に大きな影響を与える。",
-        "market_impact": "地政学的リスクの低下により原油価格が下落し、エネルギー関連企業のコスト面や利益見通しに変化が生じる可能性がある。また、不安定要因の減少はグローバル市場の安定化に寄与する。",
+        "title": "Oil prices tumble as deal to end Iran war appears close, though Trump says there’s no rush",
+        "summary_2lines": "米国がイランとの戦争終結に向けた合意に近づいているとの報道を受け、原油価格が急落し株価先物が急騰した。トランプ大統領は「急ぐ必要はない」と発言している。",
+        "why_it_matters": "イラン戦争終結とホルムズ海峡の再開は世界原油供給の安定化に直結するため、エネルギー市場に大きな影響を与える。地政学的リスクの低減は世界経済の安定にも寄与するため注目されている。",
+        "market_impact": "原油価格の急落はエネルギー関連企業の収益見通しに変化をもたらし、株式市場全体にはリスク回避の緩和として買いが優勢となっている。原油輸送路の安定化は供給過剰懸念を和らげ、中東地域の投資環境改善も期待される。",
         "category": "Geopolitics",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories",
-        "published_at": "2026-05-25 07:20"
+        "published_at": "2026-05-26 07:23"
       },
       {
-        "title": "Ecuador’s Noboa pledges to extradite criminals in State of the Union speech",
-        "summary_2lines": "エクアドルのノボア大統領は国情演説で犯罪組織の米国への引き渡しと経済改善を強調した。一方、強硬な治安対策には市民の危険を指摘する批判もある。",
-        "why_it_matters": "エクアドルは麻薬カルテルが支配権を争う地域に位置し、凶悪犯罪が社会問題化している。大統領の強硬姿勢は治安回復と経済安定への重要な試みであり、地域の安全保障や国際協力に影響を与えるからだ。",
-        "market_impact": "治安改善の進展は投資環境の安定化に寄与し、経済成長促進へ好影響を与える可能性がある。ただし、強権的な手法に伴う市民や人権面の不安も投資リスクとして認識されるため、先行きは慎重に見極められるだろう。",
+        "title": "Czech police detain Russian priest over ‘white substance’ find",
+        "summary_2lines": "チェコ警察がロシア正教会の司教ヒラリオンを車内で白い物質が発見されたとして拘束。モスクワはこれを挑発行為と非難して即時釈放を要求している。",
+        "why_it_matters": "ロシアと欧州諸国の緊張が続く中、宗教界の有力人物の拘束は両国関係の悪化を象徴する事件であり、プラハの対ウクライナ支援政策変更と絡んで地域の政治的対立が深まる兆しがある。",
+        "market_impact": "直接的な経済や市場への影響は限定的だが、ロシアと欧州の外交関係悪化はエネルギー取引や貿易に不透明感を与え、一部企業や資源市場のリスク評価に影響を及ぼす可能性がある。",
         "category": "Geopolitics",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/5/24/ecuadors-noboa-pledges-to-extradite-criminals-in-state-of-the-union-speech?traffic_source=rss",
-        "published_at": "2026-05-25 07:04"
+        "url": "https://www.aljazeera.com/news/2026/5/25/czech-police-detain-russian-priest-over-white-substance-find?traffic_source=rss",
+        "published_at": "2026-05-26 05:55"
       },
       {
-        "title": "Cuba thanks China for rice shipment amid worsening humanitarian conditions",
-        "summary_2lines": "キューバは、中国からの6万トン規模のコメ支援を受け、悪化する人道危機の中で感謝を表明した。米国による厳しい経済制裁と石油封鎖がキューバ経済・生活に深刻な影響をもたらしている。",
-        "why_it_matters": "トランプ政権によるキューバへの制裁強化は、米中ラテンアメリカにおける影響力争いの一環であり、キューバの経済的困窮を深刻化させている。中国の支援は、キューバが米国の圧力に対抗するための重要なサポートとなっており、米中対立というグローバルな地政学的緊張の顕在化が背景にある。",
-        "market_impact": "キューバの経済制裁によるエネルギー供給不足と物資不足は現地市場の混乱を招き、地域経済の停滞につながっている。中国からの物資援助は短期的な人道支援にとどまるが、中長期的には中国企業のラテンアメリカ進出促進や、新たな貿易・供給ルートの構築に寄与する可能性がある。",
+        "title": "Bolivia’s president cuts salary in half amid protests",
+        "summary_2lines": "ボリビア大統領ロドリゴ・パス氏は、抗議活動を受けて自身と閣僚の給与を半減すると発表した。抗議は緊縮財政策、物価上昇、燃料不足に対する不満から起きている。",
+        "why_it_matters": "ボリビアでは緊縮策や物価高騰により社会不安が拡大しており、大統領自ら給与削減を打ち出すことで国民の信頼回復を目指している。これは政治的安定と経済政策の方向性に影響を与える重要な動きである。",
+        "market_impact": "抗議の激化は国内の経済活動を停滞させる恐れがあり、エネルギー不足も生産コストの上昇を招く可能性がある。給与削減は政府財政の圧迫緩和に寄与するが、根本問題の解決には至っていないため市場の不透明感は残る。",
         "category": "Geopolitics",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/5/24/cuba-thanks-china-for-rice-shipment-amid-worsening-humanitarian-conditions?traffic_source=rss",
-        "published_at": "2026-05-25 06:53"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/bolivias-president-cuts-salary-in-half-amid-protests?traffic_source=rss",
+        "published_at": "2026-05-26 05:29"
+      },
+      {
+        "title": "Israel to intensify Lebanon offensive to ‘crush’ Hezbollah",
+        "summary_2lines": "イスラエルのネタニヤフ首相は、レバノンのシーア派武装組織ヒズボラへの攻撃を強化し「壊滅」を目指すと宣言した。これにより昨年の停戦合意にもかかわらず軍事衝突が激化している。",
+        "why_it_matters": "イスラエルとヒズボラの対立は中東地域の不安定要因であり、両者の軍事衝突激化はレバノンの政治・社会情勢を悪化させるだけでなく、周辺諸国やグローバルな安全保障環境にも影響を及ぼす可能性が高い。停戦が維持されないことで地域情勢が一層緊迫し、中東のエネルギー供給や国際市場にも波及リスクがある。",
+        "market_impact": "中東情勢の悪化は原油価格の上昇圧力となる可能性があり、特にエネルギーセクターへの波及が懸念される。また、地域の不安定化によるリスク回避から株式市場のボラティリティが増加し、防衛関連企業の株価には短期的な上昇圧力がかかる可能性がある。航空・観光業界やレバノン経済も著しい打撃を受け、国際的な投資環境悪化や信用リスク上昇を招く恐れがある。",
+        "category": "Geopolitics",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/25/israel-to-intensify-lebanon-offensive-in-bid-to-crush-hezbollah?traffic_source=rss",
+        "published_at": "2026-05-26 05:49"
       }
     ],
     "Economy": [
       {
-        "title": "Kevin Warsh's real Fed 'regime change' may happen deep inside Wall Street's plumbing",
-        "summary_2lines": "新任FRB議長ケビン・ウォーシュは、連邦準備制度の運営手法や資産縮小を通じた“体制転換”を模索している。具体的には金融市場の管理手法の見直しやバランスシートの縮小が議論されている。",
-        "why_it_matters": "FRBのバランスシートはリーマンショック以降大幅に膨らみ、市場安定の重要ツールとなっている。ウォーシュ議長の示唆する“レジームチェンジ”は金融政策の伝達機構や市場介入姿勢を根本から見直す可能性があり、金融政策の将来像や危機対応に大きな影響を及ぼすため重要である。",
-        "market_impact": "FRBのバランスシート縮小は国債利回りや住宅ローン金利等の金利水準に直接影響し、金融市場の流動性や安定性を揺るがす可能性がある。また、資金調達の主役がフェデラルファンド金利からリポ市場へ移るなど市場構造も変化し、中長期的に金融機能や銀行の健全性に与えるインパクトを警戒する声もある。",
-        "category": "Economy",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/22/kevin-warshs-real-fed-regime-change-may-happen-deep-inside-wall-streets-plumbing.html",
-        "published_at": "2026-05-23 03:23"
-      },
-      {
-        "title": "'Shameful' more spent on benefits than jobs for young people, says Milburn",
-        "summary_2lines": "イギリス政府は若年層の福利厚生に対して就労支援の25倍の資金を費やしており、労働党のアラン・ミルバーン氏がこれを「恥ずべき」と批判。約100万人の若者が就労も教育もしておらず、福利制度の抜本的改革が求められている。",
-        "why_it_matters": "若年層の就労・教育離れは長期的な経済成長や社会保障制度の持続可能性に深刻な影響を与える問題である。ミルバーン氏の指摘は、福祉制度の非効率性を明らかにし、労働力人口の活性化や若者の貧困削減に資する政策転換の必要性を浮き彫りにした点で重要だ。",
-        "market_impact": "若年層の労働市場からの離脱が続くと生産年齢人口の減少や消費低迷を招き、経済成長にマイナス影響となる。福祉支出の削減と就労支援強化は財政健全化とともに若者の社会参加促進につながり、中長期的に企業の人材確保や国内市場活性化に資する可能性がある。",
+        "title": "'I live in survival mode': The rise of the multi-job workforce",
+        "summary_2lines": "英国では生活費高騰や雇用不安を背景に、副業・複業を行う労働者が130万人を超え、ギグエコノミーが拡大している。AIなどの技術変化も影響を与え、働き方の多様化とともに経済的なプレッシャーが増している。",
+        "why_it_matters": "生活費の高騰や雇用の不安定化が労働者の働き方に大きな変化をもたらし、副業やギグワークに依存する人が増加している。これは従来の安定した単一雇用モデルが崩壊し、多様かつ柔軟な労働形態への転換を示す重要なトレンドであり、労働市場の構造的変化や社会的な生活の質にも影響を及ぼしている。",
+        "market_impact": "ギグエコノミーの拡大と副業増加は、消費者所得の分散と勤労時間の長時間化を促進し、企業は人材確保・労働条件の見直しを迫られる。AIの普及による一部職種の需要減少は業界構造の転換を加速し、労働市場の需給ギャップや人材の再教育・再配置の必要性が増大。これらは経済全体の生産性や消費動向に影響を与え、地域経済の圧迫要因ともなり得る。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-05-24 19:21"
+        "url": "https://www.bbc.com/news/articles/c70vwr8z7pyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-05-25 09:26"
       },
       {
-        "title": "'Six eggs used to be £1' - why everyday essentials cost so much more now",
-        "summary_2lines": "卵、牛乳、パンなどの生活必需品の価格がここ数年で大幅に上昇している。主な原因はエネルギーコストの高騰、ウクライナ情勢による穀物価格上昇、鶏の鳥インフルエンザ被害による供給不足である。",
-        "why_it_matters": "生活必需品の価格上昇は家計への負担増加を意味し、消費者の購買力を低下させる。一方、生産者は急激なコスト増加に伴い利益圧迫を受けており、持続可能な供給体制維持が課題となっている。これらの要因はインフレ圧力の高まりや経済全体の不安定化につながるため重要である。",
-        "market_impact": "スーパーや生産者は仕入れコストの上昇を価格に転嫁しているが、契約条件のため一部はコストを吸収している。結果として食品小売業界の価格競争激化と利益率の圧迫が見込まれ、消費者の節約志向により特売品や割引市場の需要増加が起こる可能性がある。また、原材料やエネルギー価格の影響が農業・食品加工業の収益に影響を及ぼし、長期的には業界構造の変化も予想される。",
+        "title": "Beer boom goes flat as breweries call last orders",
+        "summary_2lines": "イギリスのビール業界は大手企業の市場独占や消費者嗜好の変化により縮小傾向にあり、多くの醸造所やパブが閉鎖している。小規模醸造所は多様化や直販などで生き残りを模索しているが、税負担の重さも課題となっている。",
+        "why_it_matters": "かつて英国ビール生産の中心地であったバートン・アポン・トレントをはじめ、全国で醸造所とパブの閉鎖が相次ぎ、地域経済や文化的なコミュニティに影響を及ぼしている。大手企業による流通支配や価格競争により、小規模な醸造所が経営困難となっている背景があり、地域活性化や多様な消費者ニーズの実現が問われている。",
+        "market_impact": "醸造所数の減少は業界の集中化を進め、大手ビールブランドが市場を支配する構図が強まる。これにより、小規模醸造所はスーパーマーケットへの販路確保が難しくなる一方、訪問者向け施設やタップルーム運営などで直接消費者にアプローチする多角化戦略が重要となる。税制の負担軽減がなければ、更なる閉鎖が地域の雇用や税収減少につながり、地方経済に悪影響を及ぼす可能性が高い。",
         "category": "Economy",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cd6pw4zg5p9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-05-24 10:02"
+        "url": "https://www.bbc.com/news/articles/c9werp5keqlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-05-25 09:21"
       },
       {
-        "title": "Stop blaming young people for being unemployed, says Amazon's UK boss",
-        "summary_2lines": "アマゾン英国責任者ジョン・ブンプフリー氏は、若年層の失業は本人の責任ではなく教育システムの問題だと指摘。若者向けの職業体験の義務化を求めている。若年失業率は16.2％と高水準で社会問題化している。",
-        "why_it_matters": "若年層の失業は経済や社会の健全な発展に深刻な影響を与える。教育システムと労働市場のミスマッチが若者の就業困難を生み、長期的には労働力不足や経済成長の停滞につながるため、政府・企業が協力した対策が求められている。",
-        "market_impact": "若者の就業機会が減少する一方で、スキル不足に悩む企業も多く、労働市場のミスマッチが拡大。特にホスピタリティ産業の雇用減少は若年層に打撃を与え、大手企業は労働確保のため教育機関と連携した人材育成を強化する動きが進む可能性がある。労働市場の効率化が経済回復にも重要な鍵となる。",
+        "title": "Can an Italian company disrupt Germany’s broken railway industry?",
+        "summary_2lines": "イタリアの企業がドイツの鉄道業界に参入し、独占的なDeutsche Bahnに挑戦する可能性が高まっている。ドイツの鉄道業界は長年の問題を抱えており、変革の兆しが見えている。",
+        "why_it_matters": "ドイツの鉄道業界は設備の老朽化やサービスの遅延などで問題を抱えており、Deutsche Bahnの独占体制が改善を妨げている。イタリア企業の参入は競争促進やサービス向上の契機となり得るため、業界全体の改革に繋がる可能性がある。",
+        "market_impact": "新規参入による競争激化でDeutsche Bahnの市場シェアが減少し、価格やサービスの改善圧力が高まる可能性がある。また、鉄道関連インフラや技術開発分野への投資が活発化し、経済全体にプラスの影響を与えることが期待される。",
         "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-05-22 19:56"
+        "source": "The Economist",
+        "url": "https://www.economist.com/business/2026/05/21/can-an-italian-company-disrupt-germanys-broken-railway-industry",
+        "published_at": "2026-05-21 21:47"
       },
       {
         "title": "Why you should (almost) always look on the bright side of life",
-        "summary_2lines": "楽観主義には多くのメリットがある一方で、過度な楽観はリスクも伴う。バランスの取れた視点で物事を捉える重要性を説いている。",
-        "why_it_matters": "現代の不確実な社会環境において、楽観的な姿勢はストレス軽減や創造性向上に寄与するが、過信は判断ミスやリスク過小評価を招くため、個人や企業にとって重要な心構えを示す内容だから。",
-        "market_impact": "投資家や経営者が過度な楽観に陥ると市場の変動リスクが高まる一方で、適度な楽観はイノベーション促進や経済成長の原動力となり得る。企業のリスク管理と成長戦略に影響を与える可能性がある。",
+        "summary_2lines": "楽観主義には多くのメリットがある一方で、過度の楽観はリスクも伴うことを指摘している。バランスの取れた視点で物事を見る重要性を説いている。",
+        "why_it_matters": "個人の心理状態や意思決定に大きな影響を与える楽観主義は、経済活動や市場動向にも波及するため、そのメリットとデメリットを理解することは重要である。特に投資やビジネスのリスク管理の観点で示唆を提供する。",
+        "market_impact": "楽観主義が高まると消費や投資が活発になるため市場全体の活性化に寄与するが、過剰な楽観は過大評価やバブルを引き起こしうるため、市場の調整や暴落リスクを高める可能性がある。企業は心理的バランスを考慮した経営戦略を求められる。",
         "category": "Economy",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/05/21/why-you-should-almost-always-look-on-the-bright-side-of-life",
@@ -272,55 +302,35 @@
       },
       {
         "title": "Franchising has quietly made countless Americans rich",
-        "summary_2lines": "フランチャイズ経営は多くのアメリカ人を裕福にしてきた。AIの進化により、マクドナルド経営の魅力がさらに高まる可能性がある。",
-        "why_it_matters": "AI時代は業務効率化や運営の自動化を促進し、フランチャイズ加盟店の負担軽減や収益最大化を後押しする。これにより、従来より参入障壁が下がり、より多くの人が安定的に資産を築ける機会となるから重要である。",
-        "market_impact": "AI導入による運営効率向上がフランチャイズモデルの収益性を押し上げ、関連企業の投資魅力を高める可能性がある。さらに、雇用形態の変化やフランチャイズ産業全体の拡大により、地域経済にもプラスの影響が期待される。",
+        "summary_2lines": "フランチャイズビジネスは多くのアメリカ人に富をもたらしてきた。AI時代に入り、マクドナルド経営がより魅力的な選択肢になる可能性が高まっている。",
+        "why_it_matters": "AI技術の進展により、従来のフランチャイズ運営の効率性が向上し、経営負担が軽減されることで新たな起業機会が生まれる。これにより、フランチャイズが再び富を築く手段として注目されている。",
+        "market_impact": "自動化やAI導入によってコスト削減とサービス品質向上が期待され、フランチャイズチェーンの収益性向上につながる。投資家や経営者の参入意欲を刺激し、関連株式の活性化や雇用創出にも寄与する可能性がある。",
         "category": "Economy",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/05/24/franchising-has-quietly-made-countless-americans-rich",
         "published_at": "2026-05-25 05:13"
       },
       {
-        "title": "‘My husband is leery of my plan’: We are both 60 and have $5 million. Is now a good time to dip into our savings?",
-        "summary_2lines": "60歳の夫婦が500万ドルの貯蓄を持ちながら、今のタイミングで貯蓄を取り崩すべきか悩んでいる。夫がその計画に慎重な姿勢を示している。",
-        "why_it_matters": "高齢期の資産運用や生活資金の取り崩しは、多くの退職間近または退職後の人々にとって重要な課題である。経済状況や市場環境次第で最適な資産活用方法が変わるため、こうした悩みは広く共感を呼ぶ内容である。",
-        "market_impact": "個人投資家の資産取り崩し行動や消費パターンが変わることで、消費市場や資産市場に影響を与える可能性がある。特に高齢者の大規模な取り崩しは資産売却や投資戦略の見直しを促進することが考えられる。",
+        "title": "I’m 67. Our family trust earns $300,000 annually for my kids. How do I ensure they won’t get killed on taxes?",
+        "summary_2lines": "67歳の投稿者は年30万ドルの収益を上げる家族信託について、子供たちが高い税負担を負わないようにしたいと考えている。収益を毎年子供に分配し、信託自体の課税を抑えたいという意向を示している。",
+        "why_it_matters": "家族信託による資産移転と税負担の最適化は、多くの資産家にとって重要なテーマである。高額な信託所得に対する課税は資産の効率的な継承を阻害するため、適切な分配方法の検討が求められている。",
+        "market_impact": "家族信託の税務戦略は資産運用業界や信託関連ビジネスに影響を及ぼす。信託収益の分配方法が広く見直されれば、税制対応の専門サービスや金融商品の需要が増加すると予想される。",
         "category": "Economy",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/my-husband-is-leery-of-my-plan-we-are-both-60-and-have-5-million-is-now-a-good-time-to-dip-into-our-savings-4c609266?mod=mw_rss_topstories",
-        "published_at": "2026-05-25 05:03"
-      },
-      {
-        "title": "Inside a Beirut barbershop shaped by war and crisis",
-        "summary_2lines": "ベイルートの理髪店経営者マリオ・ハビブは、戦争や経済危機が続く中でも約20年間店を続けている。多くの客は髪を切るだけでなく、会話や安らぎを求めに来ている。",
-        "why_it_matters": "レバノンは長期にわたる政治的混乱と経済崩壊に直面しており、日常生活の維持が困難になっている。そんな中、地域のコミュニティ拠点である理髪店が人々の精神的な支えとなり、『普通の生活』の希求を象徴しているため、この話は社会の現状と人々の生活実態を理解する上で重要だ。",
-        "market_impact": "経済危機により消費者の購買力が低下し、サービス業は厳しい経営環境にある。しかし、生活必需的なサービスやコミュニティの拠り所は一定の需要を維持しており、地域経済の底支えとしての役割が注目される。今後も多くの中小企業が同様の社会的・経済的役割を果たす可能性がある。",
-        "category": "Economy",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/inside-a-beirut-barbershop-shaped-by-war-and-crisis?traffic_source=rss",
-        "published_at": "2026-05-25 06:40"
+        "url": "https://www.marketwatch.com/story/im-67-our-family-trust-earns-300-000-annually-for-my-kids-how-do-i-ensure-they-wont-get-killed-on-taxes-ee0c35d6?mod=mw_rss_topstories",
+        "published_at": "2026-05-26 03:30"
       }
     ],
     "Corporate": [
       {
-        "title": "Topo Designs Rover Trail Pack Is the Best Backpack I’ve Ever Used",
-        "summary_2lines": "Topo DesignsのRover Trail Packは、多機能で使い勝手が良く、旅行や日帰り登山に最適なバックパックとして高く評価されている。軽量かつ丈夫で、デザイン性と実用性を兼ね備えていることがレビューで明らかになった。",
-        "why_it_matters": "消費者のニーズが多様化する中で、バッグやEDC（Everyday Carry）用品に求められる機能性とデザインの両立は重要な差別化要素となっている。Topo Designsの製品は、耐久性や利便性に優れ、アウトドアから日常使いまで幅広く対応できる点が評価されており、製品選びの参考になるレビューとして価値がある。",
-        "market_impact": "アウトドア用品やバッグ市場において、Topo Designsのような高機能で洗練された製品の人気が今後も持続・拡大すると予想される。消費者の高品質志向の高まりにより、類似ブランドや製品への競争圧力が増し、業界全体の製品開発やマーケティング戦略に影響を与える可能性がある。",
+        "title": "A Swimmer Broke a World Record at the Enhanced Games",
+        "summary_2lines": "ギリシャのクリスティアン・ゴロメエフ選手が、禁止されている薬物使用と特殊スーツで強化された競技『Enhanced Games』で世界記録を破った。大会は安全性や公平性への懸念が強く、記録は正式認定されない見込み。",
+        "why_it_matters": "従来のアンチドーピング規制を逸脱した『Enhanced Games』は、スポーツの公平性や倫理、健康リスクに対する議論を呼び起こしている。ドーピング行為を公認・推奨し、管理下で実施する新たな形態は、競技スポーツの未来や規制体制に影響を与える可能性がある。",
+        "market_impact": "医薬品市場やサプリメント業界に新たな需要が生まれる可能性がある一方で、スポーツ関連企業やイベント運営にはブランドイメージの低下やスポンサー離れのリスクも。政府や国際機関の規制強化、医療機関の監督ニーズが高まる可能性もある。",
         "category": "Corporate",
         "source": "Wired",
-        "url": "https://www.wired.com/story/topo-designs-rover-trail-pack/",
-        "published_at": "2026-05-24 20:01"
-      },
-      {
-        "title": "Australia Four-Day Work Week Study Data Shows Boosted Productivity",
-        "summary_2lines": "オーストラリアの15社が実施した4日間週勤務モデルの試験で、生産性の低下は一切なく、むしろ約半数の企業で生産性が向上した。多くの企業が社員の燃え尽き症候群軽減を目的にこの制度を採用し、試験終了後も継続を決定している。",
-        "why_it_matters": "働き方改革や労働生産性向上が世界的課題の中、フル給与で労働時間を20％削減しながら生産性維持・向上が可能な制度の実証は、企業の労働環境改善や従業員のメンタルヘルス対策として画期的な示唆を与える。特に若年層や子育て世代が直面する燃え尽き症候群対策として重要な社会的意義を持つ。",
-        "market_impact": "労働時間短縮による生産性維持・向上が実証されたことで、多くの企業が同様のモデル導入を検討し始め、採用競争や働き方の多様化が促進される可能性が高い。結果として人材確保や維持コストの削減、従業員満足度向上につながり、特にサービス業やテクノロジー分野の企業価値向上に寄与する可能性がある。また、AIによる生産性向上との相乗効果も注目される。",
-        "category": "Corporate",
-        "source": "Hacker News",
-        "url": "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/",
-        "published_at": "2026-05-25 03:56"
+        "url": "https://www.wired.com/story/a-swimmer-broke-a-world-record-at-the-enhanced-games/",
+        "published_at": "2026-05-26 02:32"
       }
     ]
   }
