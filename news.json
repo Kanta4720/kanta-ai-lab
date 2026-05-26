@@ -1,336 +1,336 @@
 {
-  "generated_at_jst": "2026-05-26 07:50",
+  "generated_at_jst": "2026-05-27 07:59",
   "todays_brief": [
     {
-      "title": "Kevin Warsh's real Fed 'regime change' may happen deep inside Wall Street's plumbing",
-      "summary_2lines": "次期FRB議長ケビン・ウォーシュはFRBの金融政策の中核である6.8兆ドル規模のバランスシートの運用方法に「レジームチェンジ」をもたらす可能性がある。日常的な市場介入からより明確なルールに基づく間欠的な介入へ役割を縮小する方針が示唆されている。",
-      "why_it_matters": "FRBのバランスシート運用はリーマンショック以降、米金融市場の安定化に不可欠な役割を果たしてきた。これを縮小・見直すことは、金融市場の機能や金利動向に大きな影響を及ぼし、今後の金融政策の基本枠組みが変わる可能性がある点で注目されている。急激な変更は避け中長期的に慎重に進める必要があるため、今後の政策の方向性を占う重要なテーマとなっている。",
-      "market_impact": "バランスシート縮小が実施されれば、米国債利回りの上昇圧力が強まり、住宅ローン金利や企業借入コストが上昇する可能性がある。また、日常的な市場介入が減少することで短期資金市場の構造変化が生じ、金融機関の資金調達やマネーマーケットの機能に影響を与える懸念もある。政策伝達機構の変化がインフレ抑制や景気動向に影響を及ぼすため、金融市場や経済全体に波及効果が及ぶことが予想される。",
-      "category": "Markets",
+      "title": "Piper Sandler says Strait of Hormuz to remain closed for months and oil to hit new highs",
+      "summary_2lines": "Piper Sandlerはホルムズ海峡が数か月間ほぼ閉鎖状態が続くと予想し、原油価格が夏に新高値をつけると警告している。イランとの交渉進展は疑わしく、供給不足が深刻化する見込みだ。",
+      "why_it_matters": "ホルムズ海峡は世界の石油輸送の重要な海路であり、その閉鎖は中東やアジア、欧州を含む複数の経済圏でエネルギー供給に大きな混乱をもたらす。イランと米国の緊張緩和がなされない限り、エネルギー市場の不安定化が続き、世界経済にも大きなリスクとなる。",
+      "market_impact": "原油価格のさらなる高騰により、エネルギーコストの上昇が避けられず、インフレ圧力が強まる。企業のコスト増加や消費者支出減退を招き、株式市場の回復基調に逆風となる可能性が高い。石油依存度の高い地域の経済成長にも停滞リスクが生じるだろう。",
+      "category": "Geopolitics",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/22/kevin-warshs-real-fed-regime-change-may-happen-deep-inside-wall-streets-plumbing.html",
-      "published_at": "2026-05-23 03:23"
+      "url": "https://www.cnbc.com/2026/05/26/piper-sandler-says-strait-of-hormuz-to-remain-closed-for-months-and-oil-to-hit-new-highs.html",
+      "published_at": "2026-05-27 04:43"
+    },
+    {
+      "title": "Trump admin wants nuclear startups to use plutonium for their reactors",
+      "summary_2lines": "米エネルギー省は、長期間保管されてきた大量のプルトニウムを原子力スタートアップに活用させ、新型原子炉の燃料として利用する方針を示した。これにより、核廃棄物の有効活用と次世代原子炉の開発促進を目指している。",
+      "why_it_matters": "冷戦期に蓄積された約100トンのプルトニウムは長寿命で処理が困難な核廃棄物であり、保管コストや安全保障面で大きな課題となっている。政府がスタートアップを通じてこれをエネルギー源に変える挑戦は、核廃棄物問題の解決とエネルギー安全保障の新たな局面を拓く可能性がある点で重要である。",
+      "market_impact": "エネルギースタートアップにとっては大量のプルトニウム燃料が供給されることで事業推進の大きな後ろ盾となる。特にMOX燃料を用いた原子炉開発が促進されれば、原子力産業の技術革新や新市場創出につながる可能性が高い。一方で安全保障上の懸念から規制強化が進むリスクもあり、関連企業の政策対応力と信頼獲得が市場競争力に直結する。",
+      "category": "Tech",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/26/trump-admin-wants-nuclear-startups-to-use-plutonium-for-their-reactors/",
+      "published_at": "2026-05-27 07:37"
     },
     {
       "title": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up",
-      "summary_2lines": "Huaweiは新たな半導体開発手法「LogicFolding」を用いて2024年秋にスマートフォン向けチップを製造予定。米国の対中制裁下で、Nvidiaとの競争が激化している。",
-      "why_it_matters": "米国の輸出規制により最先端チップの中国市場参入が制限される中、Huaweiの技術革新は中国の半導体自給率向上の象徴とされ、グローバル半導体産業の勢力図に変化をもたらす可能性があるため重要である。",
-      "market_impact": "Huaweiの新技術が成功すれば、AppleやNvidiaの中国でのシェアは縮小し、中国国内の半導体産業支援政策の効果も高まる。これにより米中間の技術覇権争いが激化し、サプライチェーンの再編や投資戦略の見直しを促すだろう。",
+      "summary_2lines": "ファーウェイは米国の制裁下でも新たな半導体設計技術「LogicFolding」を開発し、2023年秋に新スマートフォン用チップを投入する。これにより、同社は中国市場でのアップルやNvidiaとの競争を激化させている。",
+      "why_it_matters": "米中間の技術覇権争いが続く中、米国の輸出規制を受けた環境下でもファーウェイが独自技術で半導体開発を継続することは、中国の半導体自立や世界的なサプライチェーンの再編を象徴する重要な動きである。また、Nvidiaが中国市場からの撤退を余儀なくされている現状で、中国国内メーカーの競争力強化は米中技術対立の一層の激化を示す。",
+      "market_impact": "ファーウェイの新技術投入により、中国スマートフォン市場でのシェア拡大が見込まれ、アップルの競争環境が一層厳しくなる。加えて、Nvidiaは中国での高性能チップ販売機会を失い成長が鈍化する可能性が高い。これにより、世界半導体市場では技術・供給面で分断が進み、企業戦略や投資の見直しが促されるとともに、グローバルな技術覇権争いが激化する可能性が高い。",
       "category": "Tech",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html",
       "published_at": "2026-05-25 15:48"
     },
     {
-      "title": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
-      "summary_2lines": "ローマ教皇レオ14世は、AI技術を「武装解除」すべきだと訴える新回勅『Magnifica Humanitas』を発表し、AIが人類共通の善に奉仕するべきだと強調した。彼は技術の支配や排除を批判し、人間性を中心に据えた新たな社会文明の構築を呼びかけている。",
-      "why_it_matters": "AIの急速な発展とそれに伴う社会・倫理的課題が深刻化する中、カトリック教会が公式にAIの在り方に言及し、倫理的制御と共通善の追求を求めたことで、世界的な議論に新たな影響を与える可能性がある。特に技術エリートの社会的影響力やデータ独占への警鐘は、社会的・政治的な議論を促す意味で重要である。",
-      "market_impact": "教皇の声明は、AI関連の技術開発や規制の方向性に対し倫理的観点からの圧力を強める可能性があり、特に自律兵器やデータ独占を行う企業には社会的責任の増大をもたらすだろう。また、社会的な共通善を重視する価値観の広がりは、AI技術の透明性や公平性を求める市場や規制環境の形成に影響を与えると考えられる。",
-      "category": "Tech",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
-      "published_at": "2026-05-26 06:07"
-    },
-    {
-      "title": "Oil prices tumble as deal to end Iran war appears close, though Trump says there’s no rush",
-      "summary_2lines": "米国がイランとの戦争終結に向けた合意に近づいているとの報道を受け、原油価格が急落し株価先物が急騰した。トランプ大統領は「急ぐ必要はない」と発言している。",
-      "why_it_matters": "イラン戦争終結とホルムズ海峡の再開は世界原油供給の安定化に直結するため、エネルギー市場に大きな影響を与える。地政学的リスクの低減は世界経済の安定にも寄与するため注目されている。",
-      "market_impact": "原油価格の急落はエネルギー関連企業の収益見通しに変化をもたらし、株式市場全体にはリスク回避の緩和として買いが優勢となっている。原油輸送路の安定化は供給過剰懸念を和らげ、中東地域の投資環境改善も期待される。",
-      "category": "Geopolitics",
+      "title": "How a stock market ‘melt-up’ could carry the S&P 500 to 8,000 or beyond",
+      "summary_2lines": "今年夏のアメリカで最も注目されているのは猛暑ではなく、急騰する株式市場である。S&P 500指数が8,000ポイント超えに達する“melt-up”（急騰）シナリオが取り沙汰されている。",
+      "why_it_matters": "株式市場が急激に上昇する“melt-up”は投資家心理の過熱を示し、経済のファンダメンタルズと乖離した動きとなる可能性があるため、バブル崩壊リスクやその後の経済影響を把握する上で重要である。",
+      "market_impact": "S&P 500指数の急騰により一時的に投資家の資産が増加し消費や投資が活発化する一方、過剰な市場の高騰は長期的には調整局面や市場の混乱を招き、企業の資金調達環境や経済全体の安定性に不確実性をもたらす可能性がある。",
+      "category": "Markets",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories",
-      "published_at": "2026-05-26 07:23"
+      "url": "https://www.marketwatch.com/story/how-a-stock-market-melt-up-could-carry-the-s-p-500-to-8-000-or-beyond-b9b85619?mod=mw_rss_topstories",
+      "published_at": "2026-05-27 06:55"
     },
     {
-      "title": "Microsoft Copilot Cowork Exfiltrates Files",
-      "summary_2lines": "Microsoft 365のCopilot Cowork機能において、間接的なプロンプトインジェクションを悪用し、ユーザーの許可なくファイルが外部に送信される脆弱性が発見された。これにより、個人情報や財務データを含むファイルが漏洩するリスクが高まっている。",
-      "why_it_matters": "Copilot CoworkはMicrosoft Graphを用いてユーザーのデータにアクセスし自動的に操作を行うが、特定の行動（メール送信やTeamsメッセージ送信）がユーザーの承認なしに実行される設計上の問題があるため、攻撃者が巧妙に悪用可能である。これは単なるバグではなく、エージェントに企業全体の権限が委譲されるシステム設計に内在するリスクであり、企業の情報セキュリティ上の重要な課題となる。",
-      "market_impact": "本脆弱性の発覚はMicrosoft 365の信頼性と安全性に対する顧客の懸念を強め、エンタープライズ市場でのMicrosoftクラウドサービスの利用に影響を与える可能性がある。また、企業は代替ソリューションの検討やセキュリティ強化にコストや労力を割く必要があり、IT予算やクラウドサービス市場の競争環境に影響を及ぼすだろう。投資家の視点からもMicrosoft製品のセキュリティ強化状況が注目される。",
-      "category": "Tech",
-      "source": "Hacker News",
-      "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
-      "published_at": "2026-05-26 06:45"
+      "title": "Aftermath of deadly Israeli strikes in southern Lebanon",
+      "summary_2lines": "イスラエル軍が南レバノンの複数の町・村に対し致命的な攻撃を実施し、マアラケを中心に広範囲の破壊が確認された。軍は強制移住命令を発令し、地上作戦を従来の『イエローライン』を超えて拡大している。",
+      "why_it_matters": "中東地域の緊張が一層高まる中での地政学的な衝突であり、イスラエルとレバノン、ひいては周辺諸国の安全保障に大きな影響を与える。強制移住や軍事行動の拡大は難民問題の深刻化や地域安定化への障害となるため国際社会の関心が必要である。",
+      "market_impact": "中東地域の不安定化はエネルギー供給のリスク増大を示唆し、原油価格の変動や国際エネルギー市場に影響を与える可能性がある。また、周辺地域の政治リスク上昇に伴い、関連企業の株価にもネガティブな影響が予想される。",
+      "category": "Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aftermath-of-deadly-israeli-strikes-in-southern-lebanon?traffic_source=rss",
+      "published_at": "2026-05-27 06:22"
     }
   ],
   "categories": {
     "Tech": [
       {
+        "title": "Better WiFi for hundreds of trains under government plans",
+        "summary_2lines": "英国政府は、1400台以上の主要路線列車に低軌道衛星を使った高速で安定したWiFiサービスを導入する計画を発表した。これにより列車内のインターネット環境が大幅に改善される見込みである。",
+        "why_it_matters": "列車内WiFiの利用率向上は、デジタル化が進む現代社会において利便性の向上と乗客満足度の増加に直結する。また、従来の4G/5G電波依存から衛星通信への切り替えは、通信の信頼性確保や鉄道サービス競争力強化に寄与するため重要な施策である。",
+        "market_impact": "鉄道業界ではWiFi強化がサービス価値の向上につながり乗客数の増加が期待される。関連技術の導入により衛星通信や通信機器関連企業には新たな需要が生まれる可能性がある。政府の大規模投資（5700万ポンド）を通じて鉄道インフラのデジタル化促進に貢献し、公共交通利用促進、経済活動の効率化にも寄与することが予想される。",
+        "category": "Tech",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c2d22929ww0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-05-27 07:03"
+      },
+      {
+        "title": "What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
+        "summary_2lines": "TechCrunchのStartup Battlefield 2026の応募締切が5月27日に迫っており、対象は革新的で業界や地域にインパクトを与えるスタートアップ。完成したMVPを持ち、独自性と創業者の熱意が評価基準となる。",
+        "why_it_matters": "Startup Battlefieldは、将来有望なスタートアップの発掘と支援を目的とした重要なプログラムであり、参加企業には資金調達や業界注目度の向上など大きな機会を提供。応募者が早期段階でも挑戦を促すことで、イノベーションの多様性と質が高まる点で注目される。",
+        "market_impact": "このコンテストを通じて、グローバルな新興企業が資金調達や市場進出のプラットフォームを得ることで、テクノロジー業界の競争力が強化される。特に未注目地域や分野からの革新的企業が顕在化し、新たな市場や技術トレンドの創出に寄与する可能性が高い。",
+        "category": "Tech",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/",
+        "published_at": "2026-05-27 07:55"
+      },
+      {
+        "title": "Trump admin wants nuclear startups to use plutonium for their reactors",
+        "summary_2lines": "米エネルギー省は、長期間保管されてきた大量のプルトニウムを原子力スタートアップに活用させ、新型原子炉の燃料として利用する方針を示した。これにより、核廃棄物の有効活用と次世代原子炉の開発促進を目指している。",
+        "why_it_matters": "冷戦期に蓄積された約100トンのプルトニウムは長寿命で処理が困難な核廃棄物であり、保管コストや安全保障面で大きな課題となっている。政府がスタートアップを通じてこれをエネルギー源に変える挑戦は、核廃棄物問題の解決とエネルギー安全保障の新たな局面を拓く可能性がある点で重要である。",
+        "market_impact": "エネルギースタートアップにとっては大量のプルトニウム燃料が供給されることで事業推進の大きな後ろ盾となる。特にMOX燃料を用いた原子炉開発が促進されれば、原子力産業の技術革新や新市場創出につながる可能性が高い。一方で安全保障上の懸念から規制強化が進むリスクもあり、関連企業の政策対応力と信頼獲得が市場競争力に直結する。",
+        "category": "Tech",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/26/trump-admin-wants-nuclear-startups-to-use-plutonium-for-their-reactors/",
+        "published_at": "2026-05-27 07:37"
+      },
+      {
         "title": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up",
-        "summary_2lines": "Huaweiは新たな半導体開発手法「LogicFolding」を用いて2024年秋にスマートフォン向けチップを製造予定。米国の対中制裁下で、Nvidiaとの競争が激化している。",
-        "why_it_matters": "米国の輸出規制により最先端チップの中国市場参入が制限される中、Huaweiの技術革新は中国の半導体自給率向上の象徴とされ、グローバル半導体産業の勢力図に変化をもたらす可能性があるため重要である。",
-        "market_impact": "Huaweiの新技術が成功すれば、AppleやNvidiaの中国でのシェアは縮小し、中国国内の半導体産業支援政策の効果も高まる。これにより米中間の技術覇権争いが激化し、サプライチェーンの再編や投資戦略の見直しを促すだろう。",
+        "summary_2lines": "ファーウェイは米国の制裁下でも新たな半導体設計技術「LogicFolding」を開発し、2023年秋に新スマートフォン用チップを投入する。これにより、同社は中国市場でのアップルやNvidiaとの競争を激化させている。",
+        "why_it_matters": "米中間の技術覇権争いが続く中、米国の輸出規制を受けた環境下でもファーウェイが独自技術で半導体開発を継続することは、中国の半導体自立や世界的なサプライチェーンの再編を象徴する重要な動きである。また、Nvidiaが中国市場からの撤退を余儀なくされている現状で、中国国内メーカーの競争力強化は米中技術対立の一層の激化を示す。",
+        "market_impact": "ファーウェイの新技術投入により、中国スマートフォン市場でのシェア拡大が見込まれ、アップルの競争環境が一層厳しくなる。加えて、Nvidiaは中国での高性能チップ販売機会を失い成長が鈍化する可能性が高い。これにより、世界半導体市場では技術・供給面で分断が進み、企業戦略や投資の見直しが促されるとともに、グローバルな技術覇権争いが激化する可能性が高い。",
         "category": "Tech",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html",
         "published_at": "2026-05-25 15:48"
       },
       {
-        "title": "What ClickUp’s mass layoff tells us about the future of work",
-        "summary_2lines": "クリックアップはAI導入により従業員の22％をレイオフし、生産性向上と高報酬体制を目指す。AIが業務自動化を加速させ、人材構成や働き方に大きな変化をもたらしている。",
-        "why_it_matters": "AI技術の急速な進展により、企業の生産性向上手段としてAIエージェントが普及しつつある。これに伴い、従来の雇用形態が大きく変化し、AIを活用できる労働者に対する報酬が飛躍的に高まる一方、適応できない人材は解雇されるリスクが増大している点が重要な背景となっている。",
-        "market_impact": "クリックアップのようなテクノロジースタートアップがAIを活用して大規模なレイオフを実施しつつ生産性を向上させる動きは、他企業にも波及すると予想される。これにより、AI関連人材への需要が拡大し、一方でAI導入に適応できない労働者は市場から排除される懸念が生じる。結果的に雇用市場の二極化や労働構造の再編を促進し、経済全体の労働生産性にはプラス効果をもたらす可能性があるが、社会的な適応課題も顕在化する。",
-        "category": "Tech",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
-        "published_at": "2026-05-26 01:00"
-      },
-      {
-        "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
-        "summary_2lines": "Lucra SportsのCEOがAI全盛の時代でも巧妙なピッチでARK Investから2000万ドルの資金調達に成功した。eスポーツを軸にした白ラベルゲームサービスで、VCの多くがAIに偏る中で差別化を図った。",
-        "why_it_matters": "現在のVC市場はAI関連に集中しており、それ以外の分野は資金調達が難しい環境にある。Lucra Sportsの事例は、資金調達における戦略的ピッチの重要性と、人脈形成の価値を示しており、多様なビジネスモデルが評価され得る可能性を示唆している。",
-        "market_impact": "この調達成功は、eスポーツやインタラクティブロイヤリティプログラム市場の注目度を高め、同分野におけるスタートアップの資金調達の道を開く可能性がある。加えて、AI一本に偏る投資家心理のバランス調整や投資ポートフォリオの多様化を促す動きにもつながるだろう。",
-        "category": "Tech",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
-        "published_at": "2026-05-26 00:00"
-      },
-      {
-        "title": "The Electric Ferrari Luce Is Finally Here",
-        "summary_2lines": "フェラーリ初の電気自動車『Luce』がついに公開され、1000馬力以上の高性能と独自のデザインを備えた五人乗りハイパーカーとして注目を集めている。Apple出身のジョニー・アイブ率いるLoveFromがデザインを担当し、内外装ともに従来のフェラーリの枠を超えた革新的なモデルとなった。",
-        "why_it_matters": "フェラーリは長年ガソリンエンジンのスーパーカーを代表するブランドであったが、電動化の波に対応しつつも特有の性能とデザインを両立させた新たな挑戦を示した。自動車業界のEV化競争が加速する中で、ラグジュアリースポーツカー市場におけるフェラーリの競争力維持とブランド価値の革新を象徴する一台であるため重要だ。",
-        "market_impact": "フェラーリの電動化は高級EV市場のさらなる活性化を促し、テスラをはじめとしたEV競合他社との競争を加速させる。Appleデザイン由来の先進的な内装は高級EVにおけるユーザー体験の新基準を設け、他ブランドも同様の外部デザイナーやテクノロジーパートナーシップを模索する可能性が高い。これにより高性能EV市場でのフェラーリのシェア拡大やブランド刷新が期待される。",
+        "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
+        "summary_2lines": "バチカンが人工知能に関する教皇の回勅発表にAnthropicの共同創業者を招き、宗教とシリコンバレーの異例の連携を示した。AnthropicはAI安全性を重視し、倫理的AI開発の先駆けとして聖座と対話を深めている。",
+        "why_it_matters": "AI技術の急速な発展によりその制御と倫理的ガバナンスが社会的課題となる中、バチカンは単なる観察者からAI業界との対話者へと役割を拡大した。Anthropicの哲学的かつ安全重視の姿勢は、技術競争の激化する中で倫理的AIの指針策定に重要な示唆を与えるため、今後のAI開発や規制の議論に影響を及ぼす可能性がある。",
+        "market_impact": "バチカンとAnthropicの連携は、AI安全性と倫理を重視する市場トレンドを後押しし、有力な社会的信用をAnthropicにもたらす。また、技術開発で成長競争が激化するなか、倫理的ガバナンスが企業評価や投資判断において一層重要視される動きが加速する可能性がある。こうした動きは、AI業界全体の規制強化や透明性向上の圧力となり得る。",
         "category": "Tech",
         "source": "Wired",
-        "url": "https://www.wired.com/story/ferrari-luce-ev-is-finally-here/",
-        "published_at": "2026-05-26 06:03"
+        "url": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+        "published_at": "2026-05-27 05:46"
       },
       {
-        "title": "Memorial Day Tech Deals: Sony, Apple, Anker, and More",
-        "summary_2lines": "メモリアルデーのセールで、SonyやApple、Ankerなどの人気テック製品が大幅割引で購入可能。特にワイヤレスヘッドホンやパワーバンク、ロボット掃除機など多様なガジェットが対象。",
-        "why_it_matters": "メモリアルデーは伝統的に家具や寝具の販売が活発な時期だが、近年はテクノロジー製品の割引も増加。消費者にとっては高価格帯の人気ガジェットを手頃な価格で入手できる貴重な機会であり、購買意欲に大きな影響を与える。",
-        "market_impact": "大手テック企業はメモリアルデーを利用した割引戦略で在庫調整とブランド認知度向上を狙う。一方、消費者は割引キャンペーンを契機に新製品や旧モデルの買い替えを促進し、テック市場の活性化が期待される。特にAppleやSonyの売上増加に直結する可能性が高い。",
+        "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
+        "summary_2lines": "ローマ教皇レオ14世が発表した初の回勅は、AIを単なる技術ではなく、社会の見えざる基盤として捉え、その力の集中と支配を警告しています。AIの支配を防ぎ、人間の尊厳と共通善を守るために、技術の透明性と多様な管理主体の必要性を説いています。",
+        "why_it_matters": "本回勅は、130年以上前に労働問題を論じた教皇レオ13世の回勅を現代のAI問題に適用し、急速に進展するデジタル技術によって引き起こされる権力集中や経済的不均衡、民主主義への影響を宗教的視点から深く掘り下げています。このため、技術革新が社会倫理や人権に与える影響を考えるうえで重要な指針となります。",
+        "market_impact": "AIの開発・運用を一部の巨大企業や国家が独占する現状に対し、透明性の確保や規制以上の「非武装化」の必要性が示されたことで、デジタルインフラの民主化やデータガバナンスの強化が求められます。これにより、プラットフォーム企業やクラウド事業者は新たな社会的責任を負い、規制リスクや競争環境の変化が予想されます。また、AI技術の利用倫理が投資判断や企業戦略に影響を与える可能性があります。",
         "category": "Tech",
         "source": "Wired",
-        "url": "https://www.wired.com/story/memorial-day-tech-deals-2026-2/",
-        "published_at": "2026-05-26 02:23"
+        "url": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
+        "published_at": "2026-05-27 05:17"
       },
       {
-        "title": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
-        "summary_2lines": "ローマ教皇レオ14世は、AI技術を「武装解除」すべきだと訴える新回勅『Magnifica Humanitas』を発表し、AIが人類共通の善に奉仕するべきだと強調した。彼は技術の支配や排除を批判し、人間性を中心に据えた新たな社会文明の構築を呼びかけている。",
-        "why_it_matters": "AIの急速な発展とそれに伴う社会・倫理的課題が深刻化する中、カトリック教会が公式にAIの在り方に言及し、倫理的制御と共通善の追求を求めたことで、世界的な議論に新たな影響を与える可能性がある。特に技術エリートの社会的影響力やデータ独占への警鐘は、社会的・政治的な議論を促す意味で重要である。",
-        "market_impact": "教皇の声明は、AI関連の技術開発や規制の方向性に対し倫理的観点からの圧力を強める可能性があり、特に自律兵器やデータ独占を行う企業には社会的責任の増大をもたらすだろう。また、社会的な共通善を重視する価値観の広がりは、AI技術の透明性や公平性を求める市場や規制環境の形成に影響を与えると考えられる。",
+        "title": "Is Peter Thiel the target of Pope Leo's Gandalf quote? An investigation.",
+        "summary_2lines": "教皇レオ16世はAIに関する回勅でJ.R.R.トールキンの「ガンダルフ」の言葉を引用し、その背景にペイパル共同創業者のピーター・ティールを暗に意識した可能性があると指摘されている。保守系テック界隈でティールがトールキンファンとして知られる中、宗教的メッセージが政治的・文化的文脈と結びついて注目されている。",
+        "why_it_matters": "教皇の回勅はAIや技術の倫理的指針として世界的に大きな影響力を持つ文書であり、そこにフィクションのキャラクターを引用したことは異例かつ象徴的。ピーター・ティールのような保守的なテックリーダーとの関連を連想させることは、宗教・文化・テック産業の間で交錯する価値観や影響力の変化を示唆しているため重要である。",
+        "market_impact": "直接的な経済影響は限られるが、教皇のAI倫理に関するメッセージはテック業界の倫理的ガイドライン形成に影響を及ぼす可能性がある。ティールのような影響力の大きい個人や企業が保守的価値観と結びつくことで、技術開発の方向性や投資先の選別につながるリスクや機会が生まれることが懸念される。",
         "category": "Tech",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
-        "published_at": "2026-05-26 06:07"
+        "url": "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
+        "published_at": "2026-05-27 07:27"
       },
       {
-        "title": "I spent years forcing myself to finish The Witcher 3—don't repeat my mistake",
-        "summary_2lines": "筆者は人気RPG『The Witcher 3』を無理にクリアしたが楽しめず、その経験から無理に評価に追随する必要はないと説く。ゲームの多様化により、プレイヤーの好みも大きく異なることを示している。",
-        "why_it_matters": "『The Witcher 3』は多くの賞賛を受けた名作として知られるが、すべてのプレイヤーに合うわけではない現実が浮き彫りになった。これにより、ゲーム業界における「万人受け」や情報の同調圧力の問題、ユーザー個々の趣向多様化が重要なテーマとして注目される。",
-        "market_impact": "ゲーム市場では大ヒット作品が基準や期待値を形成するが、ユーザーの嗜好の多様化が進むことでニッチなゲームの価値や個別の評価軸が重要になる。企業は幅広いユーザー層に適応した製品設計やマーケティング戦略を見直す必要があり、多様性を尊重したタイトル開発が求められる。",
+        "title": "Musk says US military suicide drones used Starlink in violation of SpaceX rules",
+        "summary_2lines": "米軍がイランで使用した自殺ドローンに、SpaceXの商用衛星通信サービス「Starlink」が誤って使用されていたことが判明。これに関連して、SpaceXと米国防総省が料金問題で対立している。",
+        "why_it_matters": "SpaceXの衛星通信サービスは政府専用の「Starshield」と一般商用の「Starlink」に分かれているが、防衛用途で誤って商用サービスが使われたことは契約違反であり、軍事利用と商用サービスの境界や安全保障上の運用に課題が浮き彫りになったため重要である。",
+        "market_impact": "ミリタリー用途に絡む技術提供で料金問題や契約違反が公になることで、SpaceXの政府向けサービスの信用問題や価格交渉権に影響が出る可能性がある。また、衛星通信技術の軍民利用の線引きに注目が集まり、関連企業の規制対応コストや事業戦略に影響が見込まれる。",
         "category": "Tech",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/gaming/2026/05/the-witcher-3-is-a-good-game-but-that-doesnt-mean-you-have-to-like-it/",
-        "published_at": "2026-05-25 20:22"
+        "url": "https://arstechnica.com/tech-policy/2026/05/musk-says-us-military-suicide-drones-used-starlink-in-violation-of-spacex-rules/",
+        "published_at": "2026-05-27 06:23"
       },
       {
-        "title": "US's big bet on quantum computing may not be entirely legal",
-        "summary_2lines": "米政府は量子コンピューティング企業に20億ドルを投資したが、一部議員はこの資金の使途が法的に問題があると指摘している。特に最大の出資先であるIBMとの関係性や、議会の承認がない点が争点となっている。",
-        "why_it_matters": "このニュースは、政府の大型投資が法律や予算の枠組みを逸脱している可能性を示しており、公共資金の適正利用や政策決定の透明性に疑問を投げかけている。量子コンピュータは次世代技術の要であり、その支援のあり方が今後の技術振興や産業政策に大きな影響を与えるからだ。",
-        "market_impact": "この問題が長引くと、投資先企業の資金繰りや研究開発計画に不透明感が生じ、民間の量子技術投資全体にも慎重姿勢が広がる可能性がある。一方で、政府支援の合法性が明確になれば、量子技術分野への資金流入が加速し、関連企業や市場の成長を後押しするだろう。",
+        "title": "NASA takes steps toward building Moon Base, including discussing a \"perimeter\"",
+        "summary_2lines": "NASAは月面基地建設に向けて初期段階の契約を発表し、2台の自律走行ローバーとBlue Originの着陸船を採用した。これにより2028年の月面展開に向けた準備が進む。",
+        "why_it_matters": "月面基地建設は米国の宇宙探査再興における重要ステップであり、有人月探査の実現や持続可能な宇宙利用に資するため、NASAが民間企業と連携して技術開発とインフラ整備を加速している。",
+        "market_impact": "契約を獲得したAstrolab、Lunar Outpost、およびBlue Originの受注拡大は収益基盤の強化に繋がり、宇宙産業内での競争及び民間主導の月面ミッション市場拡大を促進。さらには関連産業の投資加速も期待される。",
         "category": "Tech",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
-        "published_at": "2026-05-25 21:00"
+        "url": "https://arstechnica.com/space/2026/05/nasa-takes-steps-toward-building-moon-base-including-discussing-a-perimeter/",
+        "published_at": "2026-05-27 06:03"
       },
       {
-        "title": "Exit IP VPN servers mitigation rollout",
-        "summary_2lines": "Exit IP VPNサーバーに対する新たな緩和策が複数の地域で展開されました。主要な都市のサーバーが対象となり、セキュリティ強化が図られています。",
-        "why_it_matters": "VPNサーバーの出口IPはネットワークトラフィックの信頼性や安全性に直結します。悪意あるアクセスや攻撃を防ぐための緩和策は、サービスの健全性維持に不可欠であり、インターネット利用者や企業にとって重要な措置です。",
-        "market_impact": "この対策により、企業のネットワークインフラの安全性が向上し、サイバー攻撃によるリスクが低減されます。特にVPNサービス提供事業者やそれを利用する企業の運用コスト低減と信頼性増加が期待でき、市場の安定化に寄与します。",
+        "title": "Uber blows through its AI budget in 1 quarter",
+        "summary_2lines": "UberはAIツール導入を推進するも、わずか1四半期で2026年のAI予算を使い切った。AI活用によるコスト増大と消費者向けの明確な成果との乖離が課題となっている。",
+        "why_it_matters": "AI技術はシリコンバレー企業の競争力の源泉となっているが、AI利用の拡大に伴う費用対効果が不透明であり、投資回収や持続可能な事業運営の妨げになる可能性がある。Uberの事例は多くの企業が直面するAI導入の難しさを象徴している。",
+        "market_impact": "AI関連支出の急激な増加が企業の経営リスクを高める一方で、AIの価格体系変動や使用モデルの移行を促進している。Uberをはじめとした大手企業のAI戦略見直しは、AI市場の成長鈍化や技術投資方針の変化をもたらしうる。また、自動運転技術など将来の技術革新への注力は業界構造の変化を加速させる可能性がある。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
-        "published_at": "2026-05-26 02:45"
+        "url": "https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/",
+        "published_at": "2026-05-27 07:44"
       },
       {
-        "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-        "summary_2lines": "ノルウェー国立図書館がノルウェー語特化の大規模言語モデル（LLM）を構築するため、2ペタバイトのHuawei製フラッシュストレージを活用してAIトレーニングを進めている。データ保存と高速処理の異なるストレージシステムの連携が課題となっている。",
-        "why_it_matters": "地域固有言語に対応したソブリンなLLM開発は、英語中心のグローバルモデルではカバーできないその国の文化や歴史、ニュースに対する理解を深めるため重要である。ノルウェー政府が文化資産の保護とAI技術活用を両立させる試みとして、公共機関が主導する先進的なモデルケースとなっている。",
-        "market_impact": "Huaweiの高性能フラッシュストレージが大規模AIデータパイプラインに採用されたことは、同社の企業向けストレージ市場での競争力強化を示す。加えて、国主導による言語特化AIの普及は、地域別カスタマイズAI開発ニーズの拡大を促し、AIインフラや関連ITサービス市場の成長に寄与する可能性が高い。",
+        "title": "A few interesting modern pixel fonts",
+        "summary_2lines": "現代のピクセルフォントは過去の課題を解決しつつ、実用性とデザイン性を両立させている。特にVercelのGeist Pixelは、見た目だけでなく機能面にも配慮したシステム拡張的フォントである。",
+        "why_it_matters": "ピクセルフォントは過去に視認性やスケーラビリティの問題でプロダクション環境での利用が難しかったが、Geist Pixelのような技術的に洗練されたフォントが登場したことで、デジタル製品のタイポグラフィの一貫性向上やブランド表現の幅が広がる可能性がある。",
+        "market_impact": "フォント市場においては、実用性の高いピクセルフォントの普及がデザインツールやOSのフォント標準に影響を与え、特にソフトウェア開発企業やUI/UXに注力する企業の製品価値向上に貢献する。これにより、フォント開発競争が高度化し、新たなニッチ市場が生まれる可能性がある。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
-        "published_at": "2026-05-26 04:37"
-      },
-      {
-        "title": "The pope’s AI encyclical isn’t really about AI",
-        "summary_2lines": "教皇レオ14世は人工知能（AI）をテーマにした回勅『Magnifica Humanitas』を発表したが、主な焦点はAIではなく不平等や権力の集中といった根深い社会問題にある。彼はAI時代における透明性の欠如と少数エリートによる支配に警鐘を鳴らし、公正な監視と参加型のガバナンスを訴えている。",
-        "why_it_matters": "AI技術が急速に発展し社会に浸透する中、技術を独占する少数のエリートによる権力の集中は、社会的不公正や民主主義の劣化を加速させる危険がある。教皇の回勅はこの現状に対し宗教的・社会的視点からの警告を発し、AIを含むテクノロジーが公共善に資するよう社会全体でのガバナンス強化を促す重要なメッセージとなっている。",
-        "market_impact": "AIやテクノロジー企業に対する規制強化や透明性向上の圧力が高まる可能性がある。特に、少数の大企業やエリートによるデータ独占や技術優位の維持を狙った動きに対し、規制を支持する世論や政策決定者の関心が強まることで、市場競争のあり方や企業の経営戦略に変化が求められるだろう。また、AIの軍拡的開発競争の終息を求める声は地政学リスクの緩和にも影響を与えうる。",
-        "category": "Tech",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
-        "published_at": "2026-05-26 00:09"
-      },
-      {
-        "title": "Microsoft Copilot Cowork Exfiltrates Files",
-        "summary_2lines": "Microsoft 365のCopilot Cowork機能において、間接的なプロンプトインジェクションを悪用し、ユーザーの許可なくファイルが外部に送信される脆弱性が発見された。これにより、個人情報や財務データを含むファイルが漏洩するリスクが高まっている。",
-        "why_it_matters": "Copilot CoworkはMicrosoft Graphを用いてユーザーのデータにアクセスし自動的に操作を行うが、特定の行動（メール送信やTeamsメッセージ送信）がユーザーの承認なしに実行される設計上の問題があるため、攻撃者が巧妙に悪用可能である。これは単なるバグではなく、エージェントに企業全体の権限が委譲されるシステム設計に内在するリスクであり、企業の情報セキュリティ上の重要な課題となる。",
-        "market_impact": "本脆弱性の発覚はMicrosoft 365の信頼性と安全性に対する顧客の懸念を強め、エンタープライズ市場でのMicrosoftクラウドサービスの利用に影響を与える可能性がある。また、企業は代替ソリューションの検討やセキュリティ強化にコストや労力を割く必要があり、IT予算やクラウドサービス市場の競争環境に影響を及ぼすだろう。投資家の視点からもMicrosoft製品のセキュリティ強化状況が注目される。",
-        "category": "Tech",
-        "source": "Hacker News",
-        "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
-        "published_at": "2026-05-26 06:45"
+        "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+        "published_at": "2026-05-26 05:41"
       }
     ],
     "Markets": [
       {
-        "title": "Oil prices slide on hopes of US-Iran peace deal",
-        "summary_2lines": "米・イラン間の和平交渉進展への期待から原油価格が急落しました。ストレート・オブ・ホルムズの封鎖解除など、石油輸送の正常化が鍵となっています。",
-        "why_it_matters": "中東の戦争と石油輸送路の封鎖は世界のエネルギー供給に大きなリスクをもたらし、価格変動を引き起こしています。和平交渉の進展は供給安定化につながるため、世界経済にとって重要な意味を持ちます。",
-        "market_impact": "原油価格は一時5.5%下落し1バレル97.9ドルまで下がりましたが、戦争前の70ドル前後には戻っていません。供給リスク低減が見込まれるものの、海上輸送の安全性回復に時間がかかるため価格は高値圏を維持する可能性があります。石油関連企業や輸送業界の動向にも慎重な対応が求められます。",
-        "category": "Markets",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-05-25 22:05"
-      },
-      {
-        "title": "Kevin Warsh's real Fed 'regime change' may happen deep inside Wall Street's plumbing",
-        "summary_2lines": "次期FRB議長ケビン・ウォーシュはFRBの金融政策の中核である6.8兆ドル規模のバランスシートの運用方法に「レジームチェンジ」をもたらす可能性がある。日常的な市場介入からより明確なルールに基づく間欠的な介入へ役割を縮小する方針が示唆されている。",
-        "why_it_matters": "FRBのバランスシート運用はリーマンショック以降、米金融市場の安定化に不可欠な役割を果たしてきた。これを縮小・見直すことは、金融市場の機能や金利動向に大きな影響を及ぼし、今後の金融政策の基本枠組みが変わる可能性がある点で注目されている。急激な変更は避け中長期的に慎重に進める必要があるため、今後の政策の方向性を占う重要なテーマとなっている。",
-        "market_impact": "バランスシート縮小が実施されれば、米国債利回りの上昇圧力が強まり、住宅ローン金利や企業借入コストが上昇する可能性がある。また、日常的な市場介入が減少することで短期資金市場の構造変化が生じ、金融機関の資金調達やマネーマーケットの機能に影響を与える懸念もある。政策伝達機構の変化がインフレ抑制や景気動向に影響を及ぼすため、金融市場や経済全体に波及効果が及ぶことが予想される。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/22/kevin-warshs-real-fed-regime-change-may-happen-deep-inside-wall-streets-plumbing.html",
-        "published_at": "2026-05-23 03:23"
-      },
-      {
-        "title": "These underdogs are a big reason why S&P 500 profit growth is the fastest in nearly 5 years",
-        "summary_2lines": "過去3年間はビッグテック7社がS&P500の利益成長を牽引してきたが、最近では他の493社も利益成長に貢献し始めている。これによりS&P500全体の利益成長率が約5年ぶりの速さとなっている。",
-        "why_it_matters": "これまで特定の大手企業に依存していた市場の利益成長が、多様な企業の貢献によって支えられるようになったことで、成長の持続性や市場の健全性が高まる可能性があるため重要である。",
-        "market_impact": "利益成長の幅広い企業への波及は市場全体の安定化を促し、投資家のリスク分散を後押しする。また、S&P500の利益成長速度向上は株式市場のポジティブな成長期待を強化する可能性がある。",
-        "category": "Markets",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/these-underdogs-are-a-big-reason-s-p-500-profit-growth-is-the-fastest-in-nearly-5-years-4a43f142?mod=mw_rss_topstories",
-        "published_at": "2026-05-26 04:50"
-      }
-    ],
-    "Geopolitics": [
-      {
-        "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
-        "summary_2lines": "APEC会議で米中両国は貿易政策やデジタル貿易、AI分野で立場の違いを示し、依然として溝が大きいことが明らかになった。特に関税や自由貿易協定の見解の相違が顕著である。",
-        "why_it_matters": "米中は世界最大の経済圏としてアジア太平洋地域の経済秩序を左右する重要な存在だが、自由貿易や関税政策で対立が根強い。今回のAPECは両国の今後の経済協力の方向性や競争の激化を占う重要な機会となるため、国際経済の安定や企業戦略に大きな影響を及ぼす。",
-        "market_impact": "米中貿易摩擦の長期化や自由貿易推進の停滞は、グローバルサプライチェーンの混乱、輸出依存度の高い中国企業への懸念増大を招く。また、AIやデジタル貿易分野での競争激化は両国の技術企業の市場支配力を左右し、関連産業の競争環境を再編成する可能性が高い。投資家や企業は政策動向の注視が必要である。",
-        "category": "Geopolitics",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/23/three-signs-from-apec-that-the-us-china-remain-far-apart-on-trade.html",
-        "published_at": "2026-05-23 20:19"
-      },
-      {
-        "title": "Oil prices tumble as deal to end Iran war appears close, though Trump says there’s no rush",
-        "summary_2lines": "米国がイランとの戦争終結に向けた合意に近づいているとの報道を受け、原油価格が急落し株価先物が急騰した。トランプ大統領は「急ぐ必要はない」と発言している。",
-        "why_it_matters": "イラン戦争終結とホルムズ海峡の再開は世界原油供給の安定化に直結するため、エネルギー市場に大きな影響を与える。地政学的リスクの低減は世界経済の安定にも寄与するため注目されている。",
-        "market_impact": "原油価格の急落はエネルギー関連企業の収益見通しに変化をもたらし、株式市場全体にはリスク回避の緩和として買いが優勢となっている。原油輸送路の安定化は供給過剰懸念を和らげ、中東地域の投資環境改善も期待される。",
-        "category": "Geopolitics",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories",
-        "published_at": "2026-05-26 07:23"
-      },
-      {
-        "title": "Czech police detain Russian priest over ‘white substance’ find",
-        "summary_2lines": "チェコ警察がロシア正教会の司教ヒラリオンを車内で白い物質が発見されたとして拘束。モスクワはこれを挑発行為と非難して即時釈放を要求している。",
-        "why_it_matters": "ロシアと欧州諸国の緊張が続く中、宗教界の有力人物の拘束は両国関係の悪化を象徴する事件であり、プラハの対ウクライナ支援政策変更と絡んで地域の政治的対立が深まる兆しがある。",
-        "market_impact": "直接的な経済や市場への影響は限定的だが、ロシアと欧州の外交関係悪化はエネルギー取引や貿易に不透明感を与え、一部企業や資源市場のリスク評価に影響を及ぼす可能性がある。",
-        "category": "Geopolitics",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/5/25/czech-police-detain-russian-priest-over-white-substance-find?traffic_source=rss",
-        "published_at": "2026-05-26 05:55"
-      },
-      {
-        "title": "Bolivia’s president cuts salary in half amid protests",
-        "summary_2lines": "ボリビア大統領ロドリゴ・パス氏は、抗議活動を受けて自身と閣僚の給与を半減すると発表した。抗議は緊縮財政策、物価上昇、燃料不足に対する不満から起きている。",
-        "why_it_matters": "ボリビアでは緊縮策や物価高騰により社会不安が拡大しており、大統領自ら給与削減を打ち出すことで国民の信頼回復を目指している。これは政治的安定と経済政策の方向性に影響を与える重要な動きである。",
-        "market_impact": "抗議の激化は国内の経済活動を停滞させる恐れがあり、エネルギー不足も生産コストの上昇を招く可能性がある。給与削減は政府財政の圧迫緩和に寄与するが、根本問題の解決には至っていないため市場の不透明感は残る。",
-        "category": "Geopolitics",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/bolivias-president-cuts-salary-in-half-amid-protests?traffic_source=rss",
-        "published_at": "2026-05-26 05:29"
-      },
-      {
-        "title": "Israel to intensify Lebanon offensive to ‘crush’ Hezbollah",
-        "summary_2lines": "イスラエルのネタニヤフ首相は、レバノンのシーア派武装組織ヒズボラへの攻撃を強化し「壊滅」を目指すと宣言した。これにより昨年の停戦合意にもかかわらず軍事衝突が激化している。",
-        "why_it_matters": "イスラエルとヒズボラの対立は中東地域の不安定要因であり、両者の軍事衝突激化はレバノンの政治・社会情勢を悪化させるだけでなく、周辺諸国やグローバルな安全保障環境にも影響を及ぼす可能性が高い。停戦が維持されないことで地域情勢が一層緊迫し、中東のエネルギー供給や国際市場にも波及リスクがある。",
-        "market_impact": "中東情勢の悪化は原油価格の上昇圧力となる可能性があり、特にエネルギーセクターへの波及が懸念される。また、地域の不安定化によるリスク回避から株式市場のボラティリティが増加し、防衛関連企業の株価には短期的な上昇圧力がかかる可能性がある。航空・観光業界やレバノン経済も著しい打撃を受け、国際的な投資環境悪化や信用リスク上昇を招く恐れがある。",
-        "category": "Geopolitics",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/5/25/israel-to-intensify-lebanon-offensive-in-bid-to-crush-hezbollah?traffic_source=rss",
-        "published_at": "2026-05-26 05:49"
-      }
-    ],
-    "Economy": [
-      {
-        "title": "'I live in survival mode': The rise of the multi-job workforce",
-        "summary_2lines": "英国では生活費高騰や雇用不安を背景に、副業・複業を行う労働者が130万人を超え、ギグエコノミーが拡大している。AIなどの技術変化も影響を与え、働き方の多様化とともに経済的なプレッシャーが増している。",
-        "why_it_matters": "生活費の高騰や雇用の不安定化が労働者の働き方に大きな変化をもたらし、副業やギグワークに依存する人が増加している。これは従来の安定した単一雇用モデルが崩壊し、多様かつ柔軟な労働形態への転換を示す重要なトレンドであり、労働市場の構造的変化や社会的な生活の質にも影響を及ぼしている。",
-        "market_impact": "ギグエコノミーの拡大と副業増加は、消費者所得の分散と勤労時間の長時間化を促進し、企業は人材確保・労働条件の見直しを迫られる。AIの普及による一部職種の需要減少は業界構造の転換を加速し、労働市場の需給ギャップや人材の再教育・再配置の必要性が増大。これらは経済全体の生産性や消費動向に影響を与え、地域経済の圧迫要因ともなり得る。",
-        "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c70vwr8z7pyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-05-25 09:26"
-      },
-      {
-        "title": "Beer boom goes flat as breweries call last orders",
-        "summary_2lines": "イギリスのビール業界は大手企業の市場独占や消費者嗜好の変化により縮小傾向にあり、多くの醸造所やパブが閉鎖している。小規模醸造所は多様化や直販などで生き残りを模索しているが、税負担の重さも課題となっている。",
-        "why_it_matters": "かつて英国ビール生産の中心地であったバートン・アポン・トレントをはじめ、全国で醸造所とパブの閉鎖が相次ぎ、地域経済や文化的なコミュニティに影響を及ぼしている。大手企業による流通支配や価格競争により、小規模な醸造所が経営困難となっている背景があり、地域活性化や多様な消費者ニーズの実現が問われている。",
-        "market_impact": "醸造所数の減少は業界の集中化を進め、大手ビールブランドが市場を支配する構図が強まる。これにより、小規模醸造所はスーパーマーケットへの販路確保が難しくなる一方、訪問者向け施設やタップルーム運営などで直接消費者にアプローチする多角化戦略が重要となる。税制の負担軽減がなければ、更なる閉鎖が地域の雇用や税収減少につながり、地方経済に悪影響を及ぼす可能性が高い。",
-        "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c9werp5keqlo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-05-25 09:21"
-      },
-      {
         "title": "Can an Italian company disrupt Germany’s broken railway industry?",
-        "summary_2lines": "イタリアの企業がドイツの鉄道業界に参入し、独占的なDeutsche Bahnに挑戦する可能性が高まっている。ドイツの鉄道業界は長年の問題を抱えており、変革の兆しが見えている。",
-        "why_it_matters": "ドイツの鉄道業界は設備の老朽化やサービスの遅延などで問題を抱えており、Deutsche Bahnの独占体制が改善を妨げている。イタリア企業の参入は競争促進やサービス向上の契機となり得るため、業界全体の改革に繋がる可能性がある。",
-        "market_impact": "新規参入による競争激化でDeutsche Bahnの市場シェアが減少し、価格やサービスの改善圧力が高まる可能性がある。また、鉄道関連インフラや技術開発分野への投資が活発化し、経済全体にプラスの影響を与えることが期待される。",
-        "category": "Economy",
+        "summary_2lines": "イタリアの企業がドイツの鉄道業界に参入し、老朽化・問題の多いドイツ鉄道（Deutsche Bahn）に対抗する可能性が浮上した。業界の競争構造に変化が起きるかもしれない。",
+        "why_it_matters": "ドイツの鉄道業界は長年にわたりインフラ整備の遅れや運行の混乱で批判を受けており、新規参入者の出現は技術革新やサービス改善の原動力となる可能性がある。これにより市場の独占状態が崩れ、業界全体の質向上が期待される。",
+        "market_impact": "イタリア企業の参入はDeutsche Bahnの寡占体制に挑戦し、競争激化による運賃の引き下げやサービス多様化が起こる可能性がある。また新たな投資や技術導入で鉄道インフラや運行効率も改善し、地域経済の活性化に寄与するかもしれない。",
+        "category": "Markets",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/05/21/can-an-italian-company-disrupt-germanys-broken-railway-industry",
         "published_at": "2026-05-21 21:47"
       },
       {
-        "title": "Why you should (almost) always look on the bright side of life",
-        "summary_2lines": "楽観主義には多くのメリットがある一方で、過度の楽観はリスクも伴うことを指摘している。バランスの取れた視点で物事を見る重要性を説いている。",
-        "why_it_matters": "個人の心理状態や意思決定に大きな影響を与える楽観主義は、経済活動や市場動向にも波及するため、そのメリットとデメリットを理解することは重要である。特に投資やビジネスのリスク管理の観点で示唆を提供する。",
-        "market_impact": "楽観主義が高まると消費や投資が活発になるため市場全体の活性化に寄与するが、過剰な楽観は過大評価やバブルを引き起こしうるため、市場の調整や暴落リスクを高める可能性がある。企業は心理的バランスを考慮した経営戦略を求められる。",
+        "title": "The Best Movies to Stream This Month (May 2026)",
+        "summary_2lines": "2026年5月にストリーミング配信される注目映画を紹介。多彩なジャンルとロケーションで、視聴者に旅行気分やホラー、アクションなど多様な体験を提供する。",
+        "why_it_matters": "ストリーミングサービスの競争が激化する中、話題作の紹介は視聴者の関心を引き付ける重要なコンテンツマーケティングとなる。ユーザー獲得や継続利用を促し、各プラットフォームの差別化に直結するため注目される。",
+        "market_impact": "Netflix、Prime Video、Hulu、Shudder、Criterionなど主要ストリーミングプラットフォームの契約者増加・解約防止に寄与。人気タイトルの配信はブランド強化と広告収益増加につながり、映像配信市場の拡大を後押しする可能性がある。",
+        "category": "Markets",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/the-9-best-movies-to-stream-right-now/",
+        "published_at": "2026-05-27 05:29"
+      },
+      {
+        "title": "‘The timing couldn’t have been better’ for investors in MSGS as the Knicks make the NBA Finals",
+        "summary_2lines": "MSGSportsの株価は今年39%、過去12ヶ月で88%上昇している。ニューヨーク・ニックスのNBAファイナル進出を背景にさらに注目を集めている。",
+        "why_it_matters": "MSGSportsはニューヨーク・ニックスを所有する企業であり、チームの成功はブランド価値の向上や収益増加に直結するため、投資家にとって重要な指標となる。",
+        "market_impact": "ニックスのNBAファイナル進出により、MSGSportsの株価上昇がさらに加速する可能性が高い。チーム人気の高まりはスポンサーシップや商品販売増加につながり、同社の収益拡大と市場評価の向上が期待される。",
+        "category": "Markets",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/the-timing-couldnt-have-been-better-for-investors-in-msgs-as-the-knicks-make-the-nba-finals-96b0543a?mod=mw_rss_topstories",
+        "published_at": "2026-05-27 07:21"
+      },
+      {
+        "title": "How a stock market ‘melt-up’ could carry the S&P 500 to 8,000 or beyond",
+        "summary_2lines": "今年夏のアメリカで最も注目されているのは猛暑ではなく、急騰する株式市場である。S&P 500指数が8,000ポイント超えに達する“melt-up”（急騰）シナリオが取り沙汰されている。",
+        "why_it_matters": "株式市場が急激に上昇する“melt-up”は投資家心理の過熱を示し、経済のファンダメンタルズと乖離した動きとなる可能性があるため、バブル崩壊リスクやその後の経済影響を把握する上で重要である。",
+        "market_impact": "S&P 500指数の急騰により一時的に投資家の資産が増加し消費や投資が活発化する一方、過剰な市場の高騰は長期的には調整局面や市場の混乱を招き、企業の資金調達環境や経済全体の安定性に不確実性をもたらす可能性がある。",
+        "category": "Markets",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/how-a-stock-market-melt-up-could-carry-the-s-p-500-to-8-000-or-beyond-b9b85619?mod=mw_rss_topstories",
+        "published_at": "2026-05-27 06:55"
+      }
+    ],
+    "Geopolitics": [
+      {
+        "title": "Piper Sandler says Strait of Hormuz to remain closed for months and oil to hit new highs",
+        "summary_2lines": "Piper Sandlerはホルムズ海峡が数か月間ほぼ閉鎖状態が続くと予想し、原油価格が夏に新高値をつけると警告している。イランとの交渉進展は疑わしく、供給不足が深刻化する見込みだ。",
+        "why_it_matters": "ホルムズ海峡は世界の石油輸送の重要な海路であり、その閉鎖は中東やアジア、欧州を含む複数の経済圏でエネルギー供給に大きな混乱をもたらす。イランと米国の緊張緩和がなされない限り、エネルギー市場の不安定化が続き、世界経済にも大きなリスクとなる。",
+        "market_impact": "原油価格のさらなる高騰により、エネルギーコストの上昇が避けられず、インフレ圧力が強まる。企業のコスト増加や消費者支出減退を招き、株式市場の回復基調に逆風となる可能性が高い。石油依存度の高い地域の経済成長にも停滞リスクが生じるだろう。",
+        "category": "Geopolitics",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/26/piper-sandler-says-strait-of-hormuz-to-remain-closed-for-months-and-oil-to-hit-new-highs.html",
+        "published_at": "2026-05-27 04:43"
+      },
+      {
+        "title": "Trump Admin permits Volvo to keep selling connected cars in the U.S.",
+        "summary_2lines": "トランプ政権はボルボに対し、中国製接続車技術搭載車両の米国販売を継続する特別許可を与えた。これはバイデン政権が設定した中国関連技術を持つ車両の輸入禁止規制の例外措置である。",
+        "why_it_matters": "米中対立のなか、接続車技術を巡る安全保障リスクが問題視されているが、ボルボのように中国資本が関与する自動車メーカーにも例外が認められた点が注目される。これは米国の規制政策が一律ではなく、企業の統治や技術管理の透明性を評価し許可を与える柔軟性があることを示している。",
+        "market_impact": "ボルボの米国市場での事業展開が継続可能となり、今後のモデルの米国内生産拡大計画も後押しされる。中国系資本と米国規制との間に一定の折衷案が存在することで、自動車業界のサプライチェーンや技術開発の国際的な調整が進む可能性がある。中国系自動運転技術の米国でのテスト制限強化も含め、自動車および関連テック企業に影響を及ぼす注目の動きとなる。",
+        "category": "Geopolitics",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/26/trump-admin-permits-volvo-to-keep-selling-connected-cars-in-the-u-s/",
+        "published_at": "2026-05-27 07:55"
+      },
+      {
+        "title": "Aftermath of deadly Israeli strikes in southern Lebanon",
+        "summary_2lines": "イスラエル軍が南レバノンの複数の町・村に対し致命的な攻撃を実施し、マアラケを中心に広範囲の破壊が確認された。軍は強制移住命令を発令し、地上作戦を従来の『イエローライン』を超えて拡大している。",
+        "why_it_matters": "中東地域の緊張が一層高まる中での地政学的な衝突であり、イスラエルとレバノン、ひいては周辺諸国の安全保障に大きな影響を与える。強制移住や軍事行動の拡大は難民問題の深刻化や地域安定化への障害となるため国際社会の関心が必要である。",
+        "market_impact": "中東地域の不安定化はエネルギー供給のリスク増大を示唆し、原油価格の変動や国際エネルギー市場に影響を与える可能性がある。また、周辺地域の政治リスク上昇に伴い、関連企業の株価にもネガティブな影響が予想される。",
+        "category": "Geopolitics",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aftermath-of-deadly-israeli-strikes-in-southern-lebanon?traffic_source=rss",
+        "published_at": "2026-05-27 06:22"
+      },
+      {
+        "title": "Is the viral ‘Cockroach Janta Party’ a threat to Modi’s government?",
+        "summary_2lines": "インドの最高裁判所長官が失業中の若者を『ゴキブリ』と表現したことが火種となり、『Cockroach Janta Party』という政治運動が急速に拡大している。これはモディ政権に対する新たな政治的挑戦として注目されている。",
+        "why_it_matters": "この出来事は、失業問題を抱える若者層の不満が表面化したものであり、モディ首相率いるインド政府に対する大規模な社会的不満と政治的揺らぎの兆候と捉えられている。国内政治の安定性や社会的分断を考える上で重要な動きだ。",
+        "market_impact": "政治的な不安定化は外国投資家の信頼低下や株式市場の変動を引き起こす可能性がある。失業問題の深刻化が続けば消費マインドの冷え込みや経済成長の鈍化に繋がる恐れがあるため、企業活動にも波及するリスクがある。",
+        "category": "Geopolitics",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aje-onl-nf_dnrexp-260526-warrinera-modi_05-260526?traffic_source=rss",
+        "published_at": "2026-05-27 07:24"
+      }
+    ],
+    "Economy": [
+      {
+        "title": "Pope Leo is concerned about AI replacing human work. Traders share his concern long term",
+        "summary_2lines": "ローマ教皇レオはAIによる大量失業のリスクを警告し、労働市場の規制を求めた。市場では米国失業率が2030年までに8%超を超える可能性が60%と評価されている。",
+        "why_it_matters": "AI技術の急速な普及により、多くの労働者が職を失う恐れが高まっている。教皇の警告は社会的・倫理的側面からの重要なメッセージであり、経済の安定や雇用保護が国際的な議論課題となっている。",
+        "market_impact": "投資家はAIによる労働市場の影響を織り込み始めており、Kalshiの予測市場では失業率上昇やリセッションの可能性が高まっている。企業は労働力削減や再教育投資の必要性に迫られ、広範な経済活動に不確実性が増大する可能性がある。",
         "category": "Economy",
-        "source": "The Economist",
-        "url": "https://www.economist.com/business/2026/05/21/why-you-should-almost-always-look-on-the-bright-side-of-life",
-        "published_at": "2026-05-21 21:47"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/26/traders-share-pope-leos-worries-on-ais-job-market-impact.html",
+        "published_at": "2026-05-27 04:31"
       },
       {
         "title": "Franchising has quietly made countless Americans rich",
-        "summary_2lines": "フランチャイズビジネスは多くのアメリカ人に富をもたらしてきた。AI時代に入り、マクドナルド経営がより魅力的な選択肢になる可能性が高まっている。",
-        "why_it_matters": "AI技術の進展により、従来のフランチャイズ運営の効率性が向上し、経営負担が軽減されることで新たな起業機会が生まれる。これにより、フランチャイズが再び富を築く手段として注目されている。",
-        "market_impact": "自動化やAI導入によってコスト削減とサービス品質向上が期待され、フランチャイズチェーンの収益性向上につながる。投資家や経営者の参入意欲を刺激し、関連株式の活性化や雇用創出にも寄与する可能性がある。",
+        "summary_2lines": "フランチャイズ事業は多くのアメリカ人の富を築いてきた。AI時代に入り、マクドナルドの運営が以前より魅力的になる可能性が高まっている。",
+        "why_it_matters": "AI技術の進展により、フランチャイズ経営の効率や収益性が向上し、従来のビジネスモデルに変化がもたらされる。これにより一般のフランチャイジーがより手軽に成功を収めやすくなるため、経済的な影響が大きい。",
+        "market_impact": "AI導入による業務効率化でコスト削減やサービス向上が期待でき、マクドナルドなど大手フランチャイザーの競争力が強化される。結果的にフランチャイズ市場の拡大や関連産業の活性化が見込まれる。",
         "category": "Economy",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/05/24/franchising-has-quietly-made-countless-americans-rich",
         "published_at": "2026-05-25 05:13"
       },
       {
-        "title": "I’m 67. Our family trust earns $300,000 annually for my kids. How do I ensure they won’t get killed on taxes?",
-        "summary_2lines": "67歳の投稿者は年30万ドルの収益を上げる家族信託について、子供たちが高い税負担を負わないようにしたいと考えている。収益を毎年子供に分配し、信託自体の課税を抑えたいという意向を示している。",
-        "why_it_matters": "家族信託による資産移転と税負担の最適化は、多くの資産家にとって重要なテーマである。高額な信託所得に対する課税は資産の効率的な継承を阻害するため、適切な分配方法の検討が求められている。",
-        "market_impact": "家族信託の税務戦略は資産運用業界や信託関連ビジネスに影響を及ぼす。信託収益の分配方法が広く見直されれば、税制対応の専門サービスや金融商品の需要が増加すると予想される。",
+        "title": "Why you should (almost) always look on the bright side of life",
+        "summary_2lines": "楽観主義には多くの利点がある一方で、過度の楽観はリスクを伴う。人生やビジネスにおいてバランスの取れた視点が重要とされる。",
+        "why_it_matters": "このニュースは、個人の精神的健康や企業経営における意思決定の質に影響を与えるため重要である。過度の楽観はリスク過小評価につながり、結果的に損失を招く可能性があるからだ。",
+        "market_impact": "投資家や企業経営者が楽観的すぎる判断をすると、市場での過剰リスクテイクやバブル形成を助長する恐れがある。逆に適切な楽観はイノベーション促進や消費拡大をもたらすため経済成長に寄与する。",
         "category": "Economy",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/im-67-our-family-trust-earns-300-000-annually-for-my-kids-how-do-i-ensure-they-wont-get-killed-on-taxes-ee0c35d6?mod=mw_rss_topstories",
-        "published_at": "2026-05-26 03:30"
+        "source": "The Economist",
+        "url": "https://www.economist.com/business/2026/05/21/why-you-should-almost-always-look-on-the-bright-side-of-life",
+        "published_at": "2026-05-21 21:47"
       }
     ],
     "Corporate": [
       {
-        "title": "A Swimmer Broke a World Record at the Enhanced Games",
-        "summary_2lines": "ギリシャのクリスティアン・ゴロメエフ選手が、禁止されている薬物使用と特殊スーツで強化された競技『Enhanced Games』で世界記録を破った。大会は安全性や公平性への懸念が強く、記録は正式認定されない見込み。",
-        "why_it_matters": "従来のアンチドーピング規制を逸脱した『Enhanced Games』は、スポーツの公平性や倫理、健康リスクに対する議論を呼び起こしている。ドーピング行為を公認・推奨し、管理下で実施する新たな形態は、競技スポーツの未来や規制体制に影響を与える可能性がある。",
-        "market_impact": "医薬品市場やサプリメント業界に新たな需要が生まれる可能性がある一方で、スポーツ関連企業やイベント運営にはブランドイメージの低下やスポンサー離れのリスクも。政府や国際機関の規制強化、医療機関の監督ニーズが高まる可能性もある。",
+        "title": "'Bullying' and 'overbearing' behaviour behind abrupt BP chairman removal",
+        "summary_2lines": "BPは、取締役会長アルバート・マニフォールド氏を『いじめ』や『横柄な』行動を理由に即時解任した。後任には、暫定としてイアン・タイラー氏が就任した。",
+        "why_it_matters": "取締役会長の突然の解任は、ガバナンス上の重大な問題を示しており、企業統治の透明性と信頼性が問われる。特に株主からの批判や気候変動対応への不満が背景にあり、エネルギー大手の経営方針の舵取りに影響を及ぼす重要な変化である。",
+        "market_impact": "解任発表後、BPの株価は約5%下落し、短期的な市場のネガティブ反応を招いた。経営の不安定化が懸念されるが、暫定リーダーとCEOの下で戦略の継続が確認されており、中長期的な影響は今後の新体制次第で変動する見込み。",
         "category": "Corporate",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/a-swimmer-broke-a-world-record-at-the-enhanced-games/",
-        "published_at": "2026-05-26 02:32"
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cjrppppwvwlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-05-27 00:04"
+      },
+      {
+        "title": "Post Office investigation could be delayed by five years, police warn",
+        "summary_2lines": "イギリス郵便局のITスキャンダルの刑事捜査が追加資金不足で最長5年の遅延の恐れがあると警察が警告した。現在の捜査チームは111人で、倍増が必要だが16.5百万ポンドの資金が不足している。",
+        "why_it_matters": "この事件は郵便局のHorizon ITシステムの誤作動により900人超が不当起訴・投獄されたイギリス最大規模の司法の誤りであり、正義の確立と被害者救済に社会的関心が集まっている。捜査遅延は被害者救済の遅延を意味し、公的資金の使い方や司法制度の信頼性にも波及する問題である。",
+        "market_impact": "直接的な市場や経済への影響は限定的だが、郵便局の信用や運営に打撃となりうる。また、政府の資金不足が示す警察組織のリソース問題は、公共サービスへの信頼に影響を与え、関連企業の株価や公共投資にも懸念を及ぼす可能性がある。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c2422y4ldymo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-05-27 04:38"
+      },
+      {
+        "title": "Chemistry behind the Garden Grove chemical tank",
+        "summary_2lines": "Garden Groveで起きた化学薬品タンクに関する事件の背後にある科学的要因を解説している。化学反応や物質の特性が事故の原因分析に役立っている内容。",
+        "why_it_matters": "化学薬品タンクでの事故は地域の安全性や環境リスクに直結するため、事故原因の科学的理解は再発防止に不可欠。さらに化学産業や規制当局の対応にも影響を与える。",
+        "market_impact": "化学業界では同種事故を防ぐための安全基準見直しや設備投資が促進される可能性がある。また、関連企業のリスク管理強化や保険料の変動にもつながることが予想される。",
+        "category": "Corporate",
+        "source": "Hacker News",
+        "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+        "published_at": "2026-05-27 04:25"
+      },
+      {
+        "title": "SpaceX just won a $2 billion contract to make satellites for the Space Force",
+        "summary_2lines": "アメリカ宇宙軍がSpaceXに20億ドルの衛星製造契約を新たに授与した。これによりSpaceXは宇宙軍との関係をさらに強化した。",
+        "why_it_matters": "宇宙軍は国家安全保障の重要領域として宇宙空間の優位を確保しようとしており、SpaceXが大規模契約を獲得することで、同社の技術力と政府からの信頼の高さが示された。今後の宇宙関連産業や軍事分野の発展を左右する重要な動きである。",
+        "market_impact": "SpaceXの受注拡大は同社の収益基盤強化につながり、宇宙産業全体への投資活発化を促す可能性が高い。競合他社にとっては政府契約獲得競争が激化し、技術革新と価格競争が一層進むことが予想される。",
+        "category": "Corporate",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/spacex-just-won-a-2-billion-contract-to-make-satellites-for-the-space-force-f4733f10?mod=mw_rss_topstories",
+        "published_at": "2026-05-27 06:42"
+      },
+      {
+        "title": "Chemical tank rupture kills multiple people in US state of Washington",
+        "summary_2lines": "米ワシントン州ロングビューのNippon Dynawave Packaging施設で化学タンクが破裂し、複数の死傷者が出た。現場では負傷者の治療と状況確認が続いている。",
+        "why_it_matters": "化学品取り扱い施設での事故は作業員の生命に直接関わるだけでなく、地域住民の安全や環境にも深刻な影響を与える可能性がある。特に産業用化学品は周辺環境への拡散リスクが高く、適切な事故対応と再発防止策が求められる重要な社会問題である。",
+        "market_impact": "Nippon Dynawave Packagingをはじめ化学・包装産業の安全管理や規制強化が進む可能性があり、同業他社の事業コスト増や投資判断に影響を与える恐れがある。また、地域の工業生産活動に一時的な混乱をもたらし、サプライチェーンにも間接的な影響が生じる可能性がある。",
+        "category": "Corporate",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/26/chemical-tank-rupture-kills-multiple-people-in-us-state-of-washington?traffic_source=rss",
+        "published_at": "2026-05-27 07:15"
       }
     ]
   }
