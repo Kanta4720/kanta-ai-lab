@@ -41,17 +41,12 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python scripts/fetch_world_topic.py
 
-      - name: Generate Genius Brain
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python scripts/fetch_genius_brain.py
-
       - name: Commit changes
         run: |
           git config user.name "kanta-news-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add news.json world_topic.json genius.json
-          git diff --cached --quiet || (git commit -m "Daily update: news + world topic + genius brain" && git push)
+          git add news.json world_topic.json
+          git diff --cached --quiet || (git commit -m "Daily update: news + world topic" && git push)
 
       - name: Notify failure
         if: failure()
