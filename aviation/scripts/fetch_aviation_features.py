@@ -242,8 +242,8 @@ def main():
 
 
 if __name__ == "__main__":
-    if "OPENAI_API_KEY" not in os.environ:
-        print("Error: OPENAI_API_KEY environment variable not set.")
+    api_key = os.environ.get("OPENAI_API_KEY", "")
+    if not api_key:
+        print("Error: OPENAI_API_KEY environment variable not set or empty.")
         sys.exit(1)
-    else:
-        main()
+    main()

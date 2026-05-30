@@ -20,6 +20,22 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser trafilatura openai requests yfinance
 
+      - name: Preflight checks
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: |
+          if [ -z "$OPENAI_API_KEY" ]; then
+            echo "::error::OPENAI_API_KEY が設定されていません。GitHub Secrets を確認してください。"
+            exit 1
+          fi
+          echo "OPENAI_API_KEY: OK (${#OPENAI_API_KEY} chars)"
+          if [ -z "$NEWS_API_KEY" ]; then
+            echo "NEWS_API_KEY: 未設定 (RSS フォールバックを使用)"
+          else
+            echo "NEWS_API_KEY: OK (${#NEWS_API_KEY} chars)"
+          fi
+
       - name: Fetch Market Data
         working-directory: aviation
         run: python scripts/fetch_market_data.py
@@ -83,13 +99,19 @@ jobs:
           else
             git commit -m "Aviation daily update: $(TZ=Asia/Tokyo date +%Y-%m-%d)"
             WAIT=2
+            PUSHED=0
             for i in 1 2 3 4; do
-              git push && break || {
+              git push && PUSHED=1 && break || {
                 echo "Push attempt $i failed, retrying in ${WAIT}s..."
                 sleep $WAIT
+                git pull --rebase origin main
                 WAIT=$((WAIT * 2))
               }
             done
+            if [ "$PUSHED" -eq 0 ]; then
+              echo "::error::全ての push 試行が失敗しました。"
+              exit 1
+            fi
           fi
 
       - name: Notify failure

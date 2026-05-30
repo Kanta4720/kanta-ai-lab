@@ -349,7 +349,8 @@ def main():
     print(f"Successfully generated news.json at {output_path}")
 
 if __name__ == "__main__":
-    if "OPENAI_API_KEY" not in os.environ:
-        print("Error: OPENAI_API_KEY environment variable not set.")
-    else:
-        main()
+    api_key = os.environ.get("OPENAI_API_KEY", "")
+    if not api_key:
+        print("Error: OPENAI_API_KEY environment variable not set or empty.")
+        sys.exit(1)
+    main()
