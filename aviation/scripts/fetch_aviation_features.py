@@ -4,7 +4,9 @@
 import os
 import json
 import sys
+import calendar
 import requests
+import feedparser
 import trafilatura
 from openai import OpenAI
 from datetime import datetime, timezone, timedelta
@@ -24,6 +26,15 @@ FEATURE_QUERIES = [
     "aviation history record milestone",
     "pilot shortage crew training aviation",
     "space aviation supersonic electric aircraft",
+]
+
+# RSS フォールバック（NewsAPI 未設定時に使用）
+RSS_FEEDS = [
+    {"source": "Simple Flying",    "url": "https://simpleflying.com/feed/"},
+    {"source": "AeroTime",         "url": "https://aerotime.aero/feed"},
+    {"source": "Airways Magazine", "url": "https://airwaysmag.com/feed/"},
+    {"source": "Leeham News",      "url": "https://leehamnews.com/feed/"},
+    {"source": "The Air Current",  "url": "https://theaircurrent.com/feed/"},
 ]
 
 CATEGORIES = [
@@ -89,6 +100,38 @@ def fetch_candidates():
 
     print(f"[候補] {len(candidates)} 件収集")
     return candidates
+
+
+def fetch_from_rss():
+    """RSS フィードから記事を収集する（NewsAPI 未設定時のフォールバック）"""
+    articles = []
+    for feed in RSS_FEEDS:
+        try:
+            d = feedparser.parse(feed["url"])
+            for entry in d.entries[:5]:
+                pub_date = None
+                for attr in ("published_parsed", "updated_parsed"):
+                    parsed = getattr(entry, attr, None)
+                    if parsed:
+                        try:
+                            ts     = calendar.timegm(parsed)
+                            pub_dt = datetime.fromtimestamp(ts, tz=timezone.utc).astimezone(JST)
+                            pub_date = pub_dt.strftime("%Y-%m-%d %H:%M")
+                        except Exception:
+                            pass
+                        break
+                content = getattr(entry, "summary", "") or getattr(entry, "description", "") or ""
+                articles.append({
+                    "title":       entry.title,
+                    "url":         entry.link,
+                    "source":      feed["source"],
+                    "content":     content,
+                    "published_at": pub_date,
+                })
+        except Exception as e:
+            print(f"[RSS] フィード取得失敗 {feed['url']}: {e}")
+    print(f"[RSS] 合計 {len(articles)} 件収集")
+    return articles
 
 
 def fetch_full_content(url):
@@ -217,6 +260,9 @@ def main():
     print("航空特集記事を収集・要約中...")
 
     candidates = fetch_candidates()
+    if not candidates:
+        print("[INFO] NewsAPI 候補なし。RSS フォールバックを使用します。")
+        candidates = fetch_from_rss()
     if not candidates:
         print("ERROR: 候補記事を取得できませんでした。")
         sys.exit(1)
