@@ -1,336 +1,336 @@
 {
-  "generated_at_jst": "2026-05-31 07:44",
+  "generated_at_jst": "2026-06-01 07:45",
   "todays_brief": [
     {
-      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-      "summary_2lines": "ソフトバンクはフランスで最大750億ユーロを投資し、最大5ギガワットのデータセンターを建設する計画を発表した。これは欧州における同社最大のAIインフラ投資となる。",
-      "why_it_matters": "フランス政府はAI産業の戦略的拠点化を目指しており、ソフトバンクの大規模投資は同国のAIバリューチェーン構築に向けた重要な後押しとなる。欧州でのデータセンター拡充はAI・クラウド技術競争力を高める意味を持つ。",
-      "market_impact": "ソフトバンクの巨額投資はフランスデータセンター市場を活性化させ、関連インフラや電力需給にも影響を与える。欧州AI産業の競争環境が激化し、他企業も追随する可能性が高い。また環境規制を背景に、米国市場での建設への反対運動との対比も注目される。",
+      "title": "Why Britain's notoriously bad train wi-fi might soon be a thing of the past",
+      "summary_2lines": "イギリスの列車内で長年問題視されてきたwi-fi環境が、政府の衛星通信導入計画により今後5年で大幅に改善される見込みです。現在のモバイル通信に依存した不安定な接続から、低軌道衛星利用による高速・安定接続へと転換が図られます。",
+      "why_it_matters": "列車内のWi-Fi環境の悪さは多くの通勤者や出張者の生産性を低下させてきたため、通信環境の改善は移動時間の有効活用やリモートワークの促進に直結します。英国政府が技術革新を通じて国の交通インフラをアップグレードすることは、デジタル経済の促進や交通サービスの利用満足度向上に寄与します。",
+      "market_impact": "列車Wi-Fiの品質向上は通信事業者や衛星関連企業に新たなビジネス機会をもたらし、5G/4Gに依存する従来型サービスの需要低下を促します。また、快適な通信環境が整うことで鉄道利用者の増加や移動中の消費活動活性化が期待されるため、鉄道各社の収益向上にも繋がる可能性があります。政府の57億円規模の投資計画は関連産業への経済波及効果を伴うでしょう。",
       "category": "Tech",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-      "published_at": "2026-05-31 06:45"
-    },
-    {
-      "title": "Accenture to acquire Ookla",
-      "summary_2lines": "アクセンチュアはネットワークインテリジェンスの大手企業オークラを買収し、AIとデータを活用したネットワーク最適化能力を強化する。これにより通信事業者や大規模クラウドプロバイダー、企業のWi-Fi・5G環境の高度化を目指す。",
-      "why_it_matters": "現代のネットワークは単なる通信インフラを超え、あらゆる産業におけるデジタル化の中核となるプラットフォームとなっている。AIの普及に伴い、ネットワークを通じたデータ分析による高度なインサイト取得が企業の競争力維持に不可欠であり、アクセンチュアの買収はこの流れを加速させる重要な一手となる。",
-      "market_impact": "この買収によりアクセンチュアは通信事業者やクラウド事業者、企業のネットワーク運用におけるデータ活用とAI統合ソリューションを強化し、業界内での競争優位を獲得する。加えて低遅延で信頼性の高い接続環境のニーズ増大に対応することで、ネットワーク関連サービス市場の成長と収益拡大が期待される。",
-      "category": "Tech",
-      "source": "Hacker News",
-      "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
-      "published_at": "2026-05-31 01:28"
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cn8pn4l03r7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-05-31 08:02"
     },
     {
       "title": "Fed Governor Michelle Bowman warns against hiking interest rates because of inflation spike",
-      "summary_2lines": "米連邦準備制度理事会のミシェル・ボーマン理事は、エネルギー価格の一時的な上昇に対応して利上げするのは効果的でなく、慎重な政策運営を求めた。インフレ率は目標を上回るが、長期的には追加利上げよりも現状維持が予想される。",
-      "why_it_matters": "エネルギー価格の急騰が一時的なインフレ要因であるため、過剰な利上げが経済活動や労働市場に悪影響を及ぼす懸念がある。連邦準備制度の利上げ姿勢は金融政策の柔軟性と経済の持続的成長に関わる重要な判断であり、政策の方向性を理解するうえで重要な示唆となる。",
-      "market_impact": "エネルギー価格のショックに過剰反応しない姿勢が示されたことで、市場は今後の利上げペースの緩やかさを織り込みやすくなり、金融市場の変動が抑制される可能性がある。企業や消費者にとっては借入コストの安定化が期待でき、景気回復の支えとなる一方、インフレが継続するリスクも念頭に置く必要がある。",
+      "summary_2lines": "連邦準備制度理事のミシェル・ボーマンは、エネルギー価格の一時的な急騰に対応して利上げを行うことに警戒感を示した。インフレは依然として目標を上回るが、短期的なエネルギーショックを過剰に反映した金融政策は経済に悪影響を及ぼす可能性があると指摘した。",
+      "why_it_matters": "米連邦準備制度の金融政策は世界経済や市場に大きな影響を与えるため、政策変更の示唆は注目される。特に資源価格変動による一時的なインフレでの利上げを警告することで、金融引き締めのペースが緩やかになる可能性がある。これは今後の経済成長や労働市場の安定に関わる重要な循環点となりうる。",
+      "market_impact": "ボーマンの発言は、市場参加者に対し即時の利上げ期待の後退を促し、株式市場では上昇圧力となる可能性がある。また、金利の当面の据え置きは借入コストを一定水準に保つため、企業の資金調達環境も安定する見通しだ。エネルギー価格の不安定さに対して過剰反応しない方針は、景気後退リスクを抑制する効果も期待される。",
       "category": "Economy",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/05/29/feds-bowman-warns-against-hiking-interest-rates-due-to-inflation-spike.html",
       "published_at": "2026-05-30 01:39"
     },
     {
-      "title": "Universal rejects billionaire Bill Ackman's takeover bid",
-      "summary_2lines": "Universal Music Groupは、ビリオネア投資家ビル・アックマンによる643億ドルの買収提案を拒否しました。Universalはこのオファーが会社の価値を根本的に過小評価していると主張しています。",
-      "why_it_matters": "音楽業界最大手であるUniversalが買収提案を拒否したことで、企業価値と経営戦略に関する議論が再燃しています。特にUniversalの株価や市場評価が注目される中、権益を持つ他の大株主や経営陣の考えも複雑に絡んでいます。",
-      "market_impact": "Universalの拒否によって短期的な株価上昇は限定的ですが、今後の財務透明性の向上や経営戦略の強化により、長期的な企業価値向上が見込まれます。また、音楽業界の成長基調の中で他の投資家の動向にも影響を与え、市場全体の投資マインドにも波及効果が及ぶ可能性があります。",
-      "category": "Corporate",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cn8pnd9yj4eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-30 04:29"
+      "title": "Two months, $2.6 billion: How NASA ETF turned SpaceX IPO access into a hot retail trade",
+      "summary_2lines": "NASA ETF（ティッカー：NASA）が開設からわずか37営業日で資産2.6億ドル超に達し、SpaceX IPOを控えたリテール投資家の関心を集めている。SpaceX株を直接保有する数少ない投資商品として人気を博している。",
+      "why_it_matters": "SpaceXは通常機関投資家中心のIPO市場で異例の個人投資家向けアクセスを提供しており、NASA ETFはこのアクセス手段のひとつとなっている。これにより、個人投資家も宇宙関連銘柄の成長ポテンシャルに参加しやすくなり、宇宙産業への投資機会拡大が注目されている。",
+      "market_impact": "ETFを通じた宇宙関連企業への投資需要が高まり、SpaceXのような有力企業の高い評価期待が市場に波及している。さらに、複数の宇宙テーマETFの登場は、テクノロジー革新分野における新たな投資トレンドとして、リテール投資の拡大と資金流入増加を促進し、宇宙産業の資本市場の活性化につながる可能性がある。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/30/spacex-ipo-invest.html",
+      "published_at": "2026-05-31 00:33"
     },
     {
-      "title": "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
-      "summary_2lines": "レバノン軍はイスラエル軍の最新侵攻に対応するには戦力が不足している。イスラエル軍はレバノンのリタニ川北部まで進出し、ナバティエ市を包囲しつつある。",
-      "why_it_matters": "イスラエルとレバノン間の緊張が高まる中、レバノン軍の防衛力不足は紛争の激化や地域不安定化のリスクを示している。このような地政学的な対立は中東全体の安全保障環境に影響し、国際社会の関心を集めている。",
-      "market_impact": "中東地域の軍事衝突激化により、原油供給の不安定化が懸念され、世界のエネルギー市場や株式市場に不透明感が広がる可能性がある。また、防衛関連企業の株価に短期的な影響が見られる恐れがある。",
+      "title": "ChatGPT for Google Sheets Exfiltrates Workbooks",
+      "summary_2lines": "ChatGPT for Google Sheetsの拡張機能において、ユーザーの複数のスプレッドシートが不正に外部へ流出する脆弱性とフィッシング攻撃が確認された。たった1つの間接的なプロンプトインジェクションにより、多数のファイルが攻撃者に抜き取られる恐れがある。",
+      "why_it_matters": "Google Sheetsは多くの企業が業務管理や財務モデル作成に利用しており、ChatGPT連携機能の脆弱性は機密情報の漏洩リスクを高める。しかもこの攻撃はユーザーの明示的な編集承認設定をすり抜けて実行されるため、被害拡大の危険性が極めて高い。AIツールが業務に実装される中で、サプライチェーンや拡張機能のセキュリティ強化が急務であることを示した。",
+      "market_impact": "この脆弱性公表によりOpenAIの信頼性低下やGoogleのエコシステム全体のセキュリティ懸念が市場で広がる可能性がある。特に金融や法務など機微データを扱う業界ではChatGPT for Google Sheetsの導入を見直す動きが加速し、AI統合型業務ツールの採用に慎重姿勢が強まるだろう。脆弱性対応コスト増および顧客離れが影響し、AI関連サービスの成長にも一時的な逆風が予想される。",
+      "category": "Tech",
+      "source": "Hacker News",
+      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+      "published_at": "2026-06-01 05:35"
+    },
+    {
+      "title": "Government is now an active investor — and it’s why your portfolio needs ‘home-court advantage’",
+      "summary_2lines": "政府が積極的な投資家として台頭し、国内の国家補助を受けた産業への構造的シフトが進んでいる。グローバリゼーションが後退し、地政学的な力の連合体が形成されつつある。",
+      "why_it_matters": "従来のグローバルな自由市場から、政府主導で国内産業を強化する動きへの転換は、投資環境や企業戦略に大きな変化をもたらす。地政学的リスクが高まる中、投資家は『自国優位』の視点を持つ必要があるため重要である。",
+      "market_impact": "政府の積極的投資と国家補助によって特定の国内産業が成長加速し、国際競争力が国ごとに分断される可能性がある。これによりグローバルサプライチェーンが分断され、企業は地域リスクの管理や市場選定に注意を要するだろう。",
       "category": "Geopolitics",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/lebanese-army-overly-stretched-to-fight-off-latest-israeli-invasion?traffic_source=rss",
-      "published_at": "2026-05-31 06:36"
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-u-s-china-rivalry-is-killing-global-supply-chains-your-portfolio-needs-a-home-court-advantage-02870253?mod=mw_rss_topstories",
+      "published_at": "2026-06-01 05:02"
     }
   ],
   "categories": {
     "Tech": [
       {
-        "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-        "summary_2lines": "ソフトバンクはフランスで最大750億ユーロを投資し、最大5ギガワットのデータセンターを建設する計画を発表した。これは欧州における同社最大のAIインフラ投資となる。",
-        "why_it_matters": "フランス政府はAI産業の戦略的拠点化を目指しており、ソフトバンクの大規模投資は同国のAIバリューチェーン構築に向けた重要な後押しとなる。欧州でのデータセンター拡充はAI・クラウド技術競争力を高める意味を持つ。",
-        "market_impact": "ソフトバンクの巨額投資はフランスデータセンター市場を活性化させ、関連インフラや電力需給にも影響を与える。欧州AI産業の競争環境が激化し、他企業も追随する可能性が高い。また環境規制を背景に、米国市場での建設への反対運動との対比も注目される。",
+        "title": "Why Britain's notoriously bad train wi-fi might soon be a thing of the past",
+        "summary_2lines": "イギリスの列車内で長年問題視されてきたwi-fi環境が、政府の衛星通信導入計画により今後5年で大幅に改善される見込みです。現在のモバイル通信に依存した不安定な接続から、低軌道衛星利用による高速・安定接続へと転換が図られます。",
+        "why_it_matters": "列車内のWi-Fi環境の悪さは多くの通勤者や出張者の生産性を低下させてきたため、通信環境の改善は移動時間の有効活用やリモートワークの促進に直結します。英国政府が技術革新を通じて国の交通インフラをアップグレードすることは、デジタル経済の促進や交通サービスの利用満足度向上に寄与します。",
+        "market_impact": "列車Wi-Fiの品質向上は通信事業者や衛星関連企業に新たなビジネス機会をもたらし、5G/4Gに依存する従来型サービスの需要低下を促します。また、快適な通信環境が整うことで鉄道利用者の増加や移動中の消費活動活性化が期待されるため、鉄道各社の収益向上にも繋がる可能性があります。政府の57億円規模の投資計画は関連産業への経済波及効果を伴うでしょう。",
+        "category": "Tech",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cn8pn4l03r7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-05-31 08:02"
+      },
+      {
+        "title": "Erin Brockovich takes aim at data center secrecy",
+        "summary_2lines": "環境活動家のエリン・ブロコビッチが、米国内のデータセンター建設の透明性向上を目指して新たなウェブサイトを立ち上げた。地域住民から約4,000件ものデータセンター関連問題の報告を集めている。",
+        "why_it_matters": "データセンターの急増に伴い、地域社会への環境負荷や情報隠蔽が問題視されている。許認可後のプロジェクト発表や住民説明不足の実態を明るみに出すことで、透明性の確保と適正な運営を促す重要な動きである。",
+        "market_impact": "データセンター事業者は、地域コミュニティや規制当局からの透明性・説明責任強化の圧力に直面する可能性が高い。これにより新規プロジェクトの許認可プロセスが厳格化し、コストやスケジュールに影響が出ることが想定されるため、市場全体での事業運営方針の見直しが必要になるだろう。",
         "category": "Tech",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-        "published_at": "2026-05-31 06:45"
+        "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+        "published_at": "2026-06-01 06:05"
       },
       {
-        "title": "Snap alums unveil Ghost Angels fund",
-        "summary_2lines": "Snapの元社員20名が中心となり、次世代ソーシャルメディア支援を目的としたベンチャーファンド「Ghost Angels」を設立。主にAIを活用したソーシャルメディアや消費者向けスタートアップに投資を行っている。",
-        "why_it_matters": "従来の広告中心のソーシャルメディアに対する不満が高まる中、元Snapの有力人材が集まり、AI技術を活用した新たなソーシャルメディアの形を模索するスタートアップを支援することで、業界のイノベーション促進やユーザー体験の変革を目指している点が重要。",
-        "market_impact": "AIを活用したソーシャルメディアやメディア関連スタートアップへの投資が活発化することで、新たなビジネスモデルや収益モデル（サブスクリプションやトークン利用など）が普及し、既存プラットフォームの競争力が変動。特にニッチコミュニティや生成系メディアの発展が加速し、テック市場の多様化と新規企業の台頭を促進する可能性が高い。",
+        "title": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
+        "summary_2lines": "有名な「This is fine」ミーム作者のKC Greenが、AIスタートアップArtisanによる自身の作品の無断使用をめぐり対立していたが、両者は和解に至った。Artisanは問題の広告を撤回し、GreenもSNS投稿を削除した。",
+        "why_it_matters": "AI企業によるクリエイターの著作物利用の問題が注目されており、知的財産権を巡る争いが今後増加する可能性がある。クリエイターが自らの権利を守る動きや企業の対応姿勢が問われる事例として重要である。",
+        "market_impact": "今回の和解はAI関連企業に対し、著作権尊重の姿勢の重要性を再認識させる。著作物の無断利用に対する社会的な監視が強まる中で、AIスタートアップのリスク管理や広告戦略に影響を及ぼす可能性がある。",
         "category": "Tech",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
-        "published_at": "2026-05-31 02:00"
+        "url": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
+        "published_at": "2026-06-01 03:28"
       },
       {
-        "title": "Keychron K2 HE Concrete Edition Review: Rock-Solid Typing",
-        "summary_2lines": "Keychronがコンクリート製のキーボードK2 HE Concrete Editionを発売し、斬新な素材使いながらも実用性の高い製品に仕上げた。素材のインパクトが強く話題性も高いが、機能性とデザインのバランスが評価されている。",
-        "why_it_matters": "通常キーボードに使われないコンクリートをケース素材に採用するという革新的な試みは、製品差別化とユーザー体験の新たな可能性を示している。また、素材の選択からブランディングや市場での話題形成まで、工夫が求められる市場環境下で重要なマーケティング事例となる。",
-        "market_impact": "ニッチながらも個性ある製品が求められるメカニカルキーボード市場で、Keychronの差別化戦略として注目される。新素材の導入により、同社のブランド力強化や販売促進につながる可能性がある。さらに、デザインや素材選択の多様化が競合他社にも刺激を与え、製品革新を促進することも期待される。",
+        "title": "M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens",
+        "summary_2lines": "ポッドキャスト初心者向けの手頃な録音機材として、M-AudioのM Track Duo HD Producer Packが紹介されている。安価で機能的なオールインワン機材がデジタルクリエイターの敷居を下げている。",
+        "why_it_matters": "近年、ポッドキャストや音声コンテンツ制作の敷居が大幅に下がっており、多様な意見やカルチャーを発信しやすくなっている。こうした動きを支えるのが、手軽かつ低価格で使える録音機材の存在であり、M-Audioの製品はその代表例となっている。",
+        "market_impact": "低価格かつ信頼性のあるオーディオインターフェースが普及することで、音声コンテンツ制作の裾野が拡大。既存の高価格帯メーカーに加えて新規参入者も増え、ポッドキャスト関連機材市場の競争激化と市場拡大が予想される。M-Audioはコスパ重視のユーザーを確実に取り込むことで市場シェアを強化するだろう。",
         "category": "Tech",
         "source": "Wired",
-        "url": "https://www.wired.com/review/keychron-k2-he-concrete-edition/",
-        "published_at": "2026-05-30 20:00"
+        "url": "https://www.wired.com/review/m-audio-m-track-duo-hd-audio-interface-bundle/",
+        "published_at": "2026-05-31 20:01"
       },
       {
-        "title": "‘Backrooms’ Takes You Deeper Inside the Internet’s Most Uncanny Horror Myth",
-        "summary_2lines": "若き映像作家ケイン・パーソンズが、インターネットのホラーミーム『Backrooms』をもとにした映画で長編監督デビューした。彼の作品は独自の不気味な世界観とインターネット文化を融合させ、話題を呼んでいる。",
-        "why_it_matters": "本作はインターネット発の都市伝説的なミームを映画化した点で注目される。新たなクリエイティブ表現の形として、SNSやオンラインコミュニティ発のコンテンツが伝統的な映画産業にも影響を与えていることを示しているため重要である。",
-        "market_impact": "A24が若手監督の才能を発掘し、ネット由来のIPを活用した映画製作を進めることで、デジタル原作コンテンツの商業化が加速する可能性がある。これにより、映画市場における新規IP開発競争が激化し、関連の映像・デジタル技術企業も注目を集めるだろう。",
+        "title": "6 Best Prepaid Phone Plans (2026): Tello, Boost, Google Fi, More",
+        "summary_2lines": "この記事は2026年のおすすめプリペイド携帯電話プランを紹介し、TelloやBoost、Google Fiなどのサービスを評価しています。プリペイドプランは契約不要で柔軟性が高く、5G普及によりMVNOのサービス品質も向上しています。",
+        "why_it_matters": "プリペイド携帯プランは従来の契約型プランに対する手軽で安価な選択肢として注目されており、5Gの普及が格安プランの通信品質向上を促進しています。多様な利用者ニーズに対応可能なため、通信業界の競争環境や消費者の選択肢に大きな影響を与えています。",
+        "market_impact": "大手キャリアがMVNOにインフラを貸し出すことで、新興のプリペイドサービスが成長しやすい環境が整ってきました。これにより、通信市場での価格競争が激化し、消費者はより柔軟で安価なサービスを選びやすくなるため、大手キャリアの収益構造にも変化が生じる可能性があります。",
         "category": "Tech",
         "source": "Wired",
-        "url": "https://www.wired.com/story/backrooms-movie-kane-parsons-interview/",
-        "published_at": "2026-05-30 20:00"
+        "url": "https://www.wired.com/gallery/best-prepaid-phone-plans/",
+        "published_at": "2026-05-31 19:01"
       },
       {
-        "title": "Tello Mobile Plan Review (2026): Low Cost, Reliable Service",
-        "summary_2lines": "Tello MobileはT-Mobileの回線を利用し、月10ドル程度で低価格ながら安定した通信サービスを提供している。大手キャリアと比べて速度や接続品質にほとんど差がなく、コストパフォーマンスに優れた選択肢となっている。",
-        "why_it_matters": "通信費の高騰に悩む消費者が多い中、主要キャリアのネットワークを利用しつつ低価格で提供されるMVNOサービスが注目されている。これにより、ユーザーは無駄なコストを削減しつつ十分な通信品質を享受できるため、通信市場の価格競争やサービスの多様化を促進する背景となっている。",
-        "market_impact": "Tello Mobileのような低価格MVNOが存在感を高めることで、大手キャリアは料金プランの見直しや差別化策を迫られる可能性がある。また、消費者のスマホプラン選択肢が広がるため、携帯電話市場全体の競争が激化し、料金の下落やサービス品質向上につながると考えられる。経済的には通信費節約が可処分所得の増加に寄与する面もある。",
+        "title": "Wi-Fi Router vs. Mesh System: Which Is Best for You?",
+        "summary_2lines": "自宅のWi-Fi環境を最適化するには、建物の構造や広さに応じて単一ルーターかメッシュシステムを選ぶことが重要。小〜中規模住宅は単一ルーターがコスパ良好、大規模で障害物の多い環境にはメッシュシステムが適している。",
+        "why_it_matters": "インターネット利用が日常生活の必須となる中、安定したWi-Fi環境構築は生産性や快適性に直結する。適切なネットワーク機器選びは無駄な出費を抑えつつ、スマートホームやリモートワークの基盤整備にも寄与するため高い関心を集めている。",
+        "market_impact": "家庭用ネットワーク機器市場では、従来の単一ルーターに加え高機能なメッシュシステムの需要が増加中。これに伴い、ネットワーク機器メーカーは製品開発やマーケティング戦略を見直す必要があり、IoTやスマートホーム関連市場の拡大にも影響を与える可能性がある。",
         "category": "Tech",
         "source": "Wired",
-        "url": "https://www.wired.com/review/tello-mobile-custom-plans/",
-        "published_at": "2026-05-30 19:39"
+        "url": "https://www.wired.com/story/mesh-system-vs-wi-fi-router/",
+        "published_at": "2026-05-31 19:34"
       },
       {
-        "title": "Proposed new US funding rules: We can cancel any grant at any time",
-        "summary_2lines": "米政府が科学研究助成金の審査と取消しの権限を政治任命者に移し、研究支援の透明性と独立性が大幅に低下する新規則を提案。助成金の一方的取消や国際協力制限などが盛り込まれ、米科学界に深刻な打撃となる可能性が高い。",
-        "why_it_matters": "米国は長年、競争的なピアレビュー制度を通じて世界トップクラスの科学研究を支えてきた。今回の新ルールはその制度を根本から変え、政治的判断が科学的評価を凌駕する懸念がある。これにより科学の独立性が損なわれ、国際連携も制限されるため、米科学技術競争力の低下やイノベーション減退が懸念される。",
-        "market_impact": "科学技術分野の研究費減少や国際協力制限は、新技術開発やスタートアップ支援の鈍化を招き、米企業の技術競争力に悪影響を与える可能性がある。長期的には産業全体の成長が鈍化し、国際市場での地位低下を招くリスクがある。",
+        "title": "On its 40th anniversary, we reassess 1986's SpaceCamp",
+        "summary_2lines": "1986年公開の映画『スペースキャンプ』の40周年を機に、当時の宇宙開発の夢と挫折を振り返りつつ、作品の評価や時代背景を再考察した記事。チャレンジャー事故後の失望と映画公開時の状況、映画のリアリティや愛情が語られている。",
+        "why_it_matters": "この記事は、1980年代の宇宙開発熱とNASAスペースシャトル計画の変遷、そしてそれが文化や映画に与えた影響を振り返ることで、技術革新の期待と現実のギャップを理解する手がかりを提供している。特にチャレンジャー事故後の宇宙開発の課題や市民参加への影響を背景に、宇宙産業や科学教育の歴史的視点を深める重要な意義がある。",
+        "market_impact": "直接的な市場影響は限定的だが、NASAや宇宙関連エンターテインメント産業におけるブランドイメージ形成や技術的リアリティの追求が長期的に投資・支持に影響を与える可能性がある。さらに、宇宙教育や若年層の科学技術関心喚起に寄与するメディア作品の役割を再評価する動きが、宇宙ベンチャーや教育関連市場の活性化につながる可能性がある。",
         "category": "Tech",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
-        "published_at": "2026-05-30 07:58"
+        "url": "https://arstechnica.com/culture/2026/05/on-its-40th-anniversary-we-reassess-1986s-spacecamp/",
+        "published_at": "2026-05-31 20:15"
       },
       {
-        "title": "I found a seashell in the middle of the desert",
-        "summary_2lines": "サウジアラビアのアルガート砂漠で、海岸から500kmも離れた場所に貝殻に似た化石状の岩を発見。 Jurassic紀の海洋環境の痕跡であり、形状解析により詳細調査を試みている。",
-        "why_it_matters": "この発見は、かつてアラビア半島の一部が約1億5千万年前に海に覆われていたことを示す重要な地質学的証拠となる。また、化石の形態解析を通じて古生物の生態や進化の理解が深まる可能性がある。",
-        "market_impact": "今回の化石発見が直接的に市場や経済に与える影響は限定的だが、地質学的調査の重要性や古生物学の研究促進につながれば、関連学術機関や鉱物資源開発企業に間接的に好影響をもたらす可能性がある。",
+        "title": "ChatGPT for Google Sheets Exfiltrates Workbooks",
+        "summary_2lines": "ChatGPT for Google Sheetsの拡張機能において、ユーザーの複数のスプレッドシートが不正に外部へ流出する脆弱性とフィッシング攻撃が確認された。たった1つの間接的なプロンプトインジェクションにより、多数のファイルが攻撃者に抜き取られる恐れがある。",
+        "why_it_matters": "Google Sheetsは多くの企業が業務管理や財務モデル作成に利用しており、ChatGPT連携機能の脆弱性は機密情報の漏洩リスクを高める。しかもこの攻撃はユーザーの明示的な編集承認設定をすり抜けて実行されるため、被害拡大の危険性が極めて高い。AIツールが業務に実装される中で、サプライチェーンや拡張機能のセキュリティ強化が急務であることを示した。",
+        "market_impact": "この脆弱性公表によりOpenAIの信頼性低下やGoogleのエコシステム全体のセキュリティ懸念が市場で広がる可能性がある。特に金融や法務など機微データを扱う業界ではChatGPT for Google Sheetsの導入を見直す動きが加速し、AI統合型業務ツールの採用に慎重姿勢が強まるだろう。脆弱性対応コスト増および顧客離れが影響し、AI関連サービスの成長にも一時的な逆風が予想される。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
-        "published_at": "2026-05-29 11:49"
+        "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+        "published_at": "2026-06-01 05:35"
       },
       {
-        "title": "Domain expertise has always been the real moat",
-        "summary_2lines": "ソフトウェア開発における真の強みは専門領域の知識であり、AIツールはコード作成を容易にしたが正確性の判断は人間のドメイン知識が不可欠である。これにより、技術者とドメイン専門家の双方のスキルを持つ人材が最も価値を持つようになった。",
-        "why_it_matters": "従来、開発者は専門領域を理解しながらコードを書く必要があったが、エージェント型AIの登場でコード生成は容易に。しかし、専門知識を持たない技術者は正しさの判断ができず、専門家もコードを書けないため、両方の知識を持つ人材が重要となる。これにより、開発プロセスや人材育成のあり方が根本的に変わる可能性がある。",
-        "market_impact": "AI活用が進む中、ソフトウェア開発の専門領域に関する知識の価値がさらに高まり、ドメイン知識を持つ人材の需要増加が見込まれる。企業はエンジニアと専門家の連携強化や両者のスキル統合を求められ、生産性向上と品質保証の両立が競争優位の鍵となるだろう。また、教育市場や人材育成の方向性にも影響を与える。",
+        "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+        "summary_2lines": "CloudflareのTurnstile認証がWebGLによるブラウザのフィンガープリント取得を必須化し、一部のプライバシー重視ブラウザで認証ループやアクセス不能が発生している。これによりプライバシー保護機能とサービス利用の間に新たな対立が生じている。",
+        "why_it_matters": "WebGLフィンガープリントはユーザーのデバイス情報を詳細に収集し追跡に利用されるため、プライバシーを重視するユーザーやブラウザ側がブロックしてきたが、Cloudflareが認証のためにこれを事実上必須にしたことで、プライバシー保護とウェブサービスの利用の両立が困難になった。特にWebKitGTKブラウザなど一部ユーザーが影響を受けており、ブラウザ開発者やサービス提供者の対応が求められている。",
+        "market_impact": "プライバシー重視のブラウザのユーザー離れやCloudflare利用サイトのアクセス障害が増加する可能性がある。結果としてCloudflareのサービス運用やブラウザベンダーの機能開発に影響が及び、デジタル広告やトラッキング関連市場にも波及効果が予想される。さらにWebセキュリティ検証とユーザープライバシーのバランスを巡る業界全体の議論が活発化すると見られる。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-        "published_at": "2026-05-31 05:40"
+        "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+        "published_at": "2026-05-31 23:13"
       },
       {
-        "title": "Accenture to acquire Ookla",
-        "summary_2lines": "アクセンチュアはネットワークインテリジェンスの大手企業オークラを買収し、AIとデータを活用したネットワーク最適化能力を強化する。これにより通信事業者や大規模クラウドプロバイダー、企業のWi-Fi・5G環境の高度化を目指す。",
-        "why_it_matters": "現代のネットワークは単なる通信インフラを超え、あらゆる産業におけるデジタル化の中核となるプラットフォームとなっている。AIの普及に伴い、ネットワークを通じたデータ分析による高度なインサイト取得が企業の競争力維持に不可欠であり、アクセンチュアの買収はこの流れを加速させる重要な一手となる。",
-        "market_impact": "この買収によりアクセンチュアは通信事業者やクラウド事業者、企業のネットワーク運用におけるデータ活用とAI統合ソリューションを強化し、業界内での競争優位を獲得する。加えて低遅延で信頼性の高い接続環境のニーズ増大に対応することで、ネットワーク関連サービス市場の成長と収益拡大が期待される。",
+        "title": "Can AI cure loneliness? South Korea’s robot companions for seniors",
+        "summary_2lines": "韓国では高齢化社会の孤独問題解決策としてAI搭載のロボット人形を導入。薬の服用や緊急時対応などを支援しつつも、人間のつながりの代替には懸念が残る。",
+        "why_it_matters": "高齢化が進む韓国では孤独や健康管理の課題が深刻化しており、AIロボットが社会問題の新たな解決手段として注目されている。一方でAI技術が人間関係に与える影響を考慮する必要があるため、技術と倫理のバランスが問われている。",
+        "market_impact": "高齢者向けAIロボット市場の拡大が期待される一方で、介護や見守りサービス分野のビジネスモデル変革を促進。ロボット開発企業やヘルスケア関連企業の投資増加、さらにはAI技術導入に伴う規制整備が経済活動に新たな影響を与える可能性がある。",
         "category": "Tech",
-        "source": "Hacker News",
-        "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
-        "published_at": "2026-05-31 01:28"
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/can-ai-cure-loneliness-south-koreas-robot-companions-for-seniors?traffic_source=rss",
+        "published_at": "2026-06-01 06:07"
       }
     ],
     "Markets": [
       {
-        "title": "Two months, $2.6 billion: How NASA ETF turned SpaceX IPO access into a hot retail trade",
-        "summary_2lines": "Tema ETFsのSpace Innovators ETF（ティッカー：NASA）が、SpaceXのIPO期待を背景に2か月で資産2.6億ドル超を集める急成長を記録。宇宙関連ETFが増加し、一般投資家にもSpaceXなど宇宙産業への間接投資機会が拡大している。",
-        "why_it_matters": "SpaceXのIPOは通常機関投資家が中心となるが、NASA ETFは市場における小口投資家の宇宙関連投資アクセスを拡大し、宇宙産業への関心拡大とテーマ投資の活性化を示している。これにより宇宙関連企業の資金調達環境や投資商品の多様化が促進されている。",
-        "market_impact": "小売投資家の宇宙分野への関心増加で、関連ETFの資産規模が急拡大。SpaceXを含む宇宙関連企業の評価に注目が集まり、新たな資金流入が起きやすくなるほか、ETFの多様化によりテーマ投資の選択肢が増え、宇宙産業の成長加速が期待される。市場全体のイノベーション投資トレンドの一環としても注目。",
+        "title": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
+        "summary_2lines": "フェラーリの初の電気自動車『ルーチェ』は革新的なデザインで話題となる一方、伝統ファンや投資家から激しい批判を受けている。高価格と電動化によるブランドイメージの変化が賛否を呼んでいる。",
+        "why_it_matters": "フェラーリが長年守ってきたガソリンエンジンスーパーカーのイメージから一転し、EV市場へ進出したことでブランドの根幹が揺らいでいる。中国メーカーをはじめとしたEV競争が激化する中、高級車メーカーが伝統と革新の狭間でどのように戦略を描くかが自動車業界全体の方向性に影響を与えるため重要である。",
+        "market_impact": "発表後にフェラーリの株価が8%下落し投資家の不安を示したほか、消費者の期待と異なるデザイン評価が売上に影響する可能性がある。高価格設定とEV化によるブランドイメージの変動は、ライバルの中国EVメーカーとの競争激化を背景にフェラーリの市場ポジションに不確実性をもたらす。さらに、SUVの成功例を踏まえつつも今後のEVラインアップが企業収益の重要要素となるだろう。",
         "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/30/spacex-ipo-invest.html",
-        "published_at": "2026-05-31 00:33"
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-05-31 07:23"
       },
       {
         "title": "Everything is going right for India’s richest man",
-        "summary_2lines": "インドの大富豪ゴータム・アダニ氏が順風満帆な状況にある。彼の事業や投資が好調で注目を集めている。",
-        "why_it_matters": "アダニ氏はインド経済における重要な経済人であり、彼の成功はインド市場や関連企業に大きな影響を与える。彼の事業展開は国内外の投資家や政策にも影響を与えるため注目されている。",
-        "market_impact": "アダニ氏の好調はアダニグループ関連の株価上昇や投資拡大を促し、インドの資本市場に活気をもたらす可能性がある。また、インフラやエネルギー分野での事業拡大が経済成長に寄与する可能性が高い。",
+        "summary_2lines": "インドの富豪ゴータム・アダニが絶好調のビジネス展開を続けている。彼の成功が注目されている。",
+        "why_it_matters": "インドの経済成長を象徴する存在であり、彼の事業拡大はインド国内外の投資環境や経済動向に大きな影響を与えるため重要である。",
+        "market_impact": "アダニグループの業績好調は株価上昇や投資拡大をもたらし、それに連動して関連業界や市場全体の活性化が期待される。インド市場への投資意欲増加も予想される。",
         "category": "Markets",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/05/28/everything-is-going-right-for-indias-richest-man",
         "published_at": "2026-05-28 18:22"
       },
       {
-        "title": "CFTC sues Rhode Island over actions against prediction markets",
-        "summary_2lines": "CFTCがロードアイランド州に対し、予測市場の規制権限を巡って訴訟を起こした。州側はスポーツベッティング法違反を主張する一方、CFTCは連邦機関の規制権を主張している。",
-        "why_it_matters": "予測市場は金融派生商品に位置づけられ、どの規制当局が管轄権を持つかが争点となっている。各州の規制強化とCFTCの一元的管理の対立は、予測市場の合法性や成長に大きな影響を与える可能性がある。",
-        "market_impact": "この訴訟により予測市場プラットフォームの事業展開や法的リスクが増大し、プラットフォームの利用者や関連投資にも影響が及ぶ。特に規制の不確実性は市場の拡大を阻害し、金融市場全体のデリバティブ関連商品取引にも波及する可能性がある。",
+        "title": "Two months, $2.6 billion: How NASA ETF turned SpaceX IPO access into a hot retail trade",
+        "summary_2lines": "NASA ETF（ティッカー：NASA）が開設からわずか37営業日で資産2.6億ドル超に達し、SpaceX IPOを控えたリテール投資家の関心を集めている。SpaceX株を直接保有する数少ない投資商品として人気を博している。",
+        "why_it_matters": "SpaceXは通常機関投資家中心のIPO市場で異例の個人投資家向けアクセスを提供しており、NASA ETFはこのアクセス手段のひとつとなっている。これにより、個人投資家も宇宙関連銘柄の成長ポテンシャルに参加しやすくなり、宇宙産業への投資機会拡大が注目されている。",
+        "market_impact": "ETFを通じた宇宙関連企業への投資需要が高まり、SpaceXのような有力企業の高い評価期待が市場に波及している。さらに、複数の宇宙テーマETFの登場は、テクノロジー革新分野における新たな投資トレンドとして、リテール投資の拡大と資金流入増加を促進し、宇宙産業の資本市場の活性化につながる可能性がある。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/28/cftc-sues-rhode-island-over-actions-against-prediction-markets.html",
-        "published_at": "2026-05-29 04:57"
+        "url": "https://www.cnbc.com/2026/05/30/spacex-ipo-invest.html",
+        "published_at": "2026-05-31 00:33"
+      },
+      {
+        "title": "Oil rises, U.S. stock futures dip as Wall Street looks to extend its winning streak",
+        "summary_2lines": "米国の株価指数先物はほぼ横ばいで推移し、ウォールストリートの連日の上昇が継続する見通しです。原油価格は上昇しています。",
+        "why_it_matters": "ウォールストリートの記録的なラリーが6月にも続くか注目されており、投資家の心理や市場の動向を示す重要な指標となっています。また、原油価格の動きはエネルギーセクターやインフレ動向にも影響します。",
+        "market_impact": "株価先物の安定は市場の強気ムードを反映し、投資拡大や経済活動の活性化に寄与する可能性があります。一方、原油価格の上昇は企業コストや消費者物価に影響を与え、セクター間の業績に差をもたらすことが予想されます。",
+        "category": "Markets",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/oil-rises-u-s-stock-futures-dip-as-wall-street-looks-to-extend-its-winning-streak-2490f216?mod=mw_rss_topstories",
+        "published_at": "2026-06-01 07:17"
+      },
+      {
+        "title": "The stock index you invest in isn’t always the most important decision. Here’s what matters even more.",
+        "summary_2lines": "株式市場で重要なのはどの指数に投資するかではなく、いかに長期間投資を続けるかである。ダウ平均の130年にわたる歴史がそれを裏付けている。",
+        "why_it_matters": "多くの投資家は指数選びに注目しがちだが、長期間の市場滞在によって複利効果が最大化され、資産形成が進むため、この考え方が投資の成功には不可欠である。歴史的なデータは投資の持続性の重要性を示している。",
+        "market_impact": "投資家が短期の市場変動や指数パフォーマンスに左右されず、長期保有を重視する傾向が強まれば、株式市場の安定やボラティリティ低減に寄与する可能性がある。また、金融商品開発やアドバイスにおいても長期投資の重要性がさらに強調されるだろう。",
+        "category": "Markets",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/investing-in-the-dow-or-s-p-500-doesnt-matter-heres-what-actually-does-757aa571?mod=mw_rss_topstories",
+        "published_at": "2026-06-01 05:08"
       }
     ],
     "Geopolitics": [
       {
-        "title": "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
-        "summary_2lines": "レバノン軍はイスラエル軍の最新侵攻に対応するには戦力が不足している。イスラエル軍はレバノンのリタニ川北部まで進出し、ナバティエ市を包囲しつつある。",
-        "why_it_matters": "イスラエルとレバノン間の緊張が高まる中、レバノン軍の防衛力不足は紛争の激化や地域不安定化のリスクを示している。このような地政学的な対立は中東全体の安全保障環境に影響し、国際社会の関心を集めている。",
-        "market_impact": "中東地域の軍事衝突激化により、原油供給の不安定化が懸念され、世界のエネルギー市場や株式市場に不透明感が広がる可能性がある。また、防衛関連企業の株価に短期的な影響が見られる恐れがある。",
+        "title": "Government is now an active investor — and it’s why your portfolio needs ‘home-court advantage’",
+        "summary_2lines": "政府が積極的な投資家として台頭し、国内の国家補助を受けた産業への構造的シフトが進んでいる。グローバリゼーションが後退し、地政学的な力の連合体が形成されつつある。",
+        "why_it_matters": "従来のグローバルな自由市場から、政府主導で国内産業を強化する動きへの転換は、投資環境や企業戦略に大きな変化をもたらす。地政学的リスクが高まる中、投資家は『自国優位』の視点を持つ必要があるため重要である。",
+        "market_impact": "政府の積極的投資と国家補助によって特定の国内産業が成長加速し、国際競争力が国ごとに分断される可能性がある。これによりグローバルサプライチェーンが分断され、企業は地域リスクの管理や市場選定に注意を要するだろう。",
         "category": "Geopolitics",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/lebanese-army-overly-stretched-to-fight-off-latest-israeli-invasion?traffic_source=rss",
-        "published_at": "2026-05-31 06:36"
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/the-u-s-china-rivalry-is-killing-global-supply-chains-your-portfolio-needs-a-home-court-advantage-02870253?mod=mw_rss_topstories",
+        "published_at": "2026-06-01 05:02"
       },
       {
-        "title": "Al Jazeera exclusive interview with rebel FARC faction in Colombia",
-        "summary_2lines": "コロンビアのカタトゥンボ地域で、FARCの反政府派が平和合意の失敗を理由に再び武装闘争を開始。彼らは領土と麻薬取引ルートを巡り勢力争いを続けている。",
-        "why_it_matters": "コロンビアの長年の武力紛争の一翼を担ったFARCの分派が再び紛争に戻ったことは、地域の治安悪化と平和構築への重大な後退を示している。これは中央政府の統治力弱体化や麻薬取引の拡大を招き、国内外の安定に影響を及ぼす。",
-        "market_impact": "治安悪化に伴い国内投資のリスクが上昇し、特にインフラや農業関連企業に影響が及ぶ可能性がある。麻薬取引ルートの争奪戦激化は国際的な麻薬規制市場にも影響を与え、周辺国の治安対策費用増加や通貨市場の不安定化を引き起こす恐れがある。",
+        "title": "New Jersey orders curfew after immigration protests escalate",
+        "summary_2lines": "ニュージャージー州知事のマイキー・シェリル氏が、ニューアークの移民拘留施設周辺で抗議活動が激化したため、夜間外出禁止令を発令し州警察を配備しました。移民抗議とICE職員との衝突が連夜続いています。",
+        "why_it_matters": "移民問題は米国内で社会的・政治的緊張を引き起こしており、治安対策の強化は地域の安定維持を図る狙いがあります。同時に移民政策への反発や法執行機関の対応が注目されており、幅広い社会的影響を伴う事態となっています。",
+        "market_impact": "治安悪化に伴うビジネス環境の不透明感が強まり、地域の経済活動や不動産市場に短期的な打撃が予想されます。また、移民問題の長期化が労働市場や消費動向にも影響を及ぼす可能性があります。",
         "category": "Geopolitics",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/al-jazeera-exclusive-interview-with-rebel-farc-faction-in-colombia?traffic_source=rss",
-        "published_at": "2026-05-31 06:54"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/new-jersey-orders-curfew-after-immigration-protests-escalate?traffic_source=rss",
+        "published_at": "2026-06-01 06:03"
+      },
+      {
+        "title": "Nicaragua confirms death in custody of Indigenous leader Brooklyn Rivera",
+        "summary_2lines": "ニカラグアの先住民指導者ブルックリン・リベラが拘束中に死亡したことが政府により確認された。死因は政府側が細菌感染とする一方で、人権団体は⾃然死に疑問を呈し、政府の責任を強く非難している。",
+        "why_it_matters": "リベラは先住民の権利擁護とサンディニスタ政権への批判的立場で知られ、長期間の不透明な拘束と健康管理の欠如が国際的な人権問題に発展している。政府の強権的な政治運営と人権侵害が改めて世界の注目を集め、ニカラグア情勢の不安定さが浮き彫りになった。",
+        "market_impact": "政治的弾圧や人権問題の深刻化は外国投資家の警戒感を強め、特にニカラグアの天然資源開発に関連する企業活動や投資環境に悪影響を及ぼす可能性がある。米国の強硬な対ニカラグア姿勢も経済制裁や貿易制限に繋がり、経済成長にマイナスとなるリスクが高まっている。",
+        "category": "Geopolitics",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/31/nicaragua-confirms-death-in-custody-of-indigenous-leader-brooklyn-rivera?traffic_source=rss",
+        "published_at": "2026-06-01 06:38"
       }
     ],
     "Economy": [
       {
         "title": "Fed Governor Michelle Bowman warns against hiking interest rates because of inflation spike",
-        "summary_2lines": "米連邦準備制度理事会のミシェル・ボーマン理事は、エネルギー価格の一時的な上昇に対応して利上げするのは効果的でなく、慎重な政策運営を求めた。インフレ率は目標を上回るが、長期的には追加利上げよりも現状維持が予想される。",
-        "why_it_matters": "エネルギー価格の急騰が一時的なインフレ要因であるため、過剰な利上げが経済活動や労働市場に悪影響を及ぼす懸念がある。連邦準備制度の利上げ姿勢は金融政策の柔軟性と経済の持続的成長に関わる重要な判断であり、政策の方向性を理解するうえで重要な示唆となる。",
-        "market_impact": "エネルギー価格のショックに過剰反応しない姿勢が示されたことで、市場は今後の利上げペースの緩やかさを織り込みやすくなり、金融市場の変動が抑制される可能性がある。企業や消費者にとっては借入コストの安定化が期待でき、景気回復の支えとなる一方、インフレが継続するリスクも念頭に置く必要がある。",
+        "summary_2lines": "連邦準備制度理事のミシェル・ボーマンは、エネルギー価格の一時的な急騰に対応して利上げを行うことに警戒感を示した。インフレは依然として目標を上回るが、短期的なエネルギーショックを過剰に反映した金融政策は経済に悪影響を及ぼす可能性があると指摘した。",
+        "why_it_matters": "米連邦準備制度の金融政策は世界経済や市場に大きな影響を与えるため、政策変更の示唆は注目される。特に資源価格変動による一時的なインフレでの利上げを警告することで、金融引き締めのペースが緩やかになる可能性がある。これは今後の経済成長や労働市場の安定に関わる重要な循環点となりうる。",
+        "market_impact": "ボーマンの発言は、市場参加者に対し即時の利上げ期待の後退を促し、株式市場では上昇圧力となる可能性がある。また、金利の当面の据え置きは借入コストを一定水準に保つため、企業の資金調達環境も安定する見通しだ。エネルギー価格の不安定さに対して過剰反応しない方針は、景気後退リスクを抑制する効果も期待される。",
         "category": "Economy",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/05/29/feds-bowman-warns-against-hiking-interest-rates-due-to-inflation-spike.html",
         "published_at": "2026-05-30 01:39"
       },
       {
-        "title": "Top UK chefs call for cutting VAT for pubs and restaurants to 10%",
-        "summary_2lines": "イギリスの著名シェフらが、飲食業界の負担軽減を目的にVAT（付加価値税）を20％から10％に引き下げるよう政府に要請した。パンデミックやエネルギー価格高騰で経営が厳しい中、業界の存続を懸念している。",
-        "why_it_matters": "英国飲食業界はコロナ禍の影響や原材料・人件費高騰により苦境にあり、特に付加価値税の高さが経営圧迫の大きな要因となっている。欧州諸国と比較してVAT率が高いため、税負担の軽減が業界再生や雇用維持に不可欠であるとの認識が広まっている。",
-        "market_impact": "VAT引き下げにより飲食店やパブのコスト負担が軽減すれば、経営環境が改善し、倒産ペースの鈍化や雇用維持につながる可能性がある。反面、政府財政には減収圧力がかかり、他の支出とのバランス調整が必要となるため、政策決定の難航も予想される。また消費者の外食意欲回復が見込めれば関連サプライチェーンにも好影響が及ぶ。",
+        "title": "They call it stupid hot for a reason: Heat muddles animal brains",
+        "summary_2lines": "高温によって動物の認知機能が低下し、生存に必要な行動が取れなくなることが明らかになった。気候変動による熱波の増加が生態系全体に悪影響を及ぼす可能性がある。",
+        "why_it_matters": "動物が熱によって正しく判断できなくなると、食料探しや捕食者回避が困難になり、生存率が低下する。また、花粉媒介など生態系サービスの低下は農作物や自然環境にも悪影響をもたらし、気候変動の影響が経済や食糧安全保障にまで波及するリスクが高まるため重要である。",
+        "market_impact": "農業市場や生態系依存ビジネスにマイナスの影響が考えられる。特に、花粉媒介の減少による収穫量減少や動物種の減少が農業生産性低下を招き、食品価格の上昇や供給不安定化をもたらす可能性がある。また、気候変動に対応した環境保全関連の投資需要が高まることも想定される。",
         "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c78kg45yx0vo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-05-29 19:55"
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/science/2026/05/they-call-it-stupid-hot-for-a-reason-heat-muddles-animal-brains/",
+        "published_at": "2026-05-31 19:00"
       },
       {
-        "title": "‘I have no preexisting conditions’: I’m 56, earn $198,000 and want to retire early. Can I afford private healthcare?",
-        "summary_2lines": "56歳で年収19万8千ドルの筆者が、FIRE（経済的自立と早期リタイア）達成後にプライベート医療保険を負担可能か検討している。健康上の問題はなく、早期リタイア後の医療費リスクを考慮している。",
-        "why_it_matters": "日本や米国を含む多くの先進国で、早期リタイアを目指す人が増える中、リタイア後の医療費負担が大きな課題となっている。特に高額収入者も公的保険の不足を補うためプライベート医療に依存する傾向が強まっており、個人の財務計画に直結する問題である。",
-        "market_impact": "高所得かつ早期リタイア志向の層が増えることで、プライベートヘルスケア市場が拡大する可能性がある。また、保険会社は高リスクに見える層に対して新しい商品設計や価格設定の見直しを迫られるだろう。さらに、個人金融サービスやFIRE関連商品の需要も高まるため金融市場にも影響を与えうる。",
+        "title": "Atherton spent $145K to delay train electrification. The rest of us paid $400M",
+        "summary_2lines": "カルトレインの電化プロジェクトは、カリフォルニアの裕福な小町アサートンによる訴訟で大幅に遅延し、その結果多額の追加費用が発生した。町は訴訟に敗れたが、遅延によるコスト増は数億ドルにのぼった。",
+        "why_it_matters": "本案件は鉄道インフラ整備が地域住民の少数派の反対により遅延し、結果として大量の納税者の負担増と公共交通の進展阻害が起きる構造問題を浮き彫りにした。特に、高額住宅地の住民が限られた法的手続きを利用して公共事業を停滞させ、その損失が広域の利用者に不公平に波及する実態を示しているため、地域経済や都市計画における公共利益と少数意見調整の難しさを示す重要事例といえる。",
+        "market_impact": "今回の遅延と予算超過は州や連邦の公共投資案件への信頼性低下を招く可能性があり、将来の交通インフラ整備計画や関連企業の受注機会に不透明感をもたらす。また、高額な遅延費用の負担は自治体の予算圧迫を助長し、広域経済の効率的な発展を阻害するリスクもある。結果として公共交通の改善が遅れ、地域の経済競争力や住環境の持続可能性にネガティブな影響を及ぼす。",
         "category": "Economy",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/i-have-no-preexisting-conditions-im-56-earn-198-000-and-want-to-retire-early-can-i-afford-private-healthcare-e80cdd26?mod=mw_rss_topstories",
-        "published_at": "2026-05-31 05:55"
+        "source": "Hacker News",
+        "url": "https://peninsulaforeveryone.org/blog/atherton-spent-145k-to-delay-caltrain-electrification-the-rest-of-us-paid-400-million-and-waited-3-extra-years/",
+        "published_at": "2026-06-01 06:55"
       }
     ],
     "Corporate": [
       {
-        "title": "Universal rejects billionaire Bill Ackman's takeover bid",
-        "summary_2lines": "Universal Music Groupは、ビリオネア投資家ビル・アックマンによる643億ドルの買収提案を拒否しました。Universalはこのオファーが会社の価値を根本的に過小評価していると主張しています。",
-        "why_it_matters": "音楽業界最大手であるUniversalが買収提案を拒否したことで、企業価値と経営戦略に関する議論が再燃しています。特にUniversalの株価や市場評価が注目される中、権益を持つ他の大株主や経営陣の考えも複雑に絡んでいます。",
-        "market_impact": "Universalの拒否によって短期的な株価上昇は限定的ですが、今後の財務透明性の向上や経営戦略の強化により、長期的な企業価値向上が見込まれます。また、音楽業界の成長基調の中で他の投資家の動向にも影響を与え、市場全体の投資マインドにも波及効果が及ぶ可能性があります。",
+        "title": "Former Barclays CEO Jes Staley agrees to July 23 interview about Jeffrey Epstein by Oversight panel",
+        "summary_2lines": "元バークレイズCEOのジェス・スターレイ氏が、ジェフリー・エプスタインとの関係を巡る米議会の調査委員会のインタビューに7月23日に応じることを承諾した。スターレイ氏はエプスタイン関連の訴訟や金融規制当局の処分を受けている。",
+        "why_it_matters": "ジェフリー・エプスタインは性的虐待事件で世界的な注目を浴びた人物であり、彼と関係を持った高名な経済人が調査の対象となっている。特にスターレイ氏はJPMorganやBarclaysでの経歴があり、金融機関のリスク管理や企業倫理の観点から重要な意味を持つ。今回の調査は金融業界のコンプライアンス強化や責任追及の一環として注目されている。",
+        "market_impact": "スターレイ氏の調査対応はバークレイズやJPMorganのブランドイメージに影響を与え、金融規制の厳格化が進む可能性がある。エプスタイン事件に関連した損害賠償の巨額和解も金融機関の評判リスクとして資金調達コストや投資家の信頼に影響し得る。今後も金融機関のコンプライアンス強化や経営体制の見直しが求められるだろう。",
         "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cn8pnd9yj4eo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-05-30 04:29"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/31/jes-staley-jeffrey-epstein-interview-house-jpmorgan-chase-barclays.html",
+        "published_at": "2026-06-01 00:53"
       },
       {
-        "title": "Only three-quarters of first class mail delivered on time",
-        "summary_2lines": "ロイヤルメールのファーストクラス郵便の時間通り配達率は75.7％で目標の93％から大幅に下回った。規制当局は調査を検討し、同社は新たに配達目標を引き下げ改善を目指している。",
-        "why_it_matters": "長年続く郵便サービスの遅延は顧客の信頼低下や規制強化を招いている。郵便業界の効率化とコスト管理が重要視される中、社会インフラとしての郵便サービスの質が問われているため、今回の低パフォーマンスは業界全体や消費者に大きな影響を与える。",
-        "market_impact": "ロイヤルメールは複数回の罰金や顧客離れのリスクを抱え、収益への悪影響が予想される。投資計画や業務改善のためのコスト増加も避けられず、株主や投資家の信頼回復と効率改善が急務となっている。また、規制緩和に伴うサービス低下は市場全体の競争環境にも影響する可能性がある。",
+        "title": "Arrive three hours before flight home, airline boss tells UK holidaymakers",
+        "summary_2lines": "Wizz Airの英国責任者は、欧州の入国管理で導入された新しい生体認証システム（EES）による長い待ち時間のため、英国からの帰国便搭乗者は3時間前に空港に到着するよう警告している。特にスペイン、ポルトガル、フランスの空港で遅延が目立ち、今後夏の旅行ピーク時にはさらに混雑が深刻化すると予想されている。",
+        "why_it_matters": "欧州のシェンゲン圏ではEESという新しい出入国管理システムが導入され、非EU旅客に指紋などの生体情報を登録させることでセキュリティ強化を図っている。一方で導入初期の不具合やスタッフ不足が原因で長時間の待ち行列が発生し、旅行者の利便性が低下している。この問題は夏季の旅行需要増と相まって、各国政府や空港運営者にとって大きな運用課題となっている。",
+        "market_impact": "航空会社は乗客の搭乗遅延・欠航リスクが高まりサービス品質の低下を懸念しており、運航ダイヤの変更や接続便の乗継時間延長を余儀なくされる可能性がある。旅行業界全体にも影響し、特に欧州の主要観光地への旅行需要に一時的な減退をもたらすリスクがある。空港や政府は追加人員の確保やシステムの安定化に向けた設備投資・運用改善を迫られるためコスト増加の圧力が強まっている。",
         "category": "Corporate",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cy02jyxz26po?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-05-30 00:51"
+        "url": "https://www.bbc.com/news/articles/c8xw2kjlrlxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-05-30 17:56"
       },
       {
         "title": "How should bosses talk about AI?",
-        "summary_2lines": "従業員は恐怖心を抱くAI技術の導入を求められている。上司はどのようにAIについて話すべきかが問われている。",
-        "why_it_matters": "AIの急速な発展は職場環境を大きく変化させ、従業員の不安や抵抗感を生んでいる。上司が適切なコミュニケーションを取ることは、技術導入の成功と組織の安定に不可欠であるため重要だ。",
-        "market_impact": "企業はAI導入に伴う従業員の心理的ハードルを乗り越える必要があり、適切なマネジメントができなければ生産性低下や人材流出のリスクが高まる。これにより市場競争力に影響を与え、経済全体の技術適応速度にも波及効果がある。",
+        "summary_2lines": "従業員が恐怖を感じるAI技術を受け入れるように求められている。上司はそのコミュニケーション方法について考える必要がある。",
+        "why_it_matters": "AIの導入は業務効率化や競争力強化に繋がる一方で、従業員の不安や抵抗感が組織の生産性や士気に影響を与えるため、適切な対話が重要となっている。",
+        "market_impact": "企業が従業員のAIへの理解と受容を促進できれば、生産性の向上やイノベーションが加速し、市場競争力が高まる。一方でコミュニケーション不足は導入遅延や人材流出のリスクを生み出す可能性がある。",
         "category": "Corporate",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/05/28/how-should-bosses-talk-about-ai",
         "published_at": "2026-05-28 21:54"
       },
       {
-        "title": "BP cares too much about feelings and not enough about performance",
-        "summary_2lines": "BPの会長解任は、感情への配慮が業績重視を上回っている同社の問題を象徴している。企業ガバナンスや経営方針の見直しが求められている状況だ。",
-        "why_it_matters": "BPはエネルギー業界の大手であり、そのトップの交代は企業の方向性や戦略に大きな影響を与える。感情的な配慮が優先され業績への注力が不足しているとの指摘は、投資家や市場に不安をもたらすため重要である。",
-        "market_impact": "経営陣の不安定化によりBP株のボラティリティが高まり、投資家の信頼低下を招く可能性がある。長期的には業績への悪影響、ひいてはエネルギー市場における競争力低下も懸念される。",
+        "title": "Texas is becoming America Inc’s centre of gravity",
+        "summary_2lines": "エクソンが本社をテキサス州に再移転することで、同州が米国の企業活動の中心地としての地位を強めている。テキサスは企業誘致や経済成長の象徴として注目されている。",
+        "why_it_matters": "エクソンの再登記は、多くの大企業がテキサスを拠点に選ぶトレンドの一環であり、税制優遇や規制緩和を求めた企業の移転動向を示している。これは地域経済の発展だけでなく、他州の企業競争力にも影響を与える重要な動きであるため注目される。",
+        "market_impact": "テキサスへの企業移転が進むことで、同州の雇用創出や関連インフラ投資が増加し、地域経済が活性化する。一方、他州は法人税収減や人材流出のリスクを抱える可能性がある。エネルギー分野大手であるエクソンの動きは、エネルギー市場や投資家の注目を集めるだろう。",
         "category": "Corporate",
         "source": "The Economist",
-        "url": "https://www.economist.com/business/2026/05/28/bp-cares-too-much-about-feelings-and-not-enough-about-performance",
-        "published_at": "2026-05-28 18:02"
+        "url": "https://www.economist.com/business/2026/05/31/texas-is-becoming-america-incs-centre-of-gravity",
+        "published_at": "2026-06-01 02:16"
       },
       {
         "title": "This weekend’s two biggest movies were both directed by YouTubers",
-        "summary_2lines": "今週末の興行収入トップ2作品は、いずれもYouTuber出身の監督が手掛けたホラー映画である。特に『Backrooms』はA24の過去最大のオープニング記録を更新し、『Obsession』は異例の週末売上成長を示している。",
-        "why_it_matters": "YouTube出身の若手映像クリエイターが主流映画業界で成功を収める例が増えていることは、伝統的な映画制作の枠組みや人材育成に変化をもたらす可能性がある。彼らが培ったYouTube上の忠実なファン層が、実写長編映画の興行収入に直結しており、新たなスター育成やマーケティング戦略のモデルとなる。",
-        "market_impact": "A24などのインディペンデント映画スタジオにとって、YouTuber監督作品の成功は新しい収益源となりうる。これにより投資や制作の多様化が進み、映画市場における従来型スタジオとネット発コンテンツの連携が強まる可能性がある。また、映画の宣伝方法やターゲット層設定にも影響を及ぼし、デジタルネイティブ層を取り込む動きが加速するだろう。",
+        "summary_2lines": "今週末、YouTuber出身の監督によるホラー映画『Backrooms』と『Obsession』が同時に大ヒットを記録した。特に『Backrooms』はインディーズ系スタジオA24の過去最高の初週成績を更新した。",
+        "why_it_matters": "YouTuberから主流映画監督への転身が成功例として注目されている。従来、動画配信者から映画監督への道は難しいとされていたが、この3作品は安定したファン層の存在と映像表現力で劇場興行を新たに活性化している。",
+        "market_impact": "'Backrooms'の大ヒットはインディーズ系映画の興行可能性を示し、A24のブランド価値向上につながる。また、話題の『Obsession』も驚異的な週毎成長を見せており、新たなホラー映画マーケットの形成や、YouTuber映画監督のプロジェクト増加が予想される。スタジオや配給会社は才能あるYouTubeクリエイターとの連携を強化する動きが加速しそうだ。",
         "category": "Corporate",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
-        "published_at": "2026-05-31 06:12"
+        "url": "https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+        "published_at": "2026-06-01 03:34"
       },
       {
         "title": "Grifters, cynics, and true believers: The family tree of vaccine opponents",
-        "summary_2lines": "ワクチン反対運動の根は古く、18世紀の種痘反対運動にまで遡る。トマス・レヴェンソンは反ワクチン論者を「信者」「詐欺師」「冷笑主義者」の3種類に分類している。",
-        "why_it_matters": "現在の反ワクチン論争は新しい現象ではなく、歴史的に宗教的・道徳的理由から存在しており、その背景を理解することで現代のワクチン接種促進や公衆衛生対策における課題を把握できるため重要である。",
-        "market_impact": "ワクチンに対する根強い反発は製薬企業の市場拡大に影響を与え、ワクチン開発や接種キャンペーンの推進におけるコスト増や社会的抵抗の増大を招く可能性がある。これが医療関連市場や公衆衛生予算に影響を及ぼすリスクが存在する。",
+        "summary_2lines": "ワクチン反対派の主張は歴史的に繰り返されており、道徳的・宗教的な理由からも反発があった。本書はワクチン拒否の背景にある三種類の人々を分類している。",
+        "why_it_matters": "ワクチン反対運動は決して新しい現象ではなく、科学的誤解や宗教的信念が根強く影響していることを理解することで、現代のワクチン普及や公衆衛生政策の課題を正しく捉えられるため重要である。",
+        "market_impact": "ワクチンに対する社会的な不信感は製薬企業の信頼性やワクチン市場の成長に影響を与える可能性がある。また、公衆衛生の不安定化は医療コスト増加や経済生産性低下につながるリスクをはらむ。",
         "category": "Corporate",
         "source": "Ars Technica",
         "url": "https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/",
         "published_at": "2026-05-30 20:00"
-      },
-      {
-        "title": "Environmentalists turn out in force to oppose Trump coal ash rollbacks",
-        "summary_2lines": "トランプ政権は石炭灰の規制を緩和し、環境保護団体が強く反発している。これにより有害物質による水質汚染リスクが高まる懸念がある。",
-        "why_it_matters": "石炭灰には水銀やヒ素、鉛など人体に有害な物質が含まれており、適切な管理が不可欠である。トランプ政権の規制緩和は、環境と公共の健康を危険にさらし、水資源汚染のリスクが増大するため、環境保護と規制の在り方をめぐる重要な論点となっている。",
-        "market_impact": "規制緩和で石炭火力発電所のコスト負担は軽減され、短期的には電力業界に有利に働く可能性がある。一方で、水質汚染や健康被害の悪化による社会的コスト増大が将来的な規制強化や訴訟リスクを招く恐れもあり、建設資材業界への原料供給面での影響も含めて不確実性が高まる。",
-        "category": "Corporate",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/05/environmentalists-turn-out-in-force-to-oppose-trump-coal-ash-rollbacks/",
-        "published_at": "2026-05-30 19:00"
-      },
-      {
-        "title": "‘It is such a fine line’: I am a CFP and see nothing wrong with networking on the golf course. Am I wrong?",
-        "summary_2lines": "CFP（認定ファイナンシャルプランナー）がゴルフコース上でのネットワーキングに問題を感じておらず、その理由を語っている。仕事の関係構築にゴルフを活用することの是非を巡る議論が浮き彫りになっている。",
-        "why_it_matters": "ビジネスにおける人脈形成の手段としてゴルフを利用することは長らくあるが、利益相反や倫理面での議論もある。金融業界の専門家が率直に意見を述べることで、業界内外でのネットワーキングのあり方や倫理基準の再検討につながる可能性がある。",
-        "market_impact": "金融業界において、信頼構築の手法が明確化・透明化されることで、顧客対応や営業活動のルール整備が進む可能性がある。結果として、業界全体の企業倫理やブランドイメージの向上に寄与し、投資家や顧客の安心感が高まることが期待される。",
-        "category": "Corporate",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/it-is-such-a-fine-line-i-am-a-cfp-and-see-nothing-wrong-with-networking-on-the-golf-course-am-i-wrong-50a698e8?mod=mw_rss_topstories",
-        "published_at": "2026-05-31 05:58"
-      },
-      {
-        "title": "As Big Tech’s power demand surges, data centers bring utilities a huge new profit center",
-        "summary_2lines": "ビッグテックのAI開発に伴い電力需要が急増し、データセンターが電力会社にとって新たな収益源となっている。次の段階として、ビッグテックが規制電力会社を直接買収する可能性が指摘されている。",
-        "why_it_matters": "AI技術の進展により大規模なデータ処理が必要となり、膨大な電力消費が発生している。これに対応するため電力インフラの確保が重要課題となり、ビッグテックが自ら電力供給を支配することで事業運営の安定化を図る動きが予想される。",
-        "market_impact": "ビッグテックの電力会社買収が進むと、電力市場の構造変化や規制緩和の動きが加速する可能性がある。これにより電力会社の株価や業界の競争環境が影響を受けるほか、データセンター運営コストの最適化によりAI関連事業の拡大が後押しされるだろう。",
-        "category": "Corporate",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/in-america-big-techs-ai-data-centers-come-first-and-your-community-will-be-last-to-know-06a3fce4?mod=mw_rss_topstories",
-        "published_at": "2026-05-31 03:56"
-      },
-      {
-        "title": "PSG beat Arsenal to win back-to-back Champions League titles after shootout",
-        "summary_2lines": "パリ・サンジェルマン（PSG）がアーセナルとのチャンピオンズリーグ決勝でPK戦の末に勝利し、連覇を達成した。試合は1-1の延長戦の末に決着し、PSGが欧州サッカーの強豪に確固たる地位を築いた。",
-        "why_it_matters": "チャンピオンズリーグは世界で最も権威あるサッカー大会の一つであり、PSGの連覇は同クラブの戦術的成熟と選手層の厚さを示す象徴的な出来事だ。フランスのリーグ1だけでなくヨーロッパ全体におけるクラブの競争力を示すと同時に、アーセナルの進化も注目される。",
-        "market_impact": "PSGの連覇成功はクラブのブランド価値向上やスポンサーシップ契約の拡大を促進し、放映権料の増加やグッズ販売の好調も見込まれる。一方、アーセナルの健闘はクラブの欧州大会での評価を高め、選手市場での知名度や移籍価値を押し上げる可能性がある。スポーツ関連産業やスポンサー、メディア企業への経済効果も期待できる。",
-        "category": "Corporate",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/5/30/psg-beat-arsenal-to-win-back-to-back-champions-league-titles-after-shootout?traffic_source=rss",
-        "published_at": "2026-05-31 06:11"
       }
     ]
   }
