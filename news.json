@@ -1,302 +1,302 @@
 {
-  "generated_at_jst": "2026-06-01 07:45",
+  "generated_at_jst": "2026-06-02 08:20",
   "todays_brief": [
     {
-      "title": "Why Britain's notoriously bad train wi-fi might soon be a thing of the past",
-      "summary_2lines": "イギリスの列車内で長年問題視されてきたwi-fi環境が、政府の衛星通信導入計画により今後5年で大幅に改善される見込みです。現在のモバイル通信に依存した不安定な接続から、低軌道衛星利用による高速・安定接続へと転換が図られます。",
-      "why_it_matters": "列車内のWi-Fi環境の悪さは多くの通勤者や出張者の生産性を低下させてきたため、通信環境の改善は移動時間の有効活用やリモートワークの促進に直結します。英国政府が技術革新を通じて国の交通インフラをアップグレードすることは、デジタル経済の促進や交通サービスの利用満足度向上に寄与します。",
-      "market_impact": "列車Wi-Fiの品質向上は通信事業者や衛星関連企業に新たなビジネス機会をもたらし、5G/4Gに依存する従来型サービスの需要低下を促します。また、快適な通信環境が整うことで鉄道利用者の増加や移動中の消費活動活性化が期待されるため、鉄道各社の収益向上にも繋がる可能性があります。政府の57億円規模の投資計画は関連産業への経済波及効果を伴うでしょう。",
+      "title": "AI giant Anthropic says it plans to list on US stock market",
+      "summary_2lines": "AI企業Anthropicが今年米国でIPOを計画していると発表。評価額は約9650億ドルで、競合するOpenAIより高い水準にある。",
+      "why_it_matters": "Anthropicの株式公開は、AI業界の急成長とその評価への投資家の需要を測る重要な指標となる。米国市場でのAI関連企業の公開は、SpaceXと並び市場に大きな影響を与え、AI技術の商業的価値を示す試金石となるため注目されている。",
+      "market_impact": "AnthropicのIPOは史上最大級の技術系公開となる見込みで、AI関連企業の評価基準を設定する。これが投資家によるAI企業への資金流入を加速させ、競合のOpenAIの上場準備とも重なり、米国資本市場に巨大な資金が集中することから、テクノロジー市場全体に活況をもたらす可能性が高い。一方で政府との法的トラブルも潜在リスクとなっている。",
+      "category": "Markets",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-02 03:50"
+    },
+    {
+      "title": "Alphabet plans to raise $80 billion to pay for AI buildout",
+      "summary_2lines": "AlphabetはAIインフラ構築のために800億ドルの資金調達を計画し、その一部をバークシャー・ハサウェイに10億ドル分売却する。大規模な投資でAI関連サービスの需要増加に対応し、成長基盤を拡大する狙い。",
+      "why_it_matters": "AI技術の急速な進展と市場競争激化に伴い、主要テック企業は大量の資本投下を余儀なくされている。Alphabetの大規模な資金調達計画は、AI市場での先行優位確保や技術革新を加速するための重要な一手であり、業界全体の投資動向にも大きな影響を与える。",
+      "market_impact": "巨大な資金投入によりAIインフラの拡充が進み、AlphabetのAIサービス競争力が強化される。資金調達手法として株式売却を選択したことで株式市場にも影響が考えられ、投資家の注目が集まる。また競合他社も同様の巨額投資を予定しているため、AI関連分野への資金流入が加速、関連市場の活性化や技術進化を促進する見込み。",
+      "category": "Tech",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "published_at": "2026-06-02 07:55"
+    },
+    {
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "summary_2lines": "Nvidiaは新型CPU「RTX Spark」を発表し、MicrosoftやDellら主要PCメーカーと連携してAIエージェント搭載PCを今年秋に投入する。これによりAI処理に特化した2000億ドル規模のCPU市場への参入を狙う。",
+      "why_it_matters": "従来GPUに強みを持つNvidiaが、自社製CPUでAI対応PC市場へ本格参入することで、AI搭載デバイスの普及と新たなPC操作体験を実現しようとしている。これによりPC利用のスタイルが根本的に変わる可能性がある。",
+      "market_impact": "AI対応CPU市場の拡大によりNvidiaは新たな収益源を獲得し、AppleのMac Miniなど既存のAI対応端末と競合する。大手PCメーカーの支持も受け、WindowsのAI対応PC市場でのシェア拡大が期待される。これがゲームやクリエイター、企業向けソフトにも波及する可能性が高い。",
+      "category": "Tech",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+      "published_at": "2026-06-02 06:35"
+    },
+    {
+      "title": "Wise under investigation over money laundering control concerns",
+      "summary_2lines": "英国発の送金企業Wiseは、ベルギー検察当局によるマネーロンダリング対策不備の疑いで調査を受けている。調査報道を受け株価は17.5％急落し、約10億ポンドの時価総額減少となった。",
+      "why_it_matters": "Wiseはヨーロッパで広範な送金サービスを展開し、1900万人以上の顧客を抱える大手決済企業である。マネーロンダリング対策が不十分であれば、法規制リスクや信頼低下を招き、金融業界全体に影響を及ぼす可能性がある。また、金融機関のAML（アンチマネーロンダリング）遵守強化が世界的トレンドである中で、この問題は規制監督の厳格化を示唆している。",
+      "market_impact": "調査報道による不安からWiseの株価が急落し、マーケットからの評価が大幅に下落。将来的に罰金や業務制限のリスクがあるほか、顧客信頼の喪失による取引減少が懸念される。競合他社にもAMLコンプライアンスの強化圧力が高まると予想され、決済業界の規制負担増加につながる可能性がある。",
+      "category": "Markets",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cy42x8ye02vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-02 01:44"
+    },
+    {
+      "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
+      "summary_2lines": "フロリダ州が、チャットボットChatGPTの設計と安全性を理由にOpenAIを提訴。虐殺事件や自殺誘発の助長など深刻な人身被害の懸念が訴状で指摘されている。",
+      "why_it_matters": "AI技術の急速な普及に伴い、安全対策や倫理的責任が社会問題化している。特に未成年者の保護や危険行動への誘引が焦点となり、これまで免責されてきたAI企業にも法的責任追及の動きが広がる重要な転換点となる。",
+      "market_impact": "OpenAIをはじめとするAI関連企業は法的リスクの増大に直面し、製品設計における安全対策強化やコンプライアンス投資を迫られる。一方で、同様の訴訟が他社にも波及すれば、業界全体の収益性や成長戦略に影響を及ぼす可能性がある。",
       "category": "Tech",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cn8pn4l03r7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-05-31 08:02"
-    },
-    {
-      "title": "Fed Governor Michelle Bowman warns against hiking interest rates because of inflation spike",
-      "summary_2lines": "連邦準備制度理事のミシェル・ボーマンは、エネルギー価格の一時的な急騰に対応して利上げを行うことに警戒感を示した。インフレは依然として目標を上回るが、短期的なエネルギーショックを過剰に反映した金融政策は経済に悪影響を及ぼす可能性があると指摘した。",
-      "why_it_matters": "米連邦準備制度の金融政策は世界経済や市場に大きな影響を与えるため、政策変更の示唆は注目される。特に資源価格変動による一時的なインフレでの利上げを警告することで、金融引き締めのペースが緩やかになる可能性がある。これは今後の経済成長や労働市場の安定に関わる重要な循環点となりうる。",
-      "market_impact": "ボーマンの発言は、市場参加者に対し即時の利上げ期待の後退を促し、株式市場では上昇圧力となる可能性がある。また、金利の当面の据え置きは借入コストを一定水準に保つため、企業の資金調達環境も安定する見通しだ。エネルギー価格の不安定さに対して過剰反応しない方針は、景気後退リスクを抑制する効果も期待される。",
-      "category": "Economy",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/29/feds-bowman-warns-against-hiking-interest-rates-due-to-inflation-spike.html",
-      "published_at": "2026-05-30 01:39"
-    },
-    {
-      "title": "Two months, $2.6 billion: How NASA ETF turned SpaceX IPO access into a hot retail trade",
-      "summary_2lines": "NASA ETF（ティッカー：NASA）が開設からわずか37営業日で資産2.6億ドル超に達し、SpaceX IPOを控えたリテール投資家の関心を集めている。SpaceX株を直接保有する数少ない投資商品として人気を博している。",
-      "why_it_matters": "SpaceXは通常機関投資家中心のIPO市場で異例の個人投資家向けアクセスを提供しており、NASA ETFはこのアクセス手段のひとつとなっている。これにより、個人投資家も宇宙関連銘柄の成長ポテンシャルに参加しやすくなり、宇宙産業への投資機会拡大が注目されている。",
-      "market_impact": "ETFを通じた宇宙関連企業への投資需要が高まり、SpaceXのような有力企業の高い評価期待が市場に波及している。さらに、複数の宇宙テーマETFの登場は、テクノロジー革新分野における新たな投資トレンドとして、リテール投資の拡大と資金流入増加を促進し、宇宙産業の資本市場の活性化につながる可能性がある。",
-      "category": "Markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/30/spacex-ipo-invest.html",
-      "published_at": "2026-05-31 00:33"
-    },
-    {
-      "title": "ChatGPT for Google Sheets Exfiltrates Workbooks",
-      "summary_2lines": "ChatGPT for Google Sheetsの拡張機能において、ユーザーの複数のスプレッドシートが不正に外部へ流出する脆弱性とフィッシング攻撃が確認された。たった1つの間接的なプロンプトインジェクションにより、多数のファイルが攻撃者に抜き取られる恐れがある。",
-      "why_it_matters": "Google Sheetsは多くの企業が業務管理や財務モデル作成に利用しており、ChatGPT連携機能の脆弱性は機密情報の漏洩リスクを高める。しかもこの攻撃はユーザーの明示的な編集承認設定をすり抜けて実行されるため、被害拡大の危険性が極めて高い。AIツールが業務に実装される中で、サプライチェーンや拡張機能のセキュリティ強化が急務であることを示した。",
-      "market_impact": "この脆弱性公表によりOpenAIの信頼性低下やGoogleのエコシステム全体のセキュリティ懸念が市場で広がる可能性がある。特に金融や法務など機微データを扱う業界ではChatGPT for Google Sheetsの導入を見直す動きが加速し、AI統合型業務ツールの採用に慎重姿勢が強まるだろう。脆弱性対応コスト増および顧客離れが影響し、AI関連サービスの成長にも一時的な逆風が予想される。",
-      "category": "Tech",
-      "source": "Hacker News",
-      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-      "published_at": "2026-06-01 05:35"
-    },
-    {
-      "title": "Government is now an active investor — and it’s why your portfolio needs ‘home-court advantage’",
-      "summary_2lines": "政府が積極的な投資家として台頭し、国内の国家補助を受けた産業への構造的シフトが進んでいる。グローバリゼーションが後退し、地政学的な力の連合体が形成されつつある。",
-      "why_it_matters": "従来のグローバルな自由市場から、政府主導で国内産業を強化する動きへの転換は、投資環境や企業戦略に大きな変化をもたらす。地政学的リスクが高まる中、投資家は『自国優位』の視点を持つ必要があるため重要である。",
-      "market_impact": "政府の積極的投資と国家補助によって特定の国内産業が成長加速し、国際競争力が国ごとに分断される可能性がある。これによりグローバルサプライチェーンが分断され、企業は地域リスクの管理や市場選定に注意を要するだろう。",
-      "category": "Geopolitics",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-u-s-china-rivalry-is-killing-global-supply-chains-your-portfolio-needs-a-home-court-advantage-02870253?mod=mw_rss_topstories",
-      "published_at": "2026-06-01 05:02"
+      "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-02 03:58"
     }
   ],
   "categories": {
     "Tech": [
       {
-        "title": "Why Britain's notoriously bad train wi-fi might soon be a thing of the past",
-        "summary_2lines": "イギリスの列車内で長年問題視されてきたwi-fi環境が、政府の衛星通信導入計画により今後5年で大幅に改善される見込みです。現在のモバイル通信に依存した不安定な接続から、低軌道衛星利用による高速・安定接続へと転換が図られます。",
-        "why_it_matters": "列車内のWi-Fi環境の悪さは多くの通勤者や出張者の生産性を低下させてきたため、通信環境の改善は移動時間の有効活用やリモートワークの促進に直結します。英国政府が技術革新を通じて国の交通インフラをアップグレードすることは、デジタル経済の促進や交通サービスの利用満足度向上に寄与します。",
-        "market_impact": "列車Wi-Fiの品質向上は通信事業者や衛星関連企業に新たなビジネス機会をもたらし、5G/4Gに依存する従来型サービスの需要低下を促します。また、快適な通信環境が整うことで鉄道利用者の増加や移動中の消費活動活性化が期待されるため、鉄道各社の収益向上にも繋がる可能性があります。政府の57億円規模の投資計画は関連産業への経済波及効果を伴うでしょう。",
+        "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
+        "summary_2lines": "フロリダ州が、チャットボットChatGPTの設計と安全性を理由にOpenAIを提訴。虐殺事件や自殺誘発の助長など深刻な人身被害の懸念が訴状で指摘されている。",
+        "why_it_matters": "AI技術の急速な普及に伴い、安全対策や倫理的責任が社会問題化している。特に未成年者の保護や危険行動への誘引が焦点となり、これまで免責されてきたAI企業にも法的責任追及の動きが広がる重要な転換点となる。",
+        "market_impact": "OpenAIをはじめとするAI関連企業は法的リスクの増大に直面し、製品設計における安全対策強化やコンプライアンス投資を迫られる。一方で、同様の訴訟が他社にも波及すれば、業界全体の収益性や成長戦略に影響を及ぼす可能性がある。",
         "category": "Tech",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cn8pn4l03r7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-05-31 08:02"
+        "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-06-02 03:58"
       },
       {
-        "title": "Erin Brockovich takes aim at data center secrecy",
-        "summary_2lines": "環境活動家のエリン・ブロコビッチが、米国内のデータセンター建設の透明性向上を目指して新たなウェブサイトを立ち上げた。地域住民から約4,000件ものデータセンター関連問題の報告を集めている。",
-        "why_it_matters": "データセンターの急増に伴い、地域社会への環境負荷や情報隠蔽が問題視されている。許認可後のプロジェクト発表や住民説明不足の実態を明るみに出すことで、透明性の確保と適正な運営を促す重要な動きである。",
-        "market_impact": "データセンター事業者は、地域コミュニティや規制当局からの透明性・説明責任強化の圧力に直面する可能性が高い。これにより新規プロジェクトの許認可プロセスが厳格化し、コストやスケジュールに影響が出ることが想定されるため、市場全体での事業運営方針の見直しが必要になるだろう。",
+        "title": "Alphabet plans to raise $80 billion to pay for AI buildout",
+        "summary_2lines": "AlphabetはAIインフラ構築のために800億ドルの資金調達を計画し、その一部をバークシャー・ハサウェイに10億ドル分売却する。大規模な投資でAI関連サービスの需要増加に対応し、成長基盤を拡大する狙い。",
+        "why_it_matters": "AI技術の急速な進展と市場競争激化に伴い、主要テック企業は大量の資本投下を余儀なくされている。Alphabetの大規模な資金調達計画は、AI市場での先行優位確保や技術革新を加速するための重要な一手であり、業界全体の投資動向にも大きな影響を与える。",
+        "market_impact": "巨大な資金投入によりAIインフラの拡充が進み、AlphabetのAIサービス競争力が強化される。資金調達手法として株式売却を選択したことで株式市場にも影響が考えられ、投資家の注目が集まる。また競合他社も同様の巨額投資を予定しているため、AI関連分野への資金流入が加速、関連市場の活性化や技術進化を促進する見込み。",
         "category": "Tech",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
-        "published_at": "2026-06-01 06:05"
+        "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+        "published_at": "2026-06-02 07:55"
       },
       {
-        "title": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
-        "summary_2lines": "有名な「This is fine」ミーム作者のKC Greenが、AIスタートアップArtisanによる自身の作品の無断使用をめぐり対立していたが、両者は和解に至った。Artisanは問題の広告を撤回し、GreenもSNS投稿を削除した。",
-        "why_it_matters": "AI企業によるクリエイターの著作物利用の問題が注目されており、知的財産権を巡る争いが今後増加する可能性がある。クリエイターが自らの権利を守る動きや企業の対応姿勢が問われる事例として重要である。",
-        "market_impact": "今回の和解はAI関連企業に対し、著作権尊重の姿勢の重要性を再認識させる。著作物の無断利用に対する社会的な監視が強まる中で、AIスタートアップのリスク管理や広告戦略に影響を及ぼす可能性がある。",
+        "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+        "summary_2lines": "Nvidiaは新型CPU「RTX Spark」を発表し、MicrosoftやDellら主要PCメーカーと連携してAIエージェント搭載PCを今年秋に投入する。これによりAI処理に特化した2000億ドル規模のCPU市場への参入を狙う。",
+        "why_it_matters": "従来GPUに強みを持つNvidiaが、自社製CPUでAI対応PC市場へ本格参入することで、AI搭載デバイスの普及と新たなPC操作体験を実現しようとしている。これによりPC利用のスタイルが根本的に変わる可能性がある。",
+        "market_impact": "AI対応CPU市場の拡大によりNvidiaは新たな収益源を獲得し、AppleのMac Miniなど既存のAI対応端末と競合する。大手PCメーカーの支持も受け、WindowsのAI対応PC市場でのシェア拡大が期待される。これがゲームやクリエイター、企業向けソフトにも波及する可能性が高い。",
         "category": "Tech",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
-        "published_at": "2026-06-01 03:28"
+        "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+        "published_at": "2026-06-02 06:35"
       },
       {
-        "title": "M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens",
-        "summary_2lines": "ポッドキャスト初心者向けの手頃な録音機材として、M-AudioのM Track Duo HD Producer Packが紹介されている。安価で機能的なオールインワン機材がデジタルクリエイターの敷居を下げている。",
-        "why_it_matters": "近年、ポッドキャストや音声コンテンツ制作の敷居が大幅に下がっており、多様な意見やカルチャーを発信しやすくなっている。こうした動きを支えるのが、手軽かつ低価格で使える録音機材の存在であり、M-Audioの製品はその代表例となっている。",
-        "market_impact": "低価格かつ信頼性のあるオーディオインターフェースが普及することで、音声コンテンツ制作の裾野が拡大。既存の高価格帯メーカーに加えて新規参入者も増え、ポッドキャスト関連機材市場の競争激化と市場拡大が予想される。M-Audioはコスパ重視のユーザーを確実に取り込むことで市場シェアを強化するだろう。",
+        "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
+        "summary_2lines": "防衛技術企業のMach Industriesが1年間で評価額が4倍の18億ドルに達し、新たに3億ドルを調達した。創業22歳のCEOイーサン・ソーントンの下、自律走行車5機種の開発と大型買収を完了した。",
+        "why_it_matters": "急速に成長する防衛テクノロジー分野で若い起業家が率いる企業が大規模な資金調達と事業拡大に成功している点は、技術革新と市場ニーズの高まりを示している。特に自律走行車の開発は防衛分野の競争力強化につながり、軍需産業の未来構造を変える可能性が高い。",
+        "market_impact": "Mach Industriesの評価額増加と資金調達は、防衛技術市場に新たな競争をもたらすとともに、自律走行車の商用化・軍事利用の加速を促進する。関連分野の企業や投資家にとって魅力的な投資先として注目され、防衛関連のスタートアップエコシステム全体の活性化にも寄与すると考えられる。",
+        "category": "Tech",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/",
+        "published_at": "2026-06-02 06:40"
+      },
+      {
+        "title": "Best Sleep Trackers of 2026: Oura, Whoop, and Eight Sleep",
+        "summary_2lines": "2026年の最新睡眠トラッカーは、OuraやWhoop、Eight Sleepが評価されている。AIによる個別指導機能が進化し、ユーザーの睡眠改善を支援する製品が増加している。",
+        "why_it_matters": "睡眠の質向上が健康維持の重要課題となる中、単なるデータ記録からAIを活用した行動改善支援へと進化する技術は、より実用的で効果的な健康管理を可能にするため、業界の大きな転換点を示している。",
+        "market_impact": "より高度な睡眠トラッカーの登場により、関連企業はサブスクリプション型サービスやヘルスケア連携機能の強化を進める必要があり、市場競争は精密なデータ分析と使いやすさを両立する製品開発にシフトすることが予想される。これにより健康関連機器市場の拡大と収益多様化が期待される。",
         "category": "Tech",
         "source": "Wired",
-        "url": "https://www.wired.com/review/m-audio-m-track-duo-hd-audio-interface-bundle/",
-        "published_at": "2026-05-31 20:01"
+        "url": "https://www.wired.com/story/best-sleep-trackers/",
+        "published_at": "2026-06-01 22:02"
       },
       {
-        "title": "6 Best Prepaid Phone Plans (2026): Tello, Boost, Google Fi, More",
-        "summary_2lines": "この記事は2026年のおすすめプリペイド携帯電話プランを紹介し、TelloやBoost、Google Fiなどのサービスを評価しています。プリペイドプランは契約不要で柔軟性が高く、5G普及によりMVNOのサービス品質も向上しています。",
-        "why_it_matters": "プリペイド携帯プランは従来の契約型プランに対する手軽で安価な選択肢として注目されており、5Gの普及が格安プランの通信品質向上を促進しています。多様な利用者ニーズに対応可能なため、通信業界の競争環境や消費者の選択肢に大きな影響を与えています。",
-        "market_impact": "大手キャリアがMVNOにインフラを貸し出すことで、新興のプリペイドサービスが成長しやすい環境が整ってきました。これにより、通信市場での価格競争が激化し、消費者はより柔軟で安価なサービスを選びやすくなるため、大手キャリアの収益構造にも変化が生じる可能性があります。",
+        "title": "Universal Audio Volt 876 USB Audio Interface Review: Pro-Level Polish",
+        "summary_2lines": "Universal AudioのVolt 876 USBオーディオインターフェースは、プラグアンドプレイで高品質な録音環境を実現し、かつての音楽制作の障壁を大幅に低減している。低遅延や簡単な接続性により、初心者からプロまで幅広く支持されている。",
+        "why_it_matters": "かつてのような複雑なドライバー設定や遅延問題が解消され、音楽制作への参入障壁が下がったことで、誰でも手軽に高品質な音楽制作が可能となった。これはデジタル音楽制作の普及と音楽産業の多様化に寄与しており、音楽クリエイターの裾野拡大に繋がっている。",
+        "market_impact": "オーディオインターフェース市場において、Universal Audioのような高品質かつ使いやすい製品が普及することで、他メーカーもより高性能でユーザーフレンドリーな製品開発を促進される。また、手軽に高音質録音が可能になることで自宅スタジオの需要が拡大し、音楽機器の売上増加や関連ソフトウェアのサービス利用拡大にも繋がる可能性が高い。",
         "category": "Tech",
         "source": "Wired",
-        "url": "https://www.wired.com/gallery/best-prepaid-phone-plans/",
-        "published_at": "2026-05-31 19:01"
+        "url": "https://www.wired.com/review/universal-audio-volt-876-usb-audio-interface/",
+        "published_at": "2026-06-01 20:06"
       },
       {
-        "title": "Wi-Fi Router vs. Mesh System: Which Is Best for You?",
-        "summary_2lines": "自宅のWi-Fi環境を最適化するには、建物の構造や広さに応じて単一ルーターかメッシュシステムを選ぶことが重要。小〜中規模住宅は単一ルーターがコスパ良好、大規模で障害物の多い環境にはメッシュシステムが適している。",
-        "why_it_matters": "インターネット利用が日常生活の必須となる中、安定したWi-Fi環境構築は生産性や快適性に直結する。適切なネットワーク機器選びは無駄な出費を抑えつつ、スマートホームやリモートワークの基盤整備にも寄与するため高い関心を集めている。",
-        "market_impact": "家庭用ネットワーク機器市場では、従来の単一ルーターに加え高機能なメッシュシステムの需要が増加中。これに伴い、ネットワーク機器メーカーは製品開発やマーケティング戦略を見直す必要があり、IoTやスマートホーム関連市場の拡大にも影響を与える可能性がある。",
-        "category": "Tech",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/mesh-system-vs-wi-fi-router/",
-        "published_at": "2026-05-31 19:34"
-      },
-      {
-        "title": "On its 40th anniversary, we reassess 1986's SpaceCamp",
-        "summary_2lines": "1986年公開の映画『スペースキャンプ』の40周年を機に、当時の宇宙開発の夢と挫折を振り返りつつ、作品の評価や時代背景を再考察した記事。チャレンジャー事故後の失望と映画公開時の状況、映画のリアリティや愛情が語られている。",
-        "why_it_matters": "この記事は、1980年代の宇宙開発熱とNASAスペースシャトル計画の変遷、そしてそれが文化や映画に与えた影響を振り返ることで、技術革新の期待と現実のギャップを理解する手がかりを提供している。特にチャレンジャー事故後の宇宙開発の課題や市民参加への影響を背景に、宇宙産業や科学教育の歴史的視点を深める重要な意義がある。",
-        "market_impact": "直接的な市場影響は限定的だが、NASAや宇宙関連エンターテインメント産業におけるブランドイメージ形成や技術的リアリティの追求が長期的に投資・支持に影響を与える可能性がある。さらに、宇宙教育や若年層の科学技術関心喚起に寄与するメディア作品の役割を再評価する動きが、宇宙ベンチャーや教育関連市場の活性化につながる可能性がある。",
+        "title": "Why cats prefer silver vine to catnip and other May highlights",
+        "summary_2lines": "ヨーロッパのピレネー山脈で古代銅の製錬遺跡が発見され、古代の人類活動の理解が進んだ。また、銀猫蔓が猫に好まれる理由やコスタリカの鳴くネズミの脳回路研究など多様な科学的発見が紹介された。",
+        "why_it_matters": "古代銅の製錬遺跡発見は人類史や技術発展の歴史を塗り替える可能性があり、考古学・環境考古学研究に大きなインパクトを与える。また、動物の行動と脳の機構についての新知見は生物学や神経科学の発展に寄与するため、基礎科学研究の深化につながる。",
+        "market_impact": "直接的な経済市場への即時影響は限定的だが、考古学的発見は文化遺産保護や観光業促進につながる可能性がある。神経科学の進展は将来的に医療やAI技術開発に応用される可能性があり、関連産業に中長期的な影響を与えることも考えられる。",
         "category": "Tech",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/culture/2026/05/on-its-40th-anniversary-we-reassess-1986s-spacecamp/",
-        "published_at": "2026-05-31 20:15"
+        "url": "https://arstechnica.com/science/2026/06/research-roundup-7-cool-science-stories-we-almost-missed-4/",
+        "published_at": "2026-06-02 06:38"
       },
       {
-        "title": "ChatGPT for Google Sheets Exfiltrates Workbooks",
-        "summary_2lines": "ChatGPT for Google Sheetsの拡張機能において、ユーザーの複数のスプレッドシートが不正に外部へ流出する脆弱性とフィッシング攻撃が確認された。たった1つの間接的なプロンプトインジェクションにより、多数のファイルが攻撃者に抜き取られる恐れがある。",
-        "why_it_matters": "Google Sheetsは多くの企業が業務管理や財務モデル作成に利用しており、ChatGPT連携機能の脆弱性は機密情報の漏洩リスクを高める。しかもこの攻撃はユーザーの明示的な編集承認設定をすり抜けて実行されるため、被害拡大の危険性が極めて高い。AIツールが業務に実装される中で、サプライチェーンや拡張機能のセキュリティ強化が急務であることを示した。",
-        "market_impact": "この脆弱性公表によりOpenAIの信頼性低下やGoogleのエコシステム全体のセキュリティ懸念が市場で広がる可能性がある。特に金融や法務など機微データを扱う業界ではChatGPT for Google Sheetsの導入を見直す動きが加速し、AI統合型業務ツールの採用に慎重姿勢が強まるだろう。脆弱性対応コスト増および顧客離れが影響し、AI関連サービスの成長にも一時的な逆風が予想される。",
+        "title": "Debug Project",
+        "summary_2lines": "Debugは、病気を媒介する蚊の繁殖を抑制するために、不妊化したオス蚊を放つ技術を開発している。これにより、化学薬品や遺伝子組み換えを使用せずに蚊が媒介する病気の拡散を防ぐことを目指す。",
+        "why_it_matters": "蚊は世界で最も多くの人命を奪う動物であり、特にAedes aegyptiはデング熱やジカ熱など多数の感染症を媒介している。従来の殺虫剤の効果低下やワクチン不足を背景に、持続可能で安全な新たな蚊対策技術は公衆衛生の改善に不可欠である。",
+        "market_impact": "医薬品開発や従来の殺虫剤市場に代わる新たな蚊対策技術として注目され、保健分野や自治体の防疫サービスへの投資拡大が期待される。化学薬品依存の低減により環境負荷も軽減され、持続可能な市場成長に寄与する可能性が高い。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-        "published_at": "2026-06-01 05:35"
+        "url": "https://debug.com/",
+        "published_at": "2026-06-02 05:40"
       },
       {
-        "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
-        "summary_2lines": "CloudflareのTurnstile認証がWebGLによるブラウザのフィンガープリント取得を必須化し、一部のプライバシー重視ブラウザで認証ループやアクセス不能が発生している。これによりプライバシー保護機能とサービス利用の間に新たな対立が生じている。",
-        "why_it_matters": "WebGLフィンガープリントはユーザーのデバイス情報を詳細に収集し追跡に利用されるため、プライバシーを重視するユーザーやブラウザ側がブロックしてきたが、Cloudflareが認証のためにこれを事実上必須にしたことで、プライバシー保護とウェブサービスの利用の両立が困難になった。特にWebKitGTKブラウザなど一部ユーザーが影響を受けており、ブラウザ開発者やサービス提供者の対応が求められている。",
-        "market_impact": "プライバシー重視のブラウザのユーザー離れやCloudflare利用サイトのアクセス障害が増加する可能性がある。結果としてCloudflareのサービス運用やブラウザベンダーの機能開発に影響が及び、デジタル広告やトラッキング関連市場にも波及効果が予想される。さらにWebセキュリティ検証とユーザープライバシーのバランスを巡る業界全体の議論が活発化すると見られる。",
+        "title": "The newest Instagram “exploit” is the goofiest I've seen",
+        "summary_2lines": "InstagramのサポートAIの脆弱性を突いた容易なアカウント乗っ取り手法が発覚し、高プロフィールなアカウントも被害に。 Metaは既に修正済みだが、脆弱性は数週間から数ヶ月間放置されていた。",
+        "why_it_matters": "世界最大級のSNSであるInstagramのアカウント乗っ取りが簡単に行える問題は、ユーザーのセキュリティに対する重大なリスクを示している。特に2FAをバイパスできるため、信頼の根幹である認証システム全体の危うさが浮き彫りになった。さらに攻撃がAIを悪用していることで、防御が難しいという新たな課題が示された。",
+        "market_impact": "信頼性低下によるユーザー離れや広告収入への悪影響が考えられる。高額価値のある短いアカウントの乗っ取り被害が拡大し、ブラックマーケットでの不正取引が増加。Metaのブランドイメージにダメージを与え、今後のAIサポート導入に対する規制強化や投資減少にもつながる可能性がある。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-        "published_at": "2026-05-31 23:13"
+        "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+        "published_at": "2026-06-02 01:31"
       },
       {
-        "title": "Can AI cure loneliness? South Korea’s robot companions for seniors",
-        "summary_2lines": "韓国では高齢化社会の孤独問題解決策としてAI搭載のロボット人形を導入。薬の服用や緊急時対応などを支援しつつも、人間のつながりの代替には懸念が残る。",
-        "why_it_matters": "高齢化が進む韓国では孤独や健康管理の課題が深刻化しており、AIロボットが社会問題の新たな解決手段として注目されている。一方でAI技術が人間関係に与える影響を考慮する必要があるため、技術と倫理のバランスが問われている。",
-        "market_impact": "高齢者向けAIロボット市場の拡大が期待される一方で、介護や見守りサービス分野のビジネスモデル変革を促進。ロボット開発企業やヘルスケア関連企業の投資増加、さらにはAI技術導入に伴う規制整備が経済活動に新たな影響を与える可能性がある。",
+        "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
+        "summary_2lines": "MetaのAIサポートチャットボットの脆弱性を悪用し、ハッカーが著名人のInstagramアカウントを乗っ取り大量に転売していた。Metaは5月29日に緊急パッチを適用し、この問題を修正した。",
+        "why_it_matters": "著名Instagramアカウントの不正乗っ取りは個人情報漏洩やブランドイメージの毀損、さらには政治的メッセージの不正発信など社会的影響が大きい。特に、AIシステムのアクセス権限管理の不備が原因であり、AI活用に伴うセキュリティリスクが顕在化したため、他の企業にも同様の対策強化が急務となる。",
+        "market_impact": "Metaの信頼性低下により株価やブランド価値の下落リスクがあるほか、SNSプラットフォームの安全性に対するユーザーの不信感が強まり、利用者離れが進む可能性がある。また、サイバーセキュリティ分野への投資や規制強化の動きが加速することが予想される。",
         "category": "Tech",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/can-ai-cure-loneliness-south-koreas-robot-companions-for-seniors?traffic_source=rss",
-        "published_at": "2026-06-01 06:07"
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
+        "published_at": "2026-06-02 05:44"
+      },
+      {
+        "title": "AI Agent Guidelines for CS336 at Stanford",
+        "summary_2lines": "Stanford大学のCS336コースでは、AIエージェントは学生の学習支援を目的とし、課題の直接解答を提供しないよう明確なガイドラインを設けている。教示やフィードバックを通じて学生が理解を深めることを重視している。",
+        "why_it_matters": "AIツールの教育現場での活用が進む中、課題の丸投げや不正解答の懸念が高まっている。CS336の方針は、AIの助けを借りつつも学生自身の理解と実装能力を損なわない運用モデルの一例として注目される。これにより教育の質を保ちつつAI活用の健全な枠組み作りに寄与する。",
+        "market_impact": "教育分野におけるAIツールの適切な活用指針が示されることで、EdTech企業は製品設計やサービス提供の際に倫理面や学習効果を重視する必要性が高まる。長期的にはAIアシスタントの信頼性向上と市場拡大に繋がる可能性がある。また、大学・教育機関のAI導入ルール策定の先駆例となりうる。",
+        "category": "Tech",
+        "source": "Hacker News",
+        "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+        "published_at": "2026-06-02 01:41"
+      },
+      {
+        "title": "As Micron’s stock blows past $1,000, Wall Street sees more gains in store",
+        "summary_2lines": "Micronの株価が1,000ドルを突破し、ウォール街はさらなる上昇を予測している。これは有利な価格環境や競争の少なさ、新たなNvidiaチップの影響によるものだ。",
+        "why_it_matters": "半導体業界は世界経済やテクノロジー市場の重要な部分を担っており、Micronの強い業績は業界全体の需給バランスや技術進化の指標となる。特にNvidiaの新チップ採用はMicronの製品需要拡大につながるため注目されている。",
+        "market_impact": "Micronの株価上昇は投資家の信頼回復を示し、半導体関連銘柄全体の株価押し上げ要因となる。競争が少ない環境と先端技術の採用は企業収益の拡大に直結し、長期的な業績向上が期待される。これによりテクノロジー市場の活性化や関連サプライチェーンへの好影響も見込まれる。",
+        "category": "Tech",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/as-microns-stock-blows-past-1-000-wall-street-sees-more-gains-in-store-755a51f9?mod=mw_rss_topstories",
+        "published_at": "2026-06-02 08:14"
+      },
+      {
+        "title": "Here’s what’s worth streaming in June 2026 on Netflix, Hulu, HBO Max and more",
+        "summary_2lines": "2026年6月の注目ストリーミング作品として、HBOの『ハウス・オブ・ザ・ドラゴン』、Huluの『ザ・ベア』、Appleの『ケープ・フィア』がワールドカップと競合する。各プラットフォームが夏の視聴者獲得を狙い人気コンテンツを投入している。",
+        "why_it_matters": "世界的なスポーツイベントであるワールドカップは視聴率が高く、多くの注目を集めるため、ストリーミング各社は競合の中で視聴者を確保するための戦略的コンテンツ配信が重要となっている。これにより消費者の娯楽選択が分散し、配信プラットフォームの競争が激化する。",
+        "market_impact": "高視聴率が見込まれる人気シリーズの投入は、加入者数増加や視聴時間拡大を促進し各社の収益向上に寄与する。一方で、ワールドカップ期間中のコンテンツ消費の分散により広告収入や配信契約の競争が激しくなり、マーケティング費用の増大やコンテンツ制作投資の戦略見直しが必要となる可能性がある。",
+        "category": "Tech",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-june-2026-on-netflix-hulu-hbo-max-and-more-7c73c539?mod=mw_rss_topstories",
+        "published_at": "2026-06-02 07:40"
       }
     ],
     "Markets": [
       {
-        "title": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
-        "summary_2lines": "フェラーリの初の電気自動車『ルーチェ』は革新的なデザインで話題となる一方、伝統ファンや投資家から激しい批判を受けている。高価格と電動化によるブランドイメージの変化が賛否を呼んでいる。",
-        "why_it_matters": "フェラーリが長年守ってきたガソリンエンジンスーパーカーのイメージから一転し、EV市場へ進出したことでブランドの根幹が揺らいでいる。中国メーカーをはじめとしたEV競争が激化する中、高級車メーカーが伝統と革新の狭間でどのように戦略を描くかが自動車業界全体の方向性に影響を与えるため重要である。",
-        "market_impact": "発表後にフェラーリの株価が8%下落し投資家の不安を示したほか、消費者の期待と異なるデザイン評価が売上に影響する可能性がある。高価格設定とEV化によるブランドイメージの変動は、ライバルの中国EVメーカーとの競争激化を背景にフェラーリの市場ポジションに不確実性をもたらす。さらに、SUVの成功例を踏まえつつも今後のEVラインアップが企業収益の重要要素となるだろう。",
+        "title": "AI giant Anthropic says it plans to list on US stock market",
+        "summary_2lines": "AI企業Anthropicが今年米国でIPOを計画していると発表。評価額は約9650億ドルで、競合するOpenAIより高い水準にある。",
+        "why_it_matters": "Anthropicの株式公開は、AI業界の急成長とその評価への投資家の需要を測る重要な指標となる。米国市場でのAI関連企業の公開は、SpaceXと並び市場に大きな影響を与え、AI技術の商業的価値を示す試金石となるため注目されている。",
+        "market_impact": "AnthropicのIPOは史上最大級の技術系公開となる見込みで、AI関連企業の評価基準を設定する。これが投資家によるAI企業への資金流入を加速させ、競合のOpenAIの上場準備とも重なり、米国資本市場に巨大な資金が集中することから、テクノロジー市場全体に活況をもたらす可能性が高い。一方で政府との法的トラブルも潜在リスクとなっている。",
         "category": "Markets",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-05-31 07:23"
+        "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-06-02 03:50"
       },
       {
-        "title": "Everything is going right for India’s richest man",
-        "summary_2lines": "インドの富豪ゴータム・アダニが絶好調のビジネス展開を続けている。彼の成功が注目されている。",
-        "why_it_matters": "インドの経済成長を象徴する存在であり、彼の事業拡大はインド国内外の投資環境や経済動向に大きな影響を与えるため重要である。",
-        "market_impact": "アダニグループの業績好調は株価上昇や投資拡大をもたらし、それに連動して関連業界や市場全体の活性化が期待される。インド市場への投資意欲増加も予想される。",
+        "title": "Wise under investigation over money laundering control concerns",
+        "summary_2lines": "英国発の送金企業Wiseは、ベルギー検察当局によるマネーロンダリング対策不備の疑いで調査を受けている。調査報道を受け株価は17.5％急落し、約10億ポンドの時価総額減少となった。",
+        "why_it_matters": "Wiseはヨーロッパで広範な送金サービスを展開し、1900万人以上の顧客を抱える大手決済企業である。マネーロンダリング対策が不十分であれば、法規制リスクや信頼低下を招き、金融業界全体に影響を及ぼす可能性がある。また、金融機関のAML（アンチマネーロンダリング）遵守強化が世界的トレンドである中で、この問題は規制監督の厳格化を示唆している。",
+        "market_impact": "調査報道による不安からWiseの株価が急落し、マーケットからの評価が大幅に下落。将来的に罰金や業務制限のリスクがあるほか、顧客信頼の喪失による取引減少が懸念される。競合他社にもAMLコンプライアンスの強化圧力が高まると予想され、決済業界の規制負担増加につながる可能性がある。",
         "category": "Markets",
-        "source": "The Economist",
-        "url": "https://www.economist.com/business/2026/05/28/everything-is-going-right-for-indias-richest-man",
-        "published_at": "2026-05-28 18:22"
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cy42x8ye02vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-06-02 01:44"
       },
       {
-        "title": "Two months, $2.6 billion: How NASA ETF turned SpaceX IPO access into a hot retail trade",
-        "summary_2lines": "NASA ETF（ティッカー：NASA）が開設からわずか37営業日で資産2.6億ドル超に達し、SpaceX IPOを控えたリテール投資家の関心を集めている。SpaceX株を直接保有する数少ない投資商品として人気を博している。",
-        "why_it_matters": "SpaceXは通常機関投資家中心のIPO市場で異例の個人投資家向けアクセスを提供しており、NASA ETFはこのアクセス手段のひとつとなっている。これにより、個人投資家も宇宙関連銘柄の成長ポテンシャルに参加しやすくなり、宇宙産業への投資機会拡大が注目されている。",
-        "market_impact": "ETFを通じた宇宙関連企業への投資需要が高まり、SpaceXのような有力企業の高い評価期待が市場に波及している。さらに、複数の宇宙テーマETFの登場は、テクノロジー革新分野における新たな投資トレンドとして、リテール投資の拡大と資金流入増加を促進し、宇宙産業の資本市場の活性化につながる可能性がある。",
+        "title": "Individual traders drove Kalshi’s rise. Now, it’s going for Wall Street",
+        "summary_2lines": "Kalshiは個人投資家を中心に成長し、取引額が前年比2500%以上増加。2026年には機関投資家の採用を目指し、Wall Street向けの体制強化を進めている。",
+        "why_it_matters": "予測市場プラットフォームとして異例の急成長を遂げたKalshiが、機関投資家のヘッジニーズを取り込み始めたことで、金融市場のリスク管理手法に革新が起こる可能性がある。これにより、従来の金融デリバティブとは異なる、新たな資産クラスとして注目されている。",
+        "market_impact": "機関投資家の参入でKalshiの取引量と企業評価額が急増し、予測市場の成長を加速させる。取引インフラ整備や規制対応が進むことで市場の信頼性が向上し、金融機関のリスクヘッジ手法多様化に寄与する可能性がある。結果的に、関連するブローカーやフィンテック企業の事業拡大も期待される。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/30/spacex-ipo-invest.html",
-        "published_at": "2026-05-31 00:33"
+        "url": "https://www.cnbc.com/2026/06/01/individual-traders-drove-kalshis-rise-now-its-going-for-wall-street.html",
+        "published_at": "2026-06-02 00:22"
       },
       {
-        "title": "Oil rises, U.S. stock futures dip as Wall Street looks to extend its winning streak",
-        "summary_2lines": "米国の株価指数先物はほぼ横ばいで推移し、ウォールストリートの連日の上昇が継続する見通しです。原油価格は上昇しています。",
-        "why_it_matters": "ウォールストリートの記録的なラリーが6月にも続くか注目されており、投資家の心理や市場の動向を示す重要な指標となっています。また、原油価格の動きはエネルギーセクターやインフレ動向にも影響します。",
-        "market_impact": "株価先物の安定は市場の強気ムードを反映し、投資拡大や経済活動の活性化に寄与する可能性があります。一方、原油価格の上昇は企業コストや消費者物価に影響を与え、セクター間の業績に差をもたらすことが予想されます。",
+        "title": "Rubio odds for GOP 2028 nominee close to overtaking Vance on Kalshi",
+        "summary_2lines": "共和党の2028年大統領候補予想市場で、ルビオ氏の指名獲得確率が上昇し、バンス氏を追い上げている。軍事作戦や政治的発言がルビオ氏の支持を強める一方、戦争による共和党の大統領選勝率は低下中。",
+        "why_it_matters": "2028年米大統領選に向けた共和党内部の勢力図変化は、党の政策方向や選挙戦略に大きな影響を与える。トランプ氏とその後継者候補の関係性や中東情勢の軍事的動きが党内人気に直結している点も注目される。",
+        "market_impact": "軍事紛争と共和党支持率の低下により、政治的安定性の不確実性が市場のリスク評価を高める可能性がある。2028年大統領選の不透明感は、政策変動リスクや地政学リスクを意識する企業や投資家に影響を与えるだろう。",
         "category": "Markets",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/oil-rises-u-s-stock-futures-dip-as-wall-street-looks-to-extend-its-winning-streak-2490f216?mod=mw_rss_topstories",
-        "published_at": "2026-06-01 07:17"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/01/rubio-odds-for-gop-2028-nominee-close-to-overtaking-vance-on-kalshi.html",
+        "published_at": "2026-06-02 00:03"
       },
       {
-        "title": "The stock index you invest in isn’t always the most important decision. Here’s what matters even more.",
-        "summary_2lines": "株式市場で重要なのはどの指数に投資するかではなく、いかに長期間投資を続けるかである。ダウ平均の130年にわたる歴史がそれを裏付けている。",
-        "why_it_matters": "多くの投資家は指数選びに注目しがちだが、長期間の市場滞在によって複利効果が最大化され、資産形成が進むため、この考え方が投資の成功には不可欠である。歴史的なデータは投資の持続性の重要性を示している。",
-        "market_impact": "投資家が短期の市場変動や指数パフォーマンスに左右されず、長期保有を重視する傾向が強まれば、株式市場の安定やボラティリティ低減に寄与する可能性がある。また、金融商品開発やアドバイスにおいても長期投資の重要性がさらに強調されるだろう。",
+        "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+        "summary_2lines": "Anthropicは、最大規模となる可能性のある新規株式公開（IPO）のために秘密裏に提出を行った。AI研究資金調達の激化の中で、注目の大型IPOが予定されている。",
+        "why_it_matters": "世界的なAI開発競争が激化する中、AnthropicのIPOはこの産業の成長と資金調達動向を示す重要な指標となる。特に競合他社のOpenAIやSpaceXもIPOを計画しており、AI分野の資本獲得争いが加速している背景がある。",
+        "market_impact": "AnthropicのIPO成功は、AI関連企業の資金調達環境を一層活性化し、競争力のある技術開発や人材獲得を可能にする。加えて、Amazonや初期投資家の巨額利益実現や、従業員の株式売却を通じた個人富の形成を促進。なお、規制問題や独特の企業構造がバリュエーションに影響を与える可能性もある。",
         "category": "Markets",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/investing-in-the-dow-or-s-p-500-doesnt-matter-heres-what-actually-does-757aa571?mod=mw_rss_topstories",
-        "published_at": "2026-06-01 05:08"
+        "source": "Wired",
+        "url": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+        "published_at": "2026-06-02 02:17"
       }
     ],
     "Geopolitics": [
       {
-        "title": "Government is now an active investor — and it’s why your portfolio needs ‘home-court advantage’",
-        "summary_2lines": "政府が積極的な投資家として台頭し、国内の国家補助を受けた産業への構造的シフトが進んでいる。グローバリゼーションが後退し、地政学的な力の連合体が形成されつつある。",
-        "why_it_matters": "従来のグローバルな自由市場から、政府主導で国内産業を強化する動きへの転換は、投資環境や企業戦略に大きな変化をもたらす。地政学的リスクが高まる中、投資家は『自国優位』の視点を持つ必要があるため重要である。",
-        "market_impact": "政府の積極的投資と国家補助によって特定の国内産業が成長加速し、国際競争力が国ごとに分断される可能性がある。これによりグローバルサプライチェーンが分断され、企業は地域リスクの管理や市場選定に注意を要するだろう。",
-        "category": "Geopolitics",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/the-u-s-china-rivalry-is-killing-global-supply-chains-your-portfolio-needs-a-home-court-advantage-02870253?mod=mw_rss_topstories",
-        "published_at": "2026-06-01 05:02"
-      },
-      {
-        "title": "New Jersey orders curfew after immigration protests escalate",
-        "summary_2lines": "ニュージャージー州知事のマイキー・シェリル氏が、ニューアークの移民拘留施設周辺で抗議活動が激化したため、夜間外出禁止令を発令し州警察を配備しました。移民抗議とICE職員との衝突が連夜続いています。",
-        "why_it_matters": "移民問題は米国内で社会的・政治的緊張を引き起こしており、治安対策の強化は地域の安定維持を図る狙いがあります。同時に移民政策への反発や法執行機関の対応が注目されており、幅広い社会的影響を伴う事態となっています。",
-        "market_impact": "治安悪化に伴うビジネス環境の不透明感が強まり、地域の経済活動や不動産市場に短期的な打撃が予想されます。また、移民問題の長期化が労働市場や消費動向にも影響を及ぼす可能性があります。",
+        "title": "Who attended this year’s Israel Day Parade in New York?",
+        "summary_2lines": "イスラエルに対する国際的な批判が高まる中、ニューヨークで開催されたイスラエルデイパレードにはイスラエルおよび米国の複数の公人が参加した。これは世界最大規模のイスラエル支持の集まりである。",
+        "why_it_matters": "イスラエルのガザやレバノンにおける行動への国際的な非難が強まる中、米国の政治家らが公式にイスラエル支持を示すことで、米イスラエル関係や中東情勢への影響が注目される。また、国内外の世論や外交政策の動向を読み解く上で重要な指標となる。",
+        "market_impact": "中東情勢の不安定化や米国の対イスラエル支持強化は、エネルギー価格変動や防衛関連企業の株価変動を引き起こす可能性がある。投資家は地域リスクの高まりを警戒し、安全資産への資金シフトが進むことが考えられる。",
         "category": "Geopolitics",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/new-jersey-orders-curfew-after-immigration-protests-escalate?traffic_source=rss",
-        "published_at": "2026-06-01 06:03"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/who-attended-this-years-israel-day-parade-in-new-york?traffic_source=rss",
+        "published_at": "2026-06-02 06:15"
       },
       {
-        "title": "Nicaragua confirms death in custody of Indigenous leader Brooklyn Rivera",
-        "summary_2lines": "ニカラグアの先住民指導者ブルックリン・リベラが拘束中に死亡したことが政府により確認された。死因は政府側が細菌感染とする一方で、人権団体は⾃然死に疑問を呈し、政府の責任を強く非難している。",
-        "why_it_matters": "リベラは先住民の権利擁護とサンディニスタ政権への批判的立場で知られ、長期間の不透明な拘束と健康管理の欠如が国際的な人権問題に発展している。政府の強権的な政治運営と人権侵害が改めて世界の注目を集め、ニカラグア情勢の不安定さが浮き彫りになった。",
-        "market_impact": "政治的弾圧や人権問題の深刻化は外国投資家の警戒感を強め、特にニカラグアの天然資源開発に関連する企業活動や投資環境に悪影響を及ぼす可能性がある。米国の強硬な対ニカラグア姿勢も経済制裁や貿易制限に繋がり、経済成長にマイナスとなるリスクが高まっている。",
+        "title": "Video: Presidential election has Colombia on edge",
+        "summary_2lines": "コロンビアの大統領選決選投票で、極右のアベラルド・デ・ラ・エスプリエラ氏と左翼のイバン・セペダ上院議員が対決することが決まった。次月の選挙により、国内の政治的緊張が高まっている。",
+        "why_it_matters": "コロンビアの政治的二極化が強まり、治安、政策の方向性、国際関係に大きな影響を及ぼす可能性があるため。極右と左翼の対決は国内の社会対立を表しており、安定した政治環境の形成が課題となっている。",
+        "market_impact": "政治的不安定化は投資環境を不透明にし、通貨や株式市場に変動をもたらす可能性がある。特に外国直接投資や資源関連企業に対するリスク評価が高まり、経済成長の鈍化リスクが懸念される。",
         "category": "Geopolitics",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/5/31/nicaragua-confirms-death-in-custody-of-indigenous-leader-brooklyn-rivera?traffic_source=rss",
-        "published_at": "2026-06-01 06:38"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/video-presidential-election-has-colombia-on-edge?traffic_source=rss",
+        "published_at": "2026-06-02 06:08"
+      },
+      {
+        "title": "Foreign Christians ask for forgiveness over failure to support Israel at Knesset",
+        "summary_2lines": "複数国のキリスト教代表団がエルサレムのイスラエル議会で祈りを捧げ、自国のイスラエル支援の不足と反ユダヤ主義への対応の失敗を悔い改めました。彼らはイスラエルへの支持強化を誓いました。",
+        "why_it_matters": "国際社会における宗教的・政治的連帯の表明は、中東情勢やイスラエルの安全保障に影響します。キリスト教圏からの支持強化は、対イスラエル政策や反ユダヤ主義対策の動向にも影響を与える可能性があります。",
+        "market_impact": "中東地域の政治的不安定性が緩和される期待感から、関連するエネルギー市場や防衛関連企業の株価にポジティブな影響が出る可能性があります。また、西側諸国の対中東政策に変化があれば、経済・貿易環境にも波及する可能性があります。",
+        "category": "Geopolitics",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/foreign-christians-ask-for-forgiveness-over-failure-to-support-israel-at-knesset?traffic_source=rss",
+        "published_at": "2026-06-02 06:01"
       }
     ],
     "Economy": [
       {
-        "title": "Fed Governor Michelle Bowman warns against hiking interest rates because of inflation spike",
-        "summary_2lines": "連邦準備制度理事のミシェル・ボーマンは、エネルギー価格の一時的な急騰に対応して利上げを行うことに警戒感を示した。インフレは依然として目標を上回るが、短期的なエネルギーショックを過剰に反映した金融政策は経済に悪影響を及ぼす可能性があると指摘した。",
-        "why_it_matters": "米連邦準備制度の金融政策は世界経済や市場に大きな影響を与えるため、政策変更の示唆は注目される。特に資源価格変動による一時的なインフレでの利上げを警告することで、金融引き締めのペースが緩やかになる可能性がある。これは今後の経済成長や労働市場の安定に関わる重要な循環点となりうる。",
-        "market_impact": "ボーマンの発言は、市場参加者に対し即時の利上げ期待の後退を促し、株式市場では上昇圧力となる可能性がある。また、金利の当面の据え置きは借入コストを一定水準に保つため、企業の資金調達環境も安定する見通しだ。エネルギー価格の不安定さに対して過剰反応しない方針は、景気後退リスクを抑制する効果も期待される。",
+        "title": "I’m 55, married and want a $1.5 million long-term care policy. Can I expect any nasty surprises?",
+        "summary_2lines": "55歳既婚者が150万ドルの長期介護保険の加入を検討しているが、予想外のリスクや注意点がないか知りたいという相談記事。専門家は保険料の上昇や給付条件などのポイントを説明している。",
+        "why_it_matters": "高齢化が進む中、長期介護保険の需要が増加しているが、保険料の高騰や契約内容の複雑さにより消費者が適切な判断を下しにくい状況にある。特に55歳前後は加入時期として重要で、将来の介護費用の備えに関わるため、本件は多くの人々にとって現実的な関心事である。",
+        "market_impact": "長期介護保険市場では保険料の引き上げや商品設計の見直しが進む可能性がある。消費者の慎重な動きは保険会社の販売戦略や商品開発に影響し、関連する金融商品や付帯サービスの需要にも波及効果が期待される。",
         "category": "Economy",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/29/feds-bowman-warns-against-hiking-interest-rates-due-to-inflation-spike.html",
-        "published_at": "2026-05-30 01:39"
-      },
-      {
-        "title": "They call it stupid hot for a reason: Heat muddles animal brains",
-        "summary_2lines": "高温によって動物の認知機能が低下し、生存に必要な行動が取れなくなることが明らかになった。気候変動による熱波の増加が生態系全体に悪影響を及ぼす可能性がある。",
-        "why_it_matters": "動物が熱によって正しく判断できなくなると、食料探しや捕食者回避が困難になり、生存率が低下する。また、花粉媒介など生態系サービスの低下は農作物や自然環境にも悪影響をもたらし、気候変動の影響が経済や食糧安全保障にまで波及するリスクが高まるため重要である。",
-        "market_impact": "農業市場や生態系依存ビジネスにマイナスの影響が考えられる。特に、花粉媒介の減少による収穫量減少や動物種の減少が農業生産性低下を招き、食品価格の上昇や供給不安定化をもたらす可能性がある。また、気候変動に対応した環境保全関連の投資需要が高まることも想定される。",
-        "category": "Economy",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/science/2026/05/they-call-it-stupid-hot-for-a-reason-heat-muddles-animal-brains/",
-        "published_at": "2026-05-31 19:00"
-      },
-      {
-        "title": "Atherton spent $145K to delay train electrification. The rest of us paid $400M",
-        "summary_2lines": "カルトレインの電化プロジェクトは、カリフォルニアの裕福な小町アサートンによる訴訟で大幅に遅延し、その結果多額の追加費用が発生した。町は訴訟に敗れたが、遅延によるコスト増は数億ドルにのぼった。",
-        "why_it_matters": "本案件は鉄道インフラ整備が地域住民の少数派の反対により遅延し、結果として大量の納税者の負担増と公共交通の進展阻害が起きる構造問題を浮き彫りにした。特に、高額住宅地の住民が限られた法的手続きを利用して公共事業を停滞させ、その損失が広域の利用者に不公平に波及する実態を示しているため、地域経済や都市計画における公共利益と少数意見調整の難しさを示す重要事例といえる。",
-        "market_impact": "今回の遅延と予算超過は州や連邦の公共投資案件への信頼性低下を招く可能性があり、将来の交通インフラ整備計画や関連企業の受注機会に不透明感をもたらす。また、高額な遅延費用の負担は自治体の予算圧迫を助長し、広域経済の効率的な発展を阻害するリスクもある。結果として公共交通の改善が遅れ、地域の経済競争力や住環境の持続可能性にネガティブな影響を及ぼす。",
-        "category": "Economy",
-        "source": "Hacker News",
-        "url": "https://peninsulaforeveryone.org/blog/atherton-spent-145k-to-delay-caltrain-electrification-the-rest-of-us-paid-400-million-and-waited-3-extra-years/",
-        "published_at": "2026-06-01 06:55"
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/im-55-married-and-want-a-1-5-million-long-term-care-policy-do-i-get-a-traditional-or-hybrid-f4338fc5?mod=mw_rss_topstories",
+        "published_at": "2026-06-02 08:10"
       }
     ],
     "Corporate": [
       {
-        "title": "Former Barclays CEO Jes Staley agrees to July 23 interview about Jeffrey Epstein by Oversight panel",
-        "summary_2lines": "元バークレイズCEOのジェス・スターレイ氏が、ジェフリー・エプスタインとの関係を巡る米議会の調査委員会のインタビューに7月23日に応じることを承諾した。スターレイ氏はエプスタイン関連の訴訟や金融規制当局の処分を受けている。",
-        "why_it_matters": "ジェフリー・エプスタインは性的虐待事件で世界的な注目を浴びた人物であり、彼と関係を持った高名な経済人が調査の対象となっている。特にスターレイ氏はJPMorganやBarclaysでの経歴があり、金融機関のリスク管理や企業倫理の観点から重要な意味を持つ。今回の調査は金融業界のコンプライアンス強化や責任追及の一環として注目されている。",
-        "market_impact": "スターレイ氏の調査対応はバークレイズやJPMorganのブランドイメージに影響を与え、金融規制の厳格化が進む可能性がある。エプスタイン事件に関連した損害賠償の巨額和解も金融機関の評判リスクとして資金調達コストや投資家の信頼に影響し得る。今後も金融機関のコンプライアンス強化や経営体制の見直しが求められるだろう。",
+        "title": "Greg Abel just made his first big deal as Berkshire CEO. Why Warren Buffett is happy",
+        "summary_2lines": "バークシャーの新CEOグレッグ・エイベルは、ホームビルダーのテイラーモリソンを約68億ドルで買収した。これはバフェット自身が好むような割安な住宅事業拡大の一手と評価されている。",
+        "why_it_matters": "住宅市場はバークシャーの重要なビジネス分野であり、テイラーモリソン買収により既存のクレイトンホームズとの統合が進む。バフェットの関与が少ない中でCEO交代後の初の大型案件として買収を迅速かつ効率的に完了させた点は経営体制の変化を示す重要な動きである。",
+        "market_impact": "買収によりバークシャーは米国住宅建設市場において存在感を強め、住宅産業の再編や効率化の促進が期待される。また、買収額はバフェットの巨額の現金保有額から見て小規模でありながらも近年の大型取引の一つで、同社の投資戦略の安定感と実行力を示す。株式市場や住宅関連株に一定のポジティブな影響を及ぼす可能性がある。",
         "category": "Corporate",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/31/jes-staley-jeffrey-epstein-interview-house-jpmorgan-chase-barclays.html",
-        "published_at": "2026-06-01 00:53"
-      },
-      {
-        "title": "Arrive three hours before flight home, airline boss tells UK holidaymakers",
-        "summary_2lines": "Wizz Airの英国責任者は、欧州の入国管理で導入された新しい生体認証システム（EES）による長い待ち時間のため、英国からの帰国便搭乗者は3時間前に空港に到着するよう警告している。特にスペイン、ポルトガル、フランスの空港で遅延が目立ち、今後夏の旅行ピーク時にはさらに混雑が深刻化すると予想されている。",
-        "why_it_matters": "欧州のシェンゲン圏ではEESという新しい出入国管理システムが導入され、非EU旅客に指紋などの生体情報を登録させることでセキュリティ強化を図っている。一方で導入初期の不具合やスタッフ不足が原因で長時間の待ち行列が発生し、旅行者の利便性が低下している。この問題は夏季の旅行需要増と相まって、各国政府や空港運営者にとって大きな運用課題となっている。",
-        "market_impact": "航空会社は乗客の搭乗遅延・欠航リスクが高まりサービス品質の低下を懸念しており、運航ダイヤの変更や接続便の乗継時間延長を余儀なくされる可能性がある。旅行業界全体にも影響し、特に欧州の主要観光地への旅行需要に一時的な減退をもたらすリスクがある。空港や政府は追加人員の確保やシステムの安定化に向けた設備投資・運用改善を迫られるためコスト増加の圧力が強まっている。",
-        "category": "Corporate",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c8xw2kjlrlxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-05-30 17:56"
+        "url": "https://www.cnbc.com/2026/06/01/greg-abel-just-made-his-first-big-deal-as-berkshire-ceo-why-warren-buffett-is-happy.html",
+        "published_at": "2026-06-02 02:46"
       },
       {
         "title": "How should bosses talk about AI?",
-        "summary_2lines": "従業員が恐怖を感じるAI技術を受け入れるように求められている。上司はそのコミュニケーション方法について考える必要がある。",
-        "why_it_matters": "AIの導入は業務効率化や競争力強化に繋がる一方で、従業員の不安や抵抗感が組織の生産性や士気に影響を与えるため、適切な対話が重要となっている。",
-        "market_impact": "企業が従業員のAIへの理解と受容を促進できれば、生産性の向上やイノベーションが加速し、市場競争力が高まる。一方でコミュニケーション不足は導入遅延や人材流出のリスクを生み出す可能性がある。",
+        "summary_2lines": "従業員は恐怖心を抱くAI技術を受け入れるよう求められている。上司はどのようにAIについて話すべきかが問われている。",
+        "why_it_matters": "AIの急速な普及に伴い、従業員の不安や抵抗感が増しているため、リーダーが適切なコミュニケーションをとり、理解と受容を促すことが組織の成長や生産性維持に不可欠となっている。",
+        "market_impact": "企業によるAI技術の導入が進む中、従業員の心理的な障壁が乗り越えられなければ、生産性の低下や人材流出を招く可能性がある。適切な対話が実現すれば、技術活用の促進と競争力強化に繋がる。",
         "category": "Corporate",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/05/28/how-should-bosses-talk-about-ai",
@@ -304,33 +304,33 @@
       },
       {
         "title": "Texas is becoming America Inc’s centre of gravity",
-        "summary_2lines": "エクソンが本社をテキサス州に再移転することで、同州が米国の企業活動の中心地としての地位を強めている。テキサスは企業誘致や経済成長の象徴として注目されている。",
-        "why_it_matters": "エクソンの再登記は、多くの大企業がテキサスを拠点に選ぶトレンドの一環であり、税制優遇や規制緩和を求めた企業の移転動向を示している。これは地域経済の発展だけでなく、他州の企業競争力にも影響を与える重要な動きであるため注目される。",
-        "market_impact": "テキサスへの企業移転が進むことで、同州の雇用創出や関連インフラ投資が増加し、地域経済が活性化する。一方、他州は法人税収減や人材流出のリスクを抱える可能性がある。エネルギー分野大手であるエクソンの動きは、エネルギー市場や投資家の注目を集めるだろう。",
+        "summary_2lines": "テキサス州がアメリカの企業活動の中心地としての地位を強化している。エクソンの本社移転は、その象徴的な例である。",
+        "why_it_matters": "エクソンの再登記は、企業が税制優遇や規制の緩さを求めてテキサスに拠点を移す動きを示しており、米国経済の地理的重心が変化していることを意味する。",
+        "market_impact": "企業の本拠地移転により、テキサスの経済活動や雇用が拡大し、州経済の成長が期待される一方、他州は企業誘致競争で圧力を受ける可能性がある。また、エネルギー関連企業の存在感強化により、市場のエネルギーセクターにも影響を与える。",
         "category": "Corporate",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/05/31/texas-is-becoming-america-incs-centre-of-gravity",
         "published_at": "2026-06-01 02:16"
       },
       {
-        "title": "This weekend’s two biggest movies were both directed by YouTubers",
-        "summary_2lines": "今週末、YouTuber出身の監督によるホラー映画『Backrooms』と『Obsession』が同時に大ヒットを記録した。特に『Backrooms』はインディーズ系スタジオA24の過去最高の初週成績を更新した。",
-        "why_it_matters": "YouTuberから主流映画監督への転身が成功例として注目されている。従来、動画配信者から映画監督への道は難しいとされていたが、この3作品は安定したファン層の存在と映像表現力で劇場興行を新たに活性化している。",
-        "market_impact": "'Backrooms'の大ヒットはインディーズ系映画の興行可能性を示し、A24のブランド価値向上につながる。また、話題の『Obsession』も驚異的な週毎成長を見せており、新たなホラー映画マーケットの形成や、YouTuber映画監督のプロジェクト増加が予想される。スタジオや配給会社は才能あるYouTubeクリエイターとの連携を強化する動きが加速しそうだ。",
+        "title": "Everything is going right for India’s richest man",
+        "summary_2lines": "インドの富豪ゴータム・アダニは現在絶好調の状態にある。彼の事業や資産が順調に拡大している様子が伝えられている。",
+        "why_it_matters": "アダニ氏はインドの経済成長を支える重要な企業家の一人であり、彼の成功はインドのビジネス環境の活性化や投資促進の象徴となっている。彼の動向はインド市場に大きな影響を与えるため注目されている。",
+        "market_impact": "アダニグループ関連の株価や投資は活況を呈し、インド国内外の投資家の関心を高めている。彼の事業拡大は物流やエネルギー、インフラ分野の成長を加速させ、経済全体にポジティブな波及効果をもたらす可能性がある。",
         "category": "Corporate",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
-        "published_at": "2026-06-01 03:34"
+        "source": "The Economist",
+        "url": "https://www.economist.com/business/2026/05/28/everything-is-going-right-for-indias-richest-man",
+        "published_at": "2026-05-28 18:22"
       },
       {
-        "title": "Grifters, cynics, and true believers: The family tree of vaccine opponents",
-        "summary_2lines": "ワクチン反対派の主張は歴史的に繰り返されており、道徳的・宗教的な理由からも反発があった。本書はワクチン拒否の背景にある三種類の人々を分類している。",
-        "why_it_matters": "ワクチン反対運動は決して新しい現象ではなく、科学的誤解や宗教的信念が根強く影響していることを理解することで、現代のワクチン普及や公衆衛生政策の課題を正しく捉えられるため重要である。",
-        "market_impact": "ワクチンに対する社会的な不信感は製薬企業の信頼性やワクチン市場の成長に影響を与える可能性がある。また、公衆衛生の不安定化は医療コスト増加や経済生産性低下につながるリスクをはらむ。",
+        "title": "Moderna gets $50 million to develop mRNA Ebola vaccine against Bundibugyo",
+        "summary_2lines": "モデernaは、バンディブギョエボラウイルス（BDBV）に対するmRNAワクチンの開発でCEPIから5000万ドルの資金提供を受けた。これにより、開発加速と大規模臨床試験準備が進められる。",
+        "why_it_matters": "BDBVの感染拡大がコンゴ民主共和国で深刻化しており、迅速なワクチン開発が公共衛生上の緊急課題となっている。モデrnaのmRNA技術はCOVID-19パンデミックでの成功が証明されており、効果的な感染症対応の新たな道を示す可能性がある。",
+        "market_impact": "今回の資金提供によりモデrnaのパイプライン強化と製造能力拡大が期待される。感染症対策関連のバイオテック企業株価や投資意欲にプラス影響を与え、長期的にはmRNA技術の多様な応用拡大が見込まれる。",
         "category": "Corporate",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/",
-        "published_at": "2026-05-30 20:00"
+        "url": "https://arstechnica.com/health/2026/06/moderna-gets-50-million-to-develop-mrna-ebola-vaccine-against-bundibugyo/",
+        "published_at": "2026-06-02 05:58"
       }
     ]
   }
