@@ -1,302 +1,312 @@
 {
-  "generated_at_jst": "2026-06-02 08:20",
+  "generated_at_jst": "2026-06-03 08:25",
   "todays_brief": [
     {
-      "title": "AI giant Anthropic says it plans to list on US stock market",
-      "summary_2lines": "AI企業Anthropicが今年米国でIPOを計画していると発表。評価額は約9650億ドルで、競合するOpenAIより高い水準にある。",
-      "why_it_matters": "Anthropicの株式公開は、AI業界の急成長とその評価への投資家の需要を測る重要な指標となる。米国市場でのAI関連企業の公開は、SpaceXと並び市場に大きな影響を与え、AI技術の商業的価値を示す試金石となるため注目されている。",
-      "market_impact": "AnthropicのIPOは史上最大級の技術系公開となる見込みで、AI関連企業の評価基準を設定する。これが投資家によるAI企業への資金流入を加速させ、競合のOpenAIの上場準備とも重なり、米国資本市場に巨大な資金が集中することから、テクノロジー市場全体に活況をもたらす可能性が高い。一方で政府との法的トラブルも潜在リスクとなっている。",
+      "title": "Goldman Sachs CEO David Solomon says markets are in 'greed' mode as AI companies seek billions",
+      "summary_2lines": "ゴールドマンサックスのCEOデイビッド・ソロモン氏は、AI企業の大規模な資金調達に対し市場が「強欲」モードに入り、豊富な流動性が存在すると発言した。大型IPOが相次ぐ中、市場は依然として資金吸収力が高いと楽観視している。",
+      "why_it_matters": "AI関連企業の大型資金調達が市場で注目される中、投資家心理の動向は今後の株式市場の流動性や資金調達環境を左右する重要な要素となる。世界的な流動性の高さと投資熱が強気相場を支えていることから、経済成長や技術革新の波及効果が期待される。",
+      "market_impact": "大型のAI関連IPOや資金調達が相次ぐことで株式・債券市場の取引活発化が見込まれ、関連セクターへの投資が増加する可能性が高い。豊富な資金供給が続く限り、多くの企業が積極的な設備投資や研究開発に踏み切ることができ、結果的に市場の成長サイクルを強化する可能性がある一方、市場心理の変動リスクも意識される。",
       "category": "Markets",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-02 03:50"
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html",
+      "published_at": "2026-06-03 04:06"
     },
     {
-      "title": "Alphabet plans to raise $80 billion to pay for AI buildout",
-      "summary_2lines": "AlphabetはAIインフラ構築のために800億ドルの資金調達を計画し、その一部をバークシャー・ハサウェイに10億ドル分売却する。大規模な投資でAI関連サービスの需要増加に対応し、成長基盤を拡大する狙い。",
-      "why_it_matters": "AI技術の急速な進展と市場競争激化に伴い、主要テック企業は大量の資本投下を余儀なくされている。Alphabetの大規模な資金調達計画は、AI市場での先行優位確保や技術革新を加速するための重要な一手であり、業界全体の投資動向にも大きな影響を与える。",
-      "market_impact": "巨大な資金投入によりAIインフラの拡充が進み、AlphabetのAIサービス競争力が強化される。資金調達手法として株式売却を選択したことで株式市場にも影響が考えられ、投資家の注目が集まる。また競合他社も同様の巨額投資を予定しているため、AI関連分野への資金流入が加速、関連市場の活性化や技術進化を促進する見込み。",
+      "title": "Nvidia wants to supercharge your laptop",
+      "summary_2lines": "NvidiaのCEOジェンセン・ファン氏が、AI技術を活用したパソコン向け製品を推進している。これによりノートパソコンの性能と利便性が大幅に向上する見込み。",
+      "why_it_matters": "AI技術の高度化と普及が進む中、NvidiaがPC市場に強力なAI機能をもたらすことで、より多くのユーザーが高性能なAI体験を享受できるようになるため。パソコンの革新的な進化を牽引する重要な動きである。",
+      "market_impact": "ノートパソコン市場におけるAI対応製品の競争が激化し、NvidiaのGPU需要が拡大する可能性が高い。これにより関連するハードウェアメーカーやソフトウェア開発企業にもポジティブな影響を与え、デジタル経済全体の成長を促進する。",
       "category": "Tech",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
-      "published_at": "2026-06-02 07:55"
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/06/02/nvidia-wants-to-supercharge-your-laptop",
+      "published_at": "2026-06-03 02:14"
     },
     {
-      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-      "summary_2lines": "Nvidiaは新型CPU「RTX Spark」を発表し、MicrosoftやDellら主要PCメーカーと連携してAIエージェント搭載PCを今年秋に投入する。これによりAI処理に特化した2000億ドル規模のCPU市場への参入を狙う。",
-      "why_it_matters": "従来GPUに強みを持つNvidiaが、自社製CPUでAI対応PC市場へ本格参入することで、AI搭載デバイスの普及と新たなPC操作体験を実現しようとしている。これによりPC利用のスタイルが根本的に変わる可能性がある。",
-      "market_impact": "AI対応CPU市場の拡大によりNvidiaは新たな収益源を獲得し、AppleのMac Miniなど既存のAI対応端末と競合する。大手PCメーカーの支持も受け、WindowsのAI対応PC市場でのシェア拡大が期待される。これがゲームやクリエイター、企業向けソフトにも波及する可能性が高い。",
+      "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
+      "summary_2lines": "マイクロソフトは、従来のアプリではなくAIエージェントを動かすことを目的としたAndroidベースの新OS「Project Solara」を発表した。多様なデバイス上でその時々に最適化されたUIをAIが自動生成する次世代のプラットフォームを目指す。",
+      "why_it_matters": "従来のアプリ開発やUI設計の手間をAIエージェントに委ねることで、複雑かつコストのかかるソフト開発プロセスに変革を促す可能性がある。モバイル黎明期の苦戦経験を踏まえ、多様なデバイスに対応する新しい形態のOSは、今後のAI技術活用の先駆けとなるから重要だ。",
+      "market_impact": "MicrosoftがGoogleのAndroid基盤を利用しつつ独自のエコシステムを構築することで、モバイルやIoT市場における支配力強化を狙う。企業向けのAI活用促進や、専用デバイス市場の活性化につながり、競合他社に対する優位性を高める可能性が高い。AI代理人によるUI最適化は新たなユーザー体験を創出し、長期的にはソフトウェア開発市場にも影響を与えるだろう。",
       "category": "Tech",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-      "published_at": "2026-06-02 06:35"
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
+      "published_at": "2026-06-03 05:47"
     },
     {
-      "title": "Wise under investigation over money laundering control concerns",
-      "summary_2lines": "英国発の送金企業Wiseは、ベルギー検察当局によるマネーロンダリング対策不備の疑いで調査を受けている。調査報道を受け株価は17.5％急落し、約10億ポンドの時価総額減少となった。",
-      "why_it_matters": "Wiseはヨーロッパで広範な送金サービスを展開し、1900万人以上の顧客を抱える大手決済企業である。マネーロンダリング対策が不十分であれば、法規制リスクや信頼低下を招き、金融業界全体に影響を及ぼす可能性がある。また、金融機関のAML（アンチマネーロンダリング）遵守強化が世界的トレンドである中で、この問題は規制監督の厳格化を示唆している。",
-      "market_impact": "調査報道による不安からWiseの株価が急落し、マーケットからの評価が大幅に下落。将来的に罰金や業務制限のリスクがあるほか、顧客信頼の喪失による取引減少が懸念される。競合他社にもAMLコンプライアンスの強化圧力が高まると予想され、決済業界の規制負担増加につながる可能性がある。",
-      "category": "Markets",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cy42x8ye02vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-02 01:44"
-    },
-    {
-      "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
-      "summary_2lines": "フロリダ州が、チャットボットChatGPTの設計と安全性を理由にOpenAIを提訴。虐殺事件や自殺誘発の助長など深刻な人身被害の懸念が訴状で指摘されている。",
-      "why_it_matters": "AI技術の急速な普及に伴い、安全対策や倫理的責任が社会問題化している。特に未成年者の保護や危険行動への誘引が焦点となり、これまで免責されてきたAI企業にも法的責任追及の動きが広がる重要な転換点となる。",
-      "market_impact": "OpenAIをはじめとするAI関連企業は法的リスクの増大に直面し、製品設計における安全対策強化やコンプライアンス投資を迫られる。一方で、同様の訴訟が他社にも波及すれば、業界全体の収益性や成長戦略に影響を及ぼす可能性がある。",
+      "title": "Palantir Contracts Have Become ‘An Unacceptable Point of Weakness,’ UK Politicians Warn",
+      "summary_2lines": "英国議会の委員会が、公共サービスにおけるパランティアへの過度な依存を「受け入れがたい弱点」と警告し、契約解除を求めている。政治的な価値観の不一致や供給リスクも指摘されている。",
+      "why_it_matters": "英国政府はデジタル化推進のためパランティアの技術を導入しているが、依存が進むことで交渉力が偏り、サービスの品質低下や公共サービス停止のリスクが高まる。さらに、パランティア創業者らの政治的発言が英国の公共価値と対立し、公的機関に対する信頼性が損なわれる可能性もあるため重要な問題となっている。",
+      "market_impact": "パランティアに対する批判と契約解除の動きは、同社の英国市場での事業機会を縮小させる可能性が高い。NHSや国防省との大型契約が影響を受けることで、パランティアの収益成長に逆風となり得る。また、この問題は米国系テクノロジー企業に対する欧州のセキュリティ・依存リスクへの懸念を一層強め、他の米国IT大手にも波及効果が見込まれる。",
       "category": "Tech",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-02 03:58"
+      "source": "Wired",
+      "url": "https://www.wired.com/story/uk-government-palantir-warning-report/",
+      "published_at": "2026-06-03 08:05"
+    },
+    {
+      "title": "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
+      "summary_2lines": "トランプ前大統領とイスラエルのネタニヤフ首相の親密な関係に亀裂があるとの匿名報道が続くが、実際の米国の対イスラエル政策にはほとんど変化がない。専門家は言葉のやりとりよりも政策実態が重要だと指摘している。",
+      "why_it_matters": "米イスラエル関係は中東和平やイラン問題に大きく影響し、現在の両国間緊張や戦争状態は地域の安定を揺るがしている。米国内外での報道は政治的駆け引きや世論操作の一環ともみなされており、実態との乖離が外交政策の信頼性に直結するため重要な問題となっている。",
+      "market_impact": "中東での戦闘激化や米国の対イラン政策により、ホルムズ海峡の封鎖などエネルギー供給に影響が出ている。これが米国内のガソリン価格上昇やインフレ悪化を招き、消費や企業活動に負の影響を及ぼしている。また、地政学リスクの高まりは資源価格の変動や市場の不安定化を助長しうる。",
+      "category": "Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/2/trump-berated-netanyahu-scepticism-abounds-about-us-israel-feud-rumour?traffic_source=rss",
+      "published_at": "2026-06-03 06:59"
     }
   ],
   "categories": {
     "Tech": [
       {
-        "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
-        "summary_2lines": "フロリダ州が、チャットボットChatGPTの設計と安全性を理由にOpenAIを提訴。虐殺事件や自殺誘発の助長など深刻な人身被害の懸念が訴状で指摘されている。",
-        "why_it_matters": "AI技術の急速な普及に伴い、安全対策や倫理的責任が社会問題化している。特に未成年者の保護や危険行動への誘引が焦点となり、これまで免責されてきたAI企業にも法的責任追及の動きが広がる重要な転換点となる。",
-        "market_impact": "OpenAIをはじめとするAI関連企業は法的リスクの増大に直面し、製品設計における安全対策強化やコンプライアンス投資を迫られる。一方で、同様の訴訟が他社にも波及すれば、業界全体の収益性や成長戦略に影響を及ぼす可能性がある。",
+        "title": "Nvidia wants to supercharge your laptop",
+        "summary_2lines": "NvidiaのCEOジェンセン・ファン氏が、AI技術を活用したパソコン向け製品を推進している。これによりノートパソコンの性能と利便性が大幅に向上する見込み。",
+        "why_it_matters": "AI技術の高度化と普及が進む中、NvidiaがPC市場に強力なAI機能をもたらすことで、より多くのユーザーが高性能なAI体験を享受できるようになるため。パソコンの革新的な進化を牽引する重要な動きである。",
+        "market_impact": "ノートパソコン市場におけるAI対応製品の競争が激化し、NvidiaのGPU需要が拡大する可能性が高い。これにより関連するハードウェアメーカーやソフトウェア開発企業にもポジティブな影響を与え、デジタル経済全体の成長を促進する。",
         "category": "Tech",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-06-02 03:58"
+        "source": "The Economist",
+        "url": "https://www.economist.com/business/2026/06/02/nvidia-wants-to-supercharge-your-laptop",
+        "published_at": "2026-06-03 02:14"
       },
       {
-        "title": "Alphabet plans to raise $80 billion to pay for AI buildout",
-        "summary_2lines": "AlphabetはAIインフラ構築のために800億ドルの資金調達を計画し、その一部をバークシャー・ハサウェイに10億ドル分売却する。大規模な投資でAI関連サービスの需要増加に対応し、成長基盤を拡大する狙い。",
-        "why_it_matters": "AI技術の急速な進展と市場競争激化に伴い、主要テック企業は大量の資本投下を余儀なくされている。Alphabetの大規模な資金調達計画は、AI市場での先行優位確保や技術革新を加速するための重要な一手であり、業界全体の投資動向にも大きな影響を与える。",
-        "market_impact": "巨大な資金投入によりAIインフラの拡充が進み、AlphabetのAIサービス競争力が強化される。資金調達手法として株式売却を選択したことで株式市場にも影響が考えられ、投資家の注目が集まる。また競合他社も同様の巨額投資を予定しているため、AI関連分野への資金流入が加速、関連市場の活性化や技術進化を促進する見込み。",
-        "category": "Tech",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
-        "published_at": "2026-06-02 07:55"
-      },
-      {
-        "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-        "summary_2lines": "Nvidiaは新型CPU「RTX Spark」を発表し、MicrosoftやDellら主要PCメーカーと連携してAIエージェント搭載PCを今年秋に投入する。これによりAI処理に特化した2000億ドル規模のCPU市場への参入を狙う。",
-        "why_it_matters": "従来GPUに強みを持つNvidiaが、自社製CPUでAI対応PC市場へ本格参入することで、AI搭載デバイスの普及と新たなPC操作体験を実現しようとしている。これによりPC利用のスタイルが根本的に変わる可能性がある。",
-        "market_impact": "AI対応CPU市場の拡大によりNvidiaは新たな収益源を獲得し、AppleのMac Miniなど既存のAI対応端末と競合する。大手PCメーカーの支持も受け、WindowsのAI対応PC市場でのシェア拡大が期待される。これがゲームやクリエイター、企業向けソフトにも波及する可能性が高い。",
+        "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+        "summary_2lines": "UberはAI利用コストが予算超過したため、従業員ごとに月額1,500ドルの使用上限を設定した。AI活用促進の反動として費用抑制策を導入した形だ。",
+        "why_it_matters": "AI導入が企業の生産性向上や新サービス創出に期待される一方で、コスト管理が追いつかずROIが不透明な問題が浮き彫りになった。Uberの対応は多くの企業が直面するAI投資の負の側面を示している。",
+        "market_impact": "UberのAI支出抑制は他社にも費用対効果の厳格な見直しを促し、AI関連開発投資の慎重化につながる可能性がある。これにより当面はAI市場の成長ペースに一定の調整圧力がかかると考えられる。",
         "category": "Tech",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-        "published_at": "2026-06-02 06:35"
+        "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+        "published_at": "2026-06-03 04:11"
       },
       {
-        "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
-        "summary_2lines": "防衛技術企業のMach Industriesが1年間で評価額が4倍の18億ドルに達し、新たに3億ドルを調達した。創業22歳のCEOイーサン・ソーントンの下、自律走行車5機種の開発と大型買収を完了した。",
-        "why_it_matters": "急速に成長する防衛テクノロジー分野で若い起業家が率いる企業が大規模な資金調達と事業拡大に成功している点は、技術革新と市場ニーズの高まりを示している。特に自律走行車の開発は防衛分野の競争力強化につながり、軍需産業の未来構造を変える可能性が高い。",
-        "market_impact": "Mach Industriesの評価額増加と資金調達は、防衛技術市場に新たな競争をもたらすとともに、自律走行車の商用化・軍事利用の加速を促進する。関連分野の企業や投資家にとって魅力的な投資先として注目され、防衛関連のスタートアップエコシステム全体の活性化にも寄与すると考えられる。",
+        "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+        "summary_2lines": "データストレージセキュリティ企業Cyeraは、年間経常収益（ARR）の80倍に達する120億ドルの評価額で少なくとも3億ドルの資金調達を計画している。急速な売上成長にもかかわらず、依然として利益は出ておらず、多額の設備投資と買収に資金を充てている。",
+        "why_it_matters": "高いARR倍率で巨額評価を受けるCyeraは、AIを活用したサイバーセキュリティ市場で急成長中の企業の典型例であり、投資家が将来の成長可能性を重視していることを示す。一方で、収益性の不確実性と多額の運営赤字は、成長を続けるスタートアップ業界のリスクとトレンドを浮き彫りにしている。",
+        "market_impact": "Cyeraの大型資金調達はサイバーセキュリティ分野の投資意欲を刺激し、同業他社の資金調達環境やM&A動向にも影響を与える可能性がある。特にAIを武器にした攻撃対策ニーズの高まりを背景に、関連市場の競争激化と技術革新が加速することが予想される。",
         "category": "Tech",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/",
-        "published_at": "2026-06-02 06:40"
+        "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+        "published_at": "2026-06-03 07:50"
       },
       {
-        "title": "Best Sleep Trackers of 2026: Oura, Whoop, and Eight Sleep",
-        "summary_2lines": "2026年の最新睡眠トラッカーは、OuraやWhoop、Eight Sleepが評価されている。AIによる個別指導機能が進化し、ユーザーの睡眠改善を支援する製品が増加している。",
-        "why_it_matters": "睡眠の質向上が健康維持の重要課題となる中、単なるデータ記録からAIを活用した行動改善支援へと進化する技術は、より実用的で効果的な健康管理を可能にするため、業界の大きな転換点を示している。",
-        "market_impact": "より高度な睡眠トラッカーの登場により、関連企業はサブスクリプション型サービスやヘルスケア連携機能の強化を進める必要があり、市場競争は精密なデータ分析と使いやすさを両立する製品開発にシフトすることが予想される。これにより健康関連機器市場の拡大と収益多様化が期待される。",
+        "title": "Cyberdecks are having a moment, rejecting big tech surveillance with style and substance",
+        "summary_2lines": "近年、DIYハードウェアコミュニティが急増し、ソーラーパワー搭載のゲームエミュレーターや小型電子書籍リーダーなどがSNSで話題に。これらのサイバーデッキは大手テック企業の監視から距離を置く新しいスタイルとして注目されている。",
+        "why_it_matters": "個人のプライバシー意識の高まりや、大手テック企業による監視への反発が強まる中、自作ハードウェアへの関心が急増。技術への主体的な関わりや自己表現の手段として、サイバーデッキが生活や文化に新しい価値観をもたらしている。",
+        "market_impact": "DIYハードウェアの普及は従来の大型電子機器市場に挑戦を投げかけ、特に個人のプライバシー保護関連デバイスや小型・省エネ機器の需要が増加。これにより、大手テック企業の支配力に変化が生じる可能性がある。",
+        "category": "Tech",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/",
+        "published_at": "2026-06-03 05:20"
+      },
+      {
+        "title": "Palantir Contracts Have Become ‘An Unacceptable Point of Weakness,’ UK Politicians Warn",
+        "summary_2lines": "英国議会の委員会が、公共サービスにおけるパランティアへの過度な依存を「受け入れがたい弱点」と警告し、契約解除を求めている。政治的な価値観の不一致や供給リスクも指摘されている。",
+        "why_it_matters": "英国政府はデジタル化推進のためパランティアの技術を導入しているが、依存が進むことで交渉力が偏り、サービスの品質低下や公共サービス停止のリスクが高まる。さらに、パランティア創業者らの政治的発言が英国の公共価値と対立し、公的機関に対する信頼性が損なわれる可能性もあるため重要な問題となっている。",
+        "market_impact": "パランティアに対する批判と契約解除の動きは、同社の英国市場での事業機会を縮小させる可能性が高い。NHSや国防省との大型契約が影響を受けることで、パランティアの収益成長に逆風となり得る。また、この問題は米国系テクノロジー企業に対する欧州のセキュリティ・依存リスクへの懸念を一層強め、他の米国IT大手にも波及効果が見込まれる。",
         "category": "Tech",
         "source": "Wired",
-        "url": "https://www.wired.com/story/best-sleep-trackers/",
-        "published_at": "2026-06-01 22:02"
+        "url": "https://www.wired.com/story/uk-government-palantir-warning-report/",
+        "published_at": "2026-06-03 08:05"
       },
       {
-        "title": "Universal Audio Volt 876 USB Audio Interface Review: Pro-Level Polish",
-        "summary_2lines": "Universal AudioのVolt 876 USBオーディオインターフェースは、プラグアンドプレイで高品質な録音環境を実現し、かつての音楽制作の障壁を大幅に低減している。低遅延や簡単な接続性により、初心者からプロまで幅広く支持されている。",
-        "why_it_matters": "かつてのような複雑なドライバー設定や遅延問題が解消され、音楽制作への参入障壁が下がったことで、誰でも手軽に高品質な音楽制作が可能となった。これはデジタル音楽制作の普及と音楽産業の多様化に寄与しており、音楽クリエイターの裾野拡大に繋がっている。",
-        "market_impact": "オーディオインターフェース市場において、Universal Audioのような高品質かつ使いやすい製品が普及することで、他メーカーもより高性能でユーザーフレンドリーな製品開発を促進される。また、手軽に高音質録音が可能になることで自宅スタジオの需要が拡大し、音楽機器の売上増加や関連ソフトウェアのサービス利用拡大にも繋がる可能性が高い。",
+        "title": "Android Is Fighting Phone Scams With a New Feature to Prove Who’s Calling",
+        "summary_2lines": "GoogleはAndroid向けに、通話相手の正当性をリアルタイムで検証し、詐称電話を警告する新機能を導入した。これにより、AI音声クローンを使った詐称電話の被害軽減を目指す。",
+        "why_it_matters": "詐称電話やスパム通話は長年大きな社会問題であり、特にAIによる音声クローン技術の悪用で被害が増加している。Googleの新機能は、電話番号と端末の連携確認により、高精度で偽電話の検出を図る新たな防御策として注目される。",
+        "market_impact": "本機能の導入により、Androidエコシステム内でのユーザー信頼が向上し、通話関連サービスのセキュリティ水準が上がる。スパム電話被害の減少は通信事業者やプラットフォーム事業者のコスト軽減にもつながり、広範な影響を及ぼす可能性がある。また、他OSや端末の追随も期待されるため、通信業界全体のセキュリティ対策強化競争を促進するだろう。",
         "category": "Tech",
         "source": "Wired",
-        "url": "https://www.wired.com/review/universal-audio-volt-876-usb-audio-interface/",
-        "published_at": "2026-06-01 20:06"
+        "url": "https://www.wired.com/story/android-is-fighting-phone-scams-with-a-new-feature-to-prove-whos-calling/",
+        "published_at": "2026-06-03 03:00"
       },
       {
-        "title": "Why cats prefer silver vine to catnip and other May highlights",
-        "summary_2lines": "ヨーロッパのピレネー山脈で古代銅の製錬遺跡が発見され、古代の人類活動の理解が進んだ。また、銀猫蔓が猫に好まれる理由やコスタリカの鳴くネズミの脳回路研究など多様な科学的発見が紹介された。",
-        "why_it_matters": "古代銅の製錬遺跡発見は人類史や技術発展の歴史を塗り替える可能性があり、考古学・環境考古学研究に大きなインパクトを与える。また、動物の行動と脳の機構についての新知見は生物学や神経科学の発展に寄与するため、基礎科学研究の深化につながる。",
-        "market_impact": "直接的な経済市場への即時影響は限定的だが、考古学的発見は文化遺産保護や観光業促進につながる可能性がある。神経科学の進展は将来的に医療やAI技術開発に応用される可能性があり、関連産業に中長期的な影響を与えることも考えられる。",
+        "title": "If I had a hammer... it might actually be a rhino tooth",
+        "summary_2lines": "ネアンデルタール人がサイの歯を道具として使っていた可能性を、現代の考古学者が実験で確認しました。絶滅危惧種のサイの歯を用いることで、古代の道具制作の理解が深まりました。",
+        "why_it_matters": "人類史や文化の進化を理解するために、古代の人々の生活様式や技術の検証は重要です。特にネアンデルタール人の道具利用は彼らの知能や適応力を示し、絶滅危惧種の素材利用に関する倫理的側面も議論されます。",
+        "market_impact": "本研究は考古学・文化財保護分野の知見を深めるもので、市場や企業への直接的な経済的影響は限定的です。ただし、希少動物の取引規制の重要性や倫理的利用が改めて注目され、関連法規の遵守が企業活動に影響を与える可能性があります。",
         "category": "Tech",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/science/2026/06/research-roundup-7-cool-science-stories-we-almost-missed-4/",
-        "published_at": "2026-06-02 06:38"
+        "url": "https://arstechnica.com/science/2026/06/experiments-reveal-that-neanderthals-used-rhino-teeth-as-hammers/",
+        "published_at": "2026-06-03 04:54"
       },
       {
-        "title": "Debug Project",
-        "summary_2lines": "Debugは、病気を媒介する蚊の繁殖を抑制するために、不妊化したオス蚊を放つ技術を開発している。これにより、化学薬品や遺伝子組み換えを使用せずに蚊が媒介する病気の拡散を防ぐことを目指す。",
-        "why_it_matters": "蚊は世界で最も多くの人命を奪う動物であり、特にAedes aegyptiはデング熱やジカ熱など多数の感染症を媒介している。従来の殺虫剤の効果低下やワクチン不足を背景に、持続可能で安全な新たな蚊対策技術は公衆衛生の改善に不可欠である。",
-        "market_impact": "医薬品開発や従来の殺虫剤市場に代わる新たな蚊対策技術として注目され、保健分野や自治体の防疫サービスへの投資拡大が期待される。化学薬品依存の低減により環境負荷も軽減され、持続可能な市場成長に寄与する可能性が高い。",
-        "category": "Tech",
-        "source": "Hacker News",
-        "url": "https://debug.com/",
-        "published_at": "2026-06-02 05:40"
-      },
-      {
-        "title": "The newest Instagram “exploit” is the goofiest I've seen",
-        "summary_2lines": "InstagramのサポートAIの脆弱性を突いた容易なアカウント乗っ取り手法が発覚し、高プロフィールなアカウントも被害に。 Metaは既に修正済みだが、脆弱性は数週間から数ヶ月間放置されていた。",
-        "why_it_matters": "世界最大級のSNSであるInstagramのアカウント乗っ取りが簡単に行える問題は、ユーザーのセキュリティに対する重大なリスクを示している。特に2FAをバイパスできるため、信頼の根幹である認証システム全体の危うさが浮き彫りになった。さらに攻撃がAIを悪用していることで、防御が難しいという新たな課題が示された。",
-        "market_impact": "信頼性低下によるユーザー離れや広告収入への悪影響が考えられる。高額価値のある短いアカウントの乗っ取り被害が拡大し、ブラックマーケットでの不正取引が増加。Metaのブランドイメージにダメージを与え、今後のAIサポート導入に対する規制強化や投資減少にもつながる可能性がある。",
-        "category": "Tech",
-        "source": "Hacker News",
-        "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-        "published_at": "2026-06-02 01:31"
-      },
-      {
-        "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
-        "summary_2lines": "MetaのAIサポートチャットボットの脆弱性を悪用し、ハッカーが著名人のInstagramアカウントを乗っ取り大量に転売していた。Metaは5月29日に緊急パッチを適用し、この問題を修正した。",
-        "why_it_matters": "著名Instagramアカウントの不正乗っ取りは個人情報漏洩やブランドイメージの毀損、さらには政治的メッセージの不正発信など社会的影響が大きい。特に、AIシステムのアクセス権限管理の不備が原因であり、AI活用に伴うセキュリティリスクが顕在化したため、他の企業にも同様の対策強化が急務となる。",
-        "market_impact": "Metaの信頼性低下により株価やブランド価値の下落リスクがあるほか、SNSプラットフォームの安全性に対するユーザーの不信感が強まり、利用者離れが進む可能性がある。また、サイバーセキュリティ分野への投資や規制強化の動きが加速することが予想される。",
+        "title": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
+        "summary_2lines": "Amazon傘下のRingが提供する顔認識機能「Familiar Faces」により、多数の米国居住者の顔データが収集されているとして集団訴訟が提起された。訴訟は5百万ドル以上の損害賠償を求めている。",
+        "why_it_matters": "顔認識技術のプライバシー問題が世界的に注目される中、大手テクノロジー企業Amazonが提供するRingカメラによる個人情報の収集が法的リスクに直面した。個人の生体情報の扱いと同意の実態が問われ、今後の規制強化や消費者の信頼に影響を与える可能性が高い。",
+        "market_impact": "この訴訟はAmazonのブランドイメージとユーザー信頼にダメージを与える恐れがあり、Ring製品の販売や新機能の展開に慎重さが求められる。さらに、顔認識技術関連の規制強化を促し、同分野の他企業にも波及効果がある可能性がある。法的コスト増や規制対応により業界全体の成長に一時的な抑制がかかる可能性もある。",
         "category": "Tech",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
-        "published_at": "2026-06-02 05:44"
+        "url": "https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/",
+        "published_at": "2026-06-03 05:17"
       },
       {
-        "title": "AI Agent Guidelines for CS336 at Stanford",
-        "summary_2lines": "Stanford大学のCS336コースでは、AIエージェントは学生の学習支援を目的とし、課題の直接解答を提供しないよう明確なガイドラインを設けている。教示やフィードバックを通じて学生が理解を深めることを重視している。",
-        "why_it_matters": "AIツールの教育現場での活用が進む中、課題の丸投げや不正解答の懸念が高まっている。CS336の方針は、AIの助けを借りつつも学生自身の理解と実装能力を損なわない運用モデルの一例として注目される。これにより教育の質を保ちつつAI活用の健全な枠組み作りに寄与する。",
-        "market_impact": "教育分野におけるAIツールの適切な活用指針が示されることで、EdTech企業は製品設計やサービス提供の際に倫理面や学習効果を重視する必要性が高まる。長期的にはAIアシスタントの信頼性向上と市場拡大に繋がる可能性がある。また、大学・教育機関のAI導入ルール策定の先駆例となりうる。",
+        "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
+        "summary_2lines": "マイクロソフトは、従来のアプリではなくAIエージェントを動かすことを目的としたAndroidベースの新OS「Project Solara」を発表した。多様なデバイス上でその時々に最適化されたUIをAIが自動生成する次世代のプラットフォームを目指す。",
+        "why_it_matters": "従来のアプリ開発やUI設計の手間をAIエージェントに委ねることで、複雑かつコストのかかるソフト開発プロセスに変革を促す可能性がある。モバイル黎明期の苦戦経験を踏まえ、多様なデバイスに対応する新しい形態のOSは、今後のAI技術活用の先駆けとなるから重要だ。",
+        "market_impact": "MicrosoftがGoogleのAndroid基盤を利用しつつ独自のエコシステムを構築することで、モバイルやIoT市場における支配力強化を狙う。企業向けのAI活用促進や、専用デバイス市場の活性化につながり、競合他社に対する優位性を高める可能性が高い。AI代理人によるUI最適化は新たなユーザー体験を創出し、長期的にはソフトウェア開発市場にも影響を与えるだろう。",
+        "category": "Tech",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
+        "published_at": "2026-06-03 05:47"
+      },
+      {
+        "title": "MAI-Code-1-Flash",
+        "summary_2lines": "Microsoftは、新しいコーディングモデルMAI-Code-1-Flashを発表しました。これは日常の開発者向けワークフローに最適化され、既存モデルより高精度かつ効率的に動作します。",
+        "why_it_matters": "このモデルはGitHub Copilotと密接に統合され、開発現場での実際のニーズに応じて設計されています。高い指示遵守能力と効率性により、開発者の生産性向上に寄与することが期待され、市場におけるAI支援プログラミングの競争を加速させます。",
+        "market_impact": "MAI-Code-1-FlashによりMicrosoftはAIコーディング支援分野での競争優位を強化し、GitHub Copilotの価値向上とユーザー拡大が見込まれます。これにより開発者向けツール市場のシェア拡大やコスト削減効果が期待され、関連企業の競争動向にも影響を与えるでしょう。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-        "published_at": "2026-06-02 01:41"
+        "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+        "published_at": "2026-06-03 03:47"
       },
       {
-        "title": "As Micron’s stock blows past $1,000, Wall Street sees more gains in store",
-        "summary_2lines": "Micronの株価が1,000ドルを突破し、ウォール街はさらなる上昇を予測している。これは有利な価格環境や競争の少なさ、新たなNvidiaチップの影響によるものだ。",
-        "why_it_matters": "半導体業界は世界経済やテクノロジー市場の重要な部分を担っており、Micronの強い業績は業界全体の需給バランスや技術進化の指標となる。特にNvidiaの新チップ採用はMicronの製品需要拡大につながるため注目されている。",
-        "market_impact": "Micronの株価上昇は投資家の信頼回復を示し、半導体関連銘柄全体の株価押し上げ要因となる。競争が少ない環境と先端技術の採用は企業収益の拡大に直結し、長期的な業績向上が期待される。これによりテクノロジー市場の活性化や関連サプライチェーンへの好影響も見込まれる。",
+        "title": "CT scans of BYD car parts",
+        "summary_2lines": "プラスチック製の飲料ボトルは、長年にわたる技術革新と設計努力の成果であり、単なる使い捨て商品以上の複雑な工学が投入されている。特にBYDの車部品のCTスキャンなど高度な解析手法により、製品設計の現実化が促進されている。",
+        "why_it_matters": "日常的に使用される使い捨て商品や自動車部品にも膨大な研究開発と工学技術が注ぎ込まれていることを示し、製造業の高度化や効率的な設計プロセスの重要性を理解するうえで示唆に富む。これにより製品の品質向上やサステナビリティ推進にもつながる視点がもたらされる。",
+        "market_impact": "高度なCTスキャン技術を用いた車部品の精密解析は、自動車製造業界での品質管理や設計改善を促進し、製品信頼性向上や開発コスト削減に寄与する可能性がある。また、プラスチック製品の持続可能な設計が市場での差別化要因となり、環境規制強化にも対応しやすくなるため、関連企業の競争力強化に繋がる。",
         "category": "Tech",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/as-microns-stock-blows-past-1-000-wall-street-sees-more-gains-in-store-755a51f9?mod=mw_rss_topstories",
-        "published_at": "2026-06-02 08:14"
+        "source": "Hacker News",
+        "url": "https://www.lumafield.com/scan-of-the-month/byd",
+        "published_at": "2026-06-03 05:30"
       },
       {
-        "title": "Here’s what’s worth streaming in June 2026 on Netflix, Hulu, HBO Max and more",
-        "summary_2lines": "2026年6月の注目ストリーミング作品として、HBOの『ハウス・オブ・ザ・ドラゴン』、Huluの『ザ・ベア』、Appleの『ケープ・フィア』がワールドカップと競合する。各プラットフォームが夏の視聴者獲得を狙い人気コンテンツを投入している。",
-        "why_it_matters": "世界的なスポーツイベントであるワールドカップは視聴率が高く、多くの注目を集めるため、ストリーミング各社は競合の中で視聴者を確保するための戦略的コンテンツ配信が重要となっている。これにより消費者の娯楽選択が分散し、配信プラットフォームの競争が激化する。",
-        "market_impact": "高視聴率が見込まれる人気シリーズの投入は、加入者数増加や視聴時間拡大を促進し各社の収益向上に寄与する。一方で、ワールドカップ期間中のコンテンツ消費の分散により広告収入や配信契約の競争が激しくなり、マーケティング費用の増大やコンテンツ制作投資の戦略見直しが必要となる可能性がある。",
+        "title": "He Blew the Whistle on DOGE. Then His Brakes Were Cut",
+        "summary_2lines": "NLRBの職員ダン・ベルリス氏が政府効率化部門（DOGE）のデータ不正持ち出しを内部告発した直後、車のブレーキを切られるなどの脅迫を受けている。イーロン・マスク氏は告発を「虚偽」と公に否定し、ベリス氏の安全を脅かす状況が続いている。",
+        "why_it_matters": "米政府内でイーロン・マスク氏主導のDOGEが連邦職員を解雇し、監視や透明性なしに機密データへアクセスする異常事態が起きている。告発者が暴力的脅迫や名誉毀損にさらされる事態は、公的機関の内部統制、情報保護、告発者保護の深刻な問題を示しているため、民主主義の根幹に関わる重要事件である。",
+        "market_impact": "DOGE関連の政府介入とイーロン・マスクの行動が公になることで、テクノロジー分野および関連企業のガバナンス問題が注目される。政府データのセキュリティリスク増大は、連邦調達や政府関連IT市場に不確実性をもたらし、関連企業の信用低下や規制強化の可能性が高まる。",
         "category": "Tech",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-june-2026-on-netflix-hulu-hbo-max-and-more-7c73c539?mod=mw_rss_topstories",
-        "published_at": "2026-06-02 07:40"
+        "source": "Wired",
+        "url": "https://www.wired.com/story/he-blew-the-whistle-on-doge-then-his-brakes-were-cut/",
+        "published_at": "2026-06-03 04:16"
+      },
+      {
+        "title": "California’s university system went all in on AI, now it's tearing itself apart",
+        "summary_2lines": "カリフォルニア大学システムはAI技術導入に積極的に取り組んだが、その過程で内部対立や混乱が生じている。AI活用の是非や運用方針を巡る意見の衝突が組織の分裂を生んでいる状況だ。",
+        "why_it_matters": "大学という教育機関がAI技術の導入を進めることは、今後の教育や研究のあり方に大きな影響をもたらす。AIの急速な普及に伴う倫理的・運用上の課題が浮き彫りとなり、組織運営の難しさや方針決定の重要性が改めて示されたため重要である。",
+        "market_impact": "教育機関がAI導入で混乱する事例は、技術導入の成功か失敗かを判断する指標として注目される。特に大型システムでのAI利用に伴うリスク管理や統制の課題が明確になることで、AI関連ソリューション企業や教育テクノロジー市場への影響が出る可能性がある。",
+        "category": "Tech",
+        "source": "Hacker News",
+        "url": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html",
+        "published_at": "2026-06-02 16:46"
+      },
+      {
+        "title": "Drones light up Taipei’s night sky for Computex trade show",
+        "summary_2lines": "台北101周辺でドローンを使った光のショーが開催され、巨大ロボットやスポーツカー、地球の映像が描かれた。このイベントはアジア最大級の技術展示会、Computex Taipeiの一環で行われた。",
+        "why_it_matters": "Computexは世界中のテクノロジー企業が集まる重要なイベントであり、最新技術のPRやビジネス機会創出の場となっている。ドローン光ショーは台湾の技術力や先進性をアピールする象徴的な演出となり、多様なテクノロジーの融合を示す。",
+        "market_impact": "このような先端技術イベントは台湾のIT関連企業のブランド力向上や新製品の注目獲得に寄与し、取引機会の拡大が期待される。また、ドローン技術の市場活性化や関連産業の成長促進にも繋がる可能性がある。",
+        "category": "Tech",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/drones-light-up-taipeis-night-sky-for-computex-trade-show?traffic_source=rss",
+        "published_at": "2026-06-03 06:59"
       }
     ],
     "Markets": [
       {
-        "title": "AI giant Anthropic says it plans to list on US stock market",
-        "summary_2lines": "AI企業Anthropicが今年米国でIPOを計画していると発表。評価額は約9650億ドルで、競合するOpenAIより高い水準にある。",
-        "why_it_matters": "Anthropicの株式公開は、AI業界の急成長とその評価への投資家の需要を測る重要な指標となる。米国市場でのAI関連企業の公開は、SpaceXと並び市場に大きな影響を与え、AI技術の商業的価値を示す試金石となるため注目されている。",
-        "market_impact": "AnthropicのIPOは史上最大級の技術系公開となる見込みで、AI関連企業の評価基準を設定する。これが投資家によるAI企業への資金流入を加速させ、競合のOpenAIの上場準備とも重なり、米国資本市場に巨大な資金が集中することから、テクノロジー市場全体に活況をもたらす可能性が高い。一方で政府との法的トラブルも潜在リスクとなっている。",
-        "category": "Markets",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-06-02 03:50"
-      },
-      {
-        "title": "Wise under investigation over money laundering control concerns",
-        "summary_2lines": "英国発の送金企業Wiseは、ベルギー検察当局によるマネーロンダリング対策不備の疑いで調査を受けている。調査報道を受け株価は17.5％急落し、約10億ポンドの時価総額減少となった。",
-        "why_it_matters": "Wiseはヨーロッパで広範な送金サービスを展開し、1900万人以上の顧客を抱える大手決済企業である。マネーロンダリング対策が不十分であれば、法規制リスクや信頼低下を招き、金融業界全体に影響を及ぼす可能性がある。また、金融機関のAML（アンチマネーロンダリング）遵守強化が世界的トレンドである中で、この問題は規制監督の厳格化を示唆している。",
-        "market_impact": "調査報道による不安からWiseの株価が急落し、マーケットからの評価が大幅に下落。将来的に罰金や業務制限のリスクがあるほか、顧客信頼の喪失による取引減少が懸念される。競合他社にもAMLコンプライアンスの強化圧力が高まると予想され、決済業界の規制負担増加につながる可能性がある。",
-        "category": "Markets",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cy42x8ye02vo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-06-02 01:44"
-      },
-      {
-        "title": "Individual traders drove Kalshi’s rise. Now, it’s going for Wall Street",
-        "summary_2lines": "Kalshiは個人投資家を中心に成長し、取引額が前年比2500%以上増加。2026年には機関投資家の採用を目指し、Wall Street向けの体制強化を進めている。",
-        "why_it_matters": "予測市場プラットフォームとして異例の急成長を遂げたKalshiが、機関投資家のヘッジニーズを取り込み始めたことで、金融市場のリスク管理手法に革新が起こる可能性がある。これにより、従来の金融デリバティブとは異なる、新たな資産クラスとして注目されている。",
-        "market_impact": "機関投資家の参入でKalshiの取引量と企業評価額が急増し、予測市場の成長を加速させる。取引インフラ整備や規制対応が進むことで市場の信頼性が向上し、金融機関のリスクヘッジ手法多様化に寄与する可能性がある。結果的に、関連するブローカーやフィンテック企業の事業拡大も期待される。",
+        "title": "Traders say Karen Bass and Spencer Pratt will advance to runoff in high-profile L.A. mayoral race",
+        "summary_2lines": "ロサンゼルス市長選で現職のカレン・バス氏と元リアリティスターのスペンサー・プラット氏が決選投票に進む見込み。バス氏が強いリードを保つ一方、プラット氏も二位通過予想で注目されている。",
+        "why_it_matters": "ロサンゼルスは全米第2位の人口を持つ大都市であり、市長選の結果は都市政策や地域経済、さらには民主党・共和党の勢力図に影響を与える。特に多様な有権者層を抱える同市の政治動向は、今後の都市運営や他都市への影響拡大の指標となるため注目される。",
+        "market_impact": "現職のバス氏再選が市場に安定感をもたらす一方、プラット氏の保守色の強い政策が支持を得れば、規制緩和や税制変更など経済政策に変化が生じる可能性がある。特に、不動産やインフラ関連企業、地元経済に直結する公共事業が影響を受けるため、投資家は市長選の動向を注視する必要がある。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/01/individual-traders-drove-kalshis-rise-now-its-going-for-wall-street.html",
-        "published_at": "2026-06-02 00:22"
+        "url": "https://www.cnbc.com/2026/06/02/bass-and-pratt-will-advance-in-la-mayoral-race-traders-say.html",
+        "published_at": "2026-06-03 04:55"
       },
       {
-        "title": "Rubio odds for GOP 2028 nominee close to overtaking Vance on Kalshi",
-        "summary_2lines": "共和党の2028年大統領候補予想市場で、ルビオ氏の指名獲得確率が上昇し、バンス氏を追い上げている。軍事作戦や政治的発言がルビオ氏の支持を強める一方、戦争による共和党の大統領選勝率は低下中。",
-        "why_it_matters": "2028年米大統領選に向けた共和党内部の勢力図変化は、党の政策方向や選挙戦略に大きな影響を与える。トランプ氏とその後継者候補の関係性や中東情勢の軍事的動きが党内人気に直結している点も注目される。",
-        "market_impact": "軍事紛争と共和党支持率の低下により、政治的安定性の不確実性が市場のリスク評価を高める可能性がある。2028年大統領選の不透明感は、政策変動リスクや地政学リスクを意識する企業や投資家に影響を与えるだろう。",
+        "title": "Goldman Sachs CEO David Solomon says markets are in 'greed' mode as AI companies seek billions",
+        "summary_2lines": "ゴールドマンサックスのCEOデイビッド・ソロモン氏は、AI企業の大規模な資金調達に対し市場が「強欲」モードに入り、豊富な流動性が存在すると発言した。大型IPOが相次ぐ中、市場は依然として資金吸収力が高いと楽観視している。",
+        "why_it_matters": "AI関連企業の大型資金調達が市場で注目される中、投資家心理の動向は今後の株式市場の流動性や資金調達環境を左右する重要な要素となる。世界的な流動性の高さと投資熱が強気相場を支えていることから、経済成長や技術革新の波及効果が期待される。",
+        "market_impact": "大型のAI関連IPOや資金調達が相次ぐことで株式・債券市場の取引活発化が見込まれ、関連セクターへの投資が増加する可能性が高い。豊富な資金供給が続く限り、多くの企業が積極的な設備投資や研究開発に踏み切ることができ、結果的に市場の成長サイクルを強化する可能性がある一方、市場心理の変動リスクも意識される。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/01/rubio-odds-for-gop-2028-nominee-close-to-overtaking-vance-on-kalshi.html",
-        "published_at": "2026-06-02 00:03"
+        "url": "https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html",
+        "published_at": "2026-06-03 04:06"
       },
       {
-        "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
-        "summary_2lines": "Anthropicは、最大規模となる可能性のある新規株式公開（IPO）のために秘密裏に提出を行った。AI研究資金調達の激化の中で、注目の大型IPOが予定されている。",
-        "why_it_matters": "世界的なAI開発競争が激化する中、AnthropicのIPOはこの産業の成長と資金調達動向を示す重要な指標となる。特に競合他社のOpenAIやSpaceXもIPOを計画しており、AI分野の資本獲得争いが加速している背景がある。",
-        "market_impact": "AnthropicのIPO成功は、AI関連企業の資金調達環境を一層活性化し、競争力のある技術開発や人材獲得を可能にする。加えて、Amazonや初期投資家の巨額利益実現や、従業員の株式売却を通じた個人富の形成を促進。なお、規制問題や独特の企業構造がバリュエーションに影響を与える可能性もある。",
+        "title": "Polymarket closes its first block trade as prediction markets push for Wall Street adoption",
+        "summary_2lines": "予測市場プラットフォームのPolymarketが、人工知能関連の契約で初の機関向けブロックトレードを完了した。取引はFalconXとAnera Labs間で実施され、GPU価格指数に連動した契約が対象となった。",
+        "why_it_matters": "ブロックトレードは従来、株式市場などで機関投資家が大口取引を行う手法であり、予測市場での実施は機関投資家の参入を示す重要な進展である。Polymarketはオンチェーンでの機関取引を可能にし、予測市場の主流金融市場への統合を加速させているため、規制面や市場流動性の向上につながる重要な節目となっている。",
+        "market_impact": "今後、機関投資家による大口取引が増加すれば、予測市場の流動性が高まり価格発見機能が強化される。これはGPUをはじめとするAIコンピューティング関連資産の価格形成に影響を与え、関連テクノロジー企業の資金調達やリスクヘッジ手段の多様化を促進する可能性がある。また、PolymarketとFalconXの協業は同分野での金融インフラ整備を進展させ、予測市場の成長を後押しする。",
         "category": "Markets",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
-        "published_at": "2026-06-02 02:17"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/02/polymarket-closes-first-block-trade-in-push-for-institutional-adoption.html",
+        "published_at": "2026-06-02 21:25"
+      },
+      {
+        "title": "Most robo-advisers will never get the keys to Wall Street’s AI-conjured stock picks",
+        "summary_2lines": "多くのリテール用ロボアドバイザーは、税損採取やポートフォリオの規律維持には優れているが、市場平均を上回るリターンを提供することはできない。AIが選定するウォール街の銘柄にはアクセスできない状況が続く。",
+        "why_it_matters": "近年、AIを活用した投資が注目される中で、個人投資家向けのロボアドバイザーが市場のハイリターン投資に直接アクセスできないことは、投資成果の差別化に影響を与える。投資の高度化が進む一方、一般投資家の利益拡大には限界があることを示している。",
+        "market_impact": "ロボアドバイザーが市場平均以上のリターンを提供できないことで、個人投資家の資金流入や利用拡大が鈍化する可能性がある。一方で、機関投資家向けのAI投資サービスとの差異がより明確になり、サービスの差別化や競争が激化すると予想される。",
+        "category": "Markets",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/wall-street-keeps-its-ai-stock-picking-secrets-heres-what-robo-advisers-actually-do-93871e31?mod=mw_rss_topstories",
+        "published_at": "2026-06-03 08:21"
+      },
+      {
+        "title": "This space stock rises as Blue Origin predicts quick recovery from big explosion",
+        "summary_2lines": "ブルーオリジンは2026年末までに新型ロケット「ニューグレン」の打ち上げを目指している。これによりASTスペースモバイルにとって追い風となる可能性がある。",
+        "why_it_matters": "ブルーオリジンの大規模な爆発事故後、迅速な復旧見込みが示されたことで、宇宙関連企業への信頼回復や事業継続の期待が高まっている。ニューグレンの打ち上げ成功は、宇宙通信技術を手がけるASTスペースモバイルの成長にも寄与するため重要視されている。",
+        "market_impact": "ブルーオリジンの打ち上げ計画再開により、宇宙開発関連株の投資家心理が改善し、ASTスペースモバイルの株価上昇が期待される。これにより宇宙通信分野を中心とした市場での資金流入や技術開発の加速が見込まれる。",
+        "category": "Markets",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/this-space-stock-is-rising-as-blue-origin-predicts-quick-recovery-from-big-explosion-03028f75?mod=mw_rss_topstories",
+        "published_at": "2026-06-03 07:30"
       }
     ],
     "Geopolitics": [
       {
-        "title": "Who attended this year’s Israel Day Parade in New York?",
-        "summary_2lines": "イスラエルに対する国際的な批判が高まる中、ニューヨークで開催されたイスラエルデイパレードにはイスラエルおよび米国の複数の公人が参加した。これは世界最大規模のイスラエル支持の集まりである。",
-        "why_it_matters": "イスラエルのガザやレバノンにおける行動への国際的な非難が強まる中、米国の政治家らが公式にイスラエル支持を示すことで、米イスラエル関係や中東情勢への影響が注目される。また、国内外の世論や外交政策の動向を読み解く上で重要な指標となる。",
-        "market_impact": "中東情勢の不安定化や米国の対イスラエル支持強化は、エネルギー価格変動や防衛関連企業の株価変動を引き起こす可能性がある。投資家は地域リスクの高まりを警戒し、安全資産への資金シフトが進むことが考えられる。",
+        "title": "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
+        "summary_2lines": "トランプ前大統領とイスラエルのネタニヤフ首相の親密な関係に亀裂があるとの匿名報道が続くが、実際の米国の対イスラエル政策にはほとんど変化がない。専門家は言葉のやりとりよりも政策実態が重要だと指摘している。",
+        "why_it_matters": "米イスラエル関係は中東和平やイラン問題に大きく影響し、現在の両国間緊張や戦争状態は地域の安定を揺るがしている。米国内外での報道は政治的駆け引きや世論操作の一環ともみなされており、実態との乖離が外交政策の信頼性に直結するため重要な問題となっている。",
+        "market_impact": "中東での戦闘激化や米国の対イラン政策により、ホルムズ海峡の封鎖などエネルギー供給に影響が出ている。これが米国内のガソリン価格上昇やインフレ悪化を招き、消費や企業活動に負の影響を及ぼしている。また、地政学リスクの高まりは資源価格の変動や市場の不安定化を助長しうる。",
         "category": "Geopolitics",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/who-attended-this-years-israel-day-parade-in-new-york?traffic_source=rss",
-        "published_at": "2026-06-02 06:15"
+        "url": "https://www.aljazeera.com/news/2026/6/2/trump-berated-netanyahu-scepticism-abounds-about-us-israel-feud-rumour?traffic_source=rss",
+        "published_at": "2026-06-03 06:59"
       },
       {
-        "title": "Video: Presidential election has Colombia on edge",
-        "summary_2lines": "コロンビアの大統領選決選投票で、極右のアベラルド・デ・ラ・エスプリエラ氏と左翼のイバン・セペダ上院議員が対決することが決まった。次月の選挙により、国内の政治的緊張が高まっている。",
-        "why_it_matters": "コロンビアの政治的二極化が強まり、治安、政策の方向性、国際関係に大きな影響を及ぼす可能性があるため。極右と左翼の対決は国内の社会対立を表しており、安定した政治環境の形成が課題となっている。",
-        "market_impact": "政治的不安定化は投資環境を不透明にし、通貨や株式市場に変動をもたらす可能性がある。特に外国直接投資や資源関連企業に対するリスク評価が高まり、経済成長の鈍化リスクが懸念される。",
+        "title": "Trump administration scrapping $1.8bn ‘anti-weaponisation fund’",
+        "summary_2lines": "トランプ政権は約18億ドルの『反武器化基金』を撤回すると発表した。この基金は政治的反発と法的障害を受け、保留状態となっていた。",
+        "why_it_matters": "このニュースは、トランプ政権下での司法・財政政策の重大な転換点を示している。基金はIRSとトランプ氏の税務問題に関わる訴訟の一環であり、政治的対立や議会の財政交渉に影響し、政府間の信頼と権力均衡に関わる重要な事案である。",
+        "market_impact": "この基金撤回は、連邦予算の調整や司法関連支出の見直しにつながり、特に不確実な政治環境下で公共投資や関連サービスの資金配分に影響を与える。また、税務リスクの減少や政府支出の透明性向上が期待され、一部の保守派支持企業や団体にも影響が及ぶ可能性がある。",
         "category": "Geopolitics",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/video-presidential-election-has-colombia-on-edge?traffic_source=rss",
-        "published_at": "2026-06-02 06:08"
-      },
-      {
-        "title": "Foreign Christians ask for forgiveness over failure to support Israel at Knesset",
-        "summary_2lines": "複数国のキリスト教代表団がエルサレムのイスラエル議会で祈りを捧げ、自国のイスラエル支援の不足と反ユダヤ主義への対応の失敗を悔い改めました。彼らはイスラエルへの支持強化を誓いました。",
-        "why_it_matters": "国際社会における宗教的・政治的連帯の表明は、中東情勢やイスラエルの安全保障に影響します。キリスト教圏からの支持強化は、対イスラエル政策や反ユダヤ主義対策の動向にも影響を与える可能性があります。",
-        "market_impact": "中東地域の政治的不安定性が緩和される期待感から、関連するエネルギー市場や防衛関連企業の株価にポジティブな影響が出る可能性があります。また、西側諸国の対中東政策に変化があれば、経済・貿易環境にも波及する可能性があります。",
-        "category": "Geopolitics",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/foreign-christians-ask-for-forgiveness-over-failure-to-support-israel-at-knesset?traffic_source=rss",
-        "published_at": "2026-06-02 06:01"
+        "url": "https://www.aljazeera.com/economy/2026/6/2/trump-administration-is-scrapping-the-1-8bn-anti-weaponisation-fund?traffic_source=rss",
+        "published_at": "2026-06-03 06:44"
       }
     ],
     "Economy": [
       {
-        "title": "I’m 55, married and want a $1.5 million long-term care policy. Can I expect any nasty surprises?",
-        "summary_2lines": "55歳既婚者が150万ドルの長期介護保険の加入を検討しているが、予想外のリスクや注意点がないか知りたいという相談記事。専門家は保険料の上昇や給付条件などのポイントを説明している。",
-        "why_it_matters": "高齢化が進む中、長期介護保険の需要が増加しているが、保険料の高騰や契約内容の複雑さにより消費者が適切な判断を下しにくい状況にある。特に55歳前後は加入時期として重要で、将来の介護費用の備えに関わるため、本件は多くの人々にとって現実的な関心事である。",
-        "market_impact": "長期介護保険市場では保険料の引き上げや商品設計の見直しが進む可能性がある。消費者の慎重な動きは保険会社の販売戦略や商品開発に影響し、関連する金融商品や付帯サービスの需要にも波及効果が期待される。",
+        "title": "Three quarters of workers not on track for 'moderate' pension income, report suggests",
+        "summary_2lines": "英国の労働者の約75％が「適度な」退職後の生活費を賄う貯蓄計画に届いておらず、多くが収入の大幅減少リスクに直面している。物価上昇が退職生活費を押し上げており、貯蓄促進の対策が求められている。",
+        "why_it_matters": "人口の高齢化が進む中、退職後の生活資金不足は社会保障の負担増加や生活水準の低下を招き、経済全体の安定に影響を及ぼす。また、女性の年金貯蓄不足など性別格差問題も浮き彫りとなり、公的・民間双方での支援強化が急務となっている。",
+        "market_impact": "個人の退職貯蓄の不十分さは消費支出の抑制や老後所得減少を通じて経済成長にブレーキをかける可能性がある。金融機関や年金関連企業は個人向け貯蓄商品やサービスの需要増加が見込まれ、また政府の自動加入制度強化や税制優遇策などの政策変化が市場に影響を与えると予想される。",
         "category": "Economy",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/im-55-married-and-want-a-1-5-million-long-term-care-policy-do-i-get-a-traditional-or-hybrid-f4338fc5?mod=mw_rss_topstories",
-        "published_at": "2026-06-02 08:10"
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-06-03 08:02"
+      },
+      {
+        "title": "Puffin and bumblebee among 18 creatures shortlisted to feature on banknotes",
+        "summary_2lines": "イギリスの新紙幣には動物や鳥など18種の英国の野生生物が候補として選ばれ、一般投票で最終デザインが決まる。歴史的人物の肖像は初めて廃止され、自然保護をテーマにしたデザインに刷新される。",
+        "why_it_matters": "この決定は、伝統的な歴史的人物の肖像を廃し、自然や生物多様性を象徴するデザインに変えるという文化的な大転換を意味する。加えて、紙幣の偽造防止を目的とした刷新プロセスの一環であり、社会的議論や政治的反発も生んだ。英国のアイデンティティや文化価値観の変化を反映する重要な出来事である。",
+        "market_impact": "紙幣デザイン変更は製造業者や関連印刷企業に長期的なビジネス機会を提供する。また、紙幣流通の刷新は金融機関や決済システムにも影響を与える可能性がある。政治的な反発や世論の動向が消費者心理に微妙な影響を与えるものの、経済全体に対する即時の大きな影響は限定的とみられる。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-06-03 08:02"
       }
     ],
     "Corporate": [
       {
-        "title": "Greg Abel just made his first big deal as Berkshire CEO. Why Warren Buffett is happy",
-        "summary_2lines": "バークシャーの新CEOグレッグ・エイベルは、ホームビルダーのテイラーモリソンを約68億ドルで買収した。これはバフェット自身が好むような割安な住宅事業拡大の一手と評価されている。",
-        "why_it_matters": "住宅市場はバークシャーの重要なビジネス分野であり、テイラーモリソン買収により既存のクレイトンホームズとの統合が進む。バフェットの関与が少ない中でCEO交代後の初の大型案件として買収を迅速かつ効率的に完了させた点は経営体制の変化を示す重要な動きである。",
-        "market_impact": "買収によりバークシャーは米国住宅建設市場において存在感を強め、住宅産業の再編や効率化の促進が期待される。また、買収額はバフェットの巨額の現金保有額から見て小規模でありながらも近年の大型取引の一つで、同社の投資戦略の安定感と実行力を示す。株式市場や住宅関連株に一定のポジティブな影響を及ぼす可能性がある。",
+        "title": "King told me Post Office scandal was 'dreadful', says oldest victim",
+        "summary_2lines": "英国の郵便局スキャンダル被害者で最年長のベティ・ブラウン氏が、チャールズ3世国王からの励ましと正義の重要性を訴えた。数千人の誤告発被害者への補償支払いが進む中、警察調査の遅延懸念も浮上している。",
+        "why_it_matters": "この事件は、郵便局の誤ったITシステム「Horizon」により数百人の郵便局長が不正会計で誤告発され、多大な社会的・法的影響を及ぼした英国史上最大級の冤罪事件である。被害者の救済や再発防止は社会正義の観点で極めて重要であり、不正の是正と行政・司法システムの信頼回復にも直結している。",
+        "market_impact": "本件は直接的な企業の財務リスクは小さいものの、補償金支払い総額が15億ポンドを超え、公的資金の負担増加や政府の予算配分に影響が及ぶ。金融・保険市場では関連損失引当や訴訟リスクが意識され、ITシステム監査やガバナンス強化の圧力も高まる可能性がある。また、同様のシステム導入企業への信頼低下リスクも懸念される。",
         "category": "Corporate",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/01/greg-abel-just-made-his-first-big-deal-as-berkshire-ceo-why-warren-buffett-is-happy.html",
-        "published_at": "2026-06-02 02:46"
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/czr2dlerv0zo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-06-03 02:08"
       },
       {
         "title": "How should bosses talk about AI?",
-        "summary_2lines": "従業員は恐怖心を抱くAI技術を受け入れるよう求められている。上司はどのようにAIについて話すべきかが問われている。",
-        "why_it_matters": "AIの急速な普及に伴い、従業員の不安や抵抗感が増しているため、リーダーが適切なコミュニケーションをとり、理解と受容を促すことが組織の成長や生産性維持に不可欠となっている。",
-        "market_impact": "企業によるAI技術の導入が進む中、従業員の心理的な障壁が乗り越えられなければ、生産性の低下や人材流出を招く可能性がある。適切な対話が実現すれば、技術活用の促進と競争力強化に繋がる。",
+        "summary_2lines": "従業員は恐怖を抱くAI技術を受け入れるよう求められている。上司はどのようにAIについてコミュニケーションすべきかが問われている。",
+        "why_it_matters": "AIの急速な発展により、労働環境や職務内容が大きく変わる中、従業員の不安や抵抗感を和らげる適切な対話手法が企業の成功にとって重要となっている。",
+        "market_impact": "企業がAI導入を円滑に進められれば生産性向上やコスト削減に繋がる一方、従業員の不安が解消されなければ人材流出やモラル低下を招き、経済全体でもAI普及の速度や効果に影響を及ぼす可能性がある。",
         "category": "Corporate",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/05/28/how-should-bosses-talk-about-ai",
@@ -304,33 +314,23 @@
       },
       {
         "title": "Texas is becoming America Inc’s centre of gravity",
-        "summary_2lines": "テキサス州がアメリカの企業活動の中心地としての地位を強化している。エクソンの本社移転は、その象徴的な例である。",
-        "why_it_matters": "エクソンの再登記は、企業が税制優遇や規制の緩さを求めてテキサスに拠点を移す動きを示しており、米国経済の地理的重心が変化していることを意味する。",
-        "market_impact": "企業の本拠地移転により、テキサスの経済活動や雇用が拡大し、州経済の成長が期待される一方、他州は企業誘致競争で圧力を受ける可能性がある。また、エネルギー関連企業の存在感強化により、市場のエネルギーセクターにも影響を与える。",
+        "summary_2lines": "テキサス州がアメリカ企業の中心地としての地位を強化している。エクソンの本社移転はその一例で、州の経済的影響力を高めている。",
+        "why_it_matters": "多くの大企業がテキサスに本拠を移すことで、税制や規制の優遇を享受しつつ、経済活動の重心が伝統的な経済圏からテキサスへと移行している。これにより企業戦略や州間競争のダイナミクスが変化している。",
+        "market_impact": "企業のテキサス移転により同州の経済成長が加速し、不動産やインフラ、関連サービス業に追い風が吹く。一方で伝統的な拠点となっていた地域の経済にはマイナス影響が予想され、株式市場にも注目が集まる可能性がある。",
         "category": "Corporate",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/05/31/texas-is-becoming-america-incs-centre-of-gravity",
         "published_at": "2026-06-01 02:16"
       },
       {
-        "title": "Everything is going right for India’s richest man",
-        "summary_2lines": "インドの富豪ゴータム・アダニは現在絶好調の状態にある。彼の事業や資産が順調に拡大している様子が伝えられている。",
-        "why_it_matters": "アダニ氏はインドの経済成長を支える重要な企業家の一人であり、彼の成功はインドのビジネス環境の活性化や投資促進の象徴となっている。彼の動向はインド市場に大きな影響を与えるため注目されている。",
-        "market_impact": "アダニグループ関連の株価や投資は活況を呈し、インド国内外の投資家の関心を高めている。彼の事業拡大は物流やエネルギー、インフラ分野の成長を加速させ、経済全体にポジティブな波及効果をもたらす可能性がある。",
+        "title": "Alphabet’s relentless AI spending is giving new shine to Broadcom’s stock",
+        "summary_2lines": "Alphabetの積極的なAI関連支出により、Broadcomの株価が注目を集めている。Broadcomのスイッチングチップの性能向上と開発ペースも競合他社に対して優位性を維持している。",
+        "why_it_matters": "AlphabetのAI投資拡大は半導体需要の増加を促し、Broadcomのようなネットワーク機器向けチップメーカーの業績向上に寄与する。これにより、テクノロジー業界における競争環境が激化し、技術革新が加速する背景がある。",
+        "market_impact": "Broadcomの製品競争力強化は、市場シェア拡大や収益増につながり、株価上昇を支える要因となる。AI関連需要の高まりは半導体セクター全体に好影響を与え、投資家の関心を集めるだろう。",
         "category": "Corporate",
-        "source": "The Economist",
-        "url": "https://www.economist.com/business/2026/05/28/everything-is-going-right-for-indias-richest-man",
-        "published_at": "2026-05-28 18:22"
-      },
-      {
-        "title": "Moderna gets $50 million to develop mRNA Ebola vaccine against Bundibugyo",
-        "summary_2lines": "モデernaは、バンディブギョエボラウイルス（BDBV）に対するmRNAワクチンの開発でCEPIから5000万ドルの資金提供を受けた。これにより、開発加速と大規模臨床試験準備が進められる。",
-        "why_it_matters": "BDBVの感染拡大がコンゴ民主共和国で深刻化しており、迅速なワクチン開発が公共衛生上の緊急課題となっている。モデrnaのmRNA技術はCOVID-19パンデミックでの成功が証明されており、効果的な感染症対応の新たな道を示す可能性がある。",
-        "market_impact": "今回の資金提供によりモデrnaのパイプライン強化と製造能力拡大が期待される。感染症対策関連のバイオテック企業株価や投資意欲にプラス影響を与え、長期的にはmRNA技術の多様な応用拡大が見込まれる。",
-        "category": "Corporate",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/health/2026/06/moderna-gets-50-million-to-develop-mrna-ebola-vaccine-against-bundibugyo/",
-        "published_at": "2026-06-02 05:58"
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/alphabets-relentless-ai-spending-is-giving-new-shine-to-broadcoms-stock-abfb34b5?mod=mw_rss_topstories",
+        "published_at": "2026-06-03 07:39"
       }
     ]
   }
