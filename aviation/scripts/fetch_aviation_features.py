@@ -156,6 +156,7 @@ def select_and_summarize(candidates):
     listing = [f"{i}: [{c['source']}] {c['title']}" for i, c in enumerate(candidates)]
     select_prompt = f"""以下の航空業界ニュース候補から、航空業界に興味を持つ読者にとって「面白い・知識が深まる・驚きがある」記事を最大5本選んでください。
 単純な速報ニュースより、背景解説・特集・技術・人間ドラマ系の記事を優先してください。
+結果はJSON形式で返してください。
 
 候補リスト:
 {json.dumps(listing, ensure_ascii=False, indent=2)}
@@ -192,7 +193,7 @@ def select_and_summarize(candidates):
         if not content:
             continue
 
-        summary_prompt = f"""以下の航空業界記事を、日本語の雑誌特集記事として書き直してください。
+        summary_prompt = f"""以下の航空業界記事を、日本語の雑誌特集記事として書き直し、JSON形式で出力してください。
 
 記事タイトル: {art['title']}
 記事内容:
