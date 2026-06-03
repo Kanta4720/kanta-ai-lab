@@ -1,1 +1,641 @@
-PLACEHOLDER_FEATURES
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>特集記事 | Aviation Lease Intelligence</title>
+  <meta name="description" content="AIが選ぶ今日の航空業界の読み応えある特集・解説記事。日本語要約で素早く読める。">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="特集記事 | Aviation Lease Intelligence">
+  <meta property="og:description" content="AIが選ぶ今日の航空業界の読み応えある特集・解説記事。">
+  <style>
+    :root {
+      --bg: #070e1a;
+      --surface: #0d1b2e;
+      --surface2: #112240;
+      --accent: #1a6fdb;
+      --accent2: #2589ff;
+      --gold: #c8a96e;
+      --text: #e2eaf4;
+      --text-muted: #7a93b4;
+      --border: #1e3a5f;
+      --tag-bg: #0a2040;
+      --shadow-sm: 0 1px 4px rgba(0,0,0,0.4);
+      --shadow-md: 0 4px 16px rgba(0,0,0,0.5);
+      --radius: 14px;
+      --transition: all 0.2s ease;
+    }
+    [data-theme="light"] {
+      --bg: #f0f5fb;
+      --surface: #ffffff;
+      --surface2: #e4eef8;
+      --accent: #1a6fdb;
+      --accent2: #1a6fdb;
+      --gold: #a07830;
+      --text: #0d1e30;
+      --text-muted: #4a6a8a;
+      --border: #c0d4e8;
+      --tag-bg: #ddeaf8;
+      --shadow-sm: 0 1px 4px rgba(0,0,0,0.08);
+      --shadow-md: 0 4px 16px rgba(0,0,0,0.12);
+    }
+    [data-theme="light"] header { background: rgba(240,245,251,0.92); }
+    [data-theme="light"] .logo-area h1 { color: #0d1e30; }
+    [data-theme="light"] .hero { background: linear-gradient(135deg, #0f2a5a 0%, #1a4a9a 50%, #1a6fdb 100%); }
+    [data-theme="light"] .tag-Industry-Analysis  { background: #dbeafe; border-color: #3b82f6; color: #1d4ed8; }
+    [data-theme="light"] .tag-Future             { background: #d1fae5; border-color: #059669; color: #065f46; }
+    [data-theme="light"] .tag-Airline-Strategy   { background: #fef3c7; border-color: #d97706; color: #92400e; }
+    [data-theme="light"] .tag-Aircraft-Technology{ background: #f3e8ff; border-color: #9333ea; color: #6b21a8; }
+    [data-theme="light"] .tag-Airport            { background: #ccfbf1; border-color: #0d9488; color: #134e4a; }
+    [data-theme="light"] .tag-People             { background: #fce7f3; border-color: #db2777; color: #9d174d; }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Noto Sans JP', sans-serif;
+      min-height: 100vh;
+      line-height: 1.7;
+      transition: background-color 0.3s ease, color 0.3s ease;
+    }
+    a { color: inherit; text-decoration: none; }
+
+    /* ===== Sticky top wrapper ===== */
+    .sticky-top {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    /* ===== Header ===== */
+    header {
+      background: rgba(7,14,26,0.92);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+    }
+    .header-inner {
+      max-width: 900px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 14px 24px;
+      gap: 16px;
+    }
+    .logo-area h1 { font-size: 1.25rem; font-weight: 800; color: #fff; letter-spacing: -0.3px; }
+    .logo-area h1 span { color: var(--accent2); }
+    .logo-area p { font-size: 0.68rem; color: var(--text-muted); margin-top: 1px; letter-spacing: 0.5px; }
+    .header-right { display: flex; align-items: center; gap: 12px; }
+    .update-time { font-size: 0.72rem; color: var(--text-muted); white-space: nowrap; }
+    .theme-toggle {
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 5px 11px;
+      cursor: pointer;
+      font-size: 0.74rem;
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      transition: var(--transition);
+      white-space: nowrap;
+    }
+    .theme-toggle:hover { border-color: var(--accent); color: var(--text); }
+
+    /* ===== Nav ===== */
+    nav {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+    }
+    .nav-inner { max-width: 900px; margin: 0 auto; display: flex; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+    .nav-inner::-webkit-scrollbar { display: none; }
+    nav a {
+      display: inline-flex;
+      align-items: center;
+      padding: 11px 18px;
+      white-space: nowrap;
+      flex-shrink: 0;
+      color: var(--text-muted);
+      font-size: 0.86rem;
+      font-weight: 500;
+      border-bottom: 2px solid transparent;
+      transition: var(--transition);
+    }
+    nav a:hover { color: var(--text); border-bottom-color: var(--border); }
+    nav a.active { color: var(--accent2); border-bottom-color: var(--accent2); }
+
+    /* ===== Date nav ===== */
+    .date-nav {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 14px;
+      padding: 9px 20px;
+      flex-wrap: wrap;
+    }
+    .date-nav-btn {
+      font-size: 0.78rem;
+      font-weight: 500;
+      color: var(--accent2);
+      padding: 4px 12px;
+      border: 1px solid rgba(37,137,255,0.3);
+      border-radius: 6px;
+      transition: var(--transition);
+      white-space: nowrap;
+    }
+    .date-nav-btn:hover { background: rgba(37,137,255,0.1); }
+    .date-nav-btn.disabled { color: var(--text-muted); border-color: var(--border); cursor: default; pointer-events: none; opacity: 0.5; }
+    .date-nav-current { font-size: 0.85rem; font-weight: 700; color: var(--text); white-space: nowrap; }
+    .date-nav-archive { font-size: 0.72rem; color: var(--text-muted); border-left: 1px solid var(--border); padding-left: 14px; }
+    .date-nav-archive a { color: var(--accent2); }
+    .date-nav-archive a:hover { text-decoration: underline; }
+
+    /* ===== Hero ===== */
+    .hero {
+      background: linear-gradient(135deg, #040b16 0%, #081630 50%, #0a1e45 100%);
+      padding: 44px 24px 36px;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+      border-bottom: 1px solid var(--border);
+    }
+    .hero::before {
+      content: '';
+      position: absolute;
+      top: -50%; left: -50%;
+      width: 200%; height: 200%;
+      background: radial-gradient(circle, rgba(26,111,219,0.07) 0%, transparent 60%);
+      animation: pulse 10s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%,100% { transform: scale(1); opacity: 0.5; }
+      50%      { transform: scale(1.15); opacity: 1; }
+    }
+    .hero-date { font-size: 0.68rem; color: var(--accent2); text-transform: uppercase; letter-spacing: 2.5px; margin-bottom: 12px; position: relative; }
+    .hero-title { font-size: clamp(1.4rem, 3.5vw, 2.2rem); font-weight: 800; color: #fff; line-height: 1.2; margin-bottom: 10px; position: relative; }
+    .hero-title span { color: var(--accent2); }
+    .hero-desc { font-size: 0.84rem; color: rgba(255,255,255,0.45); max-width: 400px; margin: 0 auto; position: relative; }
+
+    /* ===== Main ===== */
+    main { max-width: 900px; margin: 0 auto; padding: 40px 24px 80px; }
+
+    /* ===== Tags ===== */
+    .tag {
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.4px;
+      padding: 2px 9px;
+      border-radius: 4px;
+      background: var(--tag-bg);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      white-space: nowrap;
+    }
+    .tag-Industry-Analysis  { background: rgba(26,111,219,0.18); border-color: #1a6fdb; color: #5aabff; }
+    .tag-Future             { background: rgba(16,185,129,0.15); border-color: #059669; color: #34d399; }
+    .tag-Airline-Strategy   { background: rgba(245,158,11,0.15); border-color: #d97706; color: #fbbf24; }
+    .tag-Aircraft-Technology{ background: rgba(168,85,247,0.15); border-color: #9333ea; color: #c084fc; }
+    .tag-Airport            { background: rgba(20,184,166,0.15); border-color: #0d9488; color: #2dd4bf; }
+    .tag-People             { background: rgba(236,72,153,0.15); border-color: #db2777; color: #f472b6; }
+
+    /* ===== Feature card ===== */
+    .feature-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 32px;
+      margin-bottom: 24px;
+      position: relative;
+      overflow: hidden;
+      box-shadow: var(--shadow-sm);
+      transition: var(--transition);
+    }
+    .feature-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--accent), var(--accent2));
+      opacity: 0;
+      transition: var(--transition);
+    }
+    .feature-card:hover { box-shadow: var(--shadow-md); border-color: rgba(37,137,255,0.35); }
+    .feature-card:hover::before { opacity: 1; }
+
+    .card-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 16px;
+      margin-bottom: 20px;
+    }
+    .card-num {
+      font-size: 2.4rem;
+      font-weight: 800;
+      color: var(--gold);
+      line-height: 1;
+      min-width: 48px;
+      flex-shrink: 0;
+    }
+    .card-header-body { flex: 1; }
+    .card-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 10px;
+    }
+    .source-label { font-size: 0.68rem; color: var(--text-muted); }
+    .reading-time { font-size: 0.68rem; color: var(--text-muted); margin-left: auto; white-space: nowrap; }
+    .date-label { font-size: 0.68rem; color: var(--text-muted); }
+    .card-title {
+      font-size: 1.2rem;
+      font-weight: 800;
+      line-height: 1.4;
+      color: var(--text);
+      margin-bottom: 4px;
+    }
+    .card-original-title {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      font-style: italic;
+    }
+
+    /* Lead */
+    .card-lead {
+      font-size: 1.0rem;
+      font-weight: 500;
+      line-height: 1.8;
+      color: var(--text);
+      margin-bottom: 20px;
+      border-left: 3px solid var(--accent2);
+      padding-left: 16px;
+    }
+    [data-theme="light"] .card-lead { color: #0d1e30; }
+
+    /* Body */
+    .card-body {
+      font-size: 0.92rem;
+      line-height: 1.9;
+      color: var(--text-muted);
+      margin-bottom: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .card-body p { margin: 0; }
+    [data-theme="light"] .card-body { color: #2a4a6a; }
+
+    /* Section labels */
+    .section-label {
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      color: var(--accent2);
+      margin-bottom: 8px;
+      margin-top: 20px;
+    }
+
+    /* Analysis & Outlook */
+    .card-analysis, .card-outlook {
+      font-size: 0.88rem;
+      line-height: 1.85;
+      color: var(--text-muted);
+      background: var(--surface2);
+      border-radius: 8px;
+      padding: 14px 16px;
+      margin-bottom: 8px;
+    }
+    .card-analysis { border-left: 3px solid #c084fc; }
+    .card-outlook  { border-left: 3px solid #2dd4bf; }
+    [data-theme="light"] .card-analysis { color: #2a4a6a; background: #f0f4ff; }
+    [data-theme="light"] .card-outlook  { color: #2a4a6a; background: #f0fbfa; }
+
+    /* Key points */
+    .key-points-label {
+      font-size: 0.66rem;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      color: var(--accent2);
+      margin-bottom: 10px;
+      margin-top: 20px;
+    }
+    .key-points {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      margin-bottom: 20px;
+    }
+    .key-points li {
+      font-size: 0.86rem;
+      color: var(--text-muted);
+      line-height: 1.6;
+      display: flex;
+      gap: 10px;
+      align-items: flex-start;
+    }
+    .key-points li::before {
+      content: '▸';
+      color: var(--accent2);
+      font-size: 0.75rem;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+    [data-theme="light"] .key-points li { color: #2a4a6a; }
+
+    /* Read link */
+    .read-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--accent2);
+      border: 1px solid rgba(37,137,255,0.3);
+      border-radius: 6px;
+      padding: 7px 16px;
+      transition: var(--transition);
+    }
+    .read-link:hover { background: rgba(37,137,255,0.1); border-color: var(--accent2); }
+
+    /* ===== Loading / Error ===== */
+    .loading { text-align: center; color: var(--text-muted); padding: 80px 20px; font-size: 0.88rem; }
+    .error-card {
+      background: rgba(239,68,68,0.08);
+      border: 1px solid rgba(239,68,68,0.3);
+      border-radius: var(--radius);
+      padding: 24px;
+      color: #f87171;
+      text-align: center;
+    }
+
+    /* ===== Footer ===== */
+    footer {
+      background: var(--surface);
+      border-top: 1px solid var(--border);
+      padding: 24px;
+      text-align: center;
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      line-height: 1.8;
+    }
+
+    @media (max-width: 640px) {
+      .card-header { flex-direction: column; gap: 8px; }
+      .card-num { font-size: 1.8rem; }
+      .card-title { font-size: 1.1rem; line-height: 1.4; }
+      .feature-card { padding: 20px 16px; }
+      .update-time { display: none; }
+      .logo-area p { display: none; }
+      nav a { padding: 11px 13px; font-size: 0.8rem; }
+      .header-inner { padding: 10px 16px; }
+      main { padding: 20px 14px 60px; }
+
+      /* 読みやすいテキストサイズ */
+      .source-label, .date-label { font-size: 0.78rem; }
+      .tag { font-size: 0.72rem; }
+      .card-lead { font-size: 1.0rem; line-height: 1.8; }
+      .card-body { font-size: 0.94rem; line-height: 1.9; }
+      .card-analysis, .card-outlook { font-size: 0.92rem; line-height: 1.8; }
+      .key-points li { font-size: 0.9rem; line-height: 1.65; }
+
+      /* タップしやすいリンク */
+      .read-link { min-height: 48px; padding: 12px 20px; font-size: 0.88rem; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="sticky-top">
+<header>
+  <div class="header-inner">
+    <div class="logo-area">
+      <h1>✈ Aviation <span>Lease</span> Intelligence</h1>
+      <p>AIRCRAFT LEASING INDUSTRY · AI-POWERED DAILY BRIEF</p>
+    </div>
+    <div class="header-right">
+      <div class="update-time" id="update-time"></div>
+      <button class="theme-toggle" id="theme-toggle" aria-label="テーマ切替">
+        <span id="theme-icon">☀</span>
+        <span id="theme-label">ライト</span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<nav>
+  <div class="nav-inner">
+    <a href="./index.html">📰 ニュース</a>
+    <a href="./features.html" class="active">📖 特集記事</a>
+    <a href="./market.html">📊 マーケット</a>
+    <a href="./archive.html">📅 アーカイブ</a>
+  </div>
+</nav>
+</div>
+
+<div id="date-nav"></div>
+
+<div class="hero">
+  <div class="hero-date" id="hero-date">読み込み中...</div>
+  <h2 class="hero-title">今日の<span>特集記事</span></h2>
+  <p class="hero-desc">AIが世界の航空メディアから厳選した読み応えある記事を日本語で要約</p>
+</div>
+
+<main>
+  <div id="app">
+    <div class="loading">特集記事を読み込み中...</div>
+  </div>
+</main>
+
+<footer>
+  <p>Aviation Lease Intelligence &mdash; Powered by AI | 要約はAIによるものです</p>
+  <p>原文へのリンクから元記事もご確認ください。</p>
+</footer>
+
+<script>
+  /* ===== Theme toggle ===== */
+  (function() {
+    const toggle = document.getElementById('theme-toggle');
+    const tIcon  = document.getElementById('theme-icon');
+    const tLabel = document.getElementById('theme-label');
+    function applyTheme(dark) {
+      document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+      tIcon.textContent  = dark ? '☀' : '🌙';
+      tLabel.textContent = dark ? 'ライト' : 'ダーク';
+      localStorage.setItem('aviation-theme', dark ? 'dark' : 'light');
+    }
+    const saved   = localStorage.getItem('aviation-theme');
+    const sysDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    applyTheme(saved === 'light' ? false : (saved === 'dark' ? true : sysDark));
+    toggle.addEventListener('click', () => {
+      applyTheme(document.documentElement.getAttribute('data-theme') !== 'dark');
+    });
+  })();
+
+  function formatDateJa(str) {
+    if (!str) return '';
+    const d = new Date(str.replace(' ', 'T') + '+09:00');
+    if (isNaN(d)) return str;
+    const parts = new Intl.DateTimeFormat('ja-JP', {
+      timeZone: 'Asia/Tokyo',
+      year: 'numeric', month: 'numeric', day: 'numeric', weekday: 'long'
+    }).formatToParts(d);
+    const get = t => (parts.find(p => p.type === t) || {}).value || '';
+    return `${get('year')}年${get('month')}月${get('day')}日（${get('weekday')}）`;
+  }
+
+  function todayJa() {
+    const parts = new Intl.DateTimeFormat('ja-JP', {
+      timeZone: 'Asia/Tokyo',
+      year: 'numeric', month: 'numeric', day: 'numeric', weekday: 'long'
+    }).formatToParts(new Date());
+    const get = t => (parts.find(p => p.type === t) || {}).value || '';
+    return `${get('year')}年${get('month')}月${get('day')}日（${get('weekday')}）`;
+  }
+
+  function timeAgo(str) {
+    if (!str) return '';
+    const d = new Date(str.replace(' ', 'T') + '+09:00');
+    if (isNaN(d)) return '';
+    const diff = (Date.now() - d) / 1000;
+    if (diff < 3600)   return `${Math.floor(diff / 60)}分前`;
+    if (diff < 86400)  return `${Math.floor(diff / 3600)}時間前`;
+    if (diff < 172800) return '昨日';
+    const parts = new Intl.DateTimeFormat('ja-JP', {
+      timeZone: 'Asia/Tokyo', month: 'numeric', day: 'numeric'
+    }).formatToParts(d);
+    const get = t => (parts.find(p => p.type === t) || {}).value || '';
+    return `${get('month')}月${get('day')}日`;
+  }
+
+  function tagClass(cat) {
+    const map = {
+      'Industry Analysis':   'tag-Industry-Analysis',
+      'Future of Aviation':  'tag-Future',
+      'Airline Strategy':    'tag-Airline-Strategy',
+      'Aircraft Technology': 'tag-Aircraft-Technology',
+      'Airport & Infrastructure': 'tag-Airport',
+      'People & Culture':    'tag-People',
+    };
+    return map[cat] || 'tag-Industry-Analysis';
+  }
+
+  function featureCard(f, idx) {
+    const tc       = tagClass(f.category);
+    const dateStr  = f.published_at ? `<span class="date-label">🕐 ${timeAgo(f.published_at)}</span>` : '';
+    const keyItems = (f.key_points || []).map(p => `<li>${p}</li>`).join('');
+
+    // body: split on \n into paragraphs
+    const bodyHtml = f.body
+      ? `<div class="card-body">${f.body.split('\n').filter(s => s.trim()).map(s => `<p>${s}</p>`).join('')}</div>`
+      : (f.summary ? `<div class="card-body"><p>${f.summary}</p></div>` : '');
+
+    const analysisHtml = f.analysis
+      ? `<div class="section-label">専門家分析</div><div class="card-analysis">${f.analysis}</div>` : '';
+    const outlookHtml = f.outlook
+      ? `<div class="section-label">今後の見通し</div><div class="card-outlook">${f.outlook}</div>` : '';
+
+    return `
+      <div class="feature-card">
+        <div class="card-header">
+          <div class="card-num">${String(idx + 1).padStart(2, '0')}</div>
+          <div class="card-header-body">
+            <div class="card-meta">
+              <span class="tag ${tc}">${f.category}</span>
+              <span class="source-label">${f.source || ''}</span>
+              ${dateStr}
+              ${f.reading_minutes ? `<span class="reading-time">📖 約${f.reading_minutes}分</span>` : ''}
+            </div>
+            <h2 class="card-title">${f.title}</h2>
+            ${f.original_title ? `<div class="card-original-title">${f.original_title}</div>` : ''}
+          </div>
+        </div>
+        ${f.lead ? `<p class="card-lead">${f.lead}</p>` : ''}
+        ${bodyHtml}
+        ${analysisHtml}
+        ${outlookHtml}
+        ${keyItems ? `
+          <div class="key-points-label">KEY POINTS</div>
+          <ul class="key-points">${keyItems}</ul>
+        ` : ''}
+        <a class="read-link" href="${f.url}" target="_blank" rel="noopener">
+          原文を読む &rarr;
+        </a>
+      </div>`;
+  }
+
+  function renderDateNav(currentDate, dates) {
+    const el = document.getElementById('date-nav');
+    if (!el) return;
+    if (dates.length === 0 && !currentDate) { el.style.display = 'none'; return; }
+
+    const idx = currentDate ? dates.indexOf(currentDate) : -1;
+    const prevDate = currentDate ? (dates[idx + 1] || null) : (dates[0] || null);
+    const nextDate = currentDate ? (idx > 0 ? dates[idx - 1] : null) : null;
+
+    const fmt = d => { if (!d) return '最新'; const [y,m,dd] = d.split('-').map(Number); return `${y}年${m}月${dd}日`; };
+    const prevHtml = prevDate
+      ? `<a class="date-nav-btn" href="./features.html?date=${prevDate}">← 前の日</a>`
+      : `<span class="date-nav-btn disabled">← 前の日</span>`;
+    const nextHtml = currentDate
+      ? (nextDate
+          ? `<a class="date-nav-btn" href="./features.html?date=${nextDate}">次の日 →</a>`
+          : `<a class="date-nav-btn" href="./features.html">最新へ →</a>`)
+      : `<span class="date-nav-btn disabled">次の日 →</span>`;
+
+    el.innerHTML = `<div class="date-nav">
+      ${prevHtml}
+      <span class="date-nav-current">${fmt(currentDate)}</span>
+      ${nextHtml}
+      <span class="date-nav-archive"><a href="./archive.html">📅 一覧</a></span>
+    </div>`;
+  }
+
+  async function loadFeatures() {
+    const app = document.getElementById('app');
+    const params = new URLSearchParams(window.location.search);
+    const dateParam = params.get('date');
+    const jsonUrl = dateParam ? `./archive/features_${dateParam}.json` : './features.json';
+
+    fetch('./archive/index.json').then(r => r.json()).then(d => {
+      renderDateNav(dateParam, d.dates || []);
+    }).catch(() => renderDateNav(dateParam, []));
+
+    try {
+      const res = await fetch(jsonUrl);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+
+      const dateLabel = formatDateJa(data.generated_at_jst) || todayJa();
+      document.getElementById('hero-date').textContent   = dateLabel;
+      document.getElementById('update-time').textContent = `更新: ${data.generated_at_jst || ''}`;
+
+      const features = data.features || [];
+      if (features.length === 0) {
+        app.innerHTML = `<div class="error-card"><p>本日の特集記事はまだ準備中です。</p></div>`;
+        return;
+      }
+
+      app.innerHTML = features.map((f, i) => featureCard(f, i)).join('');
+    } catch (err) {
+      console.error(err);
+      document.getElementById('hero-date').textContent = todayJa();
+      app.innerHTML = `
+        <div class="error-card">
+          <p>特集記事の読み込みに失敗しました。</p>
+          <p style="font-size:0.78rem;margin-top:8px;opacity:0.7;">${err.message}</p>
+        </div>`;
+    }
+  }
+
+  loadFeatures();
+</script>
+</body>
+</html>
