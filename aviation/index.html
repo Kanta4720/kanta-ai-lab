@@ -52,7 +52,6 @@
     [data-theme="light"] .tag-Regulations    { background: #fee2e2; border-color: #dc2626; color: #991b1b; }
     [data-theme="light"] .tag-Geopolitics    { background: #f3e8ff; border-color: #9333ea; color: #6b21a8; }
     [data-theme="light"] .tag-Sustainability { background: #ccfbf1; border-color: #0d9488; color: #134e4a; }
-    [data-theme="light"] .lease-section { background: linear-gradient(135deg, rgba(26,111,219,0.06) 0%, rgba(26,111,219,0.02) 100%); border-color: rgba(26,111,219,0.2); }
 
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     html { scroll-behavior: smooth; }
@@ -66,15 +65,19 @@
     }
     a { color: inherit; text-decoration: none; }
 
-    /* ===== Header (sticky) ===== */
+    /* ===== Sticky top wrapper ===== */
+    .sticky-top {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    /* ===== Header ===== */
     header {
       background: rgba(7, 14, 26, 0.92);
       backdrop-filter: blur(12px);
       -webkit-backdrop-filter: blur(12px);
       border-bottom: 1px solid var(--border);
-      position: sticky;
-      top: 0;
-      z-index: 100;
     }
     .header-inner {
       max-width: 1100px;
@@ -463,24 +466,7 @@
     [data-theme="light"] .card-summary { color: #2a3a50; }
     [data-theme="light"] .article-row-summary { color: #2a3a50; }
 
-    /* ===== Lease focus section ===== */
-    .lease-section {
-      background: linear-gradient(135deg, rgba(26,111,219,0.07) 0%, rgba(26,111,219,0.02) 100%);
-      border: 1px solid rgba(26,111,219,0.25);
-      border-radius: var(--radius);
-      padding: 24px;
-      margin-bottom: 52px;
-    }
-    .lease-section-title {
-      font-size: 0.68rem;
-      font-weight: 700;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-      color: #5aabff;
-      margin-bottom: 16px;
-    }
-
-    /* ===== Loading / Error ===== */
+/* ===== Loading / Error ===== */
     .loading {
       text-align: center;
       color: var(--text-muted);
@@ -510,8 +496,6 @@
     @media (max-width: 640px) {
       .brief-grid { grid-template-columns: 1fr; }
       .brief-card.featured { flex-direction: column; }
-      header { position: static; }
-      nav { position: sticky; top: 0; z-index: 100; }
       .update-time { display: none; }
       .logo-area p { display: none; }
       nav a { padding: 11px 13px; font-size: 0.8rem; }
@@ -543,6 +527,7 @@
 </head>
 <body>
 
+<div class="sticky-top">
 <header>
   <div class="header-inner">
     <div class="logo-area">
@@ -567,6 +552,7 @@
     <a href="./archive.html">📅 アーカイブ</a>
   </div>
 </nav>
+</div>
 
 <div id="date-nav"></div>
 
@@ -807,7 +793,6 @@ async function loadNews() {
     CATEGORIES.forEach(cat => (cats[cat] || []).forEach(a => allArticles.push(a)));
     if (allArticles.length === 0 && brief.length > 0) allArticles = [...brief];
 
-    const leaseArticles = cats['Lease Market'] || [];
     let html = '';
 
     if (brief.length > 0) {
@@ -819,15 +804,6 @@ async function loadNews() {
         </div>
         <div class="brief-grid">
           ${brief.map((a, i) => briefCard(a, i)).join('')}
-        </div>
-      </div>`;
-    }
-
-    if (leaseArticles.length > 0) {
-      html += `<div class="lease-section">
-        <div class="lease-section-title">✈ リース市場フォーカス</div>
-        <div class="article-list">
-          ${leaseArticles.map((a, i) => articleRow(a, 9000 + i)).join('')}
         </div>
       </div>`;
     }
