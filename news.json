@@ -1,206 +1,176 @@
 {
-  "generated_at_jst": "2026-06-07 07:52",
+  "generated_at_jst": "2026-06-08 07:52",
   "todays_brief": [
     {
       "title": "Hot jobs report puts Fed cuts further out of reach as Chair Warsh faces policy tests",
-      "summary_2lines": "5月の雇用統計が強く、FRBの利下げ観測が後退。新議長ウォーシュは政策判断で内部の意見対立に直面している。",
-      "why_it_matters": "強力な雇用データと高インフレが利下げの可能性を遠ざけ、FRB議長にとっては経済成長と物価安定のバランスを取る難しい政策環境を示す。内部からの異論は市場や経済の見通しに影響を与える重要な指標となる。",
-      "market_impact": "市場では利下げ期待が後退し、短期的には金利上昇が意識される。エネルギー価格高騰や地政学的リスクも相まって、景気の不確実性増大や企業の投資判断、消費動向に慎重姿勢が広がる可能性が高い。",
+      "summary_2lines": "5月の強い雇用統計により、当面のFRB利下げ可能性がほぼ消滅し、次期FRB議長ウォーシュの政策運営の難しさが浮き彫りになった。FRB内部でもインフレ対策や政策判断を巡り意見対立が表面化している。",
+      "why_it_matters": "強固な雇用情勢はインフレ継続の可能性を示唆し、利下げ期待を後退させている。これによりFRBは金融緩和を急がず、インフレ抑制を優先する必要がある。さらに議長候補であるウォーシュと他の連銀総裁らの政策見解の相違は、市場の政策期待や金融政策の一貫性に影響を与えるため重要である。",
+      "market_impact": "市場はFRBの利下げ期待が後退したことから、短期金利の低下が見込めず、2026年末までに利上げの可能性すら織り込んでいる。企業の資金調達コストや消費者ローン金利は引き続き高水準で推移し、経済成長や設備投資抑制のリスクがある。地政学リスクも加わり、株式市場は慎重姿勢となる可能性が高い。",
       "category": "Economy",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/06/05/hot-jobs-report-puts-fed-cuts-further-out-of-reach-as-chair-warsh-faces-policy-tests.html",
       "published_at": "2026-06-06 04:09"
     },
     {
-      "title": "Trump to meet AI leaders to discuss US investment in their companies",
-      "summary_2lines": "トランプ米大統領が主要AI企業の経営者と会談し、米政府がこれら企業への投資を検討している。これにより、AI技術の普及促進と国民の信頼向上を目指す。",
-      "why_it_matters": "AIは未来の経済・技術競争の鍵であり、米政府による直接投資は国家戦略として重要。国民がAIを受け入れやすくし、技術の社会的利用を促進する狙いがあるため、政策動向として注目される。",
-      "market_impact": "政府がAI企業に資本参加することで、企業価値の安定化や資金調達環境の改善が期待される。一方、政府介入による規制強化や政治リスクも懸念され、関連株式のボラティリティ増大や投資家の注目を集める可能性がある。",
-      "category": "Tech",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-06 04:36"
-    },
-    {
-      "title": "US stocks slump as fears over Big Tech shake Wall Street",
-      "summary_2lines": "米国株式市場は主要ハイテク株への懸念や強い雇用統計を受け大幅に下落。特にナスダック指数は4％超の急落となり、リスク資産全般に売りが波及した。",
-      "why_it_matters": "強い雇用統計は経済の好調さを示す一方で、連邦準備制度理事会（FRB）がインフレ抑制のために金利を高水準で維持する可能性を高める。これにより成長期待が高いビッグテック株の評価が見直され、投資家心理が冷え込んだ。",
-      "market_impact": "ハイテク株の急落は市場全体の下押し要因となり、ナスダックやS&P500、ダウ平均の大幅下落を招いた。仮想通貨もリスク回避の流れで売られ、資金はヘルスケアや生活必需品などのディフェンシブ銘柄に移動。過熱感の強いAI・半導体関連投資から撤退する動きも顕著であり、市場センチメントの不安定化が懸念される。",
+      "title": "U.S. stock futures dip, oil prices surge as new attacks threaten the cease-fire with Iran",
+      "summary_2lines": "米国株先物は一時的に下落したものの、日曜に下げ幅を縮小した。イラン情勢の悪化により原油価格が急騰し、市場の不安定さが増している。",
+      "why_it_matters": "イラン紛争の停戦が脅かされる状況は中東地域の地政学的リスクを高め、世界的なエネルギー供給に影響を及ぼす可能性がある。これにより投資家心理が冷え込み、株式市場や原油市場に大きな変動をもたらすため重要なニュースとなっている。",
+      "market_impact": "テクノロジー株の大幅な売りが先週末に発生し、米株市場の2カ月間の持続的な上昇が一時停止。加えて、イラン情勢の緊迫化で原油価格が上昇し、関連するエネルギーセクターや広範な市場に波乱を引き起こす可能性が高い。不確実性の増大により短期的な市場のボラティリティが高まると考えられる。",
       "category": "Markets",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cwy2yq0dj58o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-06 06:38"
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran-6e433c90?mod=mw_rss_topstories",
+      "published_at": "2026-06-08 07:36"
     },
     {
-      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-      "summary_2lines": "OpenAIは、悪意あるプロンプトインジェクション攻撃から機密データを守るための新機能「Lockdown Mode」を発表しました。これは閲覧や画像取得など一部機能を制限し、データ漏洩リスクを低減します。",
-      "why_it_matters": "AIチャットボットの普及に伴い、悪意ある指示を仕込むプロンプトインジェクション攻撃が増加しています。機密情報を取り扱う企業や個人にとって重要なセキュリティ対策となり、信頼性向上に寄与します。",
-      "market_impact": "ChatGPTのビジネス利用拡大において安全性の強化は利用者の安心感を高め、企業の導入促進につながります。セキュリティ強化競争を加速させ、AIサービス市場の成熟にも寄与すると予想されます。",
-      "category": "Tech",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-      "published_at": "2026-06-07 05:32"
-    },
-    {
-      "title": "Pentagon said to raise threat level on Israel spying to ‘critical’",
-      "summary_2lines": "米国防総省の情報機関が、イスラエルによるスパイ活動の脅威レベルを「高」から「重大」に引き上げた。これは米イスラエルのイラン戦争および和平交渉の中で、米国の最高幹部に対する監視活動の活発化を受けたもの。",
-      "why_it_matters": "長年の同盟国であるはずのイスラエルが米国内での極めて重要な情報を密かに収集しようとしていることは、両国間の信頼関係に重大な亀裂を生じさせかねない。特に米国内で政権交代があり、イラン戦争の方向性をめぐる意見対立が深刻化している状況下でこの問題が浮上したことは、今後の中東政策や軍事協力に大きな影響を及ぼす可能性がある。",
-      "market_impact": "軍事および防衛関連企業には短期的に緊張の高まりから軍需需要増加への期待が生じる一方、米イスラエル関係の悪化が進めば中東情勢の不安定化を通じてエネルギー市場のボラティリティ上昇や国際投資環境の悪化も懸念される。また、防衛技術の共同開発計画にも影響を与え、関連の研究開発投資や契約の見直しが生じる可能性がある。",
+      "title": "Iran’s attack on Israel aims to restore deterrence but avoid return to war",
+      "summary_2lines": "イランがイスラエルに対するミサイル攻撃を行い、抑止力を回復しつつ全面的な戦争回避を目指している。専門家はこの動きを戦争の拡大を防ぐための戦略的行動と見ている。",
+      "why_it_matters": "中東地域の緊張が続く中、イランの攻撃は地域の安全保障バランスに直接影響し、戦争再発のリスクを高める可能性がある。国際社会の安定やエネルギー供給、世界の政治動向に波及効果を及ぼすため重要な動向である。",
+      "market_impact": "中東の不安定化は原油価格の変動を招きやすく、エネルギー市場に不透明感をもたらすほか、防衛関連企業の需要増加が見込まれる。また、リスク回避の動きから株式市場でのボラティリティが高まる可能性がある。",
       "category": "Geopolitics",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/pentagon-said-to-raise-threat-level-on-israel-spying-to-critical?traffic_source=rss",
-      "published_at": "2026-06-07 06:10"
+      "url": "https://www.aljazeera.com/video/quotable/2026/6/7/irans-attack-on-israel-aims-to-restore-deterrence-but-avoid-return-to-war?traffic_source=rss",
+      "published_at": "2026-06-08 06:33"
+    },
+    {
+      "title": "Is this the dawn of the Tokenpocalypse?",
+      "summary_2lines": "MicrosoftがGitHub Copilotの価格体系をトークン単位で大幅に変更し、その影響がAI業界全体に波及する懸念が高まっている。価格引き上げと使用制限が進む中、AI企業の収益性や成長が問われている。",
+      "why_it_matters": "AIサービスの運営コストが予想よりも高く、これまでは投資家資金で補填されてきたが、採算性向上のためにユーザーへのコスト転嫁が避けられなくなっている。これによりAI業界のビジネスモデルの成熟や収益化の課題が浮き彫りとなり、投資家や顧客の期待と実態とのギャップが明確になる重要な局面を迎えている。",
+      "market_impact": "GitHub Copilotの価格改定を皮切りに、他のAI提供企業も同様の値上げが予想され、利用制限の強化が進む可能性が高い。これにより企業・個人ユーザーのAI導入・活用意欲が変化し、市場での競争環境や成長ペースに不確実性が生じる。また、AnthropicなどのAI企業の上場に際しては、コスト構造や収益性のリスク要因が投資判断の重要ポイントとなる。",
+      "category": "Tech",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "published_at": "2026-06-08 05:26"
+    },
+    {
+      "title": "OpenAI is still working on that ‘super app’",
+      "summary_2lines": "OpenAIはChatGPTを統合型の“スーパーアプリ”へ刷新し、コーディングツールやAIエージェントを搭載予定。事業収益化とIPO準備を目指し、無料ユーザーを有料サービスへ誘導する戦略に転換している。",
+      "why_it_matters": "OpenAIはAnthropicなど競合との競争激化に対応し、サービスの収益化と企業顧客獲得を急いでいる。AI市場の成長と多様化が進む中で、ユーザー体験の一元化による差別化と収益基盤強化が必須となっている。",
+      "market_impact": "ChatGPTのスーパーアプリ化により、OpenAIはより広範なビジネス領域に進出し、法人需要の獲得が加速。既存の単機能プロダクトからの転換は競争力向上につながり、AIを活用した生産性向上や新たなサービス開発の波及効果も期待される。",
+      "category": "Tech",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "published_at": "2026-06-08 01:23"
     }
   ],
   "categories": {
     "Tech": [
       {
-        "title": "Trump to meet AI leaders to discuss US investment in their companies",
-        "summary_2lines": "トランプ米大統領が主要AI企業の経営者と会談し、米政府がこれら企業への投資を検討している。これにより、AI技術の普及促進と国民の信頼向上を目指す。",
-        "why_it_matters": "AIは未来の経済・技術競争の鍵であり、米政府による直接投資は国家戦略として重要。国民がAIを受け入れやすくし、技術の社会的利用を促進する狙いがあるため、政策動向として注目される。",
-        "market_impact": "政府がAI企業に資本参加することで、企業価値の安定化や資金調達環境の改善が期待される。一方、政府介入による規制強化や政治リスクも懸念され、関連株式のボラティリティ増大や投資家の注目を集める可能性がある。",
+        "title": "Robots could soon be delivering your pizza",
+        "summary_2lines": "エストニアのスタートアップがロボット配送機を開発し、人間の配達員よりもコストが安いと発表。近い将来、ピザなどの配送にロボットが広く使われる可能性が高まっている。",
+        "why_it_matters": "配送の自動化は労働力不足や人件費の高騰に対する解決策となり得る。ロボット導入による効率化は、サービスの迅速化とコスト削減を促進し、消費者体験を大きく変える可能性があるから重要である。",
+        "market_impact": "配達産業でロボットが普及すると、物流コストの低減や配達時間の短縮が期待される。従来の配達員の雇用形態や給与体系に影響を与え、ロボティクス関連企業への投資や技術開発が加速することも考えられる。",
         "category": "Tech",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-06-06 04:36"
+        "source": "The Economist",
+        "url": "https://www.economist.com/business/2026/06/07/robots-could-soon-be-delivering-your-pizza",
+        "published_at": "2026-06-07 19:18"
       },
       {
-        "title": "We need to stop AI developing without humans, says Anthropic co-founder",
-        "summary_2lines": "Anthropicの共同設立者ジャック・クラークは、AIが人間の介入なしに自己進化するリスクを指摘し、規制や開発のブレーキが必要だと訴えている。Anthropicは上場準備を進めており、AI技術の急速な発展とともに社会的影響も拡大している。",
-        "why_it_matters": "AI技術の進化は社会や経済に大きな変革をもたらす一方で、制御不能な発展によるリスクも懸念されている。政府の規制枠組みが未整備な中、企業が自主的に安全策を講じることが求められており、Anthropicの見解は今後のAI政策議論や技術開発の方向性に大きな影響を及ぼす可能性がある。",
-        "market_impact": "Anthropicの上場はAI関連企業として史上有数の大型IPOとなる見込みであり、AI市場の資金流入を加速させる。AIの自動化能力向上は既存の労働市場に競争圧力を与え、特にソフトウェアエンジニア職の代替リスクが高まるが、一方で創造性やアイデア発想力が価値を持つ新たな労働価値観を生む可能性がある。",
-        "category": "Tech",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-06-05 16:17"
-      },
-      {
-        "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-        "summary_2lines": "OpenAIは、悪意あるプロンプトインジェクション攻撃から機密データを守るための新機能「Lockdown Mode」を発表しました。これは閲覧や画像取得など一部機能を制限し、データ漏洩リスクを低減します。",
-        "why_it_matters": "AIチャットボットの普及に伴い、悪意ある指示を仕込むプロンプトインジェクション攻撃が増加しています。機密情報を取り扱う企業や個人にとって重要なセキュリティ対策となり、信頼性向上に寄与します。",
-        "market_impact": "ChatGPTのビジネス利用拡大において安全性の強化は利用者の安心感を高め、企業の導入促進につながります。セキュリティ強化競争を加速させ、AIサービス市場の成熟にも寄与すると予想されます。",
+        "title": "Is this the dawn of the Tokenpocalypse?",
+        "summary_2lines": "MicrosoftがGitHub Copilotの価格体系をトークン単位で大幅に変更し、その影響がAI業界全体に波及する懸念が高まっている。価格引き上げと使用制限が進む中、AI企業の収益性や成長が問われている。",
+        "why_it_matters": "AIサービスの運営コストが予想よりも高く、これまでは投資家資金で補填されてきたが、採算性向上のためにユーザーへのコスト転嫁が避けられなくなっている。これによりAI業界のビジネスモデルの成熟や収益化の課題が浮き彫りとなり、投資家や顧客の期待と実態とのギャップが明確になる重要な局面を迎えている。",
+        "market_impact": "GitHub Copilotの価格改定を皮切りに、他のAI提供企業も同様の値上げが予想され、利用制限の強化が進む可能性が高い。これにより企業・個人ユーザーのAI導入・活用意欲が変化し、市場での競争環境や成長ペースに不確実性が生じる。また、AnthropicなどのAI企業の上場に際しては、コスト構造や収益性のリスク要因が投資判断の重要ポイントとなる。",
         "category": "Tech",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-        "published_at": "2026-06-07 05:32"
+        "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+        "published_at": "2026-06-08 05:26"
       },
       {
-        "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-        "summary_2lines": "AppleのWWDC 2026で、Siriが大幅にAI強化され、新機能やApple Intelligence搭載のアプリ更新が発表される予定。特にSiriの会話能力向上やAIエージェント導入が注目されている。",
-        "why_it_matters": "AppleがAI機能を軸にサービスやアプリの大幅刷新を図ることで、ユーザー体験の革新と競争力強化を目指している。特にSiriの高機能化はAIアシスタント市場における影響力拡大を示す重要な動きであり、テクノロジー産業全体のAI開発競争にも大きく関与する。",
-        "market_impact": "SiriやAIエージェントの進化はApple製品の魅力を増し、ユーザーのデバイス利用頻度やエコシステムへの依存度を高める可能性が高い。これによりAppleのハードウェア販売やサービス収益拡大が期待されるとともに、AI分野での競合他社との競争激化も予想され、テクノロジー市場全体に波及効果が及ぶ。",
+        "title": "OpenAI is still working on that ‘super app’",
+        "summary_2lines": "OpenAIはChatGPTを統合型の“スーパーアプリ”へ刷新し、コーディングツールやAIエージェントを搭載予定。事業収益化とIPO準備を目指し、無料ユーザーを有料サービスへ誘導する戦略に転換している。",
+        "why_it_matters": "OpenAIはAnthropicなど競合との競争激化に対応し、サービスの収益化と企業顧客獲得を急いでいる。AI市場の成長と多様化が進む中で、ユーザー体験の一元化による差別化と収益基盤強化が必須となっている。",
+        "market_impact": "ChatGPTのスーパーアプリ化により、OpenAIはより広範なビジネス領域に進出し、法人需要の獲得が加速。既存の単機能プロダクトからの転換は競争力向上につながり、AIを活用した生産性向上や新たなサービス開発の波及効果も期待される。",
         "category": "Tech",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-        "published_at": "2026-06-07 03:13"
+        "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+        "published_at": "2026-06-08 01:23"
       },
       {
-        "title": "The Best 3-in-1 Apple Charging Stations After Testing Top Models",
-        "summary_2lines": "Apple製品（iPhone、AirPods、Apple Watch）向けの3-in-1充電ステーションの最新おすすめモデルを紹介。高性能でデザイン性のある製品を複数テストし、旅行用など用途別にも提案している。",
-        "why_it_matters": "Appleデバイスを複数所有するユーザーの利便性向上が期待されるため。個別充電の煩雑さを解消し、効率的かつ快適な充電環境を提供する製品の進化は、ユーザー体験の質を高める重要な要素となっている。",
-        "market_impact": "ワイヤレス充電市場での競争激化が見込まれ、Apple周辺機器メーカーの製品開発・販売戦略に影響を与える可能性が高い。特に、旅行需要やモバイル性を重視したモデルの需要増加により、関連アクセサリーの売上増やサードパーティ製品の多様化につながるだろう。",
-        "category": "Tech",
-        "source": "Wired",
-        "url": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/",
-        "published_at": "2026-06-06 23:00"
-      },
-      {
-        "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-        "summary_2lines": "シリラム・クリシュナン氏がホワイトハウスのAI上級顧問を退任し、トランプ政権での役割を終える。今後は大きな課題に取り組む新機関設立を目指している。",
-        "why_it_matters": "AI政策の中心人物の退任は、トランプ政権のAI戦略の方向性や影響力に変化をもたらす可能性がある。クリシュナン氏は業界内外で強い影響力を持ち、特にAIへの規制と産業支援に関わってきたため、今後の米国のAI政策に注目が集まる。",
-        "market_impact": "クリシュナン氏の退任で、ホワイトハウスのAI政策は人事面での再編が進む一方、トランプ政権が推進してきた規制緩和やインフラ整備施策の継続性に不透明感が生じる。これによりAI関連企業や投資家の動向、特にデータセンター建設や公的なAI企業への資本参加方針に影響を与える可能性がある。",
+        "title": "Notion restores access to Anthropic after service disruption",
+        "summary_2lines": "NotionはAnthropicのAIモデルの性能問題により一時的にアクセスを停止したが、サービスが復旧した。Anthropic側もインフラ問題による一時的なエラーを認め、問題は解決済みと発表した。",
+        "why_it_matters": "NotionのAI機能はユーザーの生産性向上に寄与する重要なツールであり、Anthropicとの連携問題はユーザー体験に直結する。AIモデルの信頼性やサービス安定性は今後の拡大に不可欠であり、今回の障害が注目された背景にはAIサービスへの依存度の高まりがある。",
+        "market_impact": "今回の一時的な障害は市場に大きな混乱を与えるほどではないが、AIサービスとその基盤インフラの安定性が今後の競争力に影響を与える可能性がある。NotionやAnthropicの信頼性向上が今後の顧客獲得や市場拡大に重要となるだろう。",
         "category": "Tech",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-        "published_at": "2026-06-07 02:42"
+        "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+        "published_at": "2026-06-08 02:56"
       },
       {
-        "title": "2 Best Bluetooth Trackers of 2026, Plus Honorable Mentions",
-        "summary_2lines": "2026年のベストBluetoothトラッカーとしてChipoloとAppleのAirTagが紹介されている。両製品とも特徴や使い勝手に優れ、紛失防止に有効だと評価されている。",
-        "why_it_matters": "スマートフォンや鍵などの紛失リスクが高まる現代において、Bluetoothトラッカーは生活の質を向上させる重要なアイテムである。また、位置情報技術の進歩とともに個人のプライバシー保護の問題も浮上しており、製品選択時の考慮点となっている。",
-        "market_impact": "ChipoloがApple・Googleとの独占的提携を持つことは市場競争を活性化させる一方で、AppleのAirTagがiPhoneユーザーを強く囲い込むことになり、Bluetoothトラッカー市場におけるプラットフォーム依存や独占的支配の懸念も高まる。今後は多様なOS対応やプライバシー対応が企業戦略の鍵となるだろう。",
+        "title": "Sigma BF Review (2026): Eccentric but Strangely Lovable",
+        "summary_2lines": "シグマの新型カメラBFは独特な設計で、撮影性能よりもカメラとしての存在感を重視した製品。写真撮影よりもカメラ愛好家向けの美学的な製品と言える。",
+        "why_it_matters": "従来の高機能カメラ市場とは異なるニッチな路線を狙い、カメラの使い勝手よりも所有する楽しみや美しさを追求した製品戦略は、カメラ業界の多様化とブランド差別化の一例として注目される。",
+        "market_impact": "Sigma BFは従来の高級フルサイズ市場とは異なる層を狙うことで、競合他社との差別化を図るが、実用性を求める一般消費者には受け入れられにくく、市場規模は限定的。だが特定の愛好家層には強い支持を得る可能性がある。",
         "category": "Tech",
         "source": "Wired",
-        "url": "https://www.wired.com/story/the-best-bluetooth-trackers/",
-        "published_at": "2026-06-06 19:38"
+        "url": "https://www.wired.com/review/sigma-bf-camera/",
+        "published_at": "2026-06-07 20:01"
       },
       {
-        "title": "Anti-Vax Dating Apps Are Going IRL. People Are Mad as Hell About It",
-        "summary_2lines": "ワクチン反対派向けのデーティングアプリ『Unjected』などが全米でリアルイベントを開催し、支持者たちが直接交流を図っている。これに対し、公衆衛生の専門家らはワクチンの有効性を強調しつつ、感染症の再流行に警鐘を鳴らしている。",
-        "why_it_matters": "新型コロナをはじめとするワクチンに反対する人々が専用のコミュニティや出会いの場を形成することで、社会的分断や誤情報の拡散が助長される恐れがある。特に米国では政策の揺れ動きや指導者の影響もあり、ワクチン忌避による感染症の再流行や公衆衛生へのリスクが高まっているため重要な問題となっている。",
-        "market_impact": "ワクチン反対層向けのニッチなデーティング市場が拡大しつつあり、新規ユーザー獲得やイベント開催により関連アプリ事業者の収益機会が増加。一方で、既存の大手プラットフォームもIRL（現実世界）イベントに注力する動きが加速し、ユーザーエンゲージメントの多様化や市場競争の激化を促進している。また、ワクチン忌避による感染症の再流行は医療費の増加や労働力の低下などマクロ経済への悪影響も懸念される。",
+        "title": "Lauf eElja Electric Mountain Bike Review: Power Trip",
+        "summary_2lines": "アイスランドのLaufが、新型電動マウンテンバイクeEljaを発表。軽量かつ高性能な設計で、価格は8,000ドル超と高級モデルに位置付けられている。",
+        "why_it_matters": "近年急速に成長しているe-MTB市場において、50ポンド超が多いなか37.7ポンドという軽量設計は注目に値する。高性能コンポーネントと独自のサスペンション技術を組み合わせたことで、従来の電動バイクの課題であった重量と操作性のバランス改善を実現しているため、ユーザー体験の向上が期待される。",
+        "market_impact": "e-MTB市場では重量がユーザーの大きな購入決定要因であり、LaufのeEljaは軽量化を武器に競合との差別化を図る。高価格帯での品質訴求によりプレミアム市場の拡大や他社の技術革新を促進し、電動バイクのさらなる普及と市場活性化に寄与する可能性が高い。",
         "category": "Tech",
         "source": "Wired",
-        "url": "https://www.wired.com/story/anti-vax-dating-apps-are-going-irl-people-are-mad-as-hell-about-it/",
-        "published_at": "2026-06-06 20:00"
+        "url": "https://www.wired.com/review/lauf-eelja-electric-mountain-bike/",
+        "published_at": "2026-06-07 19:22"
       },
       {
-        "title": "Some ancient microbes frozen with Ötzi the Iceman are still growing",
-        "summary_2lines": "5300年前のミイラ、オッツィの体に凍ったままの古代微生物が確認され、一部は現在も生きていることが判明した。科学者たちはDNA解析や培養を通じて古代と現代微生物の違いを調査した。",
-        "why_it_matters": "この研究は古代微生物の生存可能性を示し、微生物の進化や生態系の長期間保存メカニズムの理解に貢献する。さらに、古代生物由来の微生物がどのように現在の環境と接触しているかを明らかにし、考古学・生物学両面での新たな知見を提供する。",
-        "market_impact": "直接的な経済影響は限定的だが、古代微生物の生存と性質の研究が進むことで、バイオテクノロジーや医薬品開発、環境微生物応用分野に新たな素材や知見がもたらされる可能性がある。研究機関や関連企業にとっては研究開発の幅を広げる好材料となりうる。",
+        "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
+        "summary_2lines": "ナッシュビルの高校銃撃事件の生存者が、銃検知に失敗したAIシステムの製造会社を提訴。システムの検知性能に重大な欠陥があり、製品誇大広告が問題視されている。",
+        "why_it_matters": "近年、学校や公共施設の安全確保のためにAI銃検知システムの導入が進む中、本件は技術の信頼性と限界、そして企業の責任問題を浮き彫りにした。社会的に重大な銃撃事件に対し期待された防犯技術の有効性が問われ、今後のAIセキュリティ技術開発・運用の在り方に影響を与える。",
+        "market_impact": "該当企業Omnilertの信用失墜はもちろん、AI銃検知システム全体の市場信頼性に悪影響を及ぼす可能性がある。公共機関や教育委員会は導入判断に慎重さが増し、業界内で製品性能の透明化や認証基準の強化が求められる。投資家のリスク意識が高まり関連株式や新規参入企業の資金調達環境にも波及するおそれがある。",
         "category": "Tech",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/",
-        "published_at": "2026-06-06 20:15"
+        "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+        "published_at": "2026-06-07 20:08"
       },
       {
-        "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-        "summary_2lines": "ntsc-rsはオープンソースの映像エフェクトで、アナログTVやVHSのノイズを正確に再現します。Rust製で高解像度・リアルタイム処理が可能な点が特徴です。",
-        "why_it_matters": "アナログ映像の質感をリアルに再現するニーズは映像制作や配信において根強く、従来の簡易的なエフェクトに比べntsc-rsは技術的に高度で多様なプラットフォーム対応がなされているため、クリエイターの表現の幅を拡げます。",
-        "market_impact": "After EffectsやPremiereなど主要映像編集ソフトに対応したプラグイン提供により、映像制作市場における映像エフェクトツールの競争が活性化するとともに、VHSやアナログ風映像表現を求める広告・エンタメ業界への波及効果が期待されます。",
+        "title": "How's Linear so fast? A technical breakdown",
+        "summary_2lines": "Linearはブラウザ内にデータベースを持ち、ローカル更新を即時反映しつつ同期エンジンで非同期にサーバーと通信する仕組みで高速な操作感を実現している。従来のCRUDアプリと比べて約300msの待ち時間を大幅に削減している。",
+        "why_it_matters": "ウェブアプリのパフォーマンスの最大の障害となるネットワーク待ち時間を削減し、ユーザ体験を劇的に向上させるための技術的アプローチを詳細に解説している。高速で直感的なUIは顧客満足度を高め、競合優位性となるため多くの開発者や企業に参考となる。",
+        "market_impact": "Linearのような技術が広まれば、SaaSやウェブサービス業界でユーザーの操作レスポンス向上が一般化し、特にタスク管理やプロジェクト管理ツールの競争が激化。パフォーマンス最適化が新たな差別化要因となり、関連技術やライブラリの需要も高まる可能性がある。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://ntsc.rs/",
-        "published_at": "2026-06-07 04:17"
+        "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+        "published_at": "2026-06-08 04:01"
       },
       {
-        "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-        "summary_2lines": "MetaのAIチャットボットの脆弱性を悪用され、2万件以上のInstagramアカウントが乗っ取られたことが判明。現在、Metaはチャットボットを停止し被害拡大の防止に努めている。",
-        "why_it_matters": "Metaは世界的なSNS大手であり、そのサービスのセキュリティ侵害はユーザーの個人情報保護に重大な懸念をもたらす。特にAI技術の悪用による手口は今後のサイバーセキュリティ対策のあり方に影響を与えるため、企業の信頼維持や業界全体の安全性強化が急務である。",
-        "market_impact": "大規模なセキュリティインシデントはMetaのブランドイメージとユーザー信頼を損ねる可能性があり、利用者減少や広告収入に悪影響を及ぼす恐れがある。加えて、AIに関連するセキュリティリスクが浮き彫りとなり、規制強化や投資判断に影響する可能性もある。短期的には株価の反応が見込まれ、中長期的には対策コスト増加による収益圧迫も懸念される。",
+        "title": "Building from zero after addiction, prison, and a felony",
+        "summary_2lines": "著者が14歳で少年刑務所に入り、麻薬依存や非行、前科を経て、ソフトウェアとOSSの世界で人生を再建した経験を綴る。困難な過去を持つ人々にも希望を与えるストーリーである。",
+        "why_it_matters": "依存症や刑務所、前科があるために社会復帰が困難とされる中、テック業界における再起の可能性を示している。個人の再生を支援する社会的な意義や、多様なバックグラウンドを持つ才能の活用と包摂の重要性を示す背景がある。",
+        "market_impact": "この話は直接的な市場への影響は限定的だが、テック業界における多様性推進や人材活用の観点で示唆があり、OSSやコミュニティ貢献を通して非典型的な人材が活躍する土壌を形成。長期的には人材不足解消やイノベーション促進に寄与しうる。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-        "published_at": "2026-06-07 03:35"
+        "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+        "published_at": "2026-06-08 03:33"
       },
       {
-        "title": "Zeroserve: A zero-config web server you can script with eBPF",
-        "summary_2lines": "zeroserveはeBPFを活用したゼロコンフィグの高速HTTPSサーバーで、全リクエストに対しユーザースペースでスクリプトを実行可能。単一のtarballでサイト全体を管理し、nginxやCaddyの代替を目指す新概念のサーバー。",
-        "why_it_matters": "従来の宣言的設定ファイルとスクリプトが分離された運用に比べ、eBPFプログラムによる一元管理で設定の複雑さを大きく削減。HTTP/2、TLS1.3、io_uring対応で性能と安全性も強化されており、ウェブサーバーの運用効率と柔軟性を革新できる可能性があるため重要。",
-        "market_impact": "ウェブサービスやクラウドインフラ市場でnginxやCaddyを中心に競争が激しい中、zeroserveのような軽量かつ高性能な新世代サーバーの登場は競合製品のシェア奪取や新たな運用モデルの普及に繋がる可能性がある。特にセキュリティ強化や運用簡素化に価値を置く企業にとって採用促進の材料となり得る。",
+        "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
+        "summary_2lines": "本研究は、大規模言語モデル（LLM）が持つとされる人間のような属性は、その基盤となる環境（サブストレート）に依存する可能性があると指摘。Age of Empires IIのゲーム環境上で神経ネットワークを構築し、LLMの擬人化的属性は独自のものではないと論じている。",
+        "why_it_matters": "近年注目されるLLMの擬人化的な理解や倫理的属性が、本当にモデル固有のものなのかという基礎的疑問を投げかけている。AIの性質や能力評価の前提を再考させることで、AI研究や応用の方向性、倫理議論に影響を与える可能性がある点で重要。",
+        "market_impact": "LLMを含むAI技術は多くの企業や市場に影響を与えているが、本研究の指摘により、AIの性能や行動解釈が環境依存であるとすれば、AI製品の開発・評価基準の見直しが必要になる可能性がある。これによりAI関連投資や製品戦略に不確実性が生じるかもしれない。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://su3.io/posts/introducing-zeroserve",
-        "published_at": "2026-06-06 23:59"
+        "url": "https://arxiv.org/abs/2605.31514",
+        "published_at": "2026-06-08 03:54"
       }
     ],
     "Markets": [
       {
-        "title": "US stocks slump as fears over Big Tech shake Wall Street",
-        "summary_2lines": "米国株式市場は主要ハイテク株への懸念や強い雇用統計を受け大幅に下落。特にナスダック指数は4％超の急落となり、リスク資産全般に売りが波及した。",
-        "why_it_matters": "強い雇用統計は経済の好調さを示す一方で、連邦準備制度理事会（FRB）がインフレ抑制のために金利を高水準で維持する可能性を高める。これにより成長期待が高いビッグテック株の評価が見直され、投資家心理が冷え込んだ。",
-        "market_impact": "ハイテク株の急落は市場全体の下押し要因となり、ナスダックやS&P500、ダウ平均の大幅下落を招いた。仮想通貨もリスク回避の流れで売られ、資金はヘルスケアや生活必需品などのディフェンシブ銘柄に移動。過熱感の強いAI・半導体関連投資から撤退する動きも顕著であり、市場センチメントの不安定化が懸念される。",
-        "category": "Markets",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cwy2yq0dj58o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-06-06 06:38"
-      },
-      {
         "title": "Bitcoin is cratering, but a new Wall Street crypto hype is on the rise",
-        "summary_2lines": "ビットコインが大幅に下落する中、ハイパーリキッド（HYPE）に連動する新しいETFが資金流入を集めている。これらのETFは、従来の暗号資産とは異なる投資モデルを示し注目を浴びている。",
-        "why_it_matters": "ビットコインなど主要暗号資産が下落している中、分散型永久先物取引所であるハイパーリキッドのETFが新規投資家を呼び込み、従来の暗号資産とは異なる収益モデル（プラットフォーム手数料の買い戻し）で投資家の理解を得ていることが重要。これにより暗号資産市場の多様化と主流金融との橋渡しが進む可能性がある。",
-        "market_impact": "ハイパーリキッド関連のETFが新規資金を吸収し、ビットコインETFなど既存の暗号資産商品からの資金流出を一部相殺。従来の暗号市場とは異なる投資家層を取り込み、暗号資産市場全体の活性化および普及促進に寄与する可能性がある。一方で知名度の低さや競争激化、高リスクという課題も存在し市場の不確実性は残る。",
+        "summary_2lines": "ビットコインが大幅下落する中、ハイパーリキッド（HYPE）関連のETFが投資家を引き寄せている。伝統的な株式の自社株買いに似たメカニズムで、投資家に新たな収益モデルとして注目されている。",
+        "why_it_matters": "ビットコインやイーサリアムが弱含む中で、ハイパーリキッドのETFが新しい投資潮流となっている。これにより、従来の暗号資産とは異なる形での市場拡大や新規投資家の流入が期待され、暗号資産全体のエコシステムに新たな可能性を示している点が重要。",
+        "market_impact": "ハイパーリキッド関連ETFは前年比で約1億5000万ドルの資金流入を達成し、伝統的な金融市場とDeFiの橋渡しを果たしている。これにより、暗号資産市場の分散化が進み、ビットコイン中心の市場構造に変化が起こる可能性がある。一方で認知度の低さや競合他社の存在、リスクの高さも残るため、市場形成の過程で注意が必要とされる。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html",
-        "published_at": "2026-06-06 22:28"
+        "published_at": "2026-06-08 03:56"
       },
       {
         "title": "Two American tycoons are betting big on a casino revival",
-        "summary_2lines": "アメリカの大手実業家二人が、カジノ業界の復活に賭け、大手カジノ運営会社CaesarsとMGMの買収を検討している。これによりカジノ市場での競争環境が変化する可能性がある。",
-        "why_it_matters": "パンデミック後の観光・娯楽産業の回復が期待される中で、カジノ業界の再編が進む兆しが見られる。大手実業家による大型投資は業界の成長期待を反映しており、今後の市場動向を占う重要な指標となる。",
-        "market_impact": "CaesarsとMGMの買収が実現すれば、双方の資産統合による経営効率化や競争優位性の強化につながる可能性がある。これによりカジノ株の価格動向や関連銘柄の投資意欲にも波及効果が生じるだろう。観光地域の経済活性化にも寄与すると見られる。",
+        "summary_2lines": "アメリカの大物実業家二人が、カジノ業界の再生に大規模な投資を行っている。CaesarsとMGMという主要カジノ企業がまもなく新たな所有者のもとに変わる可能性が高い。",
+        "why_it_matters": "カジノ業界はパンデミックの影響で大きな打撃を受けていたが、回復の兆しが見え始めている。主要企業の所有権が変わることで投資や経営戦略に新たな動きが予想され、業界全体の活性化につながるため注目されている。",
+        "market_impact": "主要カジノ企業の所有権変更は、株式市場での評価や投資家の期待感に影響を与える。新経営陣によるリニューアルや拡大戦略が実施されれば、収益改善や観光・エンタメ産業全体の回復を促進し、関連経済にも好影響を及ぼす可能性が高い。",
         "category": "Markets",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/06/04/two-american-tycoons-are-betting-big-on-a-casino-revival",
@@ -208,129 +178,159 @@
       },
       {
         "title": "Where investors may find the next 'big wave' for AI trade",
-        "summary_2lines": "ゴールドマン・サックスのストラテジストは、AI投資の次の大波は新興市場、特に台湾と韓国にあると指摘。これらの市場はAI関連銘柄の評価額が米国より割安で成長余地が大きいと見ている。",
-        "why_it_matters": "AI分野の成長をめぐる投資先として、従来の米国中心から新興市場へ視点が拡大している。特に台湾や韓国は半導体やメモリーチップといったAI基盤の主要プレイヤーであり、今後のグローバルAI経済の展開に重要な役割を担うため、この動向は投資戦略や資本配分に影響を与える。",
-        "market_impact": "台湾や韓国のETFが既に大きく上昇していることから、これら市場への資金流入が加速する可能性がある。AI関連銘柄の評価改善と成長期待が新興市場株価を押し上げ、世界的な株式市場の構造変化や投資バランスの見直しを促すだろう。また、米国内市場のAI強化と併存しつつ、多様な地域での技術進展と経済成長が期待される。",
+        "summary_2lines": "ゴールドマンサックスのストラテジストが、AI関連投資の次の大きな波は台湾や韓国を含む新興市場にあると指摘。これらの地域はAI分野で重要な役割を担い、米国よりも割安な評価が続いているため今後の成長が期待されている。",
+        "why_it_matters": "AI技術の進展による投資機会はこれまで米国中心だったが、新興市場にも主要な半導体関連企業が集積している。特に台湾・韓国の市場はすでに大きな成長を見せており、投資家が新たな成長エリアを探る上で重要な示唆となる。",
+        "market_impact": "台湾・韓国を含む新興市場のAI関連ETFは年初来大幅に上昇しており、投資資金の流入でこれら地域の半導体企業や関連銘柄の株価が押し上げられる可能性が高い。一方、米国市場も引き続きAI関連企業を中心に注目され、グローバルな資金分散が進むだろう。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/06/05/where-investors-may-find-the-next-big-wave-for-ai-trade.html",
         "published_at": "2026-06-05 21:17"
       },
       {
-        "title": "Most robo-advisers will never profit from Wall Street’s AI-generated stock picks",
-        "summary_2lines": "多くのロボアドバイザーは税損確定やポートフォリオの規律管理には優れているが、AIによる株式選択で市場を上回る収益を出すことは難しい。AIを活用した投資手法が注目される中、利益を上げるロボアドバイザーは限られるという現実が示された。",
-        "why_it_matters": "近年、AI技術が金融市場に浸透し、投資判断への応用が進んでいるため、多くのロボアドバイザーがAIを用いた株式選定に期待を寄せている。しかし、現時点では市場平均を上回るパフォーマンスを示すことが難しく、投資家の利益に直結しない点が重要である。これは投資家がロボアドバイザーの役割を理解し、サービスを選択する際の判断材料となる。",
-        "market_impact": "ロボアドバイザー業界では、AIを駆使した株式選定による目立った収益実績がないため、顧客獲得競争では従来の税損確定やポートフォリオ管理の強みがより重視される可能性がある。これにより、AI技術投資の回収が遅延し、サービスの収益性改善にも影響を及ぼす。加えて、投資家の期待と供給するサービス内容の乖離が業界全体の信頼性に関わる課題となる。",
+        "title": "You May Not Need a Giant Chef’s Knife When a Midsize Knife Does the Trick",
+        "summary_2lines": "キッチンで使う包丁は個人の好みによるが、中型サイズの包丁は使い勝手が良く、様々な調理に適していることが判明した。筆者は複数メーカーの中型包丁を試し、その多機能性や扱いやすさを評価している。",
+        "why_it_matters": "キッチンツールの選択肢として大型シェフナイフだけでなく、中型のユーティリティナイフやペティナイフの重要性が見直されている。手の大きさや調理スタイルに合った包丁を選ぶことで、料理の効率や快適さが向上し、ユーザーの満足度や調理体験が変わる可能性がある。",
+        "market_impact": "包丁市場において、中型の高機能ナイフの需要が増大する可能性がある。特に手の小さい消費者や多様な調理ニーズを持つ層を狙った製品展開が活発化し、ナイフメーカー各社は新たなデザインや素材、形状の中型包丁の開発・販売強化を検討するだろう。結果として、キッチン用品市場の細分化・多様化が進むと予想される。",
+        "category": "Markets",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/you-may-not-need-a-giant-chefs-knife-when-a-midsize-knife-does-the-trick/",
+        "published_at": "2026-06-07 20:00"
+      },
+      {
+        "title": "U.S. stock futures dip, oil prices surge as new attacks threaten the cease-fire with Iran",
+        "summary_2lines": "米国株先物は一時的に下落したものの、日曜に下げ幅を縮小した。イラン情勢の悪化により原油価格が急騰し、市場の不安定さが増している。",
+        "why_it_matters": "イラン紛争の停戦が脅かされる状況は中東地域の地政学的リスクを高め、世界的なエネルギー供給に影響を及ぼす可能性がある。これにより投資家心理が冷え込み、株式市場や原油市場に大きな変動をもたらすため重要なニュースとなっている。",
+        "market_impact": "テクノロジー株の大幅な売りが先週末に発生し、米株市場の2カ月間の持続的な上昇が一時停止。加えて、イラン情勢の緊迫化で原油価格が上昇し、関連するエネルギーセクターや広範な市場に波乱を引き起こす可能性が高い。不確実性の増大により短期的な市場のボラティリティが高まると考えられる。",
         "category": "Markets",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/wall-street-keeps-its-ai-stock-picking-secrets-heres-what-robo-advisers-actually-do-93871e31?mod=mw_rss_topstories",
-        "published_at": "2026-06-07 03:50"
+        "url": "https://www.marketwatch.com/story/u-s-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran-6e433c90?mod=mw_rss_topstories",
+        "published_at": "2026-06-08 07:36"
+      },
+      {
+        "title": "S&P 500 companies can’t stop talking about higher oil prices. But few say they’ll actually hurt profits.",
+        "summary_2lines": "S&P 500企業は原油価格の上昇について多く言及しているが、利益見通しを下げる理由として挙げる企業はわずか7社に留まっている。多くの企業は原油高が直ちに利益を圧迫するとは考えていない。",
+        "why_it_matters": "原油価格の変動は企業コストや消費者需要に大きく影響するため、企業の利益見通しに重要なファクターとなる。しかし、S&P 500企業の多くが利益見通しを据え置く姿勢を示していることは、原油高が必ずしも即座の業績悪化をもたらさない可能性を示唆している。",
+        "market_impact": "市場全体としては、エネルギーコスト上昇の懸念があるものの、企業業績に対する不安が限定的であるため、株価急落などのネガティブな影響は抑えられるだろう。一方で、エネルギー関連企業の利益は恩恵を受けやすく、経済全体のインフレ圧力や消費者支出への波及は引き続き注視が必要だ。",
+        "category": "Markets",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/s-p-500-companies-cant-stop-talking-about-higher-oil-prices-but-few-say-theyll-actually-hit-profits-c3a4e4ea?mod=mw_rss_topstories",
+        "published_at": "2026-06-08 04:14"
+      },
+      {
+        "title": "These are the market’s new hot stocks as investors flee from tech",
+        "summary_2lines": "投資家がテクノロジー株を売却し、ヘルスインシュアラーや銀行、小売業など他セクターへ資金を移動させている。これにより市場の資金流れが大きく変化している。",
+        "why_it_matters": "テクノロジー株は過去数年にわたり市場の成長を牽引してきたが、投資家のリスク回避やバリュエーション懸念から資金が流出している。結果として他のディフェンシブ性の高いセクターに注目が集まっているため、市場全体の構造的変化を示す重要なサインとなっている。",
+        "market_impact": "テクノロジー株の売却により同セクターの株価下落圧力が高まる一方で、ヘルスインシュアラーや銀行、小売業の株価は堅調に推移しやすくなる。これがセクター間の資金循環を促し、市場全体のリスク分散や相対的なパフォーマンスの変化をもたらす可能性がある。また、投資家心理の変化は企業の資金調達環境や将来的な成長戦略にも影響を及ぼすだろう。",
+        "category": "Markets",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/these-are-the-markets-new-hot-stocks-as-investors-flee-from-tech-826096c2?mod=mw_rss_topstories",
+        "published_at": "2026-06-08 01:00"
       }
     ],
     "Geopolitics": [
       {
-        "title": "Cuba’s Raul Castro makes first public appearance since US charges",
-        "summary_2lines": "キューバの元大統領ラウル・カストロが、米国による殺人容疑の起訴後初めてハバナで公の場に姿を現した。彼は内務省の記念行事で軍関係者やオリンピック選手と共に称賛を受けた。",
-        "why_it_matters": "米国が1996年の民間航空機撃墜事件に関連してカストロ氏を起訴したことは、米キューバ関係の緊張を再燃させる可能性がある。彼の公の場への復帰はキューバ国内の政治的安定や国際的な注目を集める重要な出来事である。",
-        "market_impact": "直接的な市場への影響は限定的だが、米国とキューバ間の政治的緊張が強まることで、投資環境や貿易関係に不確実性が増す可能性がある。特に観光業や輸出入関連の企業にとってはリスク要因となり得る。",
+        "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+        "summary_2lines": "糖尿病学会の年次総会で、科学研究を批判する社説の再配布を行った5名の科学者が追放された。彼らは「行動規範違反」を理由に退場を命じられたが、検閲問題として議論を呼んでいる。",
+        "why_it_matters": "科学的自由と表現の自由が政治的圧力により制約される事例として注目されている。科学コミュニティにとって、政府の介入が研究発表や意見表明の自由を奪うことは、研究の透明性や進歩に悪影響を及ぼす可能性があるため重要な問題となる。",
+        "market_impact": "直接的な経済影響は限定的だが、科学研究への政治介入が進めば、医療・製薬分野の研究開発や投資環境に悪影響を与えるリスクがある。また、公的資金による研究への信頼低下は、関連企業の研究開発活動や株価にも波及しかねない。",
         "category": "Geopolitics",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/cubas-raul-castro-makes-first-public-appearance-since-us-charges?traffic_source=rss",
-        "published_at": "2026-06-07 05:55"
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
+        "published_at": "2026-06-07 05:53"
       },
       {
-        "title": "Pentagon said to raise threat level on Israel spying to ‘critical’",
-        "summary_2lines": "米国防総省の情報機関が、イスラエルによるスパイ活動の脅威レベルを「高」から「重大」に引き上げた。これは米イスラエルのイラン戦争および和平交渉の中で、米国の最高幹部に対する監視活動の活発化を受けたもの。",
-        "why_it_matters": "長年の同盟国であるはずのイスラエルが米国内での極めて重要な情報を密かに収集しようとしていることは、両国間の信頼関係に重大な亀裂を生じさせかねない。特に米国内で政権交代があり、イラン戦争の方向性をめぐる意見対立が深刻化している状況下でこの問題が浮上したことは、今後の中東政策や軍事協力に大きな影響を及ぼす可能性がある。",
-        "market_impact": "軍事および防衛関連企業には短期的に緊張の高まりから軍需需要増加への期待が生じる一方、米イスラエル関係の悪化が進めば中東情勢の不安定化を通じてエネルギー市場のボラティリティ上昇や国際投資環境の悪化も懸念される。また、防衛技術の共同開発計画にも影響を与え、関連の研究開発投資や契約の見直しが生じる可能性がある。",
+        "title": "Iran’s attack on Israel aims to restore deterrence but avoid return to war",
+        "summary_2lines": "イランがイスラエルに対するミサイル攻撃を行い、抑止力を回復しつつ全面的な戦争回避を目指している。専門家はこの動きを戦争の拡大を防ぐための戦略的行動と見ている。",
+        "why_it_matters": "中東地域の緊張が続く中、イランの攻撃は地域の安全保障バランスに直接影響し、戦争再発のリスクを高める可能性がある。国際社会の安定やエネルギー供給、世界の政治動向に波及効果を及ぼすため重要な動向である。",
+        "market_impact": "中東の不安定化は原油価格の変動を招きやすく、エネルギー市場に不透明感をもたらすほか、防衛関連企業の需要増加が見込まれる。また、リスク回避の動きから株式市場でのボラティリティが高まる可能性がある。",
         "category": "Geopolitics",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/6/6/pentagon-said-to-raise-threat-level-on-israel-spying-to-critical?traffic_source=rss",
-        "published_at": "2026-06-07 06:10"
+        "url": "https://www.aljazeera.com/video/quotable/2026/6/7/irans-attack-on-israel-aims-to-restore-deterrence-but-avoid-return-to-war?traffic_source=rss",
+        "published_at": "2026-06-08 06:33"
       },
       {
-        "title": "Tunisians protest for press freedom and release of political prisoners",
-        "summary_2lines": "チュニジアの首都で数百人が集まり、報道の自由と政治犯の釈放を求める抗議行動が行われた。抗議は大統領カイス・サイエドの反対派弾圧に対するもの。",
-        "why_it_matters": "チュニジアはアラブの春以降、民主化の象徴とされてきたが、現政権の強硬な反対派弾圧は国の政治的安定と国際的評価に大きな影響を及ぼしている。報道の自由が制限されることは人権問題だけでなく、民主主義の根幹を揺るがすため、国内外の注目が集まっている。",
-        "market_impact": "政治的混乱と自由の制限は外国投資の減少や経済成長の鈍化を招く可能性が高い。加えて、主要政党指導者が拘束されることで政治的不確実性が高まり、チュニジア市場や関連企業のリスクプレミアムが上昇する可能性がある。",
+        "title": "Videos show missiles launched from Iran into Israel",
+        "summary_2lines": "イランがイスラエルに向けてミサイルを発射した映像が公開された。イランは、米国仲介のレバノン停戦違反としてイスラエルのベイルート攻撃への報復だと主張している。",
+        "why_it_matters": "中東地域の緊張が再燃し、米国や国際社会が仲介するレバノン停戦の脆弱性が浮き彫りになった。地域の安全保障環境が悪化し、さらなる軍事衝突のリスクが高まっている。",
+        "market_impact": "中東の地政学リスク悪化により、原油市場で価格の変動が予想されるほか、防衛関連株の注目が高まる可能性がある。地域の不安定化は投資家心理にも影響し、リスクオフの動きが強まることが考えられる。",
         "category": "Geopolitics",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/tunisians-protest-for-press-freedom-and-release-of-political-prisoners?traffic_source=rss",
-        "published_at": "2026-06-07 06:07"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/videos-show-missiles-launched-from-iran-into-israel?traffic_source=rss",
+        "published_at": "2026-06-08 06:14"
+      },
+      {
+        "title": "Celebrations seen in Tehran as missiles fly overhead towards Israel",
+        "summary_2lines": "イランの首都テヘランでイスラエルに向けてミサイルが発射され、祝賀の様子が国営テレビで報じられた。イランはこれをイスラエルのベイルート攻撃などへの報復と主張している。",
+        "why_it_matters": "中東地域の緊張が高まる中、イランとイスラエル間の軍事的対立が顕著になっている。両国の衝突は地域の安全保障に大きな影響を及ぼし、国際的な政治バランスや和平プロセスにも深刻な悪影響を与える可能性があるため重要である。",
+        "market_impact": "地域の地政学リスクが高まることで、エネルギー供給の不安定化や原油価格の急騰が予想される。投資家のリスク回避姿勢が強まり、特にエネルギー関連市場や新興国市場に影響が及ぶ可能性がある。また、防衛関連企業の株価に短期的な上昇圧力がかかることも考えられる。",
+        "category": "Geopolitics",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/celebrations-seen-in-tehran-as-missiles-fly-overhead-towards-israel?traffic_source=rss",
+        "published_at": "2026-06-08 06:12"
       }
     ],
     "Economy": [
       {
+        "title": "I was applying for hundreds of jobs - this tip helped me get one",
+        "summary_2lines": "就職活動で苦戦していた若者たちが、応募書類のカスタマイズ、人脈活用、実務外の活動、直接応募などの工夫で初就職を果たした成功例を紹介。多様なアプローチが第一歩を踏み出す鍵となっている。",
+        "why_it_matters": "コロナ以降の労働市場は経験不足やAIによる大量応募で競争が激化し、新卒者や未経験者が仕事を得にくい状況にある。こうした中で、伝統的な応募方法だけでなく積極的な行動や自己表現の工夫が成功に重要である点を示している。",
+        "market_impact": "若年層の就職環境改善に繋がるヒントが企業の採用戦略にも影響し得る。応募者の質的向上と多様な経験獲得が人材市場の流動性を高め、長期的には企業の人材育成・組織活性化にも寄与する可能性がある。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cd7pqwr5lqxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-06-07 08:39"
+      },
+      {
+        "title": "M&S launches new traineeship for 1,000 young people",
+        "summary_2lines": "M&Sは若者の雇用支援を目的として、UKとアイルランドで1,000名のための有給トレーニーシップを開始。6ヶ月の訓練後に店長候補としてのさらなるキャリア形成を支援する。",
+        "why_it_matters": "若者のNEET（就労・教育・訓練未参加者）が過去12年で最高水準に達し、将来も増加が懸念されている中、M&Sの施策は失業や職業機会不足という社会問題に直接対応する。政府もAI活用を含めた若年層支援に動いており、労働市場の構造変化や技術革新に適応した取り組みとして重要。",
+        "market_impact": "小売業界における若年労働力の育成強化は、長期的に店舗運営の効率化やサービス向上に寄与し、競争力向上につながる。また政府のAI活用促進策と連携することで、雇用市場のデジタルトランスフォーメーションが加速。求人の質と量の改善が期待され、経済全体の労働参加率向上にも貢献する可能性がある。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cr7xr3dvxp9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-06-08 06:54"
+      },
+      {
         "title": "Hot jobs report puts Fed cuts further out of reach as Chair Warsh faces policy tests",
-        "summary_2lines": "5月の雇用統計が強く、FRBの利下げ観測が後退。新議長ウォーシュは政策判断で内部の意見対立に直面している。",
-        "why_it_matters": "強力な雇用データと高インフレが利下げの可能性を遠ざけ、FRB議長にとっては経済成長と物価安定のバランスを取る難しい政策環境を示す。内部からの異論は市場や経済の見通しに影響を与える重要な指標となる。",
-        "market_impact": "市場では利下げ期待が後退し、短期的には金利上昇が意識される。エネルギー価格高騰や地政学的リスクも相まって、景気の不確実性増大や企業の投資判断、消費動向に慎重姿勢が広がる可能性が高い。",
+        "summary_2lines": "5月の強い雇用統計により、当面のFRB利下げ可能性がほぼ消滅し、次期FRB議長ウォーシュの政策運営の難しさが浮き彫りになった。FRB内部でもインフレ対策や政策判断を巡り意見対立が表面化している。",
+        "why_it_matters": "強固な雇用情勢はインフレ継続の可能性を示唆し、利下げ期待を後退させている。これによりFRBは金融緩和を急がず、インフレ抑制を優先する必要がある。さらに議長候補であるウォーシュと他の連銀総裁らの政策見解の相違は、市場の政策期待や金融政策の一貫性に影響を与えるため重要である。",
+        "market_impact": "市場はFRBの利下げ期待が後退したことから、短期金利の低下が見込めず、2026年末までに利上げの可能性すら織り込んでいる。企業の資金調達コストや消費者ローン金利は引き続き高水準で推移し、経済成長や設備投資抑制のリスクがある。地政学リスクも加わり、株式市場は慎重姿勢となる可能性が高い。",
         "category": "Economy",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/06/05/hot-jobs-report-puts-fed-cuts-further-out-of-reach-as-chair-warsh-faces-policy-tests.html",
         "published_at": "2026-06-06 04:09"
-      },
-      {
-        "title": "‘He’s very short-tempered’: My husband won’t sell his home so we can combine our finances and live in comfort. Am I unreasonable?",
-        "summary_2lines": "夫が自宅を売らず、別々の住まいを維持しながらほぼ毎日20マイルの距離を通勤している。妻は財産を合算し快適に暮らしたいと考えているが、夫の短気な性格が障害になっている。",
-        "why_it_matters": "夫婦間の資産管理や居住環境の統合は家計の効率性や生活の質に大きく影響する問題であり、個人の心理や価値観が経済的決断にどう影響するかを示しているため重要である。",
-        "market_impact": "個人の住宅保有・売却に関する意思決定は不動産市場に影響を与える可能性がある。特に複数の不動産を保有し続けることは投資効率の低下や流動性減少を招きうるため、住宅市場の需給バランスを左右する一因となる。",
-        "category": "Economy",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories",
-        "published_at": "2026-06-07 07:49"
       }
     ],
     "Corporate": [
       {
+        "title": "Tata Steel says new £1.25bn furnace may be delayed due to electrical issue",
+        "summary_2lines": "タタ・スチールの新たな12億5,000万ポンド投資の電気炉建設が、電力接続問題で最長8ヶ月の遅延が見込まれている。関連する電力インフラ整備の遅れにより、2027年末の稼働が危ぶまれている状況だ。",
+        "why_it_matters": "タタ・スチールは従来の高炉を終了し、環境負荷の低い電気炉への移行を進める企業であり、英国の製鉄産業の脱炭素化に寄与する重要プロジェクトである。遅延は英国の産業政策や雇用、脱炭素化目標に影響を与える可能性がある。",
+        "market_impact": "プロジェクトの遅延はタタ・スチールの生産計画やコストに影響し、同社の株価や投資家信頼にマイナスの影響を及ぼす恐れがある。また、英国の製鉄業界全体の競争力に影響を与え、関連インフラ事業者やサプライチェーンにも波及効果をもたらす可能性がある。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/ckg0w0lw451o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-06-07 21:56"
+      },
+      {
         "title": "What to read to understand your next employer",
-        "summary_2lines": "次の雇用主を理解するために、カフカの『審判』やオーウェルの『1984』などの文学作品を読むことが推奨されている。これらの作品は企業文化や権力構造の理解に役立つ視点を提供する。",
-        "why_it_matters": "現代の職場環境や企業のガバナンスは複雑化しており、古典的な文学作品を通じて権力や監視、正義の問題を学ぶことが、自分の働く環境や雇用主の価値観を見極める手助けとなるため重要である。",
-        "market_impact": "従業員が企業文化への理解を深めることで、働き方のミスマッチを減らし、社員の定着率向上や企業の透明性向上につながる可能性がある。これがひいては企業の生産性や市場競争力に好影響をもたらすことが期待される。",
+        "summary_2lines": "次の雇用主を理解するための必読書として、カフカの『審判』やオーウェルの『1984年』が紹介されている。これらの文学作品は、職場環境や組織の権力構造を考察する手助けとなる。",
+        "why_it_matters": "これらの作品は官僚主義や監視社会、権力の乱用といったテーマを扱っており、現代の企業文化や労働環境の課題を理解する上で示唆を与える。雇用者の本質や組織の動向を深く知るために重要な視点を提供している。",
+        "market_impact": "労働者が雇用主や企業文化をより的確に評価・理解することで、転職やキャリア形成の意思決定に影響を与える可能性がある。結果として優秀な人材の流動性や企業の人材戦略に変化が生じ、市場全体の競争力にも波及効果が期待される。",
         "category": "Corporate",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/06/04/what-to-read-to-understand-your-next-employer",
         "published_at": "2026-06-04 22:08"
       },
       {
-        "title": "Lego, Pokémon and the future of fun",
-        "summary_2lines": "玩具ブランドのLegoとメディアブランドのPokémonが連携を強化している。こうしたコラボレーションはエンターテインメント業界に新たな形の楽しさを生み出している。",
-        "why_it_matters": "消費者の関心を引くために異なる業界のブランドが協力し、製品の魅力やファン層の拡大を目指す動きが加速している。特にデジタル化と体験価値の重要性が増す中で、玩具とメディアの融合は業界の競争力向上に直結するため重要である。",
-        "market_impact": "両ブランドの提携強化は新たな商品開発やマーケティング戦略の展開を促し、売上拡大に繋がる可能性が高い。また、競合他社も同様のコラボレーションを模索するため、業界全体で連携や融合のトレンドが加速し、市場構造に変化をもたらすと予想される。",
-        "category": "Corporate",
-        "source": "The Economist",
-        "url": "https://www.economist.com/business/2026/06/04/lego-pokemon-and-the-future-of-fun",
-        "published_at": "2026-06-04 22:08"
-      },
-      {
-        "title": "Scientists ejected from diabetes conference for distributing journal reprints",
-        "summary_2lines": "米国の糖尿病学会の会議で、科学研究に対する政権批判の編集記事を配布した科学者5名が排除された。議論の自由と検閲の問題が浮き彫りになっている。",
-        "why_it_matters": "科学的自由と政策圧力の対立が顕在化した事件であり、特に公的資金を受ける研究分野での言論の自由や研究の独立性への懸念が強まっている。こうした動きは科学界だけでなく広く社会の価値観や制度の在り方を問うものだから重要である。",
-        "market_impact": "直接的な市場影響は限定的だが、研究環境の萎縮や科学的批判の抑制は医療研究の進展や新薬開発に悪影響を及ぼす可能性がある。長期的には医療産業全体のイノベーション低下や投資環境の悪化を招くリスクもある。",
+        "title": "RIP Anthony Head: Our 10 favorite moments of Buffy's Giles",
+        "summary_2lines": "俳優アンソニー・ヘッドが72歳で逝去し、彼の代表作『バフィー～恋する十字架～』の名キャラクター、ルパート・ジャイルズの思い出が振り返られている。ファンや共演者からの追悼の声が相次ぎ、彼の演技キャリアが改めて評価されている。",
+        "why_it_matters": "アンソニー・ヘッドは「バフィー」での父親的存在のキャラクターを通じて文化的な影響を与え、多くのファンに愛された。彼の死はエンターテインメント業界だけでなく、長年支持してきたファンにとっても大きな損失であり、彼の業績や役柄の重要性を再認識させる契機となっている。",
+        "market_impact": "直接的な経済や市場への大きな影響は限定的だが、彼が出演した作品の配信や関連グッズの需要が一時的に増加する可能性がある。追悼番組や特集の放送増加によりメディア関連企業の視聴率向上も見込まれ、エンタメ市場の一部で短期的な波及効果が期待される。",
         "category": "Corporate",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
-        "published_at": "2026-06-07 05:53"
-      },
-      {
-        "title": "Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it",
-        "summary_2lines": "FDAは赤ちゃんのボツリヌス菌アウトブレイクの原因究明と再発防止策の特定に至っていない。汚染はByHeartの粉乳製品に由来し、複数の企業が責任をなすりつけ合っている。",
-        "why_it_matters": "乳児用粉ミルクの安全性に重大な懸念が示され、特に乳児にとって致命的となりうるボツリヌス菌の汚染は製造過程の監督強化が不可欠とされる。原因不明のまま再発予防ができていない問題は、規制当局の対応能力や食品安全基準の見直しを迫る事態であるため重要。",
-        "market_impact": "ByHeartをはじめ関連企業に対する消費者信頼の低下や訴訟リスクが高まる可能性がある。乳製品サプライチェーン全体に検査・管理強化のコスト増が発生し、粉ミルク市場の価格や供給に影響を与える恐れがある。また、食品安全規制の強化により関連業界のコスト構造変化が予想される。",
-        "category": "Corporate",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/",
-        "published_at": "2026-06-06 07:36"
-      },
-      {
-        "title": "A new wave of weight-loss therapies aims to be better than today’s GLP-1s",
-        "summary_2lines": "新しい体重減少療法としてRetatrutideが注目されている。臨床試験で大幅な減量効果と共に睡眠時無呼吸や膝の痛みも改善した。",
-        "why_it_matters": "肥満治療において現在主流のGLP-1薬よりも効果的な新薬が登場することで、医療現場の選択肢が広がり、患者のQOL向上が期待されるから。",
-        "market_impact": "新たな体重減少薬の成功は、製薬企業の競争激化や株価動向に影響を及ぼし、肥満関連疾患市場の成長を加速させる可能性がある。",
-        "category": "Corporate",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/tired-of-nausea-or-taking-a-glp-1-pill-every-day-these-experimental-drugs-could-be-better-than-zepbound-and-wegovy-587bf648?mod=mw_rss_topstories",
-        "published_at": "2026-06-07 06:10"
+        "url": "https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/",
+        "published_at": "2026-06-08 04:34"
       }
     ]
   }
