@@ -1,315 +1,336 @@
 {
-  "generated_at_jst": "2026-06-09 08:06",
+  "generated_at_jst": "2026-06-10 08:08",
   "todays_brief": [
     {
-      "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
-      "summary_2lines": "OpenAIが米国でのIPOを計画していることを明らかにし、競合するAnthropicとの投資競争が激化している。両社はともにAI分野をリードし、時価総額は1兆円規模に迫っている。",
-      "why_it_matters": "OpenAIとAnthropicはAI業界の主要プレイヤーであり、IPOはこれまで非公開であった巨大なAI企業の資金調達の転換点となる。特に、SpaceXの動きを背景にAI分野の成長と競争が加速し、市場の注目が集まっているため重要である。",
-      "market_impact": "OpenAIのIPOにより、AI関連企業への投資資金が増加し、AI技術の商業化が一段と進展すると見られる。投資家の関心が高まる一方、企業間の競争が激化し、AI市場の評価額がさらに拡大する可能性が高い。また、投資レースの激化は技術革新と新規サービス開発を促進するだろう。",
+      "title": "Kalshi trading in 'perps' crosses $1 billion in volume within a week of launch",
+      "summary_2lines": "Kalshiは米国初の永久先物（perps）取引を開始し、1週間で取引高が10億ドルを突破した。これは同社にとって史上最速の成長記録となった。",
+      "why_it_matters": "永久先物は満期がなく、レバレッジ取引が可能なため世界で年間90兆ドル規模の市場が存在するが、従来米国内では合法的に取引できなかった。KalshiがCFTCの承認を得て国内で初めて提供を開始したことで、米国の個人・機関投資家に新たな投資機会が開かれた。",
+      "market_impact": "Kalshiのperpsサービスは約1か月で従来のイベント予測契約全体の累計取引高を上回る勢いで、市場の需要の高さを示す。これにより、米国のデリバティブ市場に新たな競争が生まれ、他プラットフォームや暗号資産取引所も同様の永続先物の提供を加速する可能性がある。企業の収益拡大や投資機会拡大、さらには規制当局のモニタリング強化にもつながるだろう。",
       "category": "Markets",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-09 07:55"
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/09/kalshi-perpetual-futures-trading-perps-crosses-1-billion-in-volume-within-a-week-of-launch.html",
+      "published_at": "2026-06-10 04:03"
     },
     {
-      "title": "OpenAI files confidentially for IPO, following Anthropic",
-      "summary_2lines": "OpenAIが非公開でIPO申請を行い、競合のAnthropicに続く動きを見せた。AI業界の大手企業が2026年に相次いで上場する可能性が高まっている。",
-      "why_it_matters": "OpenAIとAnthropicというAIトップ企業のIPO申請は、AI技術の商業化と資金調達競争の激化を示している。特にOpenAIは莫大な研究開発コストを抱えており、投資家は利益が出るまでの期間が長いと予想される一方で、AI市場の成長期待も根強い。SECの規制緩和傾向もあり、テック企業の上場環境が変化している点も注目される。",
-      "market_impact": "OpenAIのIPOに続き、SpaceXやAnthropicの上場も見込まれ、2026年は大型テックIPOの集中する年となる。これにより市場の資金流入が活発化し、AI関連株の注目度とボラティリティが高まる可能性がある。ただし、巨額の研究開発費を抱えるため投資家は長期的な成長戦略を評価しつつ慎重な姿勢も求められ、市場全体にとってはリスクと成長の両面が試される状況となる。",
-      "category": "Markets",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
-      "published_at": "2026-06-09 06:29"
+      "title": "JPMorgan Chase plans to deploy more powerful AI agents this year",
+      "summary_2lines": "JPMorgan Chaseは、従来より長時間自律稼働可能な高度なAIエージェントを今年展開予定。これによりAIの企業利用は単一作業ツールから複数業務を管理するデジタルワーカーへと進化する。",
+      "why_it_matters": "長時間自律稼働可能なAIエージェントの導入は、AIの安全性やガバナンス面の課題が克服されつつあることを示し、大企業の業務効率化や新たな収益創出に直結する重要な技術進展。これによりAIの実用的な応用範囲が拡大し、企業の競争優位性構築に資する点で意義が大きい。",
+      "market_impact": "JPMorganのような巨大金融機関が長時間稼働AIエージェントを導入することで、金融業界の業務効率向上や顧客対応力強化が期待される。AIによる営業支援で売上が20％増加するなど収益貢献が顕著となり、他社にもAI内製化の圧力が高まる。結果として既存のソフトウェアベンダーの市場シェアが縮小し、AI関連技術投資や人材再配置も活発化すると予想される。",
+      "category": "Tech",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/09/jpmorgan-chase-ai-agents.html",
+      "published_at": "2026-06-09 23:00"
     },
     {
-      "title": "Tech giant OpenAI files for US initial public offering",
-      "summary_2lines": "AI大手OpenAIが米国での新規株式公開（IPO）に向けて非公開で申請を行った。時価総額は最大1兆ドルと見込まれており、AI産業の成長を象徴する動きとなる。",
-      "why_it_matters": "OpenAIのIPOは、AIを中心とした技術革新と投資熱が加速する中で、著名なAI企業が株式市場に本格参入する重要な節目となる。また、OpenAIの複雑な組織構造や創業者間の法的対立が解消されたことで、投資家の信頼を取り戻し、資金調達の新たな可能性を切り開く背景がある。",
-      "market_impact": "最大1兆ドル規模のIPOはテクノロジー株市場に大きな波及効果をもたらし、特にAI関連企業の評価基準や投資動向に影響を与える。MicrosoftやAmazonといった大手パートナーとの連携強化も、クラウド事業やAIサービス市場の成長を加速させる。加えて、OpenAIの急成長が競合する他のビッグテックにも資金調達と事業戦略の見直しを促す可能性がある。",
-      "category": "Markets",
+      "title": "Electric vehicle giant BYD predicts 80% of China car sales will soon be electric",
+      "summary_2lines": "中国の電気自動車（EV）大手BYDは、近い将来中国の新車販売の約80%がEVになると予測している。BYDは先進バッテリー技術やドライバーアシスト機能の強化で国内外市場の競争力維持を目指す。",
+      "why_it_matters": "中国は世界最大の自動車市場かつEV普及の最前線であり、その市場動向はグローバルEV業界に大きな影響を与える。BYDの楽観的見通しは中国政府の支援や技術革新を背景に、EV普及がさらに加速する可能性を示しているため重要である。",
+      "market_impact": "BYDの強力な国内需要と新技術投入は中国および海外のEV市場での競争を激化させ、既存のガソリン車市場の縮小を加速する。米国の高関税や安全保障の懸念がある一方で、BYDは欧州市場での現地生産を拡大し、世界的なプレゼンス向上を狙うことが予想される。",
+      "category": "Corporate",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/09/electric-vehicle-giant-byd-predicts-80percent-of-china-car-sales-will-soon-be-electric.html",
+      "published_at": "2026-06-09 15:52"
+    },
+    {
+      "title": "Super Micro stock plunges as $7 billion equity raise overshadows booming backlog",
+      "summary_2lines": "Super Microは急増するAI需要に対応するため70億ドルの資本調達を計画しているが、その巨額調達が株価急落を招いた。業績好調な受注残高の拡大にもかかわらず、キャッシュバーンの激しさが懸念されている。",
+      "why_it_matters": "AI関連需要の急増により成長期待が高まる中、資金調達による希薄化懸念や財務リスクが市場の神経を逆なでする形となった。これにより成長企業の資金調達の難しさやAIブームの持続可能性が改めて問われている。",
+      "market_impact": "Super Microの株価急落はテクノロジーセクター全体の不安定感を増幅させ、投資家のリスク回避姿勢を強める可能性がある。企業の積極投資姿勢と財務健全性のバランスが今後の市場動向を左右する重要なポイントとなる。",
+      "category": "Corporate",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/super-micro-stock-plunges-as-7-billion-equity-raise-overshadows-booming-backlog-c5df2fc8?mod=mw_rss_topstories",
+      "published_at": "2026-06-10 07:17"
+    },
+    {
+      "title": "Trump vows retaliation after claiming Iran shot down Apache helicopter",
+      "summary_2lines": "トランプ大統領はイランがホルムズ海峡上空で米軍のアパッチヘリコプターを撃墜したと非難し、必要に応じて報復すると表明した。米軍は搭乗員2名が米海上ドローンによって無事救出されたことを確認した。",
+      "why_it_matters": "ホルムズ海峡は世界のエネルギー輸送の要所であり、米イラン間の軍事的緊張がさらに高まると中東地域の安定や国際的なエネルギー供給に重大なリスクをもたらすため、国際政治および安全保障上重要なニュースである。",
+      "market_impact": "地政学的リスクの高まりにより原油価格が急騰する可能性がある。エネルギー関連企業の株価変動や防衛関連企業への注目が高まるほか、投資家のリスク回避姿勢が強まり、株式市場全体に波及的影響を及ぼす恐れがある。",
+      "category": "Geopolitics",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/8/tech-giant-openai-files-for-us-initial-public-offering?traffic_source=rss",
-      "published_at": "2026-06-09 07:23"
-    },
-    {
-      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
-      "summary_2lines": "Appleは2024年WWDCでの虚偽広告訴訟に関連し、2億5000万ドルの和解金を支払い、今年のWWDCではAIデモを実機使用による実証映像主体に変更した。新SiriやAI機能は最新ハードだけでなく過去数年の主要デバイスでも利用可能となる。",
-      "why_it_matters": "昨年のWWDCでAppleが約束したAI機能が実際には未完成だったことで虚偽広告疑惑が浮上し、ブランド信頼が損なわれるリスクが顕在化した。今回の和解とデモ手法の変化は信頼回復と市場への誠実な情報発信を示し、ユーザーや投資家の安心感につながる。",
-      "market_impact": "Appleが高額の和解金を支払ったことは短期的な収益に影響するが、AI機能の確実な提供を強調した発表により製品の競争力と顧客満足度回復が期待される。さらに新機能を旧デバイスにも対応させることでアップグレード抑制と顧客基盤の維持に寄与し、長期的な市場シェア拡大に繋がる可能性がある。",
-      "category": "Tech",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
-      "published_at": "2026-06-09 07:39"
-    },
-    {
-      "title": "Everything Apple Announced at WWDC 2026",
-      "summary_2lines": "AppleはWWDC 2026でGoogleのGemini AIを取り入れた新たなAIアーキテクチャと大幅に進化したSiriを発表した。Tim Cookの最後のWWDCでもあり、新CEO交代も正式発表された。",
-      "why_it_matters": "AI技術の競争が激化する中、AppleがGoogleとの提携でAI機能を強化し、ユーザー体験を向上させることは重要。プライバシー保護を維持しつつ先端AIを展開することで、Appleは強力な差別化を図る狙いがある。また、CEO交代は同社の今後の戦略や市場の方向性に大きな影響を与える。",
-      "market_impact": "AppleのAI強化はiPhoneやMacなどハードウェア製品の競争力を高め、ユーザーエコシステムの囲い込みを促進する。Googleとの協業はプラットフォーム間の技術連携の可能性を示し、他テック企業との競争にも影響を与える。CEO交代は投資家の注目を集め、株価や経営方針の変化につながる可能性が高い。",
-      "category": "Tech",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/everything-apple-announced-at-wwdc-2026/",
-      "published_at": "2026-06-09 05:00"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-vows-retaliation-after-claiming-iran-shot-down-apache-helicopter?traffic_source=rss",
+      "published_at": "2026-06-10 06:17"
     }
   ],
   "categories": {
     "Tech": [
       {
-        "title": "Starmer tells Apple and Google to ban nude images on children's phones",
-        "summary_2lines": "英国政府はアップルやグーグルに対し、18歳未満の子どものスマホでの裸画像の撮影・送信・閲覧を防止する機能の標準搭載を求めている。対応しなければ法的措置や罰則を検討している。",
-        "why_it_matters": "子どものオンライン上での性的被害や性的画像の拡散防止は重要な社会課題となっている。特に自身が撮影した裸画像が広まるケースが多く、政府は技術大手に責任ある対応を迫ることで、子どもを守るための法整備と規制強化を進めている。",
-        "market_impact": "アップルやグーグルをはじめとしたテクノロジー企業は規制対応の開発コストや運用負担が増加する可能性がある。特にプライバシー保護とのバランス問題も注目されており、利用者への影響や企業イメージが左右される。将来的には各国で類似の規制導入が拡大し、グローバルに事業戦略の再検討を迫られる可能性がある。",
+        "title": "JPMorgan Chase plans to deploy more powerful AI agents this year",
+        "summary_2lines": "JPMorgan Chaseは、従来より長時間自律稼働可能な高度なAIエージェントを今年展開予定。これによりAIの企業利用は単一作業ツールから複数業務を管理するデジタルワーカーへと進化する。",
+        "why_it_matters": "長時間自律稼働可能なAIエージェントの導入は、AIの安全性やガバナンス面の課題が克服されつつあることを示し、大企業の業務効率化や新たな収益創出に直結する重要な技術進展。これによりAIの実用的な応用範囲が拡大し、企業の競争優位性構築に資する点で意義が大きい。",
+        "market_impact": "JPMorganのような巨大金融機関が長時間稼働AIエージェントを導入することで、金融業界の業務効率向上や顧客対応力強化が期待される。AIによる営業支援で売上が20％増加するなど収益貢献が顕著となり、他社にもAI内製化の圧力が高まる。結果として既存のソフトウェアベンダーの市場シェアが縮小し、AI関連技術投資や人材再配置も活発化すると予想される。",
         "category": "Tech",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-06-09 00:30"
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/09/jpmorgan-chase-ai-agents.html",
+        "published_at": "2026-06-09 23:00"
+      },
+      {
+        "title": "Apple’s new Siri is a dark horse in the AI race",
+        "summary_2lines": "Appleの新しいSiriは、独自にAIモデルを構築しなくても技術の恩恵を受けられる強力な存在である。AI競争における注目のダークホースとみなされている。",
+        "why_it_matters": "多くの企業が膨大なリソースを投じてAIモデルを開発する中、Appleは自社でモデルを持たずとも既存インフラやエコシステムを活用してAI技術を実装する戦略をとっている。これにより、コスト効率よくAI機能を商品化できる可能性があるため、AI競争の構図に新たな視点をもたらしている。",
+        "market_impact": "Appleが効率的にAI技術を取り入れることで、競合他社に対し製品差別化やユーザー体験の向上を図りやすくなり、市場シェア拡大が期待される。また、AIモデルを自前で開発する企業群とは異なるビジネスモデルを示し、AI関連投資や業界の動向にも影響を与える可能性がある。",
+        "category": "Tech",
+        "source": "The Economist",
+        "url": "https://www.economist.com/business/2026/06/09/apples-new-siri-is-a-dark-horse-in-the-ai-race",
+        "published_at": "2026-06-09 23:47"
       },
       {
         "title": "Robots could soon be delivering your pizza",
-        "summary_2lines": "エストニアのスタートアップが、人間の配達員よりも安価なロボット配達機を開発しました。近い将来、ピザ配達などの宅配業務がロボットによって代替される可能性があります。",
-        "why_it_matters": "配達サービスの自動化は労働コスト削減や効率化につながり、飲食業界や物流業界のビジネスモデルに大きな変革をもたらすため重要です。人手不足の解消やサービスの迅速化にも寄与します。",
-        "market_impact": "ロボット配達の普及は、配達業の人件費低減を促し、企業の競争力向上に繋がります。一方で従来の配達員の雇用環境には影響が出る可能性があり、企業間での導入競争も激化すると考えられます。市場全体で自動配達サービスの拡大が期待されます。",
+        "summary_2lines": "エストニアのスタートアップが、人間の配達員よりも低コストでピザを配達できるロボットを開発。近い将来、ロボットが宅配の主役になる可能性が高まっている。",
+        "why_it_matters": "労働力不足や人件費の高騰により、配達業界では効率化が強く求められている。ロボット配達はコスト削減とサービスの迅速化を実現し、消費者の利便性向上にもつながるため注目されている。",
+        "market_impact": "ロボット配達の普及は、宅配業界の労働コストを大幅に削減し、配達企業の収益改善に寄与。既存の配送インフラや物流企業のビジネスモデルの変革を促すほか、新たなロボット関連技術やサービス市場の拡大も期待される。",
         "category": "Tech",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/06/07/robots-could-soon-be-delivering-your-pizza",
         "published_at": "2026-06-07 19:18"
       },
       {
-        "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
-        "summary_2lines": "OpenAIはIPO申請を秘密裏に行い、注目の上場が迫る。一方、CEOのサム・アルトマンの別会社Tools for Humanityは利用者の虹彩スキャンを用いた認証事業で苦戦し、レイオフを実施している。",
-        "why_it_matters": "OpenAIのIPOはAI業界にとって重要なマイルストーンとなり得るが、アルトマンのTools for Humanityは収益化や規制対応で課題を抱えている。特にプライバシーや倫理面での国際的な問題が利用者の信用獲得を妨げており、先進技術の商業化の難しさを示している。",
-        "market_impact": "OpenAIの上場はAI関連市場や投資家の注目を集め、関連技術や企業の評価を押し上げる可能性がある。一方、Tools for Humanityのレイオフや規制問題はバイオメトリクス認証や暗号通貨分野に対する投資家の警戒感を強め、同種企業の資金調達や事業展開にネガティブな影響を及ぼしうる。",
+        "title": "GM joins race to build batteries for AI data centers and the grid",
+        "summary_2lines": "GMはグリッド規模のエネルギー貯蔵システム向けに新たなナトリウムイオン電池を開発し、Peak Energyと提携を発表した。さらに、既存のリチウム系電池もLG Energy Solutionに供給し、Redwood Materialsとの協力も強化している。",
+        "why_it_matters": "AIデータセンターや再生可能エネルギーの普及に伴い、大規模なエネルギー貯蔵システムの需要が急増している。GMが従来のEV向けバッテリー製造から一歩踏み込み、コスト効率が高く安全性に優れたナトリウムイオン電池の開発を進めることで、電力網の安定化や脱炭素社会への貢献が期待される。",
+        "market_impact": "自動車業界からエネルギー貯蔵市場への参入により、競争が激化するとともに、バッテリー技術の多様化が進む。GMの投資・提携は、ナトリウムイオン電池の商業化を加速し、コスト削減と安全性向上を実現。グリッドエネルギー分野での新規市場開拓や関連企業の事業拡大が期待され、エネルギー産業全体に好影響を与える可能性がある。",
         "category": "Tech",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
-        "published_at": "2026-06-09 07:41"
+        "url": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
+        "published_at": "2026-06-10 06:00"
       },
       {
-        "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
-        "summary_2lines": "Appleは2024年WWDCでの虚偽広告訴訟に関連し、2億5000万ドルの和解金を支払い、今年のWWDCではAIデモを実機使用による実証映像主体に変更した。新SiriやAI機能は最新ハードだけでなく過去数年の主要デバイスでも利用可能となる。",
-        "why_it_matters": "昨年のWWDCでAppleが約束したAI機能が実際には未完成だったことで虚偽広告疑惑が浮上し、ブランド信頼が損なわれるリスクが顕在化した。今回の和解とデモ手法の変化は信頼回復と市場への誠実な情報発信を示し、ユーザーや投資家の安心感につながる。",
-        "market_impact": "Appleが高額の和解金を支払ったことは短期的な収益に影響するが、AI機能の確実な提供を強調した発表により製品の競争力と顧客満足度回復が期待される。さらに新機能を旧デバイスにも対応させることでアップグレード抑制と顧客基盤の維持に寄与し、長期的な市場シェア拡大に繋がる可能性がある。",
+        "title": "Hey, Siri, here’s what I actually want from AI",
+        "summary_2lines": "AppleがAIを活用したSiriの大幅アップデートを発表。プライバシー保護を重視しつつ、日常生活のアシスタント機能を強化することを目指している。",
+        "why_it_matters": "AI搭載のパーソナルアシスタントは今後のデジタル体験の中核となる可能性が高く、Appleはプライバシーとセキュリティを重視した独自技術で競争優位を狙う。ユーザーの日常の負担軽減や利便性向上が期待されるため、消費者テクノロジーの未来を左右する重要な動きである。",
+        "market_impact": "SiriのAI強化はAppleデバイスの差別化要因となり、市場シェア拡大やエコシステム強化に寄与する可能性が高い。プライバシー重視の姿勢は消費者からの信頼獲得につながり、同時にAIアシスタント分野での競争激化を促進。これによりApple関連のハードウェア・ソフトウェア両面の売上増加や新たなサービス開発が期待される。",
         "category": "Tech",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
-        "published_at": "2026-06-09 07:39"
+        "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+        "published_at": "2026-06-10 05:50"
       },
       {
-        "title": "iOS 27 and iPadOS 27 don't drop support for any iPhones—and just a few iPads",
-        "summary_2lines": "iOS 27はiPhone 11以降のすべての対応機種をサポートし、iPadOS 27はA13以上のチップ搭載機種のみ対応。古いデバイスでも性能改善が期待できるが、新機能は高性能機種向けに制限される。",
-        "why_it_matters": "Appleは例年、新OS対応機種から古いモデルを外す傾向があるが、今回はiPhone側で大幅な切り捨てがなく、ユーザーの買い替え負担を軽減。だが、AI機能など先進機能は最新ハードに限定し、ハードウェア性能差を明確化したことで差別化を図っている。",
-        "market_impact": "幅広いiPhoneユーザーが最新OSを使い続けられるため、Appleエコシステム内でのユーザー維持に寄与。一方で高性能モデルの販売促進や高機能AI機能の独自性強化にもつながり、ハードの高価格帯需要とサービス依存度の拡大が見込まれる。",
+        "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+        "summary_2lines": "Anthropicが公開したAIモデルClaude Fable 5は、ワンクリックで多様なビデオゲームや複雑なソフトウェアを自動生成できる。AIの性能が大幅に向上し、創作や開発の効率化を示す画期的な成果だ。",
+        "why_it_matters": "従来は多数の人員と時間を要していたゲーム開発や高度なソフトウェア作成が、単一のプロンプトで可能になることで、開発のコストと期間が劇的に短縮される。AI技術の進歩がクリエイティブ領域やソフトウェア産業の生産性を飛躍的に押し上げることを示し、業界構造の変革を促すため重要である。",
+        "market_impact": "ゲーム業界やソフトウェア開発市場において、AI活用による制作効率化が進むことで、小規模運営の開発者やスタートアップでも魅力的な製品を迅速に市場投入可能になる。大手企業は技術競争力強化とコスト削減を迫られ、AIツールの市場拡大や関連サービスの需要増加が予想される。全体として、技術導入の波が産業全体の構造変化と新たな競争環境を創出するだろう。",
         "category": "Tech",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/",
-        "published_at": "2026-06-09 05:55"
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+        "published_at": "2026-06-10 05:37"
       },
       {
-        "title": "Everything Apple Announced at WWDC 2026",
-        "summary_2lines": "AppleはWWDC 2026でGoogleのGemini AIを取り入れた新たなAIアーキテクチャと大幅に進化したSiriを発表した。Tim Cookの最後のWWDCでもあり、新CEO交代も正式発表された。",
-        "why_it_matters": "AI技術の競争が激化する中、AppleがGoogleとの提携でAI機能を強化し、ユーザー体験を向上させることは重要。プライバシー保護を維持しつつ先端AIを展開することで、Appleは強力な差別化を図る狙いがある。また、CEO交代は同社の今後の戦略や市場の方向性に大きな影響を与える。",
-        "market_impact": "AppleのAI強化はiPhoneやMacなどハードウェア製品の競争力を高め、ユーザーエコシステムの囲い込みを促進する。Googleとの協業はプラットフォーム間の技術連携の可能性を示し、他テック企業との競争にも影響を与える。CEO交代は投資家の注目を集め、株価や経営方針の変化につながる可能性が高い。",
+        "title": "MacOS 27 Golden Gate: Top New Features",
+        "summary_2lines": "AppleはmacOSの次期版「macOS 27 Golden Gate」を発表し、Siriを高度なAIチャットボットへ刷新しました。対応はApple Silicon搭載Macに限定され、EUと中国では規制のため一部機能が利用できません。",
+        "why_it_matters": "AppleはAI技術競争の中心に立つため、macOSのSiriを強化し、Google Geminiを基盤とした先進的な自然言語処理や視覚認識機能を搭載しました。Intel Macのサポート終了は、Apple Siliconへの完全移行を促進し、エコシステムの統一と性能向上を狙っています。",
+        "market_impact": "Apple Silicon限定の対応により、既存のIntel Macユーザーは新OSに移行できず機種更新を促されるため、ハードウェア売上の伸長が期待されます。Siri AIの進化はApple製品の差別化を強化し、AI搭載サービス競争でGoogleやMicrosoftに対抗する動きとして投資家注目度が高まるでしょう。一方、EU・中国での規制問題は一部市場でのサービス展開に制約を生む可能性があります。",
         "category": "Tech",
         "source": "Wired",
-        "url": "https://www.wired.com/story/everything-apple-announced-at-wwdc-2026/",
-        "published_at": "2026-06-09 05:00"
+        "url": "https://www.wired.com/story/macos-27-golden-gate-top-features/",
+        "published_at": "2026-06-10 02:33"
       },
       {
-        "title": "Meta alleges NSO violated spyware injunction with new WhatsApp attacks",
-        "summary_2lines": "Metaは、スパイウェア製造企業NSOグループがWhatsAppユーザーを標的にする禁止命令に違反したと非難した。NSOは裁判での永久禁止命令を破り、再び悪意あるフィッシング攻撃を試みたとされる。",
-        "why_it_matters": "NSOはPegasusスパイウェアの開発企業で、政府関係者やジャーナリストなどを標的にした悪質な監視ツールとして国際的に問題視されている。Metaの訴訟はテクノロジー企業がプライバシー保護の先頭に立ち、国家間のサイバーセキュリティ問題とも関連してくるため、グローバルなデジタルリスク管理の観点から重要である。",
-        "market_impact": "NSOの製品販売はPegasusが収益の100％を占めており、裁判による営業妨害は同社の事業継続に大きな打撃となる。Metaの強硬姿勢はサイバーセキュリティ市場での監視技術の規制強化を促し、関連企業のコンプライアンスコスト増加や株価変動の要因にもなり得る。",
+        "title": "GM Wants Your Electric Car to Power Your House—and Your Neighborhood",
+        "summary_2lines": "GMは米国で約25万台のEVに双方向充電機能を持たせ、車両のバッテリーで家庭や地域の電力網を支援可能にする技術を推進している。普及には高額な設備投資や各州の規制整備など課題があるが、将来的なエネルギー利用の革新が期待される。",
+        "why_it_matters": "電力需要のピーク時に車両のバッテリーを活用し、電力網の安定化や再生可能エネルギーの効率的利用を促進できる点で重要。さらに、EVが単なる移動手段からエネルギー資源としても価値を持つことで、消費者の負担軽減や新たな収益モデルとなる可能性があるため、気候変動対策とエネルギー政策の両面で注目されている。",
+        "market_impact": "GMはこの技術で差別化を図るとともに、電力会社との提携によってEVの需要拡大と関連サービス収入の獲得を狙う。高額な初期費用や規制整備の遅れが普及の妨げとなるが、成功すれば市場での競争優位を強化し、車両の付加価値向上により収益多角化が期待される。加えて、エネルギー業界でも分散型電源としてのEV活用が進み、新たな産業連携が生まれる可能性がある。",
+        "category": "Tech",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/gm-vehicle-to-grid-charging-your-electric-car-can-power-your-house-and-your-neighborhood/",
+        "published_at": "2026-06-10 06:00"
+      },
+      {
+        "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+        "summary_2lines": "Microsoftは研究者Nightmare Eclipseが公表した高リスクのゼロデイ脆弱性2件に対処する修正パッチを公開した。双方間の約束が破られたことを巡る対立が背景にある。",
+        "why_it_matters": "今回の脆弱性はOSのシステム権限を乗っ取る可能性があり、悪用されるリスクが高い。研究者とMicrosoft間の情報開示を巡る対立は、セキュリティ業界における協力関係の重要性と課題を浮き彫りにしているため注目される。",
+        "market_impact": "Microsoftの製品利用者は最新パッチの適用が急務となるため、企業のIT運用コストやセキュリティ投資の増加を招く可能性がある。一方で迅速な対応で信頼回復を図り、競合他社とのイメージ競争に影響を与える可能性もある。",
         "category": "Tech",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
-        "published_at": "2026-06-09 05:26"
+        "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
+        "published_at": "2026-06-10 05:56"
       },
       {
-        "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
-        "summary_2lines": "macOS 27「Golden Gate」からIntel Macのサポートが終了し、Apple Silicon搭載Macのみ対応となる。既存のIntel Macは数年間のセキュリティアップデートのみ継続される見込みです。",
-        "why_it_matters": "Appleは長期にわたりIntelチップ搭載Macから自社設計のApple Siliconへ移行を進めており、この動きはハード・ソフト両面での最適化を加速させる重要な節目となる。Intel MacユーザーにとってはOSサポート終了が明確化し、Appleの製品戦略の転換点を示します。",
-        "market_impact": "Apple Silicon専用化によりAppleはハードウェア・ソフトウェア統合を強化し、競争力向上が期待される。IntelのMac市場における存在感は更に後退し、Intel向けサプライチェーンに影響を及ぼす可能性がある。また、ユーザーの買い替え需要が刺激されApple製品の販売拡大に寄与する見込みです。",
+        "title": "Upcoming breaking changes for NPM v12",
+        "summary_2lines": "npmの次期メジャーバージョンv12は、依存パッケージのインストール時のスクリプト実行やGit・リモート依存の解決を明示的許可制に変更し、セキュリティを強化します。ユーザーはnpm 11.16.0以上で事前準備が可能で、信頼するスクリプトのみ実行される体制に移行します。",
+        "why_it_matters": "npmはJavaScriptエコシステムで最も広く使われるパッケージ管理ツールであり、依存パッケージのスクリプト自動実行はセキュリティリスクとなっていました。v12の変更により不正なコード実行リスクを減らし、開発者や企業の安全性向上に繋がるため重要です。開発環境の安全性が高まることで、サプライチェーン攻撃対策としても寄与します。",
+        "market_impact": "多くのソフトウェア開発チームがnpmに依存しているため、アップデート対応による開発運用コストが一時的に増加する可能性があります。一方で、セキュリティ強化により企業の情報漏洩リスク低減や信頼獲得が期待でき、長期的には安全なエコシステム構築が市場全体の健全化に資すると考えられます。npmの競合ツールとの差別化にも影響を与えるでしょう。",
+        "category": "Tech",
+        "source": "Hacker News",
+        "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+        "published_at": "2026-06-10 06:01"
+      },
+      {
+        "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
+        "summary_2lines": "Starlinkはハードウェアの一括販売から月額10ドルのレンタル課金に切り替えた。サービス料金も値上げされ、一部国でこの新料金体系が導入されている。",
+        "why_it_matters": "従来の衛星インターネットサービスでの一括購入モデルからサブスクリプション型に移行することで、初期費用の障壁を下げ顧客獲得を狙う一方、継続的な収益基盤を強化しようとしている。通信インフラの拡充と収益モデルの多様化という業界トレンドの一端を示す動きである。",
+        "market_impact": "初期ハードウェアコストの負担を軽減することで新規加入者増が期待される一方、月額費用の増加はユーザーのコスト負担を押し上げる。競合他社は価格競争とサービス内容の差別化を迫られ、Starlinkの収益性強化により衛星インターネット市場のさらなる成長と価格体系の見直しが加速する可能性がある。",
         "category": "Tech",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
-        "published_at": "2026-06-09 06:03"
+        "url": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
+        "published_at": "2026-06-10 06:05"
       },
       {
-        "title": "Siri AI",
-        "summary_2lines": "Appleは今年秋に新しいSiri AIを英語で導入予定。ユーザー中心かつプライバシー重視のAI機能をアプリに統合し、利便性を高める。",
-        "why_it_matters": "AI技術の進展により、音声アシスタントの性能向上とプライバシー保護が両立できることが求められている。Appleはユーザー体験を深化させる次世代AIを投入し、競争力強化を図るため重要な発表となる。",
-        "market_impact": "Siriの機能強化はApple製品の魅力を高め、他社音声アシスタントとの差別化に寄与する。これによりAppleのエコシステムの利用促進やサービス収益の拡大が期待され、テック市場での競争が一層激化する可能性がある。",
+        "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+        "summary_2lines": "本記事は、Kolmogorov-Arnold Network（KAN）アーキテクチャを用いた超高速なFPGA上での機械学習推論とオンライン学習のためのハードウェア設計について解説しています。FPGAの特性を活かし、従来GPUが苦手とする超低遅延・高効率な処理を実現しています。",
+        "why_it_matters": "従来のGPUベースの機械学習は高スループットに強い一方で、ナノ秒単位の超低遅延処理や高いハードウェア効率が求められる応用には向いていません。FPGAは再構成可能な論理回路としてこれらの課題を克服でき、特にリアルタイム処理や組み込み用途での機械学習を大きく進展させ、次世代の高度なAI搭載デバイス開発に寄与するため注目されています。",
+        "market_impact": "FPGAが機械学習用途での性能・効率面で優位性を持つことで、通信、自動運転、エッジAI、金融取引など超低遅延が強く求められる分野での新たな製品開発と市場拡大が期待されます。これによりGPU依存の現在のAIハードウェア市場に多様性が生まれ、FPGAメーカーや関連IP・設計サービス企業の成長機会が増加すると予想されます。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://www.apple.com/apple-intelligence/",
-        "published_at": "2026-06-09 03:17"
+        "url": "https://aarushgupta.io/posts/kan-fpga/",
+        "published_at": "2026-06-10 04:21"
       },
       {
-        "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
-        "summary_2lines": "英国政府がプライバシーを侵害する監視法案を提案し、個人の自由と安全保障のバランスが問われている。市民や専門家から強い反発があり、監視強化は安全確保とは限らないとの見解が示された。",
-        "why_it_matters": "監視技術の拡大は安全性向上を目的としているが、一方でプライバシーの侵害や市民の自由を制限するリスクがある。今回の英国の動きは、デジタル社会におけるプライバシー保護と国家安全保障の関係性を巡る国際的な議論に影響を与えるため重要である。",
-        "market_impact": "監視強化に対する懸念から、テクノロジー関連企業の規制強化やデータ管理の厳格化が進む可能性がある。特にプライバシー技術やセキュリティ分野の市場に新たな需要が生まれる一方で、監視機器やデータ収集サービスを提供する企業に対する規制リスクが高まる可能性がある。",
+        "title": "Three key vital signs make up the \"urban pulse\" of a city",
+        "summary_2lines": "都市には「都市の脈拍（urban pulse）」という指標が存在し、リモートセンシングなどの技術で都市の代謝活動を測定できる。都市の発展は連続的ではなく「スパイク的」であり、各都市ごとに特徴的な成長パターンが見られる。",
+        "why_it_matters": "都市化の動的なメカニズムを把握することで、従来の結果のみでは見えなかった都市内の変化や成長パターンが明らかになる。これにより、政策立案者や住民がより適切で効率的な都市計画や資源配分を行える可能性があるため、都市の持続可能な発展に寄与する。",
+        "market_impact": "都市の代謝活動の可視化と分析は、不動産市場や都市インフラ投資、スマートシティ関連事業に新たなデータ駆動型の意思決定をもたらす。特に、周辺地域の将来性を事前に分析可能となるため、投資リスクの軽減や効果的な事業展開が期待される。",
         "category": "Tech",
-        "source": "Hacker News",
-        "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
-        "published_at": "2026-06-09 04:42"
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/science/2026/06/study-how-to-take-the-urban-pulse-of-a-city/",
+        "published_at": "2026-06-10 05:35"
       },
       {
-        "title": "Elon Musk says SpaceX doesn’t need ‘magic’ to put AI data centers up in space",
-        "summary_2lines": "イーロン・マスクは、SpaceXが宇宙にAIデータセンターを設置することは「魔法のようなこと」は不要で、技術的に解決可能だと述べた。専門家は軌道上データセンターの構築は容易でないと指摘しているが、マスクは問題はそれほど難しくないと主張している。",
-        "why_it_matters": "AIの計算需要が急増する中、宇宙空間にデータセンターを設置することは、地上のインフラの制約を超えた新たなソリューションとして注目されている。SpaceXがこれを実現すれば、データ処理の効率化や宇宙技術とAIの融合促進に繋がる可能性があるため重要視されている。",
-        "market_impact": "もしSpaceXが軌道上AIデータセンターの実現に成功すれば、クラウドコンピューティング市場やAIインフラ市場で新たな競争環境が生まれる。宇宙関連企業の投資誘発や、データセンターの地理的制約からの解放によるコスト構造の変化も期待されるため、テクノロジー・通信セクターに大きな影響を与える可能性がある。",
+        "title": "Apple’s AI could usher in a historic upgrade cycle that investors are overlooking",
+        "summary_2lines": "Appleの新しいAI機能は、ハードウェアの必要性増加と革新的なアプリの登場により、予想より早く収益化が進んでいる。これにより、Appleの製品買い替えサイクルが歴史的に加速する可能性がある。",
+        "why_it_matters": "AI技術の進展は消費者の製品購入行動に大きな影響を与え、特にAppleのような主要テクノロジー企業が先駆けることで、市場全体の技術投資動向や競争環境が変化するため重要である。",
+        "market_impact": "AppleのAI対応機能によって、新ハードウェア需要が増加し、iPhoneやiPadなどの売上拡大が期待される。結果的に関連サプライチェーンやアプリ開発企業にもプラスの影響が波及し、テック市場全体の活性化が見込まれる。",
         "category": "Tech",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/elon-musk-says-spacex-doesnt-need-magic-to-put-ai-data-centers-up-in-space-30f2d564?mod=mw_rss_topstories",
-        "published_at": "2026-06-09 07:59"
+        "url": "https://www.marketwatch.com/story/apples-ai-could-usher-in-a-historic-upgrade-cycle-that-investors-are-overlooking-2b47fbb3?mod=mw_rss_topstories",
+        "published_at": "2026-06-10 07:00"
+      },
+      {
+        "title": "Micron and other memory makers are driving a ‘supercycle’ for this corner of the chip sector",
+        "summary_2lines": "Micronなどのメモリーチップメーカーが需要の急増を背景に業界で『スーパーサイクル』を引き起こしている。チップ製造装置メーカーも顧客の供給計画を以前より詳細に把握できるようになった。",
+        "why_it_matters": "半導体業界は需要変動が激しいが、メモリーチップ分野での長期的かつ大規模な需要増加（スーパーサイクル）は、業界の成長を支える重要な要素となる。UBSのアナリスト指摘の通り、装置メーカーが供給計画を把握できることで生産計画や在庫管理の精度が向上し、業界全体の効率化に寄与する。",
+        "market_impact": "メモリーチップ市場のスーパーサイクルはMicronをはじめとした関連企業の業績改善を促し、半導体製造装置や材料メーカーの売上増加にもつながる。これにより半導体セクター全体の投資拡大や設備投資の活性化が期待され、世界的な半導体供給の安定化や技術革新にも寄与する可能性が高い。",
+        "category": "Tech",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/micron-and-other-memory-makers-are-driving-a-supercycle-for-this-corner-of-the-chip-sector-398c40c5?mod=mw_rss_topstories",
+        "published_at": "2026-06-10 06:58"
+      },
+      {
+        "title": "Claude Fable 5",
+        "summary_2lines": "Anthropicは最新のAIモデルClaude Fable 5とClaude Mythos 5を発表しました。これらは高度な安全対策を備えつつ、従来モデルを凌駕する性能で、多分野での活用が期待されています。",
+        "why_it_matters": "高度AIモデルの能力向上はソフトウェア開発、知識労働、サイバーセキュリティ、ライフサイエンスなど幅広い分野での効率化や革新を促します。一方で、その悪用リスクも高いため、安全対策付きモデルと限定的アクセスのモデルを使い分けることで、社会的リスク軽減を図っている点が重要です。",
+        "market_impact": "Claude Fable 5の価格競争力や先進的な性能により、AI業界内での競争激化が予想されます。特にソフトウェア開発や金融市場分析分野での効率化が進み、関連企業の生産性が向上します。加えて、米政府と連携したCybersecurity強化モデルMythos 5の導入は国家安全保障技術の進化を示し、サイバー防御市場にも影響を及ぼします。",
+        "category": "Tech",
+        "source": "Hacker News",
+        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+        "published_at": "2026-06-10 01:58"
       }
     ],
     "Markets": [
       {
-        "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
-        "summary_2lines": "OpenAIが米国でのIPOを計画していることを明らかにし、競合するAnthropicとの投資競争が激化している。両社はともにAI分野をリードし、時価総額は1兆円規模に迫っている。",
-        "why_it_matters": "OpenAIとAnthropicはAI業界の主要プレイヤーであり、IPOはこれまで非公開であった巨大なAI企業の資金調達の転換点となる。特に、SpaceXの動きを背景にAI分野の成長と競争が加速し、市場の注目が集まっているため重要である。",
-        "market_impact": "OpenAIのIPOにより、AI関連企業への投資資金が増加し、AI技術の商業化が一段と進展すると見られる。投資家の関心が高まる一方、企業間の競争が激化し、AI市場の評価額がさらに拡大する可能性が高い。また、投資レースの激化は技術革新と新規サービス開発を促進するだろう。",
-        "category": "Markets",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-06-09 07:55"
-      },
-      {
-        "title": "This startup wants to reduce payment friction on prediction markets",
-        "summary_2lines": "EDGE Marketsは、予測市場の取引における資金移動の遅延を解消するリアルタイム決済システム「EDGE Connect」と、機関投資家向けプラットフォーム「EDGE Pro」を発表した。シリーズAで2920万ドルを調達し、Kalshiなど複数の取引プラットフォームに技術導入を進めている。",
-        "why_it_matters": "予測市場は取引量が増加し、特に機関投資家の参入が進む中で、従来の銀行システムの遅延が資金移動の障害となっている。EDGE Marketsのソリューションはこの決済の摩擦を大幅に軽減し、取引の速度と効率性を向上させることで市場の流動性向上を促進する重要な技術革新である。",
-        "market_impact": "EDGE Marketsの技術導入により、予測市場の資金移動のスピードが向上し、参加者の取引意欲や市場規模の拡大が期待される。特に機関投資家が複数の市場にリアルタイムで資金を移動できるようになることで、流動性の分散問題が緩和される。結果として予測市場が新たな金融商品・資産クラスとしての成熟を加速し、関連企業やベンチャーキャピタル投資の活性化にもつながる可能性がある。",
+        "title": "Kalshi trading in 'perps' crosses $1 billion in volume within a week of launch",
+        "summary_2lines": "Kalshiは米国初の永久先物（perps）取引を開始し、1週間で取引高が10億ドルを突破した。これは同社にとって史上最速の成長記録となった。",
+        "why_it_matters": "永久先物は満期がなく、レバレッジ取引が可能なため世界で年間90兆ドル規模の市場が存在するが、従来米国内では合法的に取引できなかった。KalshiがCFTCの承認を得て国内で初めて提供を開始したことで、米国の個人・機関投資家に新たな投資機会が開かれた。",
+        "market_impact": "Kalshiのperpsサービスは約1か月で従来のイベント予測契約全体の累計取引高を上回る勢いで、市場の需要の高さを示す。これにより、米国のデリバティブ市場に新たな競争が生まれ、他プラットフォームや暗号資産取引所も同様の永続先物の提供を加速する可能性がある。企業の収益拡大や投資機会拡大、さらには規制当局のモニタリング強化にもつながるだろう。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/08/this-startup-wants-to-reduce-payment-friction-on-prediction-markets.html",
-        "published_at": "2026-06-08 21:31"
-      },
-      {
-        "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
-        "summary_2lines": "暗号資産取引所FTX創業者のサム・バンクマン＝フリード氏が米国での25年刑の服役後の恩赦をトランプ元大統領に申請した。彼は詐欺罪で有罪判決を受けており、自身の無実も主張している。",
-        "why_it_matters": "バンクマン＝フリード氏はかつて仮想通貨業界を代表する人物であり、FTX崩壊は仮想通貨市場の信頼に大きな打撃を与えた。彼の恩赦申請は刑事責任のあり方や仮想通貨業界の今後の規制環境に影響を与える可能性がある。",
-        "market_impact": "恩赦が認められれば、仮想通貨市場の透明性や法的規制に対する投資家の信頼感に新たな波紋を投げかける。特にFTXや関連企業の関係者、広範囲な仮想通貨市場の規制強化議論に影響し、投資判断にも変化が生じる可能性がある。",
-        "category": "Markets",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-06-09 02:18"
-      },
-      {
-        "title": "Hong Kong's IPO boom is developing a performance problem",
-        "summary_2lines": "2025年以降、香港のIPO市場は資金調達額で世界トップだが、新規上場株の株価パフォーマンスが低迷している。特に中国本土投資家向けのConnect連結銘柄で顕著な下落傾向が見られる。",
-        "why_it_matters": "香港市場は世界的なIPO市場の中心として注目されているものの、上場株の価格変動の激しさや短期的なリターン狙いの投資行動が市場の信頼性に影響を及ぼす可能性がある。中国本土との資本連結も強化されており、この市場間連携の動向は投資家の資金移動や政策対応に関わる重要な要素となっている。",
-        "market_impact": "香港IPOの価格低迷や短期的な過熱と急落は、投資家心理を不安定化させるとともに、資本流出や本土A株市場への資金移動を促進している。これにより香港市場の成長持続性が懸念され、中国系ファンドはAI関連の本土株に資金シフトし始めている。金融セクター全体に競争圧力が強まり、短期的な株価パフォーマンスへの依存度が高まっていることも示唆される。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/08/hong-kongs-ipo-boom-is-developing-a-performance-problem.html",
-        "published_at": "2026-06-08 09:44"
-      },
-      {
-        "title": "Two American tycoons are betting big on a casino revival",
-        "summary_2lines": "アメリカの大手実業家がカジノ業界の復活に大きく賭けている。CaesarsとMGMの所有権が近く変わる可能性がある。",
-        "why_it_matters": "カジノ業界はパンデミックの影響で打撃を受けたが、回復期待が高まっている。大手企業の買収や所有権の変更は業界構造の変化や新たな投資動向を示唆し、経済活動の回復の指標となるため重要である。",
-        "market_impact": "CaesarsとMGMの所有権変更は、株価の変動や投資家の関心増加を招く可能性がある。カジノ業界の再編が進むことで競争環境が激化し、観光や娯楽産業全体の活性化にも寄与する見込みだ。また、大型買収は関連する雇用創出や地域経済への波及効果も期待される。",
-        "category": "Markets",
-        "source": "The Economist",
-        "url": "https://www.economist.com/business/2026/06/04/two-american-tycoons-are-betting-big-on-a-casino-revival",
-        "published_at": "2026-06-04 22:08"
-      },
-      {
-        "title": "Bitcoin is cratering, but a new Wall Street crypto hype is on the rise",
-        "summary_2lines": "ビットコインなど主要暗号資産が下落する中、新興のハイパーリキッド（HYPE）を対象としたETFが資金流入を集めている。これらのETFは伝統的な株式の株式買戻しに似た収益モデルで新規投資家の関心を引いている。",
-        "why_it_matters": "ビットコインの価格低迷が続く状況で、ハイパーリキッドのETFが新たな資金流入先として注目されている。これにより、暗号資産への投資対象の多様化が進む可能性があり、伝統的な金融市場と分散型金融（DeFi）をつなぐ架け橋となると期待されているため重要である。",
-        "market_impact": "ハイパーリキッドETFの資金流入は、暗号資産市場に新たな投資ニーズを生み出し、既存のビットコインETFからの資金流出を一部補う形になる。これにより関連プロジェクトのトークン価値向上や主流化促進に寄与し、ETFが未経験層の参入障壁を下げることで市場拡大が期待される一方、認知度低さや競争激化、リスクの高さは依然として課題となる。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html",
-        "published_at": "2026-06-09 00:11"
-      },
-      {
-        "title": "Polymarket and Kalshi Say Influencer Partners Can’t Deny Election Results, Actually",
-        "summary_2lines": "予測市場のKalshiとPolymarketは、選挙結果を否定する内容を投稿したインフルエンサーに対し、契約違反として投稿の修正を要求しました。これらプラットフォームに対する規制強化や信頼性の問題が表面化しています。",
-        "why_it_matters": "米国の中間選挙を控え、政治的に敏感な予測市場が選挙結果否定の誤情報拡散に巻き込まれたことで、信頼性維持と規制対応が課題となっています。これら市場の透明性と法的立場が問われ、政治的分断や誤情報問題との関連が問題視されています。",
-        "market_impact": "選挙関連の予測市場への信頼低下とともに、規制当局による厳格な取り締まりの可能性が高まります。企業はマーケティング戦略やインフルエンサーパートナーシップの管理強化を迫られ、法的リスクや社会的批判に直面する可能性があります。また、メディアや投資家の注目も変化し、市場の成長や収益にネガティブな影響を与える恐れがあります。",
-        "category": "Markets",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/kalshi-polymarket-influencer-election-denial-spencer-pratt/",
-        "published_at": "2026-06-09 06:23"
-      },
-      {
-        "title": "OpenAI files confidentially for IPO, following Anthropic",
-        "summary_2lines": "OpenAIが非公開でIPO申請を行い、競合のAnthropicに続く動きを見せた。AI業界の大手企業が2026年に相次いで上場する可能性が高まっている。",
-        "why_it_matters": "OpenAIとAnthropicというAIトップ企業のIPO申請は、AI技術の商業化と資金調達競争の激化を示している。特にOpenAIは莫大な研究開発コストを抱えており、投資家は利益が出るまでの期間が長いと予想される一方で、AI市場の成長期待も根強い。SECの規制緩和傾向もあり、テック企業の上場環境が変化している点も注目される。",
-        "market_impact": "OpenAIのIPOに続き、SpaceXやAnthropicの上場も見込まれ、2026年は大型テックIPOの集中する年となる。これにより市場の資金流入が活発化し、AI関連株の注目度とボラティリティが高まる可能性がある。ただし、巨額の研究開発費を抱えるため投資家は長期的な成長戦略を評価しつつ慎重な姿勢も求められ、市場全体にとってはリスクと成長の両面が試される状況となる。",
-        "category": "Markets",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
-        "published_at": "2026-06-09 06:29"
-      },
-      {
-        "title": "Knicks ticket prices plunge more than 50% ahead of Game 3 at MSG — but not just because Trump’s going",
-        "summary_2lines": "ニューヨーク・ニックスの試合チケット価格が50%以上急落しているが、トランプ前大統領の出席だけが原因ではない。チケット業界の専門家によると、他にも大きな要因が存在する。",
-        "why_it_matters": "スポーツイベントのチケット価格の大幅な変動は、ファンの需要や経済状況、政治的要素など複合的な影響を反映している。トランプ氏の来場が注目される一方、根本的な市場の動向を理解することが重要であるため、この現象を分析する意味がある。",
-        "market_impact": "チケット価格の急激な下落はスポーツ興行の収益に影響を与え、関連するチケット販売業者や二次流通市場にも影響を及ぼす可能性がある。また、政治的なイベントとスポーツの結びつきがチケット市場の価格形成に新たな変数を加えることで、業界の戦略変更が求められる可能性がある。",
-        "category": "Markets",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/knicks-ticket-prices-plunge-more-than-50-ahead-of-game-3-at-msg-but-not-just-because-trumps-going-b7944acf?mod=mw_rss_topstories",
-        "published_at": "2026-06-09 07:33"
-      },
-      {
-        "title": "Tech giant OpenAI files for US initial public offering",
-        "summary_2lines": "AI大手OpenAIが米国での新規株式公開（IPO）に向けて非公開で申請を行った。時価総額は最大1兆ドルと見込まれており、AI産業の成長を象徴する動きとなる。",
-        "why_it_matters": "OpenAIのIPOは、AIを中心とした技術革新と投資熱が加速する中で、著名なAI企業が株式市場に本格参入する重要な節目となる。また、OpenAIの複雑な組織構造や創業者間の法的対立が解消されたことで、投資家の信頼を取り戻し、資金調達の新たな可能性を切り開く背景がある。",
-        "market_impact": "最大1兆ドル規模のIPOはテクノロジー株市場に大きな波及効果をもたらし、特にAI関連企業の評価基準や投資動向に影響を与える。MicrosoftやAmazonといった大手パートナーとの連携強化も、クラウド事業やAIサービス市場の成長を加速させる。加えて、OpenAIの急成長が競合する他のビッグテックにも資金調達と事業戦略の見直しを促す可能性がある。",
-        "category": "Markets",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/6/8/tech-giant-openai-files-for-us-initial-public-offering?traffic_source=rss",
-        "published_at": "2026-06-09 07:23"
+        "url": "https://www.cnbc.com/2026/06/09/kalshi-perpetual-futures-trading-perps-crosses-1-billion-in-volume-within-a-week-of-launch.html",
+        "published_at": "2026-06-10 04:03"
       }
     ],
     "Geopolitics": [
       {
-        "title": "UN human rights leader calls for Cuba sanctions to be ‘lifted immediately’",
-        "summary_2lines": "国連人権高等弁務官のフォルカー・ターク氏は、米国によるキューバへの石油制裁が子どもの死亡率増加など深刻な人道的影響をもたらしているとして、制裁の即時解除を強く求めた。ターク氏は制裁が国際人権法の基本原則に反すると指摘している。",
-        "why_it_matters": "米国は長年続くキューバへの経済制裁を強化し、特に石油供給の遮断でキューバ経済と医療体制に深刻なダメージを与えている。これにより、医療物資不足や頻発する停電が発生し、特に子どもの死亡率増加や治療不能な患者の増加という人道危機が拡大。国連からの人権面での厳しい批判は、米国の対キューバ政策の国際的非難を強めるとともに、人道支援の必要性を浮き彫りにしている。",
-        "market_impact": "キューバへの制裁強化により現地経済が一層悪化し、企業撤退や国際金融システムからの孤立が進んでいる。これによりキューバ市場への投資は停滞し、地域経済の不安定化を招く可能性がある。また、制裁対象の政府機関や個人への取引停止が米国および多国籍企業のビジネスにも影響を及ぼし、対キューバ貿易や関連産業のリスクが増大している。",
+        "title": "Deadly protests in Pakistan-administered Kashmir: What’s going on?",
+        "summary_2lines": "パキスタンが管理するカシミールでのデモ中に警察と抗議者が衝突し、少なくとも11人が死亡。禁止された市民団体による大規模デモ開催を前に緊張が高まっている。",
+        "why_it_matters": "カシミール紛争は地域の安定に直接影響するため、暴力的な抗議活動の激化はパキスタン・インド間の緊張を高め、南アジア全域の安全保障に波及効果を及ぼす恐れがある。",
+        "market_impact": "地域の政治的不安定化により、通貨や株式市場が影響を受ける可能性がある。また、エネルギー供給や貿易ルートのリスク増大に伴い、企業の投資判断や運営にネガティブな影響が生じる可能性が高い。",
         "category": "Geopolitics",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/6/8/un-human-rights-leader-calls-for-cuba-sanctions-to-be-lifted-immediately?traffic_source=rss",
-        "published_at": "2026-06-09 06:43"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on-2?traffic_source=rss",
+        "published_at": "2026-06-10 07:03"
       },
       {
-        "title": "US confirms it denied entry to Somali referee set to take part in World Cup",
-        "summary_2lines": "アメリカ政府はワールドカップに参加予定だったソマリア人審判オマール・アルタンの入国を拒否した。これはトラベルバン等の厳格な渡航制限によるもので、国際スポーツ大会への影響が懸念されている。",
-        "why_it_matters": "本件は、アメリカの移民政策やトラベルバンが国際的なスポーツイベントの運営や参加者の移動に直接的な影響を与えていることを示す事例である。ソマリアをはじめとした一部国に対する入国制限は、国際交流や文化的融合の機会を阻害し、イベントの公平性やイメージにも悪影響を及ぼす可能性がある。",
-        "market_impact": "今回の入国拒否やビザ問題は、米国内で開催される大規模イベントの商業利益や開催都市の経済効果に悪影響を与え得る。観客の減少や関係者の動線制限は、観光産業やサービス業、スポンサー企業の売上減少を招く恐れがある。また、国際的な反発が米国のブランド価値や投資環境にもマイナスに作用する可能性がある。",
+        "title": "Trump vows retaliation after claiming Iran shot down Apache helicopter",
+        "summary_2lines": "トランプ大統領はイランがホルムズ海峡上空で米軍のアパッチヘリコプターを撃墜したと非難し、必要に応じて報復すると表明した。米軍は搭乗員2名が米海上ドローンによって無事救出されたことを確認した。",
+        "why_it_matters": "ホルムズ海峡は世界のエネルギー輸送の要所であり、米イラン間の軍事的緊張がさらに高まると中東地域の安定や国際的なエネルギー供給に重大なリスクをもたらすため、国際政治および安全保障上重要なニュースである。",
+        "market_impact": "地政学的リスクの高まりにより原油価格が急騰する可能性がある。エネルギー関連企業の株価変動や防衛関連企業への注目が高まるほか、投資家のリスク回避姿勢が強まり、株式市場全体に波及的影響を及ぼす恐れがある。",
         "category": "Geopolitics",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/6/8/us-confirms-denying-entry-to-somali-referee-set-to-take-part-in-world-cup?traffic_source=rss",
-        "published_at": "2026-06-09 06:30"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-vows-retaliation-after-claiming-iran-shot-down-apache-helicopter?traffic_source=rss",
+        "published_at": "2026-06-10 06:17"
       }
     ],
-    "Economy": [],
+    "Economy": [
+      {
+        "title": "Bill debt soars but many don't know help is available",
+        "summary_2lines": "英国で水道、ブロードバンド、エネルギー料金の未払い債務が70億ポンド以上に膨れ上がる一方、多くの利用者は支援制度の存在を知らない。特に高齢者など脆弱な顧客の支援体制強化が求められている。",
+        "why_it_matters": "ロシアのウクライナ侵攻以降エネルギー費用が急増し、多くの家庭が光熱費や通信費の支払いに苦しんでいる。支援プログラムへの認知不足が問題を悪化させ、社会的弱者の生活困窮を深刻化させる恐れがあるため、規制当局や事業者による迅速かつ効果的な対応が求められている。",
+        "market_impact": "未払い債務の増加は水道・通信・エネルギー事業者のキャッシュフローに圧力をかける可能性がある。また、支援制度の不周知は顧客離れや信用リスクの増大を招きうるため、企業は顧客対応や料金体系の見直しを迫られるだろう。規制強化が進めばサービスコストの増加や料金への転嫁リスクも考えられる。",
+        "category": "Economy",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/cdjkevgv9rzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-06-10 08:03"
+      }
+    ],
     "Corporate": [
       {
+        "title": "Beauty Pie LED mask ad banned over misleading anti-wrinkle claim",
+        "summary_2lines": "Beauty PieのLEDフェイスマスクの広告が誤解を招く抗皺効果の主張により広告規制機関から禁止された。製品の効果を裏付ける十分な科学的証拠が不足していると判断されたためである。",
+        "why_it_matters": "スキンケア市場で急成長するLEDデバイスだが、科学的根拠が不十分なまま効果を謳う広告が消費者に誤解を与える可能性がある。規制機関による広告の適正監視は、消費者保護と健全な市場形成に不可欠だ。",
+        "market_impact": "今回の規制はBeauty Pieのブランド信頼性に影響し、同社の販売戦略や広告表現の見直しを迫るだろう。LED美顔器市場の拡大期において、効果を明確に示せない製品は差別化が難しく、競争環境に影響を与える可能性が高い。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c892lj7xn02o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-06-10 08:03"
+      },
+      {
+        "title": "How to enjoy the World Cup - and keep your boss on side",
+        "summary_2lines": "2026年ワールドカップ期間中、イングランドやスコットランドの労働者は深夜キックオフに対応するため有給休暇や柔軟な勤務形態を活用している。企業も柔軟な働き方を導入し、生産性低下や欠勤を防ごうとしている。",
+        "why_it_matters": "ワールドカップは世界的なスポーツイベントで、多くの国で勤務時間や職場の対応に影響を及ぼす。イングランドやスコットランドのように時差の関係で試合時間が深夜に及ぶ場合、労働者の健康や生産性、企業の運営に対する影響が懸念されており、柔軟な勤務制度の導入が重要な課題となっている。",
+        "market_impact": "英国の企業はワールドカップ期間中に最大約681百万ポンドの生産性損失が予想されており、大規模な欠勤増加（1.5百万人以上）が予測されている。これに対し、一部の企業は柔軟な勤務制度や有給休暇の利用促進で労働環境の向上を図り、従業員のモチベーション維持と業務継続を目指している。こうした取り組みはイベント時の経済的損失を軽減し、企業の人材管理戦略に新たな影響を与える可能性がある。",
+        "category": "Corporate",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c0r2yldw1vjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-06-10 08:03"
+      },
+      {
+        "title": "Electric vehicle giant BYD predicts 80% of China car sales will soon be electric",
+        "summary_2lines": "中国の電気自動車（EV）大手BYDは、近い将来中国の新車販売の約80%がEVになると予測している。BYDは先進バッテリー技術やドライバーアシスト機能の強化で国内外市場の競争力維持を目指す。",
+        "why_it_matters": "中国は世界最大の自動車市場かつEV普及の最前線であり、その市場動向はグローバルEV業界に大きな影響を与える。BYDの楽観的見通しは中国政府の支援や技術革新を背景に、EV普及がさらに加速する可能性を示しているため重要である。",
+        "market_impact": "BYDの強力な国内需要と新技術投入は中国および海外のEV市場での競争を激化させ、既存のガソリン車市場の縮小を加速する。米国の高関税や安全保障の懸念がある一方で、BYDは欧州市場での現地生産を拡大し、世界的なプレゼンス向上を狙うことが予想される。",
+        "category": "Corporate",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/09/electric-vehicle-giant-byd-predicts-80percent-of-china-car-sales-will-soon-be-electric.html",
+        "published_at": "2026-06-09 15:52"
+      },
+      {
+        "title": "Great White Sharks Have Been in the Mediterranean Sea for Millions of Years—but Sightings Are Incredibly Rare",
+        "summary_2lines": "地中海で極めて希少なホオジロザメの映像が初めて撮影され、個体の存在が確認された。種は絶滅危惧種であり、この発見は保全活動に重要な意味を持つ。",
+        "why_it_matters": "ホオジロザメは古くから地中海に生息するが、個体数は激減し目撃例が極端に少ない。今回の映像記録は科学的調査や生態系保全戦略に貴重なデータを提供し、海洋生物多様性の維持に向けた関心と努力の強化を促すため重要である。",
+        "market_impact": "直接的な経済市場への影響は限定的だが、海洋保全関連の産業（ダイビングツアーや環境保護団体の活動資金調達など）には追い風となる可能性がある。また、漁業業界には保護規制強化の圧力が高まるリスクがある。",
+        "category": "Corporate",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/great-white-shark-mediterranean-sea-sighting-endangered/",
+        "published_at": "2026-06-10 07:05"
+      },
+      {
         "title": "What to read to understand your next employer",
-        "summary_2lines": "次の職場を理解するために、カフカの『審判』やオーウェルの『1984年』などの文学作品を読むことが推奨されている。これらの作品は職場環境や組織文化を理解する手助けとなる。",
-        "why_it_matters": "現代の企業環境は複雑化し、権力構造や監視体制の問題も浮上している。文学作品を通してこうしたテーマに触れることで、求職者は企業の本質やリスクを見極めやすくなるため、キャリア選択において重要な示唆を提供する。",
-        "market_impact": "従業員の企業理解が深まることで、ミスマッチの減少やエンゲージメント向上が期待できる。結果的に企業の生産性向上や従業員の定着率改善につながり、労働市場全体にもポジティブな影響を与える可能性がある。",
+        "summary_2lines": "次の職場を理解するために読むべき本として、カフカの『審判』やオーウェルの『1984年』が挙げられている。これらの文学作品は企業文化や権力構造の理解に役立つ。",
+        "why_it_matters": "現代の職場環境や企業の権力構造を理解するために文学作品を通じて洞察を得ることは、求職者が企業文化や内情を予測し、適切なキャリア選択をする上で重要である。",
+        "market_impact": "こうした理解が進むことで、より透明性の高い企業経営を求める動きが強まり、企業側も従業員の心理的安全性や企業文化の再評価を促す可能性がある。結果的に人材の流動性や企業のブランド価値に影響を与えることが予想される。",
         "category": "Corporate",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/06/04/what-to-read-to-understand-your-next-employer",
         "published_at": "2026-06-04 22:08"
       },
       {
-        "title": "OpenAI Submits S-1 Draft to SEC",
-        "summary_2lines": "OpenAIはSECにドラフトS-1申請書を機密提出したことを公表しました。IPOの時期は未定で、状況に応じて早期上場の選択肢を持つ狙いです。",
-        "why_it_matters": "OpenAIの上場準備は、AI分野における資金調達や成長の重要な節目を示します。高度な技術を持つ企業の公開によって投資家関心が集まり、競争環境にも影響を与えます。",
-        "market_impact": "OpenAIの上場はAI関連株式市場を活性化させ、関連テクノロジー企業への資金流入が増える可能性があります。加えて、同社の成長戦略や業界の動向に市場が注目するため、投資判断に大きな影響を及ぼすでしょう。",
+        "title": "Super Micro stock plunges as $7 billion equity raise overshadows booming backlog",
+        "summary_2lines": "Super Microは急増するAI需要に対応するため70億ドルの資本調達を計画しているが、その巨額調達が株価急落を招いた。業績好調な受注残高の拡大にもかかわらず、キャッシュバーンの激しさが懸念されている。",
+        "why_it_matters": "AI関連需要の急増により成長期待が高まる中、資金調達による希薄化懸念や財務リスクが市場の神経を逆なでする形となった。これにより成長企業の資金調達の難しさやAIブームの持続可能性が改めて問われている。",
+        "market_impact": "Super Microの株価急落はテクノロジーセクター全体の不安定感を増幅させ、投資家のリスク回避姿勢を強める可能性がある。企業の積極投資姿勢と財務健全性のバランスが今後の市場動向を左右する重要なポイントとなる。",
         "category": "Corporate",
-        "source": "Hacker News",
-        "url": "https://openai.com/index/openai-submits-confidential-s-1/",
-        "published_at": "2026-06-09 06:22"
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/super-micro-stock-plunges-as-7-billion-equity-raise-overshadows-booming-backlog-c5df2fc8?mod=mw_rss_topstories",
+        "published_at": "2026-06-10 07:17"
+      },
+      {
+        "title": "Mississippi residents sue Musk’s xAI and SpaceX over data centre ‘nuisance’",
+        "summary_2lines": "ミシシッピ州の住民が、近隣のデータセンターに電力を供給する発電所からの騒音被害で、イーロン・マスクのxAIとSpaceXを提訴した。訴訟は騒音による健康被害や財産価値の減少を理由としている。",
+        "why_it_matters": "AI関連インフラの急速な拡大に伴い、地域住民の生活環境への影響が社会問題化している。特に大規模なデータセンターや発電所の騒音問題は、企業の社会的責任や環境規制の適用範囲の議論を加速させるため重要な動きとなっている。",
+        "market_impact": "この訴訟はxAI・SpaceXの評判リスクを高め、将来的なインフラ建設や運用に対する規制強化や追加コストの可能性を示唆する。また、AIインフラ産業全般に対する住民・環境配慮の要求が強まることで、業界の事業モデルや投資環境に影響を及ぼす可能性がある。",
+        "category": "Corporate",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/6/9/mississippi-residents-sue-musks-xai-and-spacex-over-data-centre-nuisance?traffic_source=rss",
+        "published_at": "2026-06-10 07:16"
       }
     ]
   }
