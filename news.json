@@ -1,312 +1,301 @@
 {
-  "generated_at_jst": "2026-06-12 08:12",
+  "generated_at_jst": "2026-06-13 08:05",
   "todays_brief": [
     {
-      "title": "Elon Musk's SpaceX valued at nearly $1.8tn ahead of record share sale",
-      "summary_2lines": "SpaceXは約1.8兆ドルの企業価値で史上最大規模の上場を控え、75億ドルの株式を発行しました。イーロン・マスクは約84%の議決権を保持し、世界初の兆万長者になる見込みです。",
-      "why_it_matters": "SpaceXの巨大な上場は、AIや宇宙開発をリードする企業の成長性を象徴し、今後のテック業界や資本市場に大きな影響を与える可能性があります。また、マスクの強固な支配権は企業統治の新たな課題を浮き彫りにします。",
-      "market_impact": "史上最高額の新規株式公開は、投資家の注目を集め、同様の大型テック企業の市場参入の先駆けとなるでしょう。マスクの議決権集中は経営の安定性をもたらす一方で、投資家のリスクも増加し、企業統治のリスク管理が重要になります。",
+      "title": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits",
+      "summary_2lines": "SpaceXは史上最大となる750億ドルのIPOを実施し、時価総額は1.77兆ドルに達した。Elon Muskが82%以上の議決権を持ち、SpaceXはNasdaqに上場する。",
+      "why_it_matters": "史上最大規模のIPOとして、宇宙ビジネスとAIを融合した新興テクノロジー企業が一挙に市場に登場することは、金融市場やテクノロジー業界に大きな注目と影響をもたらす。Muskの支配力やSpaceXの収益構造、キャッシュバーンの多さは投資リスクを反映しているが、成長期待と市場のイノベーションの指標として意味がある。",
+      "market_impact": "SpaceXの巨額調達は将来的にAI・宇宙関連技術への巨額投資を促進し、競合するAI企業や宇宙産業全体に活性化効果をもたらす可能性が高い。上場により一般投資家が初めて参入可能となり、テクノロジー株のバリュエーションや資金流入動向に新たな影響を与える。またMuskの資産価値上昇は市場心理にも影響し、Tesla含む関連銘柄への波及効果も考えられる。",
+      "category": "Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html",
+      "published_at": "2026-06-12 20:34"
+    },
+    {
+      "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+      "summary_2lines": "イーロン・マスクがSpaceXの史上最大の上場により世界初の資産1兆ドル超えを達成した。SpaceXは2.2兆ドルの評価額でNASDAQに上場し、多くの従業員も富を得た。",
+      "why_it_matters": "マスクの資産1兆ドル超えは格差問題を改めて浮き彫りにしており、彼の影響力拡大とともに政治的・社会的議論を巻き起こしている。SpaceXの上場は宇宙産業やAI分野の将来性への投資家の期待を示している。",
+      "market_impact": "SpaceXのIPOにより同社は750億ドルの資金調達に成功し、これを用いてロケット、衛星通信、AI開発を加速させる見込み。マスク関連銘柄の株価も注目を浴び、宇宙関連市場やテクノロジー投資が活性化すると予想される。",
       "category": "Markets",
       "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-06-12 06:10"
+      "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-06-13 07:00"
     },
     {
-      "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
-      "summary_2lines": "オラクルは、ハッカー集団が悪用しているセキュリティ脆弱性を警告。グーグルは約100社以上の脆弱なサーバーを持つ組織に通知を行った。",
-      "why_it_matters": "大手IT企業のサーバーが標的となる脆弱性は、多数の企業やサービスの安全性を脅かすため、サイバー攻撃が拡大するリスクが高まっている。企業やユーザーの情報流出や業務停止に直結する問題で、事前対策が急務となっている。",
-      "market_impact": "影響を受けた企業はセキュリティ強化やシステム改修にコストがかかるほか、情報漏えいによる信頼失墜や訴訟リスクが増大。これによりIT関連株の不安定化や、サイバー保険市場の需要増加が予想される。",
-      "category": "Tech",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
-      "published_at": "2026-06-12 05:27"
-    },
-    {
-      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-      "summary_2lines": "SpaceXが史上最大規模となる750億ドルのIPOを135ドルで正式に価格設定し、ナスダックでの取引開始を控えている。イーロン・マスクはこのIPOで世界初の兆万長者となる可能性が高い。",
-      "why_it_matters": "SpaceXのIPOは巨大な資金調達で宇宙開発やAI連携事業のさらなる拡大を可能にするとともに、歴史的な時価総額を実現し、同社の先進的技術開発や野心的プロジェクトへの投資を加速させる。マスク個人の影響力も一層強まり、株式市場における革新的企業の評価基準にも影響を与える。",
-      "market_impact": "投資家の強い関心を反映し、初値は大幅な上昇が見込まれている。IPOによりベンチャーキャピタルや初期投資家にも多大な利益が見込まれ、市場全体でテクノロジー関連株への注目が高まる可能性がある。一方で高い評価が妥当か疑問視する向きもあり、長期的な成長と収益化戦略が市場の注視を集めるだろう。",
+      "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
+      "summary_2lines": "SpaceXはNASDAQ上場初日、株価が19%上昇し時価総額は約2.3兆ドルに達した。創業者のイーロン・マスクは初の世界トリリオネアに輝いた。",
+      "why_it_matters": "SpaceXのIPO成功は、宇宙開発分野での民間企業の評価が大幅に高まったことを示している。特に、非常に限定された公開株数や大型投資家の高い需要、高速で株価指数に組み入れられることで市場の関心が集中し、新たな資金流入を促進する環境が整った点が背景にある。",
+      "market_impact": "IPOの大幅な株価上昇は、関連ベンチャーキャピタルの巨額利益を生み出し、近年の宇宙関連投資の成功例となった。さらに、NASDAQ100など主要指数への早期組み入れで機関投資家の買いが加速し、金融市場全体にポジティブな影響を及ぼす可能性が高い。個人投資家の取引活発化も確認されており、流動性の増加と市場の活性化が期待される。",
       "category": "Markets",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-      "published_at": "2026-06-12 05:33"
+      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
+      "published_at": "2026-06-13 05:20"
     },
     {
-      "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
-      "summary_2lines": "OpenAIはChatGPTを超多機能な「スーパーアプリ」へと刷新中で、その開発を率いるのが新たにコア製品責任者に就任したエンジニアのティボー・ソティオ。彼の指揮のもと、ChatGPTは個人とビジネスのあらゆる面を支援するパーソナルAIへと進化予定である。",
-      "why_it_matters": "ChatGPTの刷新はOpenAIにとって最大の賭けであり、GoogleやAnthropicとの激しいAI競争において差別化を図る重要な一手。利用者数が10億近い消費者向けプロダクトを基盤に、AIアシスタントの新たなスタンダードを築く可能性があるため、市場や技術動向に大きな影響を与える。",
-      "market_impact": "スーパーアプリ化によりOpenAIはAIソリューションの統合プラットフォームとしての地位を確立し、収益源の多角化や利用ユーザーのエンゲージメント強化が期待される。これがIPO戦略や競合優位性を高め、AI市場での影響力を一層拡大すると見られる。一方で製品統合に伴う組織再編や人員離職も短期的リスクとして懸念される。",
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "summary_2lines": "GoogleはAIを活用した大規模な中国発サイバー犯罪組織を提訴し、その詐欺プラットフォームの解体を目指している。被害者は数十万人に及び、損失額は数十億円規模と推定されている。",
+      "why_it_matters": "AI技術を悪用した新たな詐欺手法が急増していることを示しており、技術革新がもたらすリスクと対策の重要性を浮き彫りにしている。Googleなど大手企業と司法機関の連携はサイバーセキュリティ強化の模範となるため、デジタル社会の信頼性を維持する上で極めて重要だ。",
+      "market_impact": "広範なサイバー詐欺被害は消費者の信頼低下や規制強化を促し、通信業界やクラウド事業者にも影響を与える。GoogleのAI防御技術の強化は同社の競争力を高める一方で、サイバーセキュリティ関連市場の成長を加速させる可能性がある。また、通信キャリアや金融機関の不正防止策への投資増加も予想される。",
       "category": "Tech",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
-      "published_at": "2026-06-12 06:21"
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "published_at": "2026-06-13 05:38"
     },
     {
-      "title": "US lawmakers press Israel to let cancer patients out of Gaza for treatment",
-      "summary_2lines": "米国議会の60名以上の議員がイスラエルに対し、ガザ地区のがん患者の医療避難を認めるよう要請しました。医療施設の壊滅的状況と人道的危機を背景に、特に子どもたちの治療継続が急務とされています。",
-      "why_it_matters": "ガザ地区の医療インフラはイスラエルの軍事行動によって壊滅的な打撃を受けており、がん患者の死亡率が急増しています。政治的な緊張と人道的危機が絡む中、米国議会が介入を試みる動きは国際的な人道支援のあり方や中東地域の安定化に大きく影響します。",
-      "market_impact": "直接的な市場影響は限定的ですが、米中東政策の不透明さは地域の地政学リスクを高め、エネルギー市場や安全保障関連企業に影響を及ぼす可能性があります。また、人権問題の高まりが国際企業のリスク管理や社会的責任投資（ESG）戦略に波及する恐れがあります。",
-      "category": "Geopolitics",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment?traffic_source=rss",
-      "published_at": "2026-06-12 06:49"
+      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+      "summary_2lines": "UCバークレーらの研究チームが、従来は治療が難しかったがん細胞の特定変異をCRISPR技術で選択的に破壊する新手法を発表。特に多くのがんで共通するp53変異を標的にできる画期的な治療法。",
+      "why_it_matters": "がん抑制タンパク質p53の変異は多くのがん種で共通する鍵となる変異だが、これまでは薬で直接標的にすることが困難だった。このCRISPRによる染色体破砕技術は、機能を回復させるのではなく変異細胞を選択的に破壊する新しいアプローチであり、未治療領域のがん治療に大きな可能性を開く。",
+      "market_impact": "この革新的技術は「治療困難ながん」への新たな治療選択肢を提供し、バイオ医薬品開発の競争を活発化させる。関連企業の収益拡大や資金調達の加速につながるほか、CRISPR関連製品・サービス市場の成長を促進し、医療市場全体に波及効果をもたらす可能性が高い。",
+      "category": "Tech",
+      "source": "Hacker News",
+      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "published_at": "2026-06-13 00:15"
     }
   ],
   "categories": {
     "Tech": [
       {
-        "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
-        "summary_2lines": "オラクルは、ハッカー集団が悪用しているセキュリティ脆弱性を警告。グーグルは約100社以上の脆弱なサーバーを持つ組織に通知を行った。",
-        "why_it_matters": "大手IT企業のサーバーが標的となる脆弱性は、多数の企業やサービスの安全性を脅かすため、サイバー攻撃が拡大するリスクが高まっている。企業やユーザーの情報流出や業務停止に直結する問題で、事前対策が急務となっている。",
-        "market_impact": "影響を受けた企業はセキュリティ強化やシステム改修にコストがかかるほか、情報漏えいによる信頼失墜や訴訟リスクが増大。これによりIT関連株の不安定化や、サイバー保険市場の需要増加が予想される。",
+        "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
+        "summary_2lines": "Metaの新設AI部門で従業員の不満が爆発し、社内プレゼン中に暴言騒動が発生。組織再編やレイオフの影響でモラル低下と業務負荷の増大が続く。",
+        "why_it_matters": "MetaのAI戦略は業界注目の的だが、大規模な人員整理やタスクの内容に対する不満が内部から噴出し、技術開発の停滞リスクや組織の分断を招いている。この状況はテクノロジー企業におけるAI推進の難しさや従業員マネジメントの重要性を示す事例となっている。",
+        "market_impact": "従業員のモチベーション低下と不満の高まりは、MetaのAI開発効率の低下や製品のイノベーション鈍化を引き起こす恐れがある。これが競争環境に影響し、Metaの市場シェア減少や株価下落に繋がる可能性がある。また、業界全体のAI人材確保競争においてMetaの魅力が低下し、人材流出も懸念される。",
+        "category": "Tech",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+        "published_at": "2026-06-13 06:16"
+      },
+      {
+        "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+        "summary_2lines": "GoogleはAIを活用した大規模な中国発サイバー犯罪組織を提訴し、その詐欺プラットフォームの解体を目指している。被害者は数十万人に及び、損失額は数十億円規模と推定されている。",
+        "why_it_matters": "AI技術を悪用した新たな詐欺手法が急増していることを示しており、技術革新がもたらすリスクと対策の重要性を浮き彫りにしている。Googleなど大手企業と司法機関の連携はサイバーセキュリティ強化の模範となるため、デジタル社会の信頼性を維持する上で極めて重要だ。",
+        "market_impact": "広範なサイバー詐欺被害は消費者の信頼低下や規制強化を促し、通信業界やクラウド事業者にも影響を与える。GoogleのAI防御技術の強化は同社の競争力を高める一方で、サイバーセキュリティ関連市場の成長を加速させる可能性がある。また、通信キャリアや金融機関の不正防止策への投資増加も予想される。",
         "category": "Tech",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
-        "published_at": "2026-06-12 05:27"
+        "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+        "published_at": "2026-06-13 05:38"
       },
       {
-        "title": "‘Hands Off Our NHS’: Anti-Palantir Protests Break Out in UK Over Deal With National Health Service",
-        "summary_2lines": "英国の国民保健サービス（NHS）が米ソフトウェア企業パランティアと最大4億4千万ドルの契約を結んだことに対し、国民らがデータプライバシーや安全保障上の懸念から抗議活動を行っている。契約には政府が中断可能な条項も含まれているが、政治的な問題も浮上している。",
-        "why_it_matters": "NHSは英国の中核的な医療機関であり、患者の健康データの取り扱いは社会的関心が高い。AIやデータ分析技術の導入が進む中、外国企業が関与することへのリスクや倫理問題、公的サービスの民営化・外部委託への懸念が背景にある。また、パランティアの政治的立場や過去の発言が信頼性を疑問視されているため、公共部門のIT契約の透明性と安全性が問われている。",
-        "market_impact": "パランティアの英国公共セクターでの展開に対する反発は同社のブランドイメージと契約継続に影響を与え、今後の政府との大型契約獲得にも影響を及ぼす可能性がある。英国政府はデジタル化推進の一方で市民の反発に対応する必要があり、公共部門のIT調達政策や規制強化が進むことも考えられる。広義にはAI企業の公共市場参入に対する規制や社会的受容性も問われる局面となっている。",
+        "title": "Chinese Drivers Are Using Tiny Plastic Heads to Fool Tesla’s Autopilot Safeguards",
+        "summary_2lines": "中国のテスラドライバーが、車内カメラのドライバー監視機能を騙すために有名人の小さなプラスチック頭部のフィギュアを使っている。これにより、注意義務があるはずの運転中に安全機能を回避し、危険な運転が横行している。",
+        "why_it_matters": "テスラの自動運転支援機能はドライバーの監視を必須として事故防止を図っているが、それを意図的に回避する行為は安全性を大きく損ねる。中国では正式なフル自動運転システム未提供のため、注意義務が重要であり、これらのイタズラ的回避は事故リスク増大と規制強化の可能性を示唆するため重要である。",
+        "market_impact": "テスラの安全機能回避が広がることで、公衆の信頼低下や規制当局の監視強化が予想される。中国市場での法規制強化や製品改良圧力が高まる可能性があり、同社の販売やブランドイメージに影響を及ぼすほか、他自動車メーカーの安全技術設計にも影響を与えることが考えられる。",
         "category": "Tech",
         "source": "Wired",
-        "url": "https://www.wired.com/story/palantir-protests-nhs-conference-uk/",
-        "published_at": "2026-06-12 06:33"
+        "url": "https://www.wired.com/story/chinese-drivers-are-using-tiny-plastic-heads-to-fool-teslas-autopilot-safeguards/",
+        "published_at": "2026-06-13 02:57"
       },
       {
-        "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
-        "summary_2lines": "OpenAIはChatGPTを超多機能な「スーパーアプリ」へと刷新中で、その開発を率いるのが新たにコア製品責任者に就任したエンジニアのティボー・ソティオ。彼の指揮のもと、ChatGPTは個人とビジネスのあらゆる面を支援するパーソナルAIへと進化予定である。",
-        "why_it_matters": "ChatGPTの刷新はOpenAIにとって最大の賭けであり、GoogleやAnthropicとの激しいAI競争において差別化を図る重要な一手。利用者数が10億近い消費者向けプロダクトを基盤に、AIアシスタントの新たなスタンダードを築く可能性があるため、市場や技術動向に大きな影響を与える。",
-        "market_impact": "スーパーアプリ化によりOpenAIはAIソリューションの統合プラットフォームとしての地位を確立し、収益源の多角化や利用ユーザーのエンゲージメント強化が期待される。これがIPO戦略や競合優位性を高め、AI市場での影響力を一層拡大すると見られる。一方で製品統合に伴う組織再編や人員離職も短期的リスクとして懸念される。",
-        "category": "Tech",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
-        "published_at": "2026-06-12 06:21"
-      },
-      {
-        "title": "After nearly breaking, NASA's Deep Space Network \"worked well\" on Artemis II",
-        "summary_2lines": "NASAの深宇宙通信ネットワーク（DSN）は、アーテミスIIミッションにおいて通信負荷が高い中でも安定稼働した。アーテミスIでの課題を踏まえ、調整とスケジュール管理の改善が功を奏した。",
-        "why_it_matters": "深宇宙探査ミッションは多岐にわたり、通信ネットワークへの負荷が増大している。特に有人ミッションでの安定した通信はミッション成功に必須であり、NASAがDSNの運用改善を進めたことで今後の月探査や火星探査計画の信頼性が高まることが期待される。",
-        "market_impact": "宇宙通信インフラの信頼性向上は、宇宙関連企業や衛星通信事業者にとって重要な指標となる。NASAの取り組みは民間宇宙企業の通信技術開発を促進し、宇宙産業全体の成長を後押しする可能性がある。",
+        "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
+        "summary_2lines": "PeopleSoftの深刻な0-day脆弱性がハッカー集団ShinyHuntersにより約2週間以上悪用され、100社の顧客が狙われ数ギガバイトのデータが盗まれた。特に大学など教育機関が多く被害を受けている。",
+        "why_it_matters": "PeopleSoftは多くの大企業や教育機関で利用されている重要な業務ソフトウェアであり、その重大な脆弱性が長期間放置されたことで、重要情報が大規模に流出し続けている。これにより情報セキュリティの脆弱性が浮き彫りになり、多くの組織に対するサイバー攻撃リスクの増大を示している。",
+        "market_impact": "Oracle製品の信頼性低下や顧客離れのリスクが高まる可能性があり、特に教育機関を中心とした被害企業はデータ漏洩損害や業務停止リスクが増大。サイバー保険市場やセキュリティ対策需要が高まり、関連市場は一時的に活性化すると予想されるが、被害企業の reputational damage や法的責任の拡大も懸念される。",
         "category": "Tech",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/space/2026/06/after-nearly-breaking-nasas-deep-space-network-worked-well-on-artemis-ii/",
-        "published_at": "2026-06-12 03:34"
+        "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
+        "published_at": "2026-06-13 04:26"
       },
       {
-        "title": "AcuRite admits new app falls short, delays old app’s May shutdown to fix problems",
-        "summary_2lines": "AcuRiteは新アプリ「AcuRite NOW」の不具合を認め、旧アプリ「My AcuRite」のサービス終了を延期した。ユーザーからの不満を受け、機能改善に注力する方針を示した。",
-        "why_it_matters": "スマートデバイスの利用者が増える中、操作アプリの使い勝手は顧客満足度に直結する。既存ユーザーの反発を受けた延期は、ユーザー体験の重要性と企業側の対応の難しさを示している。",
-        "market_impact": "AcuRiteのブランド信頼性や顧客維持に影響が出る可能性があり、競合他社との差別化を図るためにも早急な改善が求められる。また、スマートホーム・IoT市場での競争激化において品質面での課題が顕在化した形となった。",
+        "title": "Controversial FISA spying law expires tonight. The spying will continue.",
+        "summary_2lines": "FISA法の一部であるTitle VIIが期限切れを迎えるが、政府の監視活動は2027年3月まで既存の認証に基づき継続される。これにより、市民のプライバシー保護に対する懸念が引き続き残る状況だ。",
+        "why_it_matters": "FISA第702条は外国の標的を対象に無許可で監視を可能としながらも、米国市民の通信データも大量に収集している。期限切れに伴う監視停止の懸念は誤解であり、議会が改革なしで再承認を急ぐ背景には監視活動の継続を維持したい勢力の存在があるため、市民のプライバシーと政府の監視権限のバランスに関する重要な議論が続いている。",
+        "market_impact": "直接的な市場への即時影響は限定的だが、プライバシー保護と政府監視の問題はテクノロジー企業の運営や規制環境に影響を及ぼす可能性がある。特に通信やクラウドサービスを提供する企業は利用者の信頼維持のために規制動向を注視する必要があるほか、監視強化の風潮は長期的にデジタル市場の競争やイノベーションにも影響を与える可能性がある。",
         "category": "Tech",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/gadgets/2026/06/iot-gadget-firm-acurite-delays-forced-app-migration-due-to-new-apps-shortfalls/",
-        "published_at": "2026-06-12 04:08"
+        "url": "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/",
+        "published_at": "2026-06-13 03:57"
       },
       {
-        "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
-        "summary_2lines": "FablePoolは大きなプロンプトに対して資金をプールし、AIが公開の場で段階的にそれを実行するプロジェクト。ユーザーは少額から支援でき、進捗や資金はすべて公開される。",
-        "why_it_matters": "AIとクラウドファンディングを融合させる新たな試みであり、透明性を保ちながら多様なプロジェクトの実現を促進する。これにより、技術開発がよりオープンで参加型になる可能性を秘めている。",
-        "market_impact": "AI開発やオープンソースプロジェクトの資金調達方法に革新をもたらす可能性があり、小規模投資家の参入障壁を下げる。これにより技術分野の多様なアイデアの実現が促進され、関連企業やサービスの育成につながる。",
-        "category": "Tech",
-        "source": "Hacker News",
-        "url": "https://fablepool.com",
-        "published_at": "2026-06-12 06:17"
-      },
-      {
-        "title": "Ted Cruz and Ron Wyden try to fight censorship with bipartisan JAWBONE Act",
-        "summary_2lines": "米上院議員テッド・クルーズとロン・ワイデンは、連邦政府が放送局やテックプラットフォームに言論規制を強制する行為を禁止し、被害者が訴訟可能とするJAWBONE法案を共同提案しました。両党の支持を集めるこの法案は言論の自由侵害に対抗するための政府監視強化を目指します。",
-        "why_it_matters": "政府による言論規制圧力（いわゆる“jawboning”）は、メディアやオンラインプラットフォームの表現の自由を脅かしており、政治的対立を背景に深刻な問題となっています。今回の法案は、言論の自由を保障する憲法修正第一条を守るため、政府権力の濫用に対して法的手段で対抗できる仕組みを作ることで、権力の監視と市民の権利保護を強化する重要な一歩です。",
-        "market_impact": "プラットフォーム企業や放送局は、政府からの圧力による規制リスクが軽減される可能性があり、言論管理における政府介入コストが増大します。特にSNSやAIチャットボット事業者は、政府の過度な介入を受けにくくなることで、サービス運営の自主性が保たれやすくなり、透明性や法的安定性が向上すると期待されます。一方で、政府の規制強化リスクを織り込んでいた企業にとっては対応調整が必要となる可能性があります。",
+        "title": "Here's what Jeff Bezos' new startup Prometheus will do",
+        "summary_2lines": "ジェフ・ベゾスの新スタートアップPrometheusは『物理AI』に取り組み、ロボティクスや製造業向けの高度なエンジニアリング自動化を目指している。現在150人のチームで、約41億ドルの評価額で大規模な資金調達を実施している。",
+        "why_it_matters": "AI技術の進展が社会や経済に与える影響が大きい中、特に物理的な発明プロセスを加速する「人工一般エンジニア」の開発は、技術革新の速度と質を飛躍的に向上させる可能性があるため重要である。ベゾスが巨額資金を投じることで、産業界におけるAIの応用領域が大きく広がることが期待される。",
+        "market_impact": "Prometheusの技術はロボット工学や製造業の効率化、新たな発明の創出を促進し、多くの産業で生産性向上とコスト削減をもたらす可能性がある。これにより関連企業や投資家にとって新たな成長機会となり、AI関連市場の競争激化や技術革新の加速につながるだろう。",
         "category": "Tech",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/",
-        "published_at": "2026-06-12 04:31"
+        "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+        "published_at": "2026-06-13 03:45"
       },
       {
-        "title": "The unreasonable effectiveness of simple HTML",
-        "summary_2lines": "シンプルなHTMLで作られた政府のウェブサイトは、低性能なブラウザや端末でも利用可能であり、情報アクセスの公平性を支えている。複雑な技術に頼らず、誰もが使いやすい設計の重要性を示している。",
-        "why_it_matters": "貧困や家庭問題など困難な状況にある人々が情報にアクセスする際、高性能な端末や高速回線を持たない場合が多い。シンプルなHTMLで作られたウェブサイトは、こうした弱者にもサービスを届けることができ、行政サービスの普及・公平性を保つために不可欠だからである。",
-        "market_impact": "技術的に高度なウェブサービスを提供する企業や自治体は、低スペック端末でも機能する軽量なウェブサイトの需要や社会的意義を再認識する必要がある。これにより、公的機関のデジタル政策やウェブ開発の方向性が見直され、アクセシビリティ重視の市場ニーズが高まる可能性がある。",
+        "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
+        "summary_2lines": "AppleはTrueTypeフォントのヒンティングインタプリタをC言語からメモリ安全なSwiftへ書き換え、パフォーマンスも13%向上させた。これにより安全性と描画の正確性を保ちつつ、将来のmacOSなどの安定性を高める。",
+        "why_it_matters": "TrueTypeフォントのヒンティングインタプリタは未検証の外部データを扱うため、メモリ破壊攻撃のリスクが高いセキュリティクリティカルな箇所である。Swiftへの移行でメモリ安全性が確保され、脆弱性による攻撃リスクを低減しつつレスポンスも改善。長年使われ続けるフォント技術の信頼性向上は、Apple製品を使うユーザーにとって安定かつ高品質な表示環境を守る意味がある。",
+        "market_impact": "Appleのプラットフォームにおけるフォントレンダリングの安全性と性能向上は、ユーザー体験の質を高めると同時にセキュリティ対応の強化につながる。これはApple製品の信頼性向上に寄与し、競争力を維持・拡大する要因となるだろう。また、Swiftのメモリ安全性に関する成功事例として他企業の言語移行やセキュリティ施策にも影響を与える可能性がある。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/",
-        "published_at": "2026-06-12 07:17"
+        "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+        "published_at": "2026-06-13 04:54"
       },
       {
-        "title": "Show HN: Homebrew 6.0.0",
-        "summary_2lines": "Homebrew 6.0.0がリリースされ、新たなセキュリティ機構のtap trustやLinux向けのサンドボックス機能、性能向上が実装された。ユーザー調査に基づくデフォルト設定の改善やbrew bundleの大幅強化も含まれる。",
-        "why_it_matters": "HomebrewはMacやLinux向けの主要なパッケージ管理ツールであり、その安全性強化やパフォーマンス改善は開発者の作業効率とセキュリティ確保に直結する。特にサードパーティのtapに対する明示的な信頼設定は悪意あるコード実行リスクの低減に寄与し、Linux環境のサンドボックス対応はクロスプラットフォーム運用の安定性を高める。",
-        "market_impact": "Homebrewの信頼性向上と性能アップは開発コミュニティの生産性向上を後押しし、周辺エコシステムの活性化につながる。特にmacOS 27（Golden Gate）対応はAppleの最新環境への追随を示し、関連ソフトウェアの同時進化を促進。企業の開発現場におけるパッケージ管理の効率化はコスト削減やリスク低減に寄与し得るため、中長期的には技術投資の価値向上に寄与する。",
+        "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+        "summary_2lines": "UCバークレーらの研究チームが、従来は治療が難しかったがん細胞の特定変異をCRISPR技術で選択的に破壊する新手法を発表。特に多くのがんで共通するp53変異を標的にできる画期的な治療法。",
+        "why_it_matters": "がん抑制タンパク質p53の変異は多くのがん種で共通する鍵となる変異だが、これまでは薬で直接標的にすることが困難だった。このCRISPRによる染色体破砕技術は、機能を回復させるのではなく変異細胞を選択的に破壊する新しいアプローチであり、未治療領域のがん治療に大きな可能性を開く。",
+        "market_impact": "この革新的技術は「治療困難ながん」への新たな治療選択肢を提供し、バイオ医薬品開発の競争を活発化させる。関連企業の収益拡大や資金調達の加速につながるほか、CRISPR関連製品・サービス市場の成長を促進し、医療市場全体に波及効果をもたらす可能性が高い。",
         "category": "Tech",
         "source": "Hacker News",
-        "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-        "published_at": "2026-06-11 22:24"
+        "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+        "published_at": "2026-06-13 00:15"
       },
       {
-        "title": "We asked AI to predict the 2026 World Cup winner. It picked a team that’s never won.",
-        "summary_2lines": "2026年のワールドカップ優勝予想で、AIはこれまで勝利したことのないアンダードッグチームを選んだ。従来の強豪中心の予想とは異なる結果となっている。",
-        "why_it_matters": "AIによる予測が従来の常識を覆し、スポーツ予測の新たな可能性を示している。また、データ分析の深化やアルゴリズムの進化が、従来見落とされてきた強みを発掘する手段となっているため注目される。",
-        "market_impact": "AI予測技術の進化はスポーツベッティング業界や広告・スポンサー市場に影響を与え、優勝候補の多様化により市場戦略の見直しが必要となる可能性がある。さらに関連テクノロジーへの投資増加や新たなサービス展開が期待される。",
+        "title": "How to setup a local coding agent on macOS",
+        "summary_2lines": "macOS上で高速かつ画像対応可能なローカルコーディングエージェントをGemma 4モデルとllama.cppで構築した。MTPによる多トークン予測で処理速度が24％向上し、実用的な操作性を実現した。",
+        "why_it_matters": "インターネット接続に依存しないローカル環境で高度なAIコーディング支援が可能となることで、作業の中断やプライバシー面の課題解決につながる。macOSのM1 Maxという一般的なハードウェアで、既存ツールと連携できるOpenAI互換APIを動作させた点も技術的な意義が大きい。",
+        "market_impact": "AI開発環境のローカル化は企業の開発効率とセキュリティ向上に寄与し、Appleシリコン搭載Macの販促材料となり得る。llama.cppのmacOS最適化成功は、クロスプラットフォーム対応AIツール市場の競争を活性化させ、今後のAI利用拡大に影響を与える可能性がある。",
         "category": "Tech",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/we-asked-ai-to-predict-the-2026-world-cup-winner-it-picked-something-that-has-never-happened-53231520?mod=mw_rss_topstories",
-        "published_at": "2026-06-12 06:37"
+        "source": "Hacker News",
+        "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+        "published_at": "2026-06-13 02:34"
+      },
+      {
+        "title": "Mother sues OpenAI in US after daughter’s death linked to ChatGPT use",
+        "summary_2lines": "娘の自殺とChatGPTの利用が関連しているとして、母親が米国でOpenAIを提訴。訴状はOpenAIが警告サインを無視し介入を怠ったと主張している。",
+        "why_it_matters": "AIチャットボットがユーザーの精神健康に大きな影響を及ぼす可能性が浮き彫りに。企業の安全対策の適切性や法的責任の範囲が問われる重要なケースであり、今後のAI技術開発や規制に影響を与える可能性が高い。",
+        "market_impact": "OpenAIをはじめとするAI企業に対する信頼の低下や訴訟リスクが増大し、投資家や利用者の動向にネガティブ影響を及ぼす可能性がある。規制強化や安全性向上のための追加コスト発生も懸念され、業界全体の成長戦略に変更を迫る場合もある。",
+        "category": "Tech",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/6/12/mother-sues-openai-in-us-after-daughters-death-linked-to-chatgpt-use?traffic_source=rss",
+        "published_at": "2026-06-13 06:38"
       }
     ],
     "Markets": [
       {
-        "title": "Elon Musk's SpaceX valued at nearly $1.8tn ahead of record share sale",
-        "summary_2lines": "SpaceXは約1.8兆ドルの企業価値で史上最大規模の上場を控え、75億ドルの株式を発行しました。イーロン・マスクは約84%の議決権を保持し、世界初の兆万長者になる見込みです。",
-        "why_it_matters": "SpaceXの巨大な上場は、AIや宇宙開発をリードする企業の成長性を象徴し、今後のテック業界や資本市場に大きな影響を与える可能性があります。また、マスクの強固な支配権は企業統治の新たな課題を浮き彫りにします。",
-        "market_impact": "史上最高額の新規株式公開は、投資家の注目を集め、同様の大型テック企業の市場参入の先駆けとなるでしょう。マスクの議決権集中は経営の安定性をもたらす一方で、投資家のリスクも増加し、企業統治のリスク管理が重要になります。",
+        "title": "'I was employee number one': SpaceX co-founder reacts to firm's market debut",
+        "summary_2lines": "スペースXの共同創業者トム・ミューラーは、従業員第1号として会社の設立に関わった。約20年を経て、同社は時価総額1.8兆ドル超での株式公開を控えている。",
+        "why_it_matters": "スペースXの市場デビューは、宇宙開発分野における民間企業の成長と商業化が加速していることを示しており、イーロン・マスクの野心的なビジョンが現実になりつつある象徴的な出来事であるため重要だ。",
+        "market_impact": "時価総額1.8兆ドル超の大型新規株式公開は、テクノロジー市場に大きな資金流入をもたらし、宇宙関連産業への投資や関連企業の株価にも好影響を与える可能性が高い。また、民間宇宙開発競争の激化を促進するだろう。",
         "category": "Markets",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-06-12 06:10"
+        "url": "https://www.bbc.com/news/videos/cvgjx68nyvmo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-06-12 15:25"
       },
       {
-        "title": "SpaceX to close above $2 trillion market cap on its debut, prediction market traders say",
-        "summary_2lines": "SpaceXはナスダック上場初日に時価総額2兆ドル超えが予想されている。トレーダーの予測では、初値135ドルで約1.77兆ドルから大幅に上昇する見込み。",
-        "why_it_matters": "SpaceXが2兆ドルの時価総額を突破すれば、アップルやアマゾンなど既存の巨大IT企業と肩を並べる超大型IPOとなる。イーロン・マスクの多角的事業展開の中でも宇宙産業の経済的価値が強固であることを示し、市場全体の投資動向や成長領域に影響を与える。",
-        "market_impact": "SpaceXの高い評価は宇宙産業の成長期待を裏付け、関連企業や技術開発への資本流入を促進する可能性が高い。Teslaを超える巨大企業価値は投資家のリスク選好にも影響し、ハイテク株の時価総額ランキングに変動をもたらす。市場全体の資金配分やテクノロジーセクターの活性化に寄与すると予想される。",
+        "title": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits",
+        "summary_2lines": "SpaceXは史上最大となる750億ドルのIPOを実施し、時価総額は1.77兆ドルに達した。Elon Muskが82%以上の議決権を持ち、SpaceXはNasdaqに上場する。",
+        "why_it_matters": "史上最大規模のIPOとして、宇宙ビジネスとAIを融合した新興テクノロジー企業が一挙に市場に登場することは、金融市場やテクノロジー業界に大きな注目と影響をもたらす。Muskの支配力やSpaceXの収益構造、キャッシュバーンの多さは投資リスクを反映しているが、成長期待と市場のイノベーションの指標として意味がある。",
+        "market_impact": "SpaceXの巨額調達は将来的にAI・宇宙関連技術への巨額投資を促進し、競合するAI企業や宇宙産業全体に活性化効果をもたらす可能性が高い。上場により一般投資家が初めて参入可能となり、テクノロジー株のバリュエーションや資金流入動向に新たな影響を与える。またMuskの資産価値上昇は市場心理にも影響し、Tesla含む関連銘柄への波及効果も考えられる。",
         "category": "Markets",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/11/spacex-to-close-above-2-trillion-market-cap-on-its-debut-traders-say.html",
-        "published_at": "2026-06-12 06:44"
+        "url": "https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html",
+        "published_at": "2026-06-12 20:34"
+      },
+      {
+        "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+        "summary_2lines": "イーロン・マスクがSpaceXの史上最大の上場により世界初の資産1兆ドル超えを達成した。SpaceXは2.2兆ドルの評価額でNASDAQに上場し、多くの従業員も富を得た。",
+        "why_it_matters": "マスクの資産1兆ドル超えは格差問題を改めて浮き彫りにしており、彼の影響力拡大とともに政治的・社会的議論を巻き起こしている。SpaceXの上場は宇宙産業やAI分野の将来性への投資家の期待を示している。",
+        "market_impact": "SpaceXのIPOにより同社は750億ドルの資金調達に成功し、これを用いてロケット、衛星通信、AI開発を加速させる見込み。マスク関連銘柄の株価も注目を浴び、宇宙関連市場やテクノロジー投資が活性化すると予想される。",
+        "category": "Markets",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-06-13 07:00"
+      },
+      {
+        "title": "The S&P 500 already made a big call on SpaceX stock and index fund investors need to know it",
+        "summary_2lines": "S&P 500指数はSpaceXの史上最大のIPO銘柄を、従来通りの12ヶ月の待機期間を維持し、すぐには組み入れないと決定した。これによりS&P 500連動のETF投資家はSpaceX株への直接的な投資機会を中長期まで待つ必要がある。",
+        "why_it_matters": "米国の退職資金の大部分がS&P 500連動のパッシブファンドに投資されている中で、SpaceXのようなメガIPO銘柄がすぐに指数に組み入れられないことは、投資家のポートフォリオ構成に大きな影響を与える。NasdaqやRussell指数がルールを改定して早期組み入れを認める一方でS&Pは従来ルール堅持を貫くことで、今後メガキャップ新興企業の指数組み入れで差異が広がる可能性がある。",
+        "market_impact": "S&P 500関連のETFはSpaceXを含む新規メガIPO銘柄の直接的な恩恵を受けにくく、代わりにNasdaq100やRussell1000のような他指数連動ETFへの資金流入が加速する可能性がある。指数間のパフォーマンス差や「指数戦争」が激化するほか、投資家が成長期待の高い新興メガキャップ企業へのアクセス方法を多様化せざるを得なくなる。また、SpaceXや今後のOpenAI、Anthropicのような企業は長期間S&P組み入れに際する収益性基準を満たさないリスクもあり、株価のボラティリティが増すことが懸念される。",
+        "category": "Markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-sp-500-index-funds-investors.html",
+        "published_at": "2026-06-13 00:59"
+      },
+      {
+        "title": "The value of SpaceX rockets on its stock-market debut",
+        "summary_2lines": "イーロン・マスクが世界初の兆万長者となった。SpaceXの株式市場デビューにより彼の資産価値が大きく増加した。",
+        "why_it_matters": "イーロン・マスクは複数の革新的企業を率いており、彼の資産価値が史上初の兆万ドル単位に達したことは、テクノロジー業界における支配的な地位や、宇宙開発の商業化がいよいよ本格化していることを示している。",
+        "market_impact": "SpaceXの上場は宇宙関連企業への投資熱を高め、ロケット産業や宇宙開発分野への資金流入を加速させる可能性がある。これにより関連企業の株価上昇や新規事業の活性化が期待される。",
+        "category": "Markets",
+        "source": "The Economist",
+        "url": "https://www.economist.com/business/2026/06/12/the-value-of-spacex-rockets-on-its-stock-market-debut",
+        "published_at": "2026-06-13 01:04"
       },
       {
         "title": "SpaceX cuts retail IPO allocation to low 20% range, source says",
-        "summary_2lines": "SpaceXはIPOにおける個人投資家向けの割当を当初の30%から低20%台に削減する方針を示した。これにより機関投資家の需要が非常に強いことが示唆されている。",
-        "why_it_matters": "SpaceXは約1.8兆ドルの評価額で史上最大級のIPOを予定しており、個人投資家の参画が期待されていたため、割当減少は投資家層のバランスと市場の需要状況を反映している。特に、機関投資家の強い関心はIPOの成功可能性や今後の株価に影響を与える重要な指標となる。",
-        "market_impact": "高額で注目度の高いSpaceXのIPOにおいて個人投資家向け割当が減少することで、機関投資家の保有比率が増え市場の安定性や取引量に影響を与える可能性がある。また、IPO後の株価動向は宇宙産業関連企業の評価や資金調達環境にも波及効果をもたらすだろう。",
+        "summary_2lines": "SpaceXがIPOにおける個人投資家向けの配分を従来予想の約30%から20%台前半に縮小した。これにより個人投資家向けの割当は減少するが、依然として大型IPOとしてはかなりの規模を維持している。",
+        "why_it_matters": "SpaceXは約1.8兆ドル評価の超大型IPOで市場の注目を集めている。個人投資家向け配分の縮小は機関投資家の需要が非常に強いことを示し、今後のIPO需給バランスや投資家層の動向を読み解く重要な指標となる。",
+        "market_impact": "強い機関投資家需要が示されたことで、SpaceXの株価安定や成長期待が市場に好感される可能性が高い。個人投資家の参加は相対的に減るが、依然として大規模な資金調達であり、テクノロジーセクター全体のIPO市場の活性化に寄与する見込み。",
         "category": "Markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/06/11/spacex-cuts-retail-ipo-allocation-to-low-20percent-range-source-says.html",
-        "published_at": "2026-06-12 07:21"
+        "published_at": "2026-06-12 23:50"
       },
       {
-        "title": "From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards",
-        "summary_2lines": "SpaceXは約1.8兆ドルの評価額でのIPOを目指し、初期投資家は莫大な含み益を得る見込み。ロン・バロンやキャシー・ウッド、フィデリティなどが大きな恩恵を受けている。",
-        "why_it_matters": "SpaceXは創業当初から非公開企業でありながら、慎重に選ばれた投資家のみが出資を続けてきた。その結果、同社の急速な成長に伴い、初期からの投資が高いリターンを生み出すこととなった。これはベンチャーキャピタル界における稀有な成功例として注目され、宇宙ビジネスの市場価値の拡大やAI・ロボティクスといった複数の先端技術が融合する新たな産業成長モデルを示している。",
-        "market_impact": "SpaceXの上場により、多くの投資家が大きな評価益を実現し、資金の再配分や新たな投資活動が加速する可能性が高い。さらに、宇宙産業や関連するハイテク分野への関心と資本流入が促進されることで、市場全体の技術革新が加速すると予想される。また、競合企業や新興宇宙ビジネスに対して資金調達環境が変化し、業界構造にも影響を与えることが考えられる。",
-        "category": "Markets",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html",
-        "published_at": "2026-06-12 07:53"
-      },
-      {
-        "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-        "summary_2lines": "SpaceXのIPOを通じた複数階層のSPV投資家は、自分の保有株式数や配分をロックアップ解除後まで把握できない可能性が高い。多層構造や不透明な管理により、一部投資家は配当株数の減少や最悪の場合株式を受け取れないリスクがある。",
-        "why_it_matters": "SPVを介した間接的な株式保有は近年増加しており、SpaceXのIPOはこの複雑かつ多層的な投資構造の実態が明らかになる初の大規模事例である。投資家保護や透明性の観点から問題が浮き彫りになり、多層SPVの信頼性が問われる局面となっている。",
-        "market_impact": "多層SPVの解消遅延や透明性不足は、Secondaryマーケットでの流動性阻害や投資家不信を招きかねず、SPV市場全体の健全性を揺るがす可能性がある。SpaceX関連の流動性低下や信頼問題は、他の未公開企業のIPO戦略やSPV利用への見直しを促す動きに繋がる恐れがある。",
+        "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
+        "summary_2lines": "SpaceXはNASDAQ上場初日、株価が19%上昇し時価総額は約2.3兆ドルに達した。創業者のイーロン・マスクは初の世界トリリオネアに輝いた。",
+        "why_it_matters": "SpaceXのIPO成功は、宇宙開発分野での民間企業の評価が大幅に高まったことを示している。特に、非常に限定された公開株数や大型投資家の高い需要、高速で株価指数に組み入れられることで市場の関心が集中し、新たな資金流入を促進する環境が整った点が背景にある。",
+        "market_impact": "IPOの大幅な株価上昇は、関連ベンチャーキャピタルの巨額利益を生み出し、近年の宇宙関連投資の成功例となった。さらに、NASDAQ100など主要指数への早期組み入れで機関投資家の買いが加速し、金融市場全体にポジティブな影響を及ぼす可能性が高い。個人投資家の取引活発化も確認されており、流動性の増加と市場の活性化が期待される。",
         "category": "Markets",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-        "published_at": "2026-06-12 04:58"
+        "url": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
+        "published_at": "2026-06-13 05:20"
       },
       {
-        "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-        "summary_2lines": "SpaceXが史上最大規模となる750億ドルのIPOを135ドルで正式に価格設定し、ナスダックでの取引開始を控えている。イーロン・マスクはこのIPOで世界初の兆万長者となる可能性が高い。",
-        "why_it_matters": "SpaceXのIPOは巨大な資金調達で宇宙開発やAI連携事業のさらなる拡大を可能にするとともに、歴史的な時価総額を実現し、同社の先進的技術開発や野心的プロジェクトへの投資を加速させる。マスク個人の影響力も一層強まり、株式市場における革新的企業の評価基準にも影響を与える。",
-        "market_impact": "投資家の強い関心を反映し、初値は大幅な上昇が見込まれている。IPOによりベンチャーキャピタルや初期投資家にも多大な利益が見込まれ、市場全体でテクノロジー関連株への注目が高まる可能性がある。一方で高い評価が妥当か疑問視する向きもあり、長期的な成長と収益化戦略が市場の注視を集めるだろう。",
-        "category": "Markets",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-        "published_at": "2026-06-12 05:33"
-      },
-      {
-        "title": "Massive Effigy of Elon Musk Raised Over Times Square to Protest Grok",
-        "summary_2lines": "ニューヨーク・タイムズスクエアで、SpaceXのAIチャットボット『Grok』による未成年者の性的画像生成問題を批判するエロン・マスクの巨大風船像が展示された。抗議団体SAINは、SpaceXの新規株式公開（IPO）を前に社会的リスクを訴えている。",
-        "why_it_matters": "SpaceXのAI技術が未成年者の性的画像生成に利用された疑惑があり、法的・規制上のリスクが高まっている状況で、同社のIPOという大規模資金調達の裏に潜む問題点を指摘している。投資家や金融機関がこのリスクを軽視すると、株主に重大な負担や企業価値の毀損につながる可能性があるため重要である。",
-        "market_impact": "SpaceXのIPOによる評価額は1.77兆ドルという史上最大規模であるが、Grokをめぐる法的訴訟や調査リスクが株価にマイナス影響を及ぼす懸念がある。特に、マスク氏が投票権の過半数を保持することで、経営責任のシフトと株主リスクの増大が懸念され、市場や投資家の警戒が高まる可能性がある。",
-        "category": "Markets",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/massive-effigy-of-elon-musk-raised-over-times-square-to-protest-grok/",
-        "published_at": "2026-06-12 05:50"
-      },
-      {
-        "title": "The SpaceX IPO is drawing historic demand from foreign investors. But don’t expect a dollar-buying frenzy.",
-        "summary_2lines": "SpaceXの新規株式公開（IPO）は海外投資家から歴史的な需要を集めているが、ドル買いの急増は見込まれていない。FXアナリストによれば、海外投資家はアメリカ企業への投資には積極的だが、ドル通貨自体への投資には慎重である。",
-        "why_it_matters": "SpaceXは注目度の高いテクノロジー企業であり、そのIPOへの海外からの強い関心は投資動向の変化を示す。また、ドルが世界経済の基軸通貨である一方、投資家がドル買いに慎重な姿勢を示していることは、為替市場や世界経済の不安定要因を示唆している。",
-        "market_impact": "SpaceXのIPOが成功すればテクノロジー株や関連市場にポジティブな波及効果が期待される一方、ドル買いの盛り上がりが見られないことでドル安のリスクが続く可能性がある。これにより、為替変動が企業の輸出入コストや資金調達条件に影響を与える可能性がある。",
+        "title": "There’s a 68% chance the stock market ends the year higher. Why the headlines shouldn’t disrupt your portfolio.",
+        "summary_2lines": "年末までに株式市場が上昇する確率は68％と予測されている。日々の報道に惑わされず、長期的な視点を持つことが重要だ。",
+        "why_it_matters": "市場は短期的な変動やネガティブなニュースに左右されやすいが、冷静に長期のトレンドを見極めることで安定した投資判断が可能となるため。",
+        "market_impact": "投資家が短期的な騒動に動揺せず、市場の長期的上昇期待を信頼することで、売買の過剰反応を抑制し、市場の安定化に寄与する可能性が高い。",
         "category": "Markets",
         "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/the-spacex-ipo-is-drawing-historic-demand-from-foreign-investors-but-dont-expect-a-dollar-buying-frenzy-ce66b056?mod=mw_rss_topstories",
-        "published_at": "2026-06-12 06:59"
+        "url": "https://www.marketwatch.com/story/theres-a-68-chance-the-stock-market-ends-the-year-higher-why-the-headlines-shouldnt-disrupt-your-portfolio-3d78cfae?mod=mw_rss_topstories",
+        "published_at": "2026-06-13 07:58"
+      },
+      {
+        "title": "This hidden investing flaw is costing you money. Talking to political opponents fixes it.",
+        "summary_2lines": "株式市場は政治的立場に左右されないため、赤や青（保守派・リベラル）に偏った投資は損失を招く可能性がある。政治的対立を超えた対話が投資判断の改善につながる。",
+        "why_it_matters": "近年、政治的分断が社会のみならず投資判断にも影響を及ぼしている中、感情的な政治色の強い投資はポートフォリオの多様化を損ない、リスク管理が不十分になる恐れがある。投資効率を高めるためには政治的偏見を排除し、異なる意見を取り入れてバランスを取ることが重要である。",
+        "market_impact": "投資家が政治的立場による偏見を持ち続けると、特定セクターや銘柄への過剰集中が生じ、結果的にリスクが増大しマーケット全体の効率性が低下する可能性がある。多様な視点を受け入れることは市場の健全な価格形成や資産配分の最適化に寄与する。",
+        "category": "Markets",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/this-hidden-investing-flaw-is-costing-you-money-talking-to-political-opponents-fixes-it-fc1f7be3?mod=mw_rss_topstories",
+        "published_at": "2026-06-13 07:59"
+      },
+      {
+        "title": "‘This is not a flash in the pan’: Why value stocks are beating growth by such a wide margin",
+        "summary_2lines": "今年はバリュー株がグロース株を大きく上回る上昇を見せている。投資家はテクノロジー以外の分野でも利益成長が広がることに期待している。",
+        "why_it_matters": "これまでテクノロジー株中心だった市場環境から転換し、バリュー株への資金シフトが進んでいることを示す重要な兆候である。企業業績の幅広い地域・業種での改善期待が投資心理に好影響を与えているため、今後の市場動向を見極める上で重要なポイントとなる。",
+        "market_impact": "バリュー株の好調は、資金流入の変化を促し、従来のグロース中心のポートフォリオ構成を見直す動きを加速させる。これにより資本コストの変動や企業の資金調達環境が変わり、中長期的には経済全体のセクター構造や成長戦略に影響を与える可能性が高い。",
+        "category": "Markets",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/this-is-not-a-flash-in-the-pan-why-value-stocks-are-beating-growth-by-such-a-wide-margin-b2bddccc?mod=mw_rss_topstories",
+        "published_at": "2026-06-13 07:50"
+      },
+      {
+        "title": "Bosnia, Canada share points in hard-fought draw at World Cup",
+        "summary_2lines": "カナダはボスニア・ヘルツェゴビナ戦で1-1の引き分けに持ち込み、ワールドカップ初のポイントを獲得した。後半途中に投入されたサイレ・ラリンのゴールが試合を引き分けに導いた。",
+        "why_it_matters": "ワールドカップは世界的なサッカー大会であり、カナダにとっては初めて自国開催の大会で得点し、初ポイントを獲得した意義深い試合である。ボスニアにとっても12年ぶりの大会復帰後初戦で貴重な勝ち点を逸した展開であり、両国のサッカー競技力向上やスポーツ文化の発展に影響を与える。",
+        "market_impact": "直接的な経済・市場への大きな影響は限定的だが、カナダのサッカー人気向上に伴いスポーツ関連産業、グッズ販売、観光、メディア放送権など周辺市場の活性化が期待される。特に自国開催の国での成績は国民の関心を高め、今後のスポーツ投資やスポンサーシップの増加に繋がる可能性がある。",
+        "category": "Markets",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/12/bosnia-canada-share-points-in-hard-fought-draw-at-world-cup?traffic_source=rss",
+        "published_at": "2026-06-13 07:06"
       }
     ],
     "Geopolitics": [
       {
-        "title": "Why the economics makes this the craziest world cup ever",
-        "summary_2lines": "2026年ワールドカップは政治的緊張や経済摩擦の中で開催され、異例の複雑な状況となっている。経済モデルも従来とは異なり、ファンへの負担増や巨大スポンサー収入が特徴だ。",
-        "why_it_matters": "今回のワールドカップは、開催国や参加国間の地政学リスクや貿易摩擦が歴史上例を見ないほど複雑に絡み合っている。スポーツイベントが国際政治の外交カードやエネルギー市場への影響を与える可能性があるため、経済・地政学の両面で注目されている。",
-        "market_impact": "大会による観客のコスト増や交通費の高騰が消費者の負担を圧迫する一方、FIFAやスポンサー企業は収益最大化を図る。さらに、イラン・米国間の緊張緩和ならエネルギー価格安定につながり、世界経済にも影響しうる。全体として、スポーツイベントが現代の複雑な経済格差や国際関係の縮図としての役割を示している。",
+        "title": "UK vows to phase out Russian diesel and jet fuel imports by new year",
+        "summary_2lines": "英国政府は2027年1月1日までにロシア産原油由来のディーゼルと航空燃料の輸入を段階的に禁止することを約束した。これはウクライナ侵攻に対する対ロシア制裁の一環である。",
+        "why_it_matters": "ロシアによるウクライナ侵攻を受け、西側諸国が経済制裁を強化している中、英国の今回の輸入禁止措置はロシアの戦争資金調達を抑制し、国際社会の圧力をさらに強める狙いがある。世界的な石油供給の不安定化や地政学的リスクが背景にあり、エネルギー安全保障とも密接に関連している。",
+        "market_impact": "ロシア産燃料の段階的排除は英国及び欧州市場のエネルギー供給構造を変化させ、代替供給源・価格の変動要因となる可能性が高い。これにより燃料価格の上昇圧力が強まる一方、国際原油市場の緊張緩和や制裁効果が評価される可能性もある。石油関連企業や物流業界にはコスト増や調達先変更の課題が生じるだろう。",
         "category": "Geopolitics",
         "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-06-12 08:07"
+        "url": "https://www.bbc.com/news/articles/ceqdl8xre7qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-06-13 04:57"
       },
       {
-        "title": "US lawmakers press Israel to let cancer patients out of Gaza for treatment",
-        "summary_2lines": "米国議会の60名以上の議員がイスラエルに対し、ガザ地区のがん患者の医療避難を認めるよう要請しました。医療施設の壊滅的状況と人道的危機を背景に、特に子どもたちの治療継続が急務とされています。",
-        "why_it_matters": "ガザ地区の医療インフラはイスラエルの軍事行動によって壊滅的な打撃を受けており、がん患者の死亡率が急増しています。政治的な緊張と人道的危機が絡む中、米国議会が介入を試みる動きは国際的な人道支援のあり方や中東地域の安定化に大きく影響します。",
-        "market_impact": "直接的な市場影響は限定的ですが、米中東政策の不透明さは地域の地政学リスクを高め、エネルギー市場や安全保障関連企業に影響を及ぼす可能性があります。また、人権問題の高まりが国際企業のリスク管理や社会的責任投資（ESG）戦略に波及する恐れがあります。",
+        "title": "Palestine football chief says he wasn’t granted US visa to attend World Cup",
+        "summary_2lines": "パレスチナサッカー協会の会長ジブリル・ラジューブ氏が、2026年ワールドカップ観戦のための米国ビザを取得できずメキシコに滞在している。これは米国のパレスチナ人に対するビザ制限の一環であり、スポーツと政治が絡む問題を浮き彫りにしている。",
+        "why_it_matters": "世界最大級のスポーツイベントであるワールドカップにおいて、米国がパレスチナ関係者の入国を拒否することで、グローバルな統合と平和の象徴とされる大会の理念に矛盾が生じている。さらに、中東情勢やイスラエル・パレスチナ間の緊張、米国の政策が国際スポーツ界の調整役であるFIFAの運営にも影響を与えている重要な政治的課題である。",
+        "market_impact": "今回のビザ問題は直接的な市場の動揺をもたらす可能性は低いが、国際スポーツイベントの運営リスクや政治的摩擦がスポンサー企業や関連放送権に対する不確実性を増大させる恐れがある。また、スポーツ用品メーカーやメディア企業にとって、中東情勢を背景とした不安定要因として注視すべき事象となる。",
         "category": "Geopolitics",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment?traffic_source=rss",
-        "published_at": "2026-06-12 06:49"
-      },
-      {
-        "title": "Man pleads guilty to slaying top Democrat and her husband in Minnesota",
-        "summary_2lines": "ミネソタ州で警察官を装った男が州下院議長メリーサ・ホートマン氏とその夫を殺害し、有罪を認めた。男は終身刑2つと40年の刑期を受ける見込みで、政治的暴力への懸念が強まっている。",
-        "why_it_matters": "近年アメリカでは政治的暴力が増加傾向にあり、議員や有力者を標的とする事件が社会不安を招いている。本件は民主党のトップ議員が犠牲となったことで、政治的分断や暴力の深刻さを象徴し、司法の厳罰姿勢が示されたことで政治活動や治安への影響が注目されている。",
-        "market_impact": "直接的な市場や経済への影響は限定的だが、政治的安定性や法執行強化の動きは政策リスクを左右しうる。特に警備・安全関連サービスや保険業界は警戒を強める可能性があり、政治的混乱や社会不安が企業のリスク管理コスト増加につながる恐れがある。",
-        "category": "Geopolitics",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/6/11/man-pleads-guilty-to-slaying-top-democrat-and-her-husband-in-minnesota?traffic_source=rss",
-        "published_at": "2026-06-12 06:37"
+        "url": "https://www.aljazeera.com/sports/2026/6/12/palestine-football-chief-says-he-wasnt-granted-us-visa-to-attend-world-cup?traffic_source=rss",
+        "published_at": "2026-06-13 07:32"
       }
     ],
-    "Economy": [
-      {
-        "title": "My friends always want to split the bill equally, how do I say no?",
-        "summary_2lines": "友人間での会計の割り勘問題に関する悩みを取り上げ、率直に自分の経済状況を伝えることの重要性を説いている。収入差がある友人グループでの金銭感覚の違いとコミュニケーション不足が背景にある。",
-        "why_it_matters": "友人間の金銭的なやり取りは人間関係に影響しやすく、特に生活費や収入に差がある場合はトラブルの元となる。また、多くの人が金銭の話題を避けがちであり、負担や不公平感を感じながらも自己主張ができない実態が社会全体で存在しているため、健全なコミュニケーションの重要性が改めて注目されている。",
-        "market_impact": "直接的な経済市場や企業収益へのインパクトは限定的だが、割り勘アプリや家計管理ツールの需要増加につながる可能性がある。さらに、消費者の支出行動や節約志向にも影響を与えるため、消費関連企業は分かりやすい価格表示や多様な支払い方法の提供が重要となる。加えて、金融サービス業界では、若年層や女性を中心に金銭コミュニケーションのサポートを目的としたコンテンツやコミュニティ展開が進むことが期待される。",
-        "category": "Economy",
-        "source": "BBC Business",
-        "url": "https://www.bbc.com/news/articles/czxqdznzy7ro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-06-12 08:00"
-      },
-      {
-        "title": "The world’s wealthy are migrating like never before",
-        "summary_2lines": "世界の富裕層の移住がこれまでになく活発化している。専門のアドバイザー産業がその流れを後押ししている。",
-        "why_it_matters": "富裕層の移動は資産や資本の流れを左右し、移住先の経済や政策に大きな影響を与える。特にグローバル化と税制の変化が背景にある。",
-        "market_impact": "富裕層の移住は特定地域の不動産市場や金融サービス業に追い風となり、移住先の経済成長や資産運用ビジネスの拡大を促進する。逆に出発地では資本流出リスクが高まる可能性がある。",
-        "category": "Economy",
-        "source": "The Economist",
-        "url": "https://www.economist.com/business/2026/06/11/the-worlds-wealthy-are-migrating-like-never-before",
-        "published_at": "2026-06-11 22:15"
-      },
-      {
-        "title": "Jimenez and Quinones net as Mexico beat South Africa in World Cup opener",
-        "summary_2lines": "メキシコはワールドカップ開幕戦で、南アフリカを2-0で下し幸先の良いスタートを切った。南アフリカは2人退場者を出し、試合はメキシコの圧倒的な勝利に終わった。",
-        "why_it_matters": "2026年ワールドカップはメキシコが共催国として注目される大規模な国際大会であり、開幕戦の勝利は国民の期待と盛り上がりを象徴している。スポーツイベントとしてだけでなく、メキシコの国際的なプレゼンス向上や観光・経済活動の活性化につながる重要なシグナルとなる。",
-        "market_impact": "メキシコで開催されるワールドカップは観光業、飲食業、小売業をはじめとしたサービス産業にプラスの経済効果をもたらすと期待される。また、試合の成功と国際的な注目度上昇に伴い、スポーツ関連グッズの売上増や放映権料収入の拡大も見込まれる。南アフリカチームの不振は自身の国内サッカー産業への逆風となる可能性がある。",
-        "category": "Economy",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/6/11/jimenez-and-quinones-net-as-mexico-beat-south-africa-in-world-cup-opener?traffic_source=rss",
-        "published_at": "2026-06-12 06:22"
-      }
-    ],
+    "Economy": [],
     "Corporate": [
       {
         "title": "Another new boss aims to fix the world’s biggest chocolate-maker",
-        "summary_2lines": "チョコレート最大手バリー・カレボーの新CEO、ウィル・ハイン・シューマッカー氏が事業立て直しを目指す。企業の業績改善策に注目が集まっている。",
-        "why_it_matters": "バリー・カレボーは世界最大のチョコレート製造企業であり、原材料調達やサプライチェーンの課題に直面している。新経営陣の戦略が成功すれば、業界全体に影響を及ぼす可能性があるため重要。",
-        "market_impact": "シューマッカー氏の経営手腕次第でバリー・カレボーの収益性や株価が変動し、競合他社の戦略にも影響を与える。原料価格の変動や環境問題対応も市場評価に反映されるだろう。",
+        "summary_2lines": "世界最大のチョコレートメーカー、バリー・カレボーの新CEOウィル・ハイン・スクマッシャーが経営改革に挑む。業績改善と競争力強化が期待されている。",
+        "why_it_matters": "バリー・カレボーはチョコレート業界のリーダー企業であり、同社の経営刷新は業界全体の動向に大きな影響を与える。世界的な食料品市場の変化や消費者の嗜好変化に対応するための重要な転換点となるため注目されている。",
+        "market_impact": "経営改革が成功すれば、株価の上昇や市場シェアの拡大が期待できる。一方で、変革に伴うコスト増加や短期的な収益悪化リスクも存在し、関連する原材料市場やサプライチェーンにも波及効果が見込まれる。",
         "category": "Corporate",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/06/11/another-new-boss-aims-to-fix-the-worlds-biggest-chocolate-maker",
@@ -314,23 +303,33 @@
       },
       {
         "title": "Too many people are shockingly bad at prioritisation",
-        "summary_2lines": "多くの人が優先順位の付け方が非常に下手であることが明らかになった。焦点をどこに合わせるかが最も重要なスキルの一つである。",
-        "why_it_matters": "現代のビジネスや日常生活において効率的に成果を出すためには、正しく優先順位をつける能力が不可欠だ。優先順位の誤りはリソースの無駄遣いや成果の低下を招くため、その問題が顕在化することは組織や個人のパフォーマンス向上に直接関係する。",
-        "market_impact": "個人や組織の意思決定精度が低いと、戦略の実行や市場対応が遅れ競争力低下につながる可能性がある。逆に優先順位付けの改善は生産性向上やリソースの最適配分を促し、企業収益や市場全体の効率性に好影響をもたらすだろう。",
+        "summary_2lines": "多くの人が優先順位の付け方に著しく苦手意識を持っている。焦点をどこに当てるかを選ぶ能力は非常に重要なスキルである。",
+        "why_it_matters": "現代の複雑かつ情報過多な環境では、限られた時間とリソースを効率的に使い分けるために優先順位を正しく設定する能力が不可欠。これが身についていないと個人だけでなく組織全体の生産性や意思決定に悪影響が及ぶ可能性があるため、重要視されている。",
+        "market_impact": "優先順位付けのスキル不足は企業のプロジェクト管理や経営判断の遅れにつながり、競争力低下やコスト増加を招く恐れがある。これが広く蔓延すると市場全体の効率性が下がり、経済活動の停滞にも繋がりかねないため、改善策の導入が求められる。",
         "category": "Corporate",
         "source": "The Economist",
         "url": "https://www.economist.com/business/2026/06/11/too-many-people-are-shockingly-bad-at-prioritisation",
         "published_at": "2026-06-11 22:15"
       },
       {
-        "title": "Adobe is losing another top executive, and investors don’t like it",
-        "summary_2lines": "Adobeがまたもやトップ層の幹部を失い、株価が7年以上ぶりの安値で取引を終えた。投資家の不安が広がっている状況だ。",
-        "why_it_matters": "大手テクノロジー企業であるAdobeの幹部退任は経営の安定性に疑問符をつけ、将来的な戦略や成長見通しに対する市場の懸念を招いている。トップの連続退任は企業の信用力低下や内部問題の存在を示唆することが多いため重要である。",
-        "market_impact": "幹部退任を受けてAdobeの株価は大幅に下落し、投資家の売り圧力が強まっている。これによりAdobeの時価総額減少や資金調達コスト上昇の可能性があるほか、長期的な成長戦略に対する信頼も揺らぎ、関連技術市場にも不安が波及する可能性がある。",
+        "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+        "summary_2lines": "MetaのApplied AIチームで社員の不満が爆発し、労働環境に深刻な問題が浮上。CEOのザッカーバーグも内部での混乱と社員のストレスを認め、改善を約束している。",
+        "why_it_matters": "MetaはAI技術に巨額投資し人員再編を加速する中、優秀な人材の士気低下と大量離職のリスクが顕在化。この問題は同社の人材確保や研究開発の推進力に大きな影響を及ぼす可能性があるため注目される。",
+        "market_impact": "社員の反発と労働環境の悪化は開発効率やイノベーションの停滞を招き、AI分野でのMetaの競争力低下を示唆。これにより株価や同業他社との競争構造にも影響が及ぶ可能性がある。また、テック業界全体の人材マネジメント問題の浮き彫りにもなる。",
         "category": "Corporate",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/adobe-is-losing-another-top-executive-and-investors-dont-like-it-587603e9?mod=mw_rss_topstories",
-        "published_at": "2026-06-12 07:00"
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+        "published_at": "2026-06-13 08:00"
+      },
+      {
+        "title": "Donald Trump’s White House UFC Event Would Be Embarrassing Anywhere",
+        "summary_2lines": "ドナルド・トランプのホワイトハウスでのUFCイベント開催は過剰演出ながら実態は盛り上がりに欠け、トップファイターの不参加も目立つ。政治的利用や話題作りが主体で、スポーツとしての価値は限定的と評価されている。",
+        "why_it_matters": "このニュースは、元米大統領トランプがスポーツイベントを自己プロモーションや政治的イメージ戦略に利用する形で話題を呼んでいることを示している。UFCのような格闘技イベントを米政権の場で行うことは異例であり、スポーツと政治の境界や米国の文化・外交戦略の在り方を議論させる背景となる。",
+        "market_impact": "このイベント自体は大規模な経済効果やUFCの市場拡大に直結しにくく、視聴率期待の過剰な煽りによって短期的なファン離れやブランドイメージの損傷リスクもある。一方でスポンサー企業や関連グッズ販売、スポーツ観戦市場に一時的な注目を集める可能性があるため、限定的な経済的影響はあるが持続性は乏しいと考えられる。",
+        "category": "Corporate",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/donald-trumps-white-house-ufc-event-would-be-embarrassing-anywhere/",
+        "published_at": "2026-06-13 03:03"
       }
     ]
   }
