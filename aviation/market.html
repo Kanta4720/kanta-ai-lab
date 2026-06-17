@@ -373,46 +373,52 @@
     return `<div class="mc-change ${cls}"><span class="mc-arrow">${arrow}</span>${label}</div>`;
   }
 
+  function esc(s) {
+    return (s ?? '').toString().replace(/[&<>"']/g, c =>
+      ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c])
+    );
+  }
+
   // ---- Card builders ----
   function stockCard(s) {
     return `<div class="metric-card">
-      <div class="mc-symbol">${s.symbol}</div>
-      <div class="mc-name">${s.name}</div>
+      <div class="mc-symbol">${esc(s.symbol)}</div>
+      <div class="mc-name">${esc(s.name)}</div>
       <div class="mc-price">${fmtPrice(s.price, s.currency)}</div>
       ${changeHtml(s.change_pct, null, null)}
-      <div class="mc-date">${s.date || ''}</div>
+      <div class="mc-date">${esc(s.date || '')}</div>
     </div>`;
   }
 
   function rateCard(r) {
     const chg = r.change !== undefined && r.change !== null ? r.change : null;
     return `<div class="metric-card rate">
-      <div class="mc-symbol">${r.unit}</div>
-      <div class="mc-name">${r.name}</div>
+      <div class="mc-symbol">${esc(r.unit)}</div>
+      <div class="mc-name">${esc(r.name)}</div>
       <div class="mc-price">${r.value.toFixed(2)}<span class="mc-unit">%</span></div>
       ${changeHtml(null, chg, 'pt')}
-      <div class="mc-date">${r.date || ''}</div>
+      <div class="mc-date">${esc(r.date || '')}</div>
     </div>`;
   }
 
   function commodityCard(c) {
     return `<div class="metric-card">
-      <div class="mc-symbol">${c.unit}</div>
-      <div class="mc-name">${c.name}</div>
+      <div class="mc-symbol">${esc(c.unit)}</div>
+      <div class="mc-name">${esc(c.name)}</div>
       <div class="mc-price">$${c.price.toFixed(2)}</div>
       ${changeHtml(c.change_pct, null, null)}
-      <div class="mc-date">${c.date || ''}</div>
+      <div class="mc-date">${esc(c.date || '')}</div>
     </div>`;
   }
 
   function fxCard(f) {
     const dp = f.symbol === 'USD/JPY' ? 2 : 4;
     return `<div class="metric-card">
-      <div class="mc-symbol">${f.symbol}</div>
-      <div class="mc-name">${f.name}</div>
+      <div class="mc-symbol">${esc(f.symbol)}</div>
+      <div class="mc-name">${esc(f.name)}</div>
       <div class="mc-price">${f.price.toFixed(dp)}</div>
       ${changeHtml(f.change_pct, null, null)}
-      <div class="mc-date">${f.date || ''}</div>
+      <div class="mc-date">${esc(f.date || '')}</div>
     </div>`;
   }
 
@@ -460,7 +466,8 @@
   async function loadMarket() {
     const app = document.getElementById('app');
     const params    = new URLSearchParams(window.location.search);
-    const dateParam = params.get('date');
+    const rawDate   = params.get('date');
+    const dateParam = /^\d{4}-\d{2}-\d{2}$/.test(rawDate) ? rawDate : null;
     const jsonUrl   = dateParam ? `./archive/market_${dateParam}.json` : './market_data.json';
 
     fetch('./archive/index.json').then(r => r.json()).then(d => {
@@ -495,7 +502,7 @@
       app.innerHTML = html || '<p class="error-msg">データがありません。</p>';
     } catch (err) {
       console.error(err);
-      app.innerHTML = `<p class="error-msg">データの読み込みに失敗しました。<br><small>${err.message}</small></p>`;
+      app.innerHTML = `<p class="error-msg">データの読み込みに失敗しました。<br><small>${esc(err.message)}</small></p>`;
     }
   }
 
