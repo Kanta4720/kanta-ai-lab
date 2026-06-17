@@ -23,32 +23,34 @@ OPENAI_MODEL = os.environ.get("OPENAI_MODEL", "gpt-4.1-mini")
 
 client = OpenAI()
 
-# NewsAPI クエリ（ビジネス・経済・テック分野）
+# カテゴリ一覧
+CATEGORIES = ["Economy", "Markets", "Tech", "World", "Energy"]
+
+# NewsAPI クエリ
 NEWSAPI_QUERIES = [
-    {"q": "economy GDP inflation interest rate central bank",               "category": "Economy"},
-    {"q": "stock market bonds forex commodity oil gold",                    "category": "Markets"},
-    {"q": "AI artificial intelligence semiconductor chip cybersecurity",    "category": "Tech"},
-    {"q": "geopolitics trade war sanctions diplomacy war conflict",        "category": "Geopolitics"},
-    {"q": "merger acquisition IPO earnings CEO corporate strategy",        "category": "Corporate"},
+    {"q": "economy recession inflation interest rate",            "category": "Economy"},
+    {"q": "stock market S&P500 Nasdaq financial markets",        "category": "Markets"},
+    {"q": "artificial intelligence technology innovation",        "category": "Tech"},
+    {"q": "geopolitics international relations trade war",        "category": "World"},
+    {"q": "oil gas energy renewable climate",                    "category": "Energy"},
 ]
 
-# RSS フィード（NewsAPI フォールバック）
+# RSS フィード（NewsAPI 取得失敗時のフォールバック）
 FEEDS = [
     {"source": "Reuters",        "category": "Economy",     "url": "https://feeds.reuters.com/reuters/businessNews"},
-    {"source": "BBC Business",   "category": "Economy",     "url": "http://feeds.bbci.co.uk/news/business/rss.xml"},
+    {"source": "BBC Business",   "category": "Economy",     "url": "https://feeds.bbci.co.uk/news/business/rss.xml"},
     {"source": "CNBC",           "category": "Markets",     "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html"},
     {"source": "The Economist",  "category": "Economy",     "url": "https://www.economist.com/business/rss.xml"},
     {"source": "Associated Press","category": "Economy",    "url": "https://apnews.com/hub/business/rss.xml"},
     {"source": "TechCrunch",     "category": "Tech",        "url": "https://techcrunch.com/feed/"},
     {"source": "Wired",          "category": "Tech",        "url": "https://www.wired.com/feed/rss"},
-    {"source": "Ars Technica",   "category": "Tech",        "url": "http://feeds.arstechnica.com/arstechnica/index"},
+    {"source": "Ars Technica",   "category": "Tech",        "url": "https://feeds.arstechnica.com/arstechnica/index"},
     {"source": "Hacker News",    "category": "Tech",        "url": "https://news.ycombinator.com/rss"},
     {"source": "MarketWatch",    "category": "Markets",     "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories"},
-    {"source": "Al Jazeera",     "category": "Geopolitics", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
 ]
 
 ARTICLES_PER_FEED = 3
-DEDUP_THRESHOLD   = 0.65
+DEDUP_THRESHOLD = 0.65
 
 # --- 関数定義 --- #
 
@@ -74,7 +76,7 @@ def deduplicate(articles):
     return unique
 
 def fetch_from_newsapi():
-    """NewsAPI から記事を収集する"""
+    """NewsAPI からニュースを取得する"""
     if not NEWS_API_KEY:
         print("[NewsAPI] NEWS_API_KEY が設定されていません。スキップします。")
         return []
@@ -108,10 +110,10 @@ def fetch_from_newsapi():
                     continue
 
                 pub_date = None
-                raw_dt   = art.get("publishedAt")
+                raw_dt = art.get("publishedAt")
                 if raw_dt:
                     try:
-                        dt       = datetime.fromisoformat(raw_dt.replace("Z", "+00:00")).astimezone(JST)
+                        dt = datetime.fromisoformat(raw_dt.replace("Z", "+00:00")).astimezone(JST)
                         pub_date = dt.strftime("%Y-%m-%d %H:%M")
                     except Exception:
                         pass
@@ -129,16 +131,16 @@ def fetch_from_newsapi():
                     "published_at":     pub_date,
                 })
 
-            print(f"[NewsAPI] '{qconf['q'][:40]}' → {len(data.get('articles', []))} 件取得")
+            print(f"[NewsAPI] '{qconf['q'][:40]}...' → {len(data.get('articles', []))} 件取得")
 
         except Exception as e:
-            print(f"[NewsAPI] クエリ失敗: {e}")
+            print(f"[NewsAPI] クエリ失敗 '{qconf['q'][:40]}': {e}")
 
     print(f"[NewsAPI] 合計 {len(articles)} 件収集")
     return articles
 
 def fetch_from_rss():
-    """RSS フィードから記事を収集する"""
+    """RSS フィードから記事を取得する"""
     articles = []
     for feed in FEEDS:
         try:
@@ -149,8 +151,8 @@ def fetch_from_rss():
                     parsed = getattr(entry, attr, None)
                     if parsed:
                         try:
-                            ts       = calendar.timegm(parsed)
-                            pub_dt   = datetime.fromtimestamp(ts, tz=timezone.utc).astimezone(JST)
+                            ts     = calendar.timegm(parsed)
+                            pub_dt = datetime.fromtimestamp(ts, tz=timezone.utc).astimezone(JST)
                             pub_date = pub_dt.strftime("%Y-%m-%d %H:%M")
                         except Exception:
                             pass
@@ -182,23 +184,27 @@ def fetch_full_content(url):
         pass
     return None
 
-def analyze_with_ai(content, title):
+def analyze_with_ai(content, title, default_category):
     """AI で記事を分析・要約する"""
     if not content:
         return None
 
-    prompt = f"""以下のニュース記事を分析し、指定されたJSON形式で出力してください。
+    prompt = f"""以下の英語ニュース記事を精読し、ビジネスプロフェッショナル向けに詳細な分析レポートをJSON形式で出力してください。
 
 記事タイトル: {title}
 記事内容:
-{content[:4000]}
+{content[:5000]}
 
-出力形式:
+《出力要件》
+各フィールドは必ず指定された文字数・深度を満たすこと。表面的な言い換えは不可。数字・企業名・日付・固有名詞を積極的に使うこと。
+
+出力形式（JSON形式で返してください）:
 {{
-  "summary_2lines": "2行で理解できる簡潔な要約（日本語）",
-  "why_it_matters": "このニュースがなぜ重要なのか、背景や文脈を説明（日本語）",
-  "market_impact": "市場・企業・経済への具体的な影響を分析（日本語）",
-  "category": "Tech / Markets / Geopolitics / Economy / Corporate のいずれか1つ"
+  "summary": "【２〜４文】記事の核心を詳しく要約。何が起きたか・いつ・誰が関与しているか・規模や数字・経緯を網羅し、原文を読まなくても全体像が把握できる水準で書く（日本語）",
+  "summary_2lines": "【１〜２文】最も重要な点のみを簡潔にまとめたリード文（日本語）",
+  "why_it_matters": "【２〜３文】このニュースが重要な理由・業界全体への影響・今後起きうる展開・見落とされがちな論点を専門家視点で解説（日本語）",
+  "market_impact": "【１〜２文】市場・経済・投賄家への具体的な影響。定量的・定性的分析（日本語）",
+  "category": "Economy / Markets / Tech / World / Energy のいずれか1つ"
 }}
 """
     try:
@@ -206,8 +212,15 @@ def analyze_with_ai(content, title):
             model=OPENAI_MODEL,
             response_format={"type": "json_object"},
             messages=[
-                {"role": "system", "content": "You are a professional financial news analyst."},
-                {"role": "user",   "content": prompt},
+                {
+                    "role": "system",
+                    "content": (
+                        "You are a senior global markets analyst and financial journalist with 20+ years of experience. "
+                        "Your analysis is precise, data-driven, and provides actionable insights. "
+                        "Always write in fluent, professional Japanese. Respond in JSON format."
+                    ),
+                },
+                {"role": "user", "content": prompt},
             ],
         )
         return json.loads(resp.choices[0].message.content)
@@ -221,22 +234,21 @@ def process_article(raw):
     try:
         content = raw["content"]
 
-        # コンテンツが短い場合は trafilatura でフル本文を取得
-        if len(content) < 200:
-            full = fetch_full_content(raw["url"])
-            if full:
-                content = full
+        full = fetch_full_content(raw["url"])
+        if full and len(full) > len(content):
+            content = full
 
         if not content:
             print(f"  → コンテンツ取得失敗、スキップ")
             return None
 
-        analysis = analyze_with_ai(content, raw["title"])
+        analysis = analyze_with_ai(content, raw["title"], raw["default_category"])
         if not analysis:
             return None
 
         return {
             "title":          raw["title"],
+            "summary":        analysis.get("summary", ""),
             "summary_2lines": analysis.get("summary_2lines", ""),
             "why_it_matters": analysis.get("why_it_matters", ""),
             "market_impact":  analysis.get("market_impact", ""),
@@ -254,21 +266,21 @@ def select_top5(articles):
     if not articles:
         return []
 
-    listing = [f"{i}: [{a['category']}] {a['title']} — {a['summary_2lines']}" for i, a in enumerate(articles)]
-    prompt  = f"""以下のニュースリストから、今日のビジネスパーソンにとって最も重要なニュースを5つ選び、そのインデックス番号をJSON配列で返してください。
-市場への影響、地政学的リスク、技術的なブレークスルーなどを考慮してください。
+    listing = [f"{i}: [{a['category']}] {a['title']} — {a.get('summary_2lines', '')[:80]}" for i, a in enumerate(articles)]
+    prompt  = f"""以下のニュースから、グローバルなビジネスパーソンにとって最重要な5件を選び、インデックス番号をJSON配列で返してください。
+経済・市場・地策リスクを重視してください。
 
-ニュースリスト:
+ニュース一覧:
 {json.dumps(listing, ensure_ascii=False, indent=2)}
 
-出力形式: {{"top5_indices": [番号1, 番号2, 番号3, 番号4, 番号5]}}
+出力形式（JSON）: {{"top5_indices": [番号1, 番号2, 番号3, 番号4, 番号5]}}
 """
     try:
         resp = client.chat.completions.create(
             model=OPENAI_MODEL,
             response_format={"type": "json_object"},
             messages=[
-                {"role": "system", "content": "You are an expert editor for a business news brief."},
+                {"role": "system", "content": "You are an expert editor for a global business news brief. Respond in JSON format."},
                 {"role": "user",   "content": prompt},
             ],
         )
@@ -285,7 +297,7 @@ def main():
     # Step 1: ニュース収集（NewsAPI → RSS フォールバック）
     raw_articles = fetch_from_newsapi()
     if len(raw_articles) < 5:
-        print(f"[INFO] NewsAPI 収集数が少ないため RSS を補完します")
+        print(f"[INFO] NewsAPI 取得数が少ないため RSS を補完します")
         raw_articles.extend(fetch_from_rss())
 
     # Step 2: 重複除去
@@ -301,16 +313,16 @@ def main():
                 if result:
                     processed.append(result)
             except Exception as e:
-                print(f"[並列処理エラー] {e}")
+                print(f"[並列処理エラー] {futures[future][:50]}: {e}")
 
     if not processed:
-        print("ERROR: 記事を1件も取得できませんでした。ワークフローを失敗させます。")
+        print("ERROR: 記事を1件も取得できませんでした。")
         sys.exit(1)
 
     print(f"[INFO] 合計 {len(processed)} 件の記事を処理しました。")
 
     # Step 4: カテゴリ分類
-    categories = {cat: [] for cat in ["Tech", "Markets", "Geopolitics", "Economy", "Corporate"]}
+    categories = {cat: [] for cat in CATEGORIES}
     for art in processed:
         if art["category"] in categories:
             categories[art["category"]].append(art)
@@ -326,8 +338,8 @@ def main():
         "categories":       categories,
     }
 
-    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    output_path  = os.path.join(project_root, "news.json")
+    script_dir  = os.path.dirname(os.path.abspath(__file__))
+    output_path = os.path.join(os.path.dirname(script_dir), "news.json")
 
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
@@ -335,7 +347,8 @@ def main():
     print(f"Successfully generated news.json at {output_path}")
 
 if __name__ == "__main__":
-    if "OPENAI_API_KEY" not in os.environ:
-        print("Error: OPENAI_API_KEY environment variable not set.")
-    else:
-        main()
+    api_key = os.environ.get("OPENAI_API_KEY", "")
+    if not api_key:
+        print("Error: OPENAI_API_KEY environment variable not set or empty.")
+        sys.exit(1)
+    main()
