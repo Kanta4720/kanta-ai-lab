@@ -652,6 +652,13 @@ function tagClass(cat) {
   })[cat] || '';
 }
 
+function esc(s) {
+  return (s ?? '').toString().replace(/[&<>"']/g, c =>
+    ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c])
+  );
+}
+function safeUrl(u) { return /^https?:\/\//.test(u) ? u : '#'; }
+
 function toggleCard(btn, id) {
   const el = document.getElementById(id);
   if (!el) return;
@@ -668,11 +675,11 @@ function insightsBlock(article, id) {
     <div class="card-insights" id="${id}">
       ${article.why_it_matters ? `<div class="insight-block">
         <span class="insight-label">業界的重要性・今後の展開</span>
-        <span class="insight-text">${article.why_it_matters}</span>
+        <span class="insight-text">${esc(article.why_it_matters)}</span>
       </div>` : ''}
       ${article.lease_impact ? `<div class="insight-block">
         <span class="insight-label">リース市場への影響</span>
-        <span class="insight-text">${article.lease_impact}</span>
+        <span class="insight-text">${esc(article.lease_impact)}</span>
       </div>` : ''}
     </div>`;
   const btn = `<button class="expand-btn" onclick="toggleCard(this,'${id}')">
@@ -685,19 +692,19 @@ function briefCard(article, idx) {
   const tc       = tagClass(article.category);
   const featured = idx === 0 ? 'featured' : '';
   const dateStr  = article.published_at ? `<span class="card-date">🕐 ${timeAgo(article.published_at)}</span>` : '';
-  const summary  = article.summary || '';
-  const bg       = article.background ? `<div class="card-background">${article.background}</div>` : '';
+  const summary  = esc(article.summary || '');
+  const bg       = article.background ? `<div class="card-background">${esc(article.background)}</div>` : '';
   const { html: insHtml, btn: insBtn } = insightsBlock(article, `ins-${idx}`);
   return `
     <div class="brief-card ${featured}">
       <div class="card-number">${idx + 1}</div>
       <div class="card-body">
         <div class="card-meta">
-          <span class="tag ${tc}">${article.category}</span>
-          <span class="source-label">${article.source || ''}</span>
+          <span class="tag ${tc}">${esc(article.category)}</span>
+          <span class="source-label">${esc(article.source || '')}</span>
           ${dateStr}
         </div>
-        <div class="card-title"><a href="${article.url}" target="_blank" rel="noopener">${article.title}</a></div>
+        <div class="card-title"><a href="${safeUrl(article.url)}" target="_blank" rel="noopener">${esc(article.title)}</a></div>
         <div class="card-summary">${summary}</div>
         ${bg}
         ${insHtml}
@@ -709,17 +716,17 @@ function briefCard(article, idx) {
 function articleRow(article, idx) {
   const tc      = tagClass(article.category);
   const dateStr = article.published_at ? `<span class="card-date">🕐 ${timeAgo(article.published_at)}</span>` : '';
-  const summary = article.summary || '';
-  const bg      = article.background ? `<div class="card-background">${article.background}</div>` : '';
+  const summary = esc(article.summary || '');
+  const bg      = article.background ? `<div class="card-background">${esc(article.background)}</div>` : '';
   const { html: insHtml, btn: insBtn } = insightsBlock(article, `row-ins-${idx}`);
   return `
-    <div class="article-row" data-cat="${article.category}">
+    <div class="article-row" data-cat="${esc(article.category)}">
       <div class="article-row-top">
-        <div class="article-row-title"><a href="${article.url}" target="_blank" rel="noopener">${article.title}</a></div>
+        <div class="article-row-title"><a href="${safeUrl(article.url)}" target="_blank" rel="noopener">${esc(article.title)}</a></div>
       </div>
       <div class="article-row-meta">
-        <span class="tag ${tc}">${article.category}</span>
-        <span class="source-label">${article.source || ''}</span>
+        <span class="tag ${tc}">${esc(article.category)}</span>
+        <span class="source-label">${esc(article.source || '')}</span>
         ${dateStr}
       </div>
       <div class="article-row-summary">${summary}</div>
@@ -769,7 +776,8 @@ function renderDateNav(currentDate, dates) {
 async function loadNews() {
   const app = document.getElementById('app');
   const params = new URLSearchParams(window.location.search);
-  const dateParam = params.get('date');
+  const rawDate = params.get('date');
+  const dateParam = /^\d{4}-\d{2}-\d{2}$/.test(rawDate) ? rawDate : null;
   const jsonUrl = dateParam ? `./archive/news_${dateParam}.json` : './news.json';
 
   // Load archive index for date nav (non-blocking)
