@@ -515,6 +515,13 @@
     return `${get('month')}月${get('day')}日`;
   }
 
+  function esc(s) {
+    return (s ?? '').toString().replace(/[&<>"']/g, c =>
+      ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c])
+    );
+  }
+  function safeUrl(u) { return /^https?:\/\//.test(u) ? u : '#'; }
+
   function tagClass(cat) {
     const map = {
       'Industry Analysis':   'tag-Industry-Analysis',
@@ -530,17 +537,17 @@
   function featureCard(f, idx) {
     const tc       = tagClass(f.category);
     const dateStr  = f.published_at ? `<span class="date-label">🕐 ${timeAgo(f.published_at)}</span>` : '';
-    const keyItems = (f.key_points || []).map(p => `<li>${p}</li>`).join('');
+    const keyItems = (f.key_points || []).map(p => `<li>${esc(p)}</li>`).join('');
 
     // body: split on \n into paragraphs
     const bodyHtml = f.body
-      ? `<div class="card-body">${f.body.split('\n').filter(s => s.trim()).map(s => `<p>${s}</p>`).join('')}</div>`
-      : (f.summary ? `<div class="card-body"><p>${f.summary}</p></div>` : '');
+      ? `<div class="card-body">${f.body.split('\n').filter(s => s.trim()).map(s => `<p>${esc(s)}</p>`).join('')}</div>`
+      : (f.summary ? `<div class="card-body"><p>${esc(f.summary)}</p></div>` : '');
 
     const analysisHtml = f.analysis
-      ? `<div class="section-label">専門家分析</div><div class="card-analysis">${f.analysis}</div>` : '';
+      ? `<div class="section-label">専門家分析</div><div class="card-analysis">${esc(f.analysis)}</div>` : '';
     const outlookHtml = f.outlook
-      ? `<div class="section-label">今後の見通し</div><div class="card-outlook">${f.outlook}</div>` : '';
+      ? `<div class="section-label">今後の見通し</div><div class="card-outlook">${esc(f.outlook)}</div>` : '';
 
     return `
       <div class="feature-card">
@@ -548,16 +555,16 @@
           <div class="card-num">${String(idx + 1).padStart(2, '0')}</div>
           <div class="card-header-body">
             <div class="card-meta">
-              <span class="tag ${tc}">${f.category}</span>
-              <span class="source-label">${f.source || ''}</span>
+              <span class="tag ${tc}">${esc(f.category)}</span>
+              <span class="source-label">${esc(f.source || '')}</span>
               ${dateStr}
-              ${f.reading_minutes ? `<span class="reading-time">📖 約${f.reading_minutes}分</span>` : ''}
+              ${f.reading_minutes ? `<span class="reading-time">📖 約${esc(String(f.reading_minutes))}分</span>` : ''}
             </div>
-            <h2 class="card-title">${f.title}</h2>
-            ${f.original_title ? `<div class="card-original-title">${f.original_title}</div>` : ''}
+            <h2 class="card-title">${esc(f.title)}</h2>
+            ${f.original_title ? `<div class="card-original-title">${esc(f.original_title)}</div>` : ''}
           </div>
         </div>
-        ${f.lead ? `<p class="card-lead">${f.lead}</p>` : ''}
+        ${f.lead ? `<p class="card-lead">${esc(f.lead)}</p>` : ''}
         ${bodyHtml}
         ${analysisHtml}
         ${outlookHtml}
@@ -565,7 +572,7 @@
           <div class="key-points-label">KEY POINTS</div>
           <ul class="key-points">${keyItems}</ul>
         ` : ''}
-        <a class="read-link" href="${f.url}" target="_blank" rel="noopener">
+        <a class="read-link" href="${safeUrl(f.url)}" target="_blank" rel="noopener">
           原文を読む &rarr;
         </a>
       </div>`;
@@ -601,7 +608,8 @@
   async function loadFeatures() {
     const app = document.getElementById('app');
     const params = new URLSearchParams(window.location.search);
-    const dateParam = params.get('date');
+    const rawDate = params.get('date');
+    const dateParam = /^\d{4}-\d{2}-\d{2}$/.test(rawDate) ? rawDate : null;
     const jsonUrl = dateParam ? `./archive/features_${dateParam}.json` : './features.json';
 
     fetch('./archive/index.json').then(r => r.json()).then(d => {

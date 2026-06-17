@@ -696,7 +696,7 @@
   <script>
     /* ===== Utilities ===== */
     function esc(s) {
-      return (s ?? '').replace(/[&<>"']/g, c =>
+      return (s ?? '').toString().replace(/[&<>"']/g, c =>
         ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c])
       );
     }
@@ -807,7 +807,7 @@
         <h3 class="card-title">${esc(article.title)}</h3>
         <p class="card-summary">${esc(article.summary_2lines || article.summary || '')}</p>
         ${insights}
-        <a href="${esc(article.url)}" target="_blank" rel="noopener noreferrer" class="card-link">
+        <a href="${/^https?:\/\//.test(article.url) ? esc(article.url) : '#'}" target="_blank" rel="noopener noreferrer" class="card-link">
           記事を読む &rarr;
         </a>`;
 
@@ -853,7 +853,7 @@
             </div>
             <button class="expand-btn" onclick="toggleCard(this,'${id}')">
               <span class="expand-label">分析を見る</span> <span class="expand-icon">&#9660;</span>
-            </button>` : ''}          <a href="${esc(article.url)}" target="_blank" rel="noopener noreferrer" class="card-link">
+            </button>` : ''}          <a href="${/^https?:\/\//.test(article.url) ? esc(article.url) : '#'}" target="_blank" rel="noopener noreferrer" class="card-link">
             記事を読む &rarr;
           </a>
         </div>`;

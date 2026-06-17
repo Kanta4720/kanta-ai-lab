@@ -35,13 +35,13 @@ NEWSAPI_QUERIES = [
 # RSS フィード（NewsAPI フォールバック）
 FEEDS = [
     {"source": "Reuters",        "category": "Economy",     "url": "https://feeds.reuters.com/reuters/businessNews"},
-    {"source": "BBC Business",   "category": "Economy",     "url": "http://feeds.bbci.co.uk/news/business/rss.xml"},
+    {"source": "BBC Business",   "category": "Economy",     "url": "https://feeds.bbci.co.uk/news/business/rss.xml"},
     {"source": "CNBC",           "category": "Markets",     "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html"},
     {"source": "The Economist",  "category": "Economy",     "url": "https://www.economist.com/business/rss.xml"},
     {"source": "Associated Press","category": "Economy",    "url": "https://apnews.com/hub/business/rss.xml"},
     {"source": "TechCrunch",     "category": "Tech",        "url": "https://techcrunch.com/feed/"},
     {"source": "Wired",          "category": "Tech",        "url": "https://www.wired.com/feed/rss"},
-    {"source": "Ars Technica",   "category": "Tech",        "url": "http://feeds.arstechnica.com/arstechnica/index"},
+    {"source": "Ars Technica",   "category": "Tech",        "url": "https://feeds.arstechnica.com/arstechnica/index"},
     {"source": "Hacker News",    "category": "Tech",        "url": "https://news.ycombinator.com/rss"},
     {"source": "MarketWatch",    "category": "Markets",     "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories"},
     {"source": "Al Jazeera",     "category": "Geopolitics", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
