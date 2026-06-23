@@ -90,9 +90,9 @@
       "symbol": "AIR.PA",
       "name": "Airbus",
       "currency": "EUR",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
+      "price": null,
+      "change": null,
+      "change_pct": null,
       "date": "2026-06-22"
     }
   ],

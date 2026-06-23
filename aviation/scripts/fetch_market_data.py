@@ -11,6 +11,7 @@
 """
 
 import json
+import math
 import os
 import requests
 import yfinance as yf
@@ -177,6 +178,16 @@ def fetch_yield(symbol, name):
         return None
 
 
+def sanitize(obj):
+    if isinstance(obj, float) and math.isnan(obj):
+        return None
+    if isinstance(obj, dict):
+        return {k: sanitize(v) for k, v in obj.items()}
+    if isinstance(obj, list):
+        return [sanitize(v) for v in obj]
+    return obj
+
+
 def main():
     print("マーケットデータ取得中...")
 
@@ -210,7 +221,7 @@ def main():
     script_dir  = os.path.dirname(os.path.abspath(__file__))
     output_path = os.path.join(os.path.dirname(script_dir), "market_data.json")
     with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
+        json.dump(sanitize(output), f, ensure_ascii=False, indent=2)
 
     total = len(lessor_stocks) + len(airline_stocks) + len(mfr_stocks) + len(commodities) + len(rates)
     print(f"Done. {total} items saved → {output_path}")

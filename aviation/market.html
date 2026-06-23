@@ -356,6 +356,7 @@
 
   // ---- Formatting helpers ----
   function fmtPrice(price, currency) {
+    if (price === null || price === undefined) return '—';
     if (currency === 'JPY') return '¥' + price.toLocaleString('ja-JP');
     if (currency === 'HKD') return 'HK$' + price.toFixed(2);
     if (currency === 'EUR') return '€'   + price.toFixed(2);
