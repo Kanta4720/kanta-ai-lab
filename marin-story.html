@@ -2,45 +2,29 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <title>マリンのおとどけもの</title>
 <style>
-  html, body { margin: 0; min-height: 100%; background: #1a1035; color: #fff; font-family: system-ui, sans-serif; }
-  .loading { min-height: 100vh; display: grid; place-items: center; text-align: center; }
-  .spinner { width: 38px; height: 38px; border: 4px solid rgba(255,255,255,.2); border-top-color: #ffb7d5; border-radius: 50%; animation: spin .8s linear infinite; margin: 0 auto 16px; }
-  @keyframes spin { to { transform: rotate(360deg); } }
+*{box-sizing:border-box}html,body{margin:0;width:100%;min-height:100%;overflow:hidden;background:#1a1035;color:#fff;font-family:'Hiragino Maru Gothic ProN','Yu Gothic UI',system-ui,sans-serif;touch-action:manipulation;user-select:none}body{background:linear-gradient(180deg,#17103a,#4b2766 55%,#7a476f)}canvas{position:fixed;inset:0;width:100vw;height:100vh}.screen{position:fixed;inset:0;display:grid;place-items:center;text-align:center;padding:22px;z-index:4}.panel{width:min(92vw,480px);padding:28px 24px;border-radius:26px;background:rgba(21,14,50,.72);border:1px solid rgba(255,255,255,.26);box-shadow:0 24px 80px rgba(0,0,0,.42);backdrop-filter:blur(10px)}h1{margin:0 0 12px;font-size:clamp(42px,10vw,70px);line-height:1.08;background:linear-gradient(160deg,#fff3b0,#ffb7d5 55%,#b9a5ff);-webkit-background-clip:text;background-clip:text;color:transparent;filter:drop-shadow(0 8px 20px rgba(255,170,210,.42))}p{margin:10px 0;color:#eee4ff;line-height:1.85;font-weight:700}.sub{color:#cbbbe8;font-size:14px}.btn{margin-top:18px;width:100%;border:0;border-radius:999px;padding:15px 20px;font-size:18px;font-weight:900;color:#5a2a47;background:linear-gradient(135deg,#ffe29a,#ffb7d5);box-shadow:0 9px 28px rgba(255,170,200,.42);cursor:pointer}.btn:active{transform:scale(.96)}.ghost{background:rgba(255,255,255,.16);color:#fff;border:1px solid rgba(255,255,255,.35);box-shadow:none}.hide{display:none}.hud{position:fixed;top:14px;left:14px;right:14px;z-index:2;display:flex;justify-content:space-between;align-items:center;pointer-events:none}.pill{border-radius:999px;background:rgba(0,0,0,.24);border:1px solid rgba(255,255,255,.28);padding:8px 13px;font-weight:900;text-shadow:0 2px 6px rgba(0,0,0,.45)}.letters{display:flex;gap:7px}.tile{width:34px;height:34px;display:grid;place-items:center;border-radius:9px;background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.28);font-weight:900}.tile.on{background:#ffe29a;color:#7a4a1a;border-color:#ffb74d}.letter-card{position:fixed;left:50%;bottom:-110%;transform:translateX(-50%);z-index:6;width:min(90vw,480px);padding:34px 28px 26px;border-radius:22px;background:linear-gradient(175deg,#fffdf3,#fff3e2);color:#7a5a3a;text-align:center;border:1px solid #f0ddb8;box-shadow:0 -8px 60px rgba(255,210,140,.4),0 24px 70px rgba(0,0,0,.45);transition:bottom .9s cubic-bezier(.2,1.1,.3,1)}.letter-card.show{bottom:4vh}.letter-card:before{content:'💌';position:absolute;top:-28px;left:50%;transform:translateX(-50%);font-size:44px}.letter-card .to{font-size:24px;color:#e0567a;font-weight:900}.letter-card p{color:#7a5a3a;white-space:pre-line}.tiny{position:fixed;bottom:12px;left:50%;transform:translateX(-50%);z-index:3;color:rgba(255,255,255,.72);font-size:13px;text-align:center;white-space:nowrap}
 </style>
 </head>
 <body>
-<div class="loading"><div><div class="spinner"></div><strong>マリンのおとどけものを読み込み中...</strong></div></div>
+<canvas id="cv"></canvas>
+<div class="hud hide" id="hud"><div class="pill">🐾 <span id="stageName">おさんぽ</span></div><div class="letters" id="letters"></div></div>
+<div class="screen" id="title"><div class="panel"><h1>マリンの<br>おとどけもの</h1><p>マリンが、えりかへ<br>ひみつのおてがみを届けに行きます。</p><p class="sub">タップすると物語が進みます</p><button class="btn" id="start">ぼうけんにでかける</button></div></div>
+<div class="screen hide" id="story"><div class="panel"><h2 id="storyTitle">ある朝のこと</h2><p id="storyText"></p><button class="btn" id="next">つづきへ</button></div></div>
+<div class="letter-card" id="card"><div class="to">えりかへ</div><p>いつも そばにいてくれて ありがとう。
+マリンと ぼくからの きもちです。
+
+これからも ずっと いっしょにいてね。
+
+― かんた & マリン 🐾 ―</p><button class="btn ghost" id="again">もういちど見る</button></div>
+<div class="tiny" id="hint">マリンが手紙をくわえて走っています</div>
 <script>
-(async () => {
-  const parts = [
-    'marin-story-assets/part01.txt',
-    'marin-story-assets/part02.txt',
-    'marin-story-assets/part03.txt',
-    'marin-story-assets/part04.txt',
-    'marin-story-assets/part05.txt',
-    'marin-story-assets/part06.txt',
-    'marin-story-assets/part07.txt',
-    'marin-story-assets/part08.txt',
-    'marin-story-assets/part09.txt',
-    'marin-story-assets/part10.txt'
-  ];
-  const chunks = await Promise.all(parts.map(async (path) => {
-    const response = await fetch(path, { cache: 'no-store' });
-    if (!response.ok) throw new Error(path + ': ' + response.status);
-    return response.text();
-  }));
-  const binary = atob(chunks.join(''));
-  const bytes = Uint8Array.from(binary, (char) => char.charCodeAt(0));
-  const html = new TextDecoder('utf-8').decode(bytes);
-  document.open();
-  document.write(html);
-  document.close();
-})().catch((error) => {
-  document.body.innerHTML = '<div class="loading"><div><strong>読み込みに失敗しました</strong><br>' + String(error) + '</div></div>';
-});
+const cv=document.getElementById('cv'),ctx=cv.getContext('2d');let W=0,H=0,D=1,t=0,mode='title',step=0,got=[];const gift=['だ','い','す','き'];const $=id=>document.getElementById(id);function resize(){D=Math.min(devicePixelRatio||1,2);W=innerWidth;H=innerHeight;cv.width=W*D;cv.height=H*D;cv.style.width=W+'px';cv.style.height=H+'px';ctx.setTransform(D,0,0,D,0,0)}addEventListener('resize',resize);resize();function show(el,on){$(el).classList.toggle('hide',!on)}function letters(){const box=$('letters');box.innerHTML=gift.map((c,i)=>`<div class="tile ${got.includes(i)?'on':''}">${got.includes(i)?c:'?'}</div>`).join('')}const scenes=[['ある朝のこと','かんたから、マリンは小さなおてがみを預かりました。\n\n「えりかに届けてね」'],['だい1わ　あさのおさんぽ','マリンは朝の道をとことこ走ります。\n花びらの中で、ひとつめの文字「だ」を見つけました。'],['だい2わ　ゆうやけの公園','夕焼けの公園で、マリンはしっぽをふりながら進みます。\nベンチのそばで「い」と「す」を見つけました。'],['だい3わ　ほしぞらの丘','星空の丘まで来ると、最後の文字がきらり。\nマリンは「き」をくわえて、急いで戻ります。'],['おとどけもの','集めた文字を並べると……\n\n「だいすき」\n\nマリンはえりかのもとへ、おてがみを届けました。']];$('start').onclick=()=>{mode='story';step=0;got=[];letters();show('title',false);show('story',true);show('hud',true);scene()};$('next').onclick=()=>{step++;if(step===1)got.push(0);if(step===2)got.push(1,2);if(step===3)got.push(3);letters();if(step>=scenes.length){show('story',false);$('card').classList.add('show');mode='end'}else scene()};$('again').onclick=()=>{location.reload()};function scene(){$('storyTitle').textContent=scenes[step][0];$('storyText').textContent=scenes[step][1];$('stageName').textContent=scenes[step][0].replace(/^だい\dわ　/,'')}
+function bg(){let g=ctx.createLinearGradient(0,0,0,H);if(step<2){g.addColorStop(0,'#8ec9f0');g.addColorStop(.65,'#ffe3ec');g.addColorStop(1,'#7dbf88')}else if(step<3){g.addColorStop(0,'#5a4a9c');g.addColorStop(.55,'#e8707f');g.addColorStop(1,'#a2734f')}else{g.addColorStop(0,'#090b2e');g.addColorStop(.65,'#29215c');g.addColorStop(1,'#2e2a55')}ctx.fillStyle=g;ctx.fillRect(0,0,W,H);for(let i=0;i<80;i++){let x=(i*97+t*18)%W,y=(i*53)%Math.max(1,H*.65);ctx.globalAlpha=.25+.55*Math.abs(Math.sin(t+i));ctx.fillStyle='#fff';ctx.beginPath();ctx.arc(x,y,1+(i%3)*.7,0,7);ctx.fill()}ctx.globalAlpha=1;ctx.fillStyle=step<3?'rgba(80,145,80,.75)':'rgba(20,18,47,.85)';ctx.beginPath();ctx.moveTo(0,H-90);for(let x=0;x<=W;x+=80)ctx.lineTo(x,H-100+Math.sin(x*.018+t)*14);ctx.lineTo(W,H);ctx.lineTo(0,H);ctx.fill();ctx.strokeStyle='rgba(255,235,245,.65)';ctx.lineWidth=3;ctx.beginPath();ctx.moveTo(0,H-80);ctx.lineTo(W,H-80);ctx.stroke()}
+function heart(x,y,s){ctx.beginPath();ctx.moveTo(x,y+s*.35);ctx.bezierCurveTo(x-s,y-s*.45,x-s*.5,y-s*1.1,x,y-s*.45);ctx.bezierCurveTo(x+s*.5,y-s*1.1,x+s,y-s*.45,x,y+s*.35);ctx.closePath()}function dog(x,y){ctx.save();ctx.translate(x,y+Math.sin(t*8)*3);ctx.lineJoin='round';ctx.lineCap='round';ctx.strokeStyle='#c9995e';ctx.lineWidth=2;ctx.fillStyle='#fff6dd';ctx.beginPath();ctx.ellipse(0,16,30,18,0,0,7);ctx.fill();ctx.stroke();ctx.fillStyle='#f6e0b4';ctx.strokeStyle='#c9995e';ctx.lineWidth=8;ctx.beginPath();ctx.moveTo(-20,12);ctx.quadraticCurveTo(-42,0,-34,-22+Math.sin(t*10)*5);ctx.stroke();for(const s of[-1,1]){ctx.strokeStyle='#f6e0b4';ctx.lineWidth=7;ctx.beginPath();ctx.moveTo(s*12,30);ctx.lineTo(s*12+Math.sin(t*10+s)*8,43);ctx.stroke()}ctx.translate(26,-10);ctx.fillStyle='#fff6dd';ctx.strokeStyle='#c9995e';ctx.lineWidth=2;ctx.beginPath();ctx.ellipse(0,0,23,20,0,0,7);ctx.fill();ctx.stroke();for(const s of[-1,1]){ctx.fillStyle='#f6e0b4';ctx.beginPath();ctx.moveTo(s*4,-15);ctx.quadraticCurveTo(s*28,-40,s*22,-7);ctx.closePath();ctx.fill();ctx.stroke()}ctx.fillStyle='#222';ctx.beginPath();ctx.arc(8,-5,5,0,7);ctx.fill();ctx.fillStyle='#fff';ctx.beginPath();ctx.arc(6,-7,1.8,0,7);ctx.fill();ctx.fillStyle='#8d6748';ctx.beginPath();ctx.ellipse(19,2,3.5,2.5,0,0,7);ctx.fill();ctx.save();ctx.translate(24,9);ctx.rotate(.12);ctx.fillStyle='#fffdf3';ctx.strokeStyle='#e0b880';ctx.lineWidth=1.5;ctx.beginPath();ctx.roundRect(-8,-7,28,18,3);ctx.fill();ctx.stroke();ctx.beginPath();ctx.moveTo(-8,-7);ctx.lineTo(6,3);ctx.lineTo(20,-7);ctx.stroke();ctx.fillStyle='#ff8fb8';heart(6,5,4);ctx.fill();ctx.restore();ctx.restore()}function drawLetters(){if(mode==='story'&&step>0&&step<5){ctx.font='900 44px system-ui';ctx.textAlign='center';ctx.textBaseline='middle';got.forEach((_,i)=>{let x=W*.62+i*46+Math.sin(t*3+i)*8,y=H*.28+Math.cos(t*2+i)*10;ctx.fillStyle='#ffe29a';ctx.strokeStyle='rgba(90,42,71,.7)';ctx.lineWidth=6;ctx.strokeText(gift[i],x,y);ctx.fillText(gift[i],x,y)})}}
+function loop(){requestAnimationFrame(loop);t+=.016;bg();let dx=mode==='title'?W*.48:W*.25+Math.sin(t*.8)*18;dog(dx,H-122);drawLetters();if(mode==='end'){ctx.fillStyle='rgba(255,183,213,.85)';for(let i=0;i<18;i++){heart((i*73+t*35)%W,H*.28+(i%5)*42+Math.sin(t*2+i)*10,7);ctx.fill()}}}loop();
 </script>
 </body>
 </html>
