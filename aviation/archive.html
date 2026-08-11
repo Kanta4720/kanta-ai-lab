@@ -133,6 +133,26 @@
       padding: 36px 24px 72px;
     }
 
+
+    /* Search */
+    .search-panel { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 18px; margin-bottom: 36px; }
+    .search-label { display: block; color: var(--text); font-size: 0.82rem; font-weight: 700; margin-bottom: 10px; }
+    .search-row { display: flex; gap: 8px; }
+    .search-input { flex: 1; min-width: 0; background: var(--bg); border: 1px solid var(--border); border-radius: 6px; color: var(--text); font: inherit; padding: 10px 12px; }
+    .search-input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+    .search-button { background: var(--accent); border: 0; border-radius: 6px; color: #fff; cursor: pointer; font: inherit; font-weight: 700; padding: 10px 18px; white-space: nowrap; }
+    .search-button:hover { filter: brightness(1.12); }
+    .search-hint { color: var(--text-muted); font-size: 0.72rem; margin: 8px 0 0; }
+    .search-status { color: var(--text-muted); font-size: 0.78rem; margin: 18px 0 12px; }
+    .search-results { display: grid; gap: 10px; margin-bottom: 34px; }
+    .search-result { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 16px 18px; }
+    .search-result-title { color: var(--text); font-size: 0.95rem; font-weight: 700; margin: 0 0 8px; }
+    .search-result-title a { color: inherit; }
+    .search-result-title a:hover { color: var(--accent2); }
+    .search-result-meta { color: var(--text-muted); font-size: 0.72rem; margin-bottom: 8px; }
+    .search-result-summary { color: var(--text-muted); font-size: 0.8rem; line-height: 1.7; margin: 0; }
+    @media (max-width: 520px) { .search-row { flex-direction: column; } .search-button { width: 100%; } }
+
     /* Month group */
     .month-group { margin-bottom: 40px; }
     .month-header {
@@ -261,6 +281,17 @@
 </div>
 
 <main>
+  <section class="search-panel" aria-labelledby="search-heading">
+    <label id="search-heading" class="search-label" for="search-input">アーカイブを検索</label>
+    <form id="search-form" class="search-row">
+      <input id="search-input" class="search-input" type="search" autocomplete="off" placeholder="例：Boeing、リース、737 MAX" aria-label="アーカイブ検索">
+      <button class="search-button" type="submit">検索</button>
+    </form>
+    <p class="search-hint">ニュースのタイトル、要約、背景、リースへの影響、媒体名を検索できます。</p>
+  </section>
+  <div id="search-status" class="search-status" hidden></div>
+  <div id="search-results" class="search-results" hidden></div>
+
   <div id="app"><p style="color:var(--text-muted);text-align:center;padding:60px 0;">読み込み中...</p></div>
 </main>
 
@@ -293,6 +324,68 @@
     const [y, m, day] = d.split('-').map(Number);
     const dow = DOW_JA[new Date(d + 'T00:00:00').getDay()];
     return { y, m, day, dow };
+  }
+
+
+  function normalizeSearchText(value) {
+    return String(value || '').normalize('NFKC').toLocaleLowerCase('ja-JP').replace(/\s+/g, ' ').trim();
+  }
+
+  function escapeHtml(value) {
+    return String(value || '').replace(/[&<>"']/g, char => ({
+      '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+    }[char]));
+  }
+
+  function resultFields(article) {
+    return [
+      article.title, article.summary, article.background, article.why_it_matters,
+      article.lease_impact, article.category, article.source, article.published_at
+    ].map(normalizeSearchText).join(' ');
+  }
+
+  async function searchArchive(query) {
+    const status = document.getElementById('search-status');
+    const results = document.getElementById('search-results');
+    const normalized = normalizeSearchText(query);
+    if (!normalized) {
+      status.hidden = true;
+      results.hidden = true;
+      results.innerHTML = '';
+      return;
+    }
+
+    status.hidden = false;
+    status.textContent = '検索中...';
+    try {
+      const res = await fetch('./search-index.json');
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const data = await res.json();
+      const articles = data.articles || [];
+      const terms = normalized.split(' ').filter(Boolean);
+      const matches = articles.filter(article => {
+        const text = resultFields(article);
+        return terms.every(term => text.includes(term));
+      });
+
+      status.textContent = matches.length + '件のニュースが見つかりました';
+      results.hidden = false;
+      results.innerHTML = matches.length ? matches.map(article => {
+        const latestDate = (article.dates && article.dates[0]) || '';
+        const dateLabel = article.dates && article.dates.length > 1
+          ? latestDate + ' ほか' + article.dates.length + '日掲載'
+          : latestDate;
+        const dateLink = latestDate ? './index.html?date=' + encodeURIComponent(latestDate) : article.url;
+        return '<article class="search-result">'
+          + '<h3 class="search-result-title"><a href="' + escapeHtml(article.url) + '" target="_blank" rel="noopener">' + escapeHtml(article.title) + '</a></h3>'
+          + '<div class="search-result-meta">' + escapeHtml(dateLabel) + ' ・ ' + escapeHtml(article.category) + ' ・ ' + escapeHtml(article.source) + ' ・ <a href="' + escapeHtml(dateLink) + '">掲載日のニュースを見る</a></div>'
+          + '<p class="search-result-summary">' + escapeHtml(article.summary) + '</p>'
+          + '</article>';
+      }).join('') : '<p class="search-status">一致するニュースはありませんでした。</p>';
+    } catch (err) {
+      status.textContent = '検索データの読み込みに失敗しました: ' + err.message;
+      results.hidden = true;
+    }
   }
 
   async function loadArchive() {
@@ -345,6 +438,21 @@
   }
 
   loadArchive();
+
+  const searchForm = document.getElementById('search-form');
+  const searchInput = document.getElementById('search-input');
+  const initialQuery = new URLSearchParams(window.location.search).get('q') || '';
+  searchInput.value = initialQuery;
+  searchForm.addEventListener('submit', event => {
+    event.preventDefault();
+    const query = searchInput.value.trim();
+    const url = new URL(window.location.href);
+    if (query) url.searchParams.set('q', query);
+    else url.searchParams.delete('q');
+    window.history.replaceState({}, '', url);
+    searchArchive(query);
+  });
+  if (initialQuery) searchArchive(initialQuery);
 </script>
 </body>
 </html>
