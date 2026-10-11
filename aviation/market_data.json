@@ -1,5 +1,5 @@
 {
-  "updated_at_jst": "2026-10-10 10:37",
+  "updated_at_jst": "2026-10-11 09:46",
   "lessor_stocks": [
     {
       "symbol": "AER",
@@ -90,9 +90,9 @@
       "symbol": "AIR.PA",
       "name": "Airbus",
       "currency": "EUR",
-      "price": null,
-      "change": null,
-      "change_pct": null,
+      "price": 187.8,
+      "change": 0.54,
+      "change_pct": 0.29,
       "date": "2026-10-09"
     }
   ],
@@ -100,15 +100,15 @@
     {
       "name": "Brent原油",
       "unit": "USD/bbl",
-      "price": 104.43,
-      "change_pct": 0.14,
+      "price": 104.72,
+      "change_pct": 0.42,
       "date": "2026-10-09"
     },
     {
       "name": "WTI原油",
       "unit": "USD/bbl",
-      "price": 91.66,
-      "change_pct": 0.19,
+      "price": 91.85,
+      "change_pct": 0.39,
       "date": "2026-10-09"
     }
   ],
@@ -148,7 +148,7 @@
       "name": "米ドル/香港ドル",
       "price": 7.8472,
       "change_pct": -0.003,
-      "date": "2026-10-10"
+      "date": "2026-10-11"
     }
   ]
 }
