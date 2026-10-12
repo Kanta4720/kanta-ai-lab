@@ -1,5 +1,5 @@
 {
-  "updated_at_jst": "2026-10-11 09:46",
+  "updated_at_jst": "2026-10-12 10:08",
   "lessor_stocks": [
     {
       "symbol": "AER",
@@ -100,16 +100,16 @@
     {
       "name": "Brent原油",
       "unit": "USD/bbl",
-      "price": 104.72,
-      "change_pct": 0.42,
-      "date": "2026-10-09"
+      "price": 103.46,
+      "change_pct": -1.2,
+      "date": "2026-10-11"
     },
     {
       "name": "WTI原油",
       "unit": "USD/bbl",
-      "price": 91.85,
-      "change_pct": 0.39,
-      "date": "2026-10-09"
+      "price": 90.55,
+      "change_pct": -1.42,
+      "date": "2026-10-11"
     }
   ],
   "rates": [
@@ -132,23 +132,23 @@
     {
       "symbol": "EUR/USD",
       "name": "ユーロ/米ドル",
-      "price": 1.1206,
-      "change_pct": 0.039,
-      "date": "2026-10-09"
+      "price": 1.1218,
+      "change_pct": 0.047,
+      "date": "2026-10-12"
     },
     {
       "symbol": "USD/JPY",
       "name": "米ドル/円",
-      "price": 158.246,
-      "change_pct": 0.118,
-      "date": "2026-10-09"
+      "price": 158.098,
+      "change_pct": 0.022,
+      "date": "2026-10-12"
     },
     {
       "symbol": "USD/HKD",
       "name": "米ドル/香港ドル",
-      "price": 7.8472,
-      "change_pct": -0.003,
-      "date": "2026-10-11"
+      "price": 7.8478,
+      "change_pct": 0.004,
+      "date": "2026-10-12"
     }
   ]
 }
