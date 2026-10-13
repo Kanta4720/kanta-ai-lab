@@ -1,23 +1,23 @@
 {
-  "updated_at_jst": "2026-10-12 10:08",
+  "updated_at_jst": "2026-10-13 11:56",
   "lessor_stocks": [
     {
       "symbol": "AER",
       "name": "AerCap",
       "currency": "USD",
-      "price": 144.72,
-      "change": 1.91,
-      "change_pct": 1.34,
-      "date": "2026-10-09"
+      "price": 146.2,
+      "change": 1.48,
+      "change_pct": 1.02,
+      "date": "2026-10-12"
     },
     {
       "symbol": "2588.HK",
       "name": "BOC Aviation",
       "currency": "HKD",
-      "price": 69.15,
-      "change": 1.25,
-      "change_pct": 1.84,
-      "date": "2026-10-09"
+      "price": 68.7,
+      "change": -0.45,
+      "change_pct": -0.65,
+      "date": "2026-10-13"
     }
   ],
   "airline_stocks": [
@@ -25,55 +25,55 @@
       "symbol": "UAL",
       "name": "United",
       "currency": "USD",
-      "price": 107.46,
-      "change": 0.02,
-      "change_pct": 0.02,
-      "date": "2026-10-09"
+      "price": 104.44,
+      "change": -3.02,
+      "change_pct": -2.81,
+      "date": "2026-10-12"
     },
     {
       "symbol": "DAL",
       "name": "Delta",
       "currency": "USD",
-      "price": 82.17,
-      "change": 0.03,
-      "change_pct": 0.04,
-      "date": "2026-10-09"
+      "price": 80.11,
+      "change": -2.06,
+      "change_pct": -2.51,
+      "date": "2026-10-12"
     },
     {
       "symbol": "AAL",
       "name": "American",
       "currency": "USD",
-      "price": 12.76,
-      "change": -0.04,
-      "change_pct": -0.31,
-      "date": "2026-10-09"
+      "price": 12.62,
+      "change": -0.14,
+      "change_pct": -1.1,
+      "date": "2026-10-12"
     },
     {
       "symbol": "RYAAY",
       "name": "Ryanair",
       "currency": "USD",
-      "price": 54.24,
-      "change": 0.2,
-      "change_pct": 0.37,
-      "date": "2026-10-09"
+      "price": 53.0,
+      "change": -1.24,
+      "change_pct": -2.29,
+      "date": "2026-10-12"
     },
     {
       "symbol": "9202.T",
       "name": "ANA",
       "currency": "JPY",
-      "price": 2915.5,
-      "change": 8.5,
-      "change_pct": 0.29,
-      "date": "2026-10-09"
+      "price": 2900.0,
+      "change": -15.5,
+      "change_pct": -0.53,
+      "date": "2026-10-13"
     },
     {
       "symbol": "9201.T",
       "name": "JAL",
       "currency": "JPY",
-      "price": 3027.0,
-      "change": 24.0,
-      "change_pct": 0.8,
-      "date": "2026-10-09"
+      "price": 3000.0,
+      "change": -27.0,
+      "change_pct": -0.89,
+      "date": "2026-10-13"
     }
   ],
   "mfr_stocks": [
@@ -81,74 +81,74 @@
       "symbol": "BA",
       "name": "Boeing",
       "currency": "USD",
-      "price": 190.37,
-      "change": 2.62,
-      "change_pct": 1.4,
-      "date": "2026-10-09"
+      "price": 189.5,
+      "change": -0.87,
+      "change_pct": -0.46,
+      "date": "2026-10-12"
     },
     {
       "symbol": "AIR.PA",
       "name": "Airbus",
       "currency": "EUR",
-      "price": 187.8,
-      "change": 0.54,
-      "change_pct": 0.29,
-      "date": "2026-10-09"
+      "price": null,
+      "change": null,
+      "change_pct": null,
+      "date": "2026-10-12"
     }
   ],
   "commodities": [
     {
       "name": "Brent原油",
       "unit": "USD/bbl",
-      "price": 103.46,
-      "change_pct": -1.2,
-      "date": "2026-10-11"
+      "price": 105.58,
+      "change_pct": 0.82,
+      "date": "2026-10-12"
     },
     {
       "name": "WTI原油",
       "unit": "USD/bbl",
-      "price": 90.55,
-      "change_pct": -1.42,
-      "date": "2026-10-11"
+      "price": 92.67,
+      "change_pct": 0.89,
+      "date": "2026-10-12"
     }
   ],
   "rates": [
     {
       "name": "米10年債",
-      "value": 5.244,
+      "value": 5.24,
       "unit": "%",
-      "change": 0.013,
-      "date": "2026-10-09"
+      "change": -0.004,
+      "date": "2026-10-12"
     },
     {
       "name": "米3ヶ月債",
-      "value": 4.057,
+      "value": 4.05,
       "unit": "%",
-      "change": 0.014,
-      "date": "2026-10-09"
+      "change": -0.007,
+      "date": "2026-10-12"
     }
   ],
   "fx_rates": [
     {
       "symbol": "EUR/USD",
       "name": "ユーロ/米ドル",
-      "price": 1.1218,
-      "change_pct": 0.047,
-      "date": "2026-10-12"
+      "price": 1.1179,
+      "change_pct": -0.3,
+      "date": "2026-10-13"
     },
     {
       "symbol": "USD/JPY",
       "name": "米ドル/円",
-      "price": 158.098,
-      "change_pct": 0.022,
-      "date": "2026-10-12"
+      "price": 158.226,
+      "change_pct": 0.103,
+      "date": "2026-10-13"
     },
     {
       "symbol": "USD/HKD",
       "name": "米ドル/香港ドル",
-      "price": 7.8478,
-      "change_pct": 0.004,
-      "date": "2026-10-12"
+      "price": 7.8475,
+      "change_pct": 0.001,
+      "date": "2026-10-13"
     }
   ]
 }
