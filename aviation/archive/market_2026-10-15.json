@@ -1,0 +1,154 @@
+{
+  "updated_at_jst": "2026-10-15 09:23",
+  "lessor_stocks": [
+    {
+      "symbol": "AER",
+      "name": "AerCap",
+      "currency": "USD",
+      "price": null,
+      "change": null,
+      "change_pct": null,
+      "date": "2026-10-14"
+    },
+    {
+      "symbol": "2588.HK",
+      "name": "BOC Aviation",
+      "currency": "HKD",
+      "price": 68.55,
+      "change": -0.7,
+      "change_pct": -1.01,
+      "date": "2026-10-14"
+    }
+  ],
+  "airline_stocks": [
+    {
+      "symbol": "UAL",
+      "name": "United",
+      "currency": "USD",
+      "price": null,
+      "change": null,
+      "change_pct": null,
+      "date": "2026-10-14"
+    },
+    {
+      "symbol": "DAL",
+      "name": "Delta",
+      "currency": "USD",
+      "price": null,
+      "change": null,
+      "change_pct": null,
+      "date": "2026-10-14"
+    },
+    {
+      "symbol": "AAL",
+      "name": "American",
+      "currency": "USD",
+      "price": null,
+      "change": null,
+      "change_pct": null,
+      "date": "2026-10-14"
+    },
+    {
+      "symbol": "RYAAY",
+      "name": "Ryanair",
+      "currency": "USD",
+      "price": null,
+      "change": null,
+      "change_pct": null,
+      "date": "2026-10-14"
+    },
+    {
+      "symbol": "9202.T",
+      "name": "ANA",
+      "currency": "JPY",
+      "price": 2845.0,
+      "change": -16.0,
+      "change_pct": -0.56,
+      "date": "2026-10-15"
+    },
+    {
+      "symbol": "9201.T",
+      "name": "JAL",
+      "currency": "JPY",
+      "price": 2917.0,
+      "change": -30.5,
+      "change_pct": -1.03,
+      "date": "2026-10-15"
+    }
+  ],
+  "mfr_stocks": [
+    {
+      "symbol": "BA",
+      "name": "Boeing",
+      "currency": "USD",
+      "price": null,
+      "change": null,
+      "change_pct": null,
+      "date": "2026-10-14"
+    },
+    {
+      "symbol": "AIR.PA",
+      "name": "Airbus",
+      "currency": "EUR",
+      "price": null,
+      "change": null,
+      "change_pct": null,
+      "date": "2026-10-14"
+    }
+  ],
+  "commodities": [
+    {
+      "name": "Brent原油",
+      "unit": "USD/bbl",
+      "price": 105.53,
+      "change_pct": -0.15,
+      "date": "2026-10-14"
+    },
+    {
+      "name": "WTI原油",
+      "unit": "USD/bbl",
+      "price": 94.73,
+      "change_pct": 0.63,
+      "date": "2026-10-14"
+    }
+  ],
+  "rates": [
+    {
+      "name": "米10年債",
+      "value": 5.19,
+      "unit": "%",
+      "change": -0.027,
+      "date": "2026-10-14"
+    },
+    {
+      "name": "米3ヶ月債",
+      "value": 4.085,
+      "unit": "%",
+      "change": 0.028,
+      "date": "2026-10-14"
+    }
+  ],
+  "fx_rates": [
+    {
+      "symbol": "EUR/USD",
+      "name": "ユーロ/米ドル",
+      "price": 1.1196,
+      "change_pct": -0.078,
+      "date": "2026-10-15"
+    },
+    {
+      "symbol": "USD/JPY",
+      "name": "米ドル/円",
+      "price": 157.834,
+      "change_pct": -0.308,
+      "date": "2026-10-15"
+    },
+    {
+      "symbol": "USD/HKD",
+      "name": "米ドル/香港ドル",
+      "price": 7.8471,
+      "change_pct": -0.017,
+      "date": "2026-10-15"
+    }
+  ]
+}
